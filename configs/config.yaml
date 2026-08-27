@@ -1,0 +1,36 @@
+project:
+  name: carbon-crunch-receipt-ocr
+  version: "0.1.0"
+
+paths:
+  input_dir: data/raw
+  interim_dir: data/interim
+  processed_dir: data/processed
+  output_dir: outputs
+  json_dir: outputs/json
+  ocr_dir: outputs/ocr
+  reports_dir: outputs/reports
+  visualization_dir: outputs/visualizations
+  log_dir: outputs/logs
+
+ocr:
+  engine: paddleocr
+  language: en
+
+confidence:
+  low_threshold: 0.70
+
+preprocessing:
+  enabled: true
+  grayscale: true
+  denoise: true
+  clahe: true
+  deskew: true
+  adaptive_threshold: false
+
+logging:
+  level: INFO
+  file: outputs/logs/pipeline.log
+
+evaluation:
+  enabled: true

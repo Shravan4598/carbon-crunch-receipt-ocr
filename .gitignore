@@ -1,0 +1,97 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# ==============================
+# IDE
+# ==============================
+
+.vscode/
+.idea/
+*.code-workspace
+
+# ==============================
+# Environment / Secrets
+# ==============================
+
+.env
+*.env
+
+# ==============================
+# Data
+# ==============================
+
+# Dataset can be very large.
+# Keep raw/processed images out of Git.
+data/raw/*
+data/interim/*
+data/processed/*
+data/sample/*
+
+# Preserve directory structure
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!data/sample/.gitkeep
+
+# ==============================
+# Generated Outputs
+# ==============================
+
+outputs/json/*
+outputs/ocr/*
+outputs/reports/*
+outputs/visualizations/*
+outputs/logs/*
+
+# Preserve folders
+!outputs/json/.gitkeep
+!outputs/ocr/.gitkeep
+!outputs/reports/.gitkeep
+!outputs/visualizations/.gitkeep
+!outputs/logs/.gitkeep
+
+# ==============================
+# Jupyter
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+# Testing
+# ==============================
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==============================
+# Build
+# ==============================
+
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# OS
+# ==============================
+
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Logs
+# ==============================
+
+*.log

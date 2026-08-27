@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "carbon-crunch-receipt-ocr"
+version = "0.1.0"
+description = "Production-style receipt OCR and structured expense extraction pipeline for the Carbon Crunch internship assignment."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = { file = "LICENSE" }
+
+authors = [
+    { name = "Shravan Kumar Pandey" }
+]
+
+dependencies = [
+    "numpy>=1.26,<3",
+    "opencv-python-headless>=4.10,<5",
+    "Pillow>=10.4,<12",
+    "pandas>=2.2,<3",
+    "PyYAML>=6.0,<7",
+    "pydantic>=2.8,<3",
+    "python-dotenv>=1.0,<2",
+    "rapidfuzz>=3.9,<4"
+]
+
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3,<9"
+]
+
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-ra"

@@ -1,0 +1,3341 @@
+[
+  {
+    "image": "0.jpg",
+    "image_path": "data\\raw\\0.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4009
+    }
+  },
+  {
+    "image": "1.jpg",
+    "image_path": "data\\raw\\1.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5068
+    }
+  },
+  {
+    "image": "10.jpg",
+    "image_path": "data\\raw\\10.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3903
+    }
+  },
+  {
+    "image": "11.jpg",
+    "image_path": "data\\raw\\11.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4425
+    }
+  },
+  {
+    "image": "12.jpg",
+    "image_path": "data\\raw\\12.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4346
+    }
+  },
+  {
+    "image": "13.jpg",
+    "image_path": "data\\raw\\13.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4125
+    }
+  },
+  {
+    "image": "14.jpg",
+    "image_path": "data\\raw\\14.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 3.9852
+    }
+  },
+  {
+    "image": "15.jpg",
+    "image_path": "data\\raw\\15.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6384
+    }
+  },
+  {
+    "image": "16.jpg",
+    "image_path": "data\\raw\\16.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5927
+    }
+  },
+  {
+    "image": "17.jpg",
+    "image_path": "data\\raw\\17.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.575
+    }
+  },
+  {
+    "image": "18.jpg",
+    "image_path": "data\\raw\\18.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6787
+    }
+  },
+  {
+    "image": "19.jpg",
+    "image_path": "data\\raw\\19.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4968
+    }
+  },
+  {
+    "image": "2.jpg",
+    "image_path": "data\\raw\\2.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5931
+    }
+  },
+  {
+    "image": "20.png",
+    "image_path": "data\\raw\\20.png",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6361
+    }
+  },
+  {
+    "image": "21.jpg",
+    "image_path": "data\\raw\\21.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.185
+    }
+  },
+  {
+    "image": "3.jpg",
+    "image_path": "data\\raw\\3.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6372
+    }
+  },
+  {
+    "image": "4.jpg",
+    "image_path": "data\\raw\\4.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3651
+    }
+  },
+  {
+    "image": "5.jpg",
+    "image_path": "data\\raw\\5.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 2.5702
+    }
+  },
+  {
+    "image": "6.JPG",
+    "image_path": "data\\raw\\6.JPG",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6898
+    }
+  },
+  {
+    "image": "7.jpg",
+    "image_path": "data\\raw\\7.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6243
+    }
+  },
+  {
+    "image": "8.jpg",
+    "image_path": "data\\raw\\8.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5881
+    }
+  },
+  {
+    "image": "9.jpg",
+    "image_path": "data\\raw\\9.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5047
+    }
+  },
+  {
+    "image": "X00016469612.jpg",
+    "image_path": "data\\raw\\X00016469612.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3501
+    }
+  },
+  {
+    "image": "X00016469619.jpg",
+    "image_path": "data\\raw\\X00016469619.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4123
+    }
+  },
+  {
+    "image": "X00016469620.jpg",
+    "image_path": "data\\raw\\X00016469620.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4423
+    }
+  },
+  {
+    "image": "X00016469622.jpg",
+    "image_path": "data\\raw\\X00016469622.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3661
+    }
+  },
+  {
+    "image": "X00016469623.jpg",
+    "image_path": "data\\raw\\X00016469623.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5012
+    }
+  },
+  {
+    "image": "X00016469669.jpg",
+    "image_path": "data\\raw\\X00016469669.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.2706
+    }
+  },
+  {
+    "image": "X00016469670.jpg",
+    "image_path": "data\\raw\\X00016469670.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3891
+    }
+  },
+  {
+    "image": "X00016469671.jpg",
+    "image_path": "data\\raw\\X00016469671.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3717
+    }
+  },
+  {
+    "image": "X00016469672.jpg",
+    "image_path": "data\\raw\\X00016469672.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4911
+    }
+  },
+  {
+    "image": "X00016469676.jpg",
+    "image_path": "data\\raw\\X00016469676.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3092
+    }
+  },
+  {
+    "image": "X51005200931.jpg",
+    "image_path": "data\\raw\\X51005200931.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5228
+    }
+  },
+  {
+    "image": "X51005200938.jpg",
+    "image_path": "data\\raw\\X51005200938.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5053
+    }
+  },
+  {
+    "image": "X51005230605.jpg",
+    "image_path": "data\\raw\\X51005230605.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4772
+    }
+  },
+  {
+    "image": "X51005230616.jpg",
+    "image_path": "data\\raw\\X51005230616.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5552
+    }
+  },
+  {
+    "image": "X51005230617.jpg",
+    "image_path": "data\\raw\\X51005230617.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5346
+    }
+  },
+  {
+    "image": "X51005230621.jpg",
+    "image_path": "data\\raw\\X51005230621.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5125
+    }
+  },
+  {
+    "image": "X51005230648.jpg",
+    "image_path": "data\\raw\\X51005230648.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4814
+    }
+  },
+  {
+    "image": "X51005230657.jpg",
+    "image_path": "data\\raw\\X51005230657.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5488
+    }
+  },
+  {
+    "image": "X51005230659.jpg",
+    "image_path": "data\\raw\\X51005230659.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4876
+    }
+  },
+  {
+    "image": "X51005255805.jpg",
+    "image_path": "data\\raw\\X51005255805.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6319
+    }
+  },
+  {
+    "image": "X51005268200.jpg",
+    "image_path": "data\\raw\\X51005268200.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7989
+    }
+  },
+  {
+    "image": "X51005268262.jpg",
+    "image_path": "data\\raw\\X51005268262.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5454
+    }
+  },
+  {
+    "image": "X51005268275.jpg",
+    "image_path": "data\\raw\\X51005268275.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.9682
+    }
+  },
+  {
+    "image": "X51005268400.jpg",
+    "image_path": "data\\raw\\X51005268400.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6566
+    }
+  },
+  {
+    "image": "X51005268408.jpg",
+    "image_path": "data\\raw\\X51005268408.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5524
+    }
+  },
+  {
+    "image": "X51005268472.jpg",
+    "image_path": "data\\raw\\X51005268472.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.9095
+    }
+  },
+  {
+    "image": "X51005288570.jpg",
+    "image_path": "data\\raw\\X51005288570.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3089
+    }
+  },
+  {
+    "image": "X51005301659.jpg",
+    "image_path": "data\\raw\\X51005301659.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5264
+    }
+  },
+  {
+    "image": "X51005301661.jpg",
+    "image_path": "data\\raw\\X51005301661.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7924
+    }
+  },
+  {
+    "image": "X51005301666.jpg",
+    "image_path": "data\\raw\\X51005301666.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.9737
+    }
+  },
+  {
+    "image": "X51005301667.jpg",
+    "image_path": "data\\raw\\X51005301667.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8792
+    }
+  },
+  {
+    "image": "X51005303661.jpg",
+    "image_path": "data\\raw\\X51005303661.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7761
+    }
+  },
+  {
+    "image": "X51005306399.jpg",
+    "image_path": "data\\raw\\X51005306399.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3885
+    }
+  },
+  {
+    "image": "X51005337867.jpg",
+    "image_path": "data\\raw\\X51005337867.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5333
+    }
+  },
+  {
+    "image": "X51005337872.jpg",
+    "image_path": "data\\raw\\X51005337872.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4431
+    }
+  },
+  {
+    "image": "X51005337877.jpg",
+    "image_path": "data\\raw\\X51005337877.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4143
+    }
+  },
+  {
+    "image": "X51005361883.jpg",
+    "image_path": "data\\raw\\X51005361883.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7432
+    }
+  },
+  {
+    "image": "X51005361895.jpg",
+    "image_path": "data\\raw\\X51005361895.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6281
+    }
+  },
+  {
+    "image": "X51005361897.jpg",
+    "image_path": "data\\raw\\X51005361897.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 1.0917
+    }
+  },
+  {
+    "image": "X51005361898.jpg",
+    "image_path": "data\\raw\\X51005361898.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 1.0852
+    }
+  },
+  {
+    "image": "X51005361900.jpg",
+    "image_path": "data\\raw\\X51005361900.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 1.1835
+    }
+  },
+  {
+    "image": "X51005361906.jpg",
+    "image_path": "data\\raw\\X51005361906.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.9028
+    }
+  },
+  {
+    "image": "X51005361907.jpg",
+    "image_path": "data\\raw\\X51005361907.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.9002
+    }
+  },
+  {
+    "image": "X51005361908.jpg",
+    "image_path": "data\\raw\\X51005361908.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8277
+    }
+  },
+  {
+    "image": "X51005361912.jpg",
+    "image_path": "data\\raw\\X51005361912.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7447
+    }
+  },
+  {
+    "image": "X51005361923.jpg",
+    "image_path": "data\\raw\\X51005361923.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 1.0499
+    }
+  },
+  {
+    "image": "X51005361946.jpg",
+    "image_path": "data\\raw\\X51005361946.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7448
+    }
+  },
+  {
+    "image": "X51005361950.jpg",
+    "image_path": "data\\raw\\X51005361950.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5489
+    }
+  },
+  {
+    "image": "X51005365179.jpg",
+    "image_path": "data\\raw\\X51005365179.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4794
+    }
+  },
+  {
+    "image": "X51005365187.jpg",
+    "image_path": "data\\raw\\X51005365187.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6686
+    }
+  },
+  {
+    "image": "X51005433492.jpg",
+    "image_path": "data\\raw\\X51005433492.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4627
+    }
+  },
+  {
+    "image": "X51005433494.jpg",
+    "image_path": "data\\raw\\X51005433494.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.428
+    }
+  },
+  {
+    "image": "X51005433514.jpg",
+    "image_path": "data\\raw\\X51005433514.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3507
+    }
+  },
+  {
+    "image": "X51005433518.jpg",
+    "image_path": "data\\raw\\X51005433518.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3838
+    }
+  },
+  {
+    "image": "X51005433522.jpg",
+    "image_path": "data\\raw\\X51005433522.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3756
+    }
+  },
+  {
+    "image": "X51005433533.jpg",
+    "image_path": "data\\raw\\X51005433533.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6935
+    }
+  },
+  {
+    "image": "X51005433538.jpg",
+    "image_path": "data\\raw\\X51005433538.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3528
+    }
+  },
+  {
+    "image": "X51005433541.jpg",
+    "image_path": "data\\raw\\X51005433541.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3692
+    }
+  },
+  {
+    "image": "X51005433543.jpg",
+    "image_path": "data\\raw\\X51005433543.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3623
+    }
+  },
+  {
+    "image": "X51005433548.jpg",
+    "image_path": "data\\raw\\X51005433548.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4382
+    }
+  },
+  {
+    "image": "X51005433552.jpg",
+    "image_path": "data\\raw\\X51005433552.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4161
+    }
+  },
+  {
+    "image": "X51005433553.jpg",
+    "image_path": "data\\raw\\X51005433553.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4167
+    }
+  },
+  {
+    "image": "X51005433556.jpg",
+    "image_path": "data\\raw\\X51005433556.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4268
+    }
+  },
+  {
+    "image": "X51005441398.jpg",
+    "image_path": "data\\raw\\X51005441398.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.527
+    }
+  },
+  {
+    "image": "X51005441401.jpg",
+    "image_path": "data\\raw\\X51005441401.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3832
+    }
+  },
+  {
+    "image": "X51005441402.jpg",
+    "image_path": "data\\raw\\X51005441402.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3504
+    }
+  },
+  {
+    "image": "X51005441407.jpg",
+    "image_path": "data\\raw\\X51005441407.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4538
+    }
+  },
+  {
+    "image": "X51005441408.jpg",
+    "image_path": "data\\raw\\X51005441408.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4158
+    }
+  },
+  {
+    "image": "X51005442322.jpg",
+    "image_path": "data\\raw\\X51005442322.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6042
+    }
+  },
+  {
+    "image": "X51005442327.jpg",
+    "image_path": "data\\raw\\X51005442327.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3764
+    }
+  },
+  {
+    "image": "X51005442333.jpg",
+    "image_path": "data\\raw\\X51005442333.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.403
+    }
+  },
+  {
+    "image": "X51005442334.jpg",
+    "image_path": "data\\raw\\X51005442334.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3913
+    }
+  },
+  {
+    "image": "X51005442338.jpg",
+    "image_path": "data\\raw\\X51005442338.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4465
+    }
+  },
+  {
+    "image": "X51005442341.jpg",
+    "image_path": "data\\raw\\X51005442341.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.2535
+    }
+  },
+  {
+    "image": "X51005442343.jpg",
+    "image_path": "data\\raw\\X51005442343.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4556
+    }
+  },
+  {
+    "image": "X51005442344.jpg",
+    "image_path": "data\\raw\\X51005442344.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4868
+    }
+  },
+  {
+    "image": "X51005442346.jpg",
+    "image_path": "data\\raw\\X51005442346.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4481
+    }
+  },
+  {
+    "image": "X51005442361.jpg",
+    "image_path": "data\\raw\\X51005442361.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5046
+    }
+  },
+  {
+    "image": "X51005442366.jpg",
+    "image_path": "data\\raw\\X51005442366.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3558
+    }
+  },
+  {
+    "image": "X51005442375.jpg",
+    "image_path": "data\\raw\\X51005442375.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4043
+    }
+  },
+  {
+    "image": "X51005442376.jpg",
+    "image_path": "data\\raw\\X51005442376.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.361
+    }
+  },
+  {
+    "image": "X51005442378.jpg",
+    "image_path": "data\\raw\\X51005442378.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5134
+    }
+  },
+  {
+    "image": "X51005442379.jpg",
+    "image_path": "data\\raw\\X51005442379.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3866
+    }
+  },
+  {
+    "image": "X51005442382.jpg",
+    "image_path": "data\\raw\\X51005442382.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3509
+    }
+  },
+  {
+    "image": "X51005442383.jpg",
+    "image_path": "data\\raw\\X51005442383.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4314
+    }
+  },
+  {
+    "image": "X51005442384.jpg",
+    "image_path": "data\\raw\\X51005442384.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3578
+    }
+  },
+  {
+    "image": "X51005442386.jpg",
+    "image_path": "data\\raw\\X51005442386.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3764
+    }
+  },
+  {
+    "image": "X51005442388.jpg",
+    "image_path": "data\\raw\\X51005442388.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.322
+    }
+  },
+  {
+    "image": "X51005442392.jpg",
+    "image_path": "data\\raw\\X51005442392.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.376
+    }
+  },
+  {
+    "image": "X51005442394.jpg",
+    "image_path": "data\\raw\\X51005442394.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3905
+    }
+  },
+  {
+    "image": "X51005442397.jpg",
+    "image_path": "data\\raw\\X51005442397.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3353
+    }
+  },
+  {
+    "image": "X51005444033.jpg",
+    "image_path": "data\\raw\\X51005444033.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5716
+    }
+  },
+  {
+    "image": "X51005444037.jpg",
+    "image_path": "data\\raw\\X51005444037.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6637
+    }
+  },
+  {
+    "image": "X51005444040.jpg",
+    "image_path": "data\\raw\\X51005444040.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5495
+    }
+  },
+  {
+    "image": "X51005444041.jpg",
+    "image_path": "data\\raw\\X51005444041.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6648
+    }
+  },
+  {
+    "image": "X51005444044.jpg",
+    "image_path": "data\\raw\\X51005444044.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4659
+    }
+  },
+  {
+    "image": "X51005444045.jpg",
+    "image_path": "data\\raw\\X51005444045.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4984
+    }
+  },
+  {
+    "image": "X51005444046.jpg",
+    "image_path": "data\\raw\\X51005444046.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.563
+    }
+  },
+  {
+    "image": "X51005447832.jpg",
+    "image_path": "data\\raw\\X51005447832.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4868
+    }
+  },
+  {
+    "image": "X51005447833.jpg",
+    "image_path": "data\\raw\\X51005447833.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4653
+    }
+  },
+  {
+    "image": "X51005447839.jpg",
+    "image_path": "data\\raw\\X51005447839.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5648
+    }
+  },
+  {
+    "image": "X51005447840.jpg",
+    "image_path": "data\\raw\\X51005447840.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6473
+    }
+  },
+  {
+    "image": "X51005447841.jpg",
+    "image_path": "data\\raw\\X51005447841.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.64
+    }
+  },
+  {
+    "image": "X51005447842.jpg",
+    "image_path": "data\\raw\\X51005447842.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5641
+    }
+  },
+  {
+    "image": "X51005447844.jpg",
+    "image_path": "data\\raw\\X51005447844.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.582
+    }
+  },
+  {
+    "image": "X51005447848.jpg",
+    "image_path": "data\\raw\\X51005447848.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5707
+    }
+  },
+  {
+    "image": "X51005447850.jpg",
+    "image_path": "data\\raw\\X51005447850.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6077
+    }
+  },
+  {
+    "image": "X51005447851.jpg",
+    "image_path": "data\\raw\\X51005447851.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.538
+    }
+  },
+  {
+    "image": "X51005447852.jpg",
+    "image_path": "data\\raw\\X51005447852.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4396
+    }
+  },
+  {
+    "image": "X51005447853.jpg",
+    "image_path": "data\\raw\\X51005447853.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4952
+    }
+  },
+  {
+    "image": "X51005447859.jpg",
+    "image_path": "data\\raw\\X51005447859.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5829
+    }
+  },
+  {
+    "image": "X51005447860.jpg",
+    "image_path": "data\\raw\\X51005447860.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7379
+    }
+  },
+  {
+    "image": "X51005447861.jpg",
+    "image_path": "data\\raw\\X51005447861.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.813
+    }
+  },
+  {
+    "image": "X51005453729.jpg",
+    "image_path": "data\\raw\\X51005453729.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3997
+    }
+  },
+  {
+    "image": "X51005453801.jpg",
+    "image_path": "data\\raw\\X51005453801.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4844
+    }
+  },
+  {
+    "image": "X51005453802.jpg",
+    "image_path": "data\\raw\\X51005453802.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4337
+    }
+  },
+  {
+    "image": "X51005453804.jpg",
+    "image_path": "data\\raw\\X51005453804.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3818
+    }
+  },
+  {
+    "image": "X51005568827.jpg",
+    "image_path": "data\\raw\\X51005568827.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6934
+    }
+  },
+  {
+    "image": "X51005568829.jpg",
+    "image_path": "data\\raw\\X51005568829.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7493
+    }
+  },
+  {
+    "image": "X51005568855.jpg",
+    "image_path": "data\\raw\\X51005568855.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 1.086
+    }
+  },
+  {
+    "image": "X51005568866.jpg",
+    "image_path": "data\\raw\\X51005568866.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8837
+    }
+  },
+  {
+    "image": "X51005568880.jpg",
+    "image_path": "data\\raw\\X51005568880.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7189
+    }
+  },
+  {
+    "image": "X51005568881.jpg",
+    "image_path": "data\\raw\\X51005568881.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6077
+    }
+  },
+  {
+    "image": "X51005568884.jpg",
+    "image_path": "data\\raw\\X51005568884.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5578
+    }
+  },
+  {
+    "image": "X51005568885.jpg",
+    "image_path": "data\\raw\\X51005568885.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5288
+    }
+  },
+  {
+    "image": "X51005568887.jpg",
+    "image_path": "data\\raw\\X51005568887.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5382
+    }
+  },
+  {
+    "image": "X51005568889.jpg",
+    "image_path": "data\\raw\\X51005568889.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5176
+    }
+  },
+  {
+    "image": "X51005568890.jpg",
+    "image_path": "data\\raw\\X51005568890.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.597
+    }
+  },
+  {
+    "image": "X51005568891.jpg",
+    "image_path": "data\\raw\\X51005568891.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7555
+    }
+  },
+  {
+    "image": "X51005568892.jpg",
+    "image_path": "data\\raw\\X51005568892.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5625
+    }
+  },
+  {
+    "image": "X51005568894.jpg",
+    "image_path": "data\\raw\\X51005568894.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7713
+    }
+  },
+  {
+    "image": "X51005568895.jpg",
+    "image_path": "data\\raw\\X51005568895.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7608
+    }
+  },
+  {
+    "image": "X51005568898.jpg",
+    "image_path": "data\\raw\\X51005568898.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7417
+    }
+  },
+  {
+    "image": "X51005568899.jpg",
+    "image_path": "data\\raw\\X51005568899.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5586
+    }
+  },
+  {
+    "image": "X51005568900.jpg",
+    "image_path": "data\\raw\\X51005568900.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5839
+    }
+  },
+  {
+    "image": "X51005568911.jpg",
+    "image_path": "data\\raw\\X51005568911.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6872
+    }
+  },
+  {
+    "image": "X51005568913.jpg",
+    "image_path": "data\\raw\\X51005568913.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5587
+    }
+  },
+  {
+    "image": "X51005568914.jpg",
+    "image_path": "data\\raw\\X51005568914.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6094
+    }
+  },
+  {
+    "image": "X51005577191.jpg",
+    "image_path": "data\\raw\\X51005577191.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5055
+    }
+  },
+  {
+    "image": "X51005577192.jpg",
+    "image_path": "data\\raw\\X51005577192.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5214
+    }
+  },
+  {
+    "image": "X51005582745.jpg",
+    "image_path": "data\\raw\\X51005582745.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6364
+    }
+  },
+  {
+    "image": "X51005587254.jpg",
+    "image_path": "data\\raw\\X51005587254.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.9057
+    }
+  },
+  {
+    "image": "X51005587261.jpg",
+    "image_path": "data\\raw\\X51005587261.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6053
+    }
+  },
+  {
+    "image": "X51005587267.jpg",
+    "image_path": "data\\raw\\X51005587267.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 1.1011
+    }
+  },
+  {
+    "image": "X51005605284.jpg",
+    "image_path": "data\\raw\\X51005605284.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5726
+    }
+  },
+  {
+    "image": "X51005605285.jpg",
+    "image_path": "data\\raw\\X51005605285.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5214
+    }
+  },
+  {
+    "image": "X51005605286.jpg",
+    "image_path": "data\\raw\\X51005605286.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5497
+    }
+  },
+  {
+    "image": "X51005605287.jpg",
+    "image_path": "data\\raw\\X51005605287.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4376
+    }
+  },
+  {
+    "image": "X51005605295.jpg",
+    "image_path": "data\\raw\\X51005605295.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4418
+    }
+  },
+  {
+    "image": "X51005605332.jpg",
+    "image_path": "data\\raw\\X51005605332.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5048
+    }
+  },
+  {
+    "image": "X51005605333.jpg",
+    "image_path": "data\\raw\\X51005605333.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5877
+    }
+  },
+  {
+    "image": "X51005605334.jpg",
+    "image_path": "data\\raw\\X51005605334.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5804
+    }
+  },
+  {
+    "image": "X51005605335.jpg",
+    "image_path": "data\\raw\\X51005605335.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5682
+    }
+  },
+  {
+    "image": "X51005621482.jpg",
+    "image_path": "data\\raw\\X51005621482.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6403
+    }
+  },
+  {
+    "image": "X51005663272.jpg",
+    "image_path": "data\\raw\\X51005663272.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6098
+    }
+  },
+  {
+    "image": "X51005663273.jpg",
+    "image_path": "data\\raw\\X51005663273.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6966
+    }
+  },
+  {
+    "image": "X51005663274.jpg",
+    "image_path": "data\\raw\\X51005663274.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5064
+    }
+  },
+  {
+    "image": "X51005663276.jpg",
+    "image_path": "data\\raw\\X51005663276.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6814
+    }
+  },
+  {
+    "image": "X51005663277.jpg",
+    "image_path": "data\\raw\\X51005663277.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6701
+    }
+  },
+  {
+    "image": "X51005663278.jpg",
+    "image_path": "data\\raw\\X51005663278.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6057
+    }
+  },
+  {
+    "image": "X51005663279.jpg",
+    "image_path": "data\\raw\\X51005663279.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6763
+    }
+  },
+  {
+    "image": "X51005663280.jpg",
+    "image_path": "data\\raw\\X51005663280.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8903
+    }
+  },
+  {
+    "image": "X51005663293.jpg",
+    "image_path": "data\\raw\\X51005663293.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6109
+    }
+  },
+  {
+    "image": "X51005663297.jpg",
+    "image_path": "data\\raw\\X51005663297.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 1.1129
+    }
+  },
+  {
+    "image": "X51005663298.jpg",
+    "image_path": "data\\raw\\X51005663298.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6802
+    }
+  },
+  {
+    "image": "X51005663300.jpg",
+    "image_path": "data\\raw\\X51005663300.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.484
+    }
+  },
+  {
+    "image": "X51005663301.jpg",
+    "image_path": "data\\raw\\X51005663301.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5504
+    }
+  },
+  {
+    "image": "X51005663307.jpg",
+    "image_path": "data\\raw\\X51005663307.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7541
+    }
+  },
+  {
+    "image": "X51005663309.jpg",
+    "image_path": "data\\raw\\X51005663309.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5275
+    }
+  },
+  {
+    "image": "X51005663310.jpg",
+    "image_path": "data\\raw\\X51005663310.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5372
+    }
+  },
+  {
+    "image": "X51005663311.jpg",
+    "image_path": "data\\raw\\X51005663311.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5631
+    }
+  },
+  {
+    "image": "X51005663317.jpg",
+    "image_path": "data\\raw\\X51005663317.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5258
+    }
+  },
+  {
+    "image": "X51005663323.jpg",
+    "image_path": "data\\raw\\X51005663323.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6112
+    }
+  },
+  {
+    "image": "X51005663324.jpg",
+    "image_path": "data\\raw\\X51005663324.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.9483
+    }
+  },
+  {
+    "image": "X51005675095.jpg",
+    "image_path": "data\\raw\\X51005675095.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5163
+    }
+  },
+  {
+    "image": "X51005675099.jpg",
+    "image_path": "data\\raw\\X51005675099.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6107
+    }
+  },
+  {
+    "image": "X51005675103.jpg",
+    "image_path": "data\\raw\\X51005675103.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6366
+    }
+  },
+  {
+    "image": "X51005675104.jpg",
+    "image_path": "data\\raw\\X51005675104.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6829
+    }
+  },
+  {
+    "image": "X51005675914.jpg",
+    "image_path": "data\\raw\\X51005675914.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8295
+    }
+  },
+  {
+    "image": "X51005676534.jpg",
+    "image_path": "data\\raw\\X51005676534.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6671
+    }
+  },
+  {
+    "image": "X51005676535.jpg",
+    "image_path": "data\\raw\\X51005676535.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6672
+    }
+  },
+  {
+    "image": "X51005676536.jpg",
+    "image_path": "data\\raw\\X51005676536.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6262
+    }
+  },
+  {
+    "image": "X51005676537.jpg",
+    "image_path": "data\\raw\\X51005676537.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6288
+    }
+  },
+  {
+    "image": "X51005676538.jpg",
+    "image_path": "data\\raw\\X51005676538.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6396
+    }
+  },
+  {
+    "image": "X51005676539.jpg",
+    "image_path": "data\\raw\\X51005676539.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6922
+    }
+  },
+  {
+    "image": "X51005676540.jpg",
+    "image_path": "data\\raw\\X51005676540.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6424
+    }
+  },
+  {
+    "image": "X51005676541.jpg",
+    "image_path": "data\\raw\\X51005676541.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7205
+    }
+  },
+  {
+    "image": "X51005676542.jpg",
+    "image_path": "data\\raw\\X51005676542.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.565
+    }
+  },
+  {
+    "image": "X51005676543.jpg",
+    "image_path": "data\\raw\\X51005676543.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6354
+    }
+  },
+  {
+    "image": "X51005676544.jpg",
+    "image_path": "data\\raw\\X51005676544.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5794
+    }
+  },
+  {
+    "image": "X51005676545.jpg",
+    "image_path": "data\\raw\\X51005676545.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5848
+    }
+  },
+  {
+    "image": "X51005676546.jpg",
+    "image_path": "data\\raw\\X51005676546.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6591
+    }
+  },
+  {
+    "image": "X51005676547.jpg",
+    "image_path": "data\\raw\\X51005676547.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6284
+    }
+  },
+  {
+    "image": "X51005676548.jpg",
+    "image_path": "data\\raw\\X51005676548.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6277
+    }
+  },
+  {
+    "image": "X51005676549.jpg",
+    "image_path": "data\\raw\\X51005676549.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6768
+    }
+  },
+  {
+    "image": "X51005677327.jpg",
+    "image_path": "data\\raw\\X51005677327.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5939
+    }
+  },
+  {
+    "image": "X51005677328.jpg",
+    "image_path": "data\\raw\\X51005677328.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6491
+    }
+  },
+  {
+    "image": "X51005677329.jpg",
+    "image_path": "data\\raw\\X51005677329.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6694
+    }
+  },
+  {
+    "image": "X51005677331.jpg",
+    "image_path": "data\\raw\\X51005677331.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.687
+    }
+  },
+  {
+    "image": "X51005677332.jpg",
+    "image_path": "data\\raw\\X51005677332.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6223
+    }
+  },
+  {
+    "image": "X51005677333.jpg",
+    "image_path": "data\\raw\\X51005677333.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6742
+    }
+  },
+  {
+    "image": "X51005677334.jpg",
+    "image_path": "data\\raw\\X51005677334.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5911
+    }
+  },
+  {
+    "image": "X51005677335.jpg",
+    "image_path": "data\\raw\\X51005677335.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6261
+    }
+  },
+  {
+    "image": "X51005677336.jpg",
+    "image_path": "data\\raw\\X51005677336.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6428
+    }
+  },
+  {
+    "image": "X51005677337.jpg",
+    "image_path": "data\\raw\\X51005677337.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6254
+    }
+  },
+  {
+    "image": "X51005677339.jpg",
+    "image_path": "data\\raw\\X51005677339.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7166
+    }
+  },
+  {
+    "image": "X51005684949.jpg",
+    "image_path": "data\\raw\\X51005684949.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3435
+    }
+  },
+  {
+    "image": "X51005685355.jpg",
+    "image_path": "data\\raw\\X51005685355.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4796
+    }
+  },
+  {
+    "image": "X51005685357.jpg",
+    "image_path": "data\\raw\\X51005685357.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.507
+    }
+  },
+  {
+    "image": "X51005705722.jpg",
+    "image_path": "data\\raw\\X51005705722.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6889
+    }
+  },
+  {
+    "image": "X51005705727.jpg",
+    "image_path": "data\\raw\\X51005705727.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8765
+    }
+  },
+  {
+    "image": "X51005705729.jpg",
+    "image_path": "data\\raw\\X51005705729.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.778
+    }
+  },
+  {
+    "image": "X51005705760.jpg",
+    "image_path": "data\\raw\\X51005705760.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 1.1822
+    }
+  },
+  {
+    "image": "X51005705784.jpg",
+    "image_path": "data\\raw\\X51005705784.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8954
+    }
+  },
+  {
+    "image": "X51005705804.jpg",
+    "image_path": "data\\raw\\X51005705804.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.983
+    }
+  },
+  {
+    "image": "X51005710963.jpg",
+    "image_path": "data\\raw\\X51005710963.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.572
+    }
+  },
+  {
+    "image": "X51005711401.jpg",
+    "image_path": "data\\raw\\X51005711401.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5216
+    }
+  },
+  {
+    "image": "X51005711402.jpg",
+    "image_path": "data\\raw\\X51005711402.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5024
+    }
+  },
+  {
+    "image": "X51005711403.jpg",
+    "image_path": "data\\raw\\X51005711403.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5126
+    }
+  },
+  {
+    "image": "X51005711404.jpg",
+    "image_path": "data\\raw\\X51005711404.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4861
+    }
+  },
+  {
+    "image": "X51005711441.jpg",
+    "image_path": "data\\raw\\X51005711441.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4932
+    }
+  },
+  {
+    "image": "X51005711442.jpg",
+    "image_path": "data\\raw\\X51005711442.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5294
+    }
+  },
+  {
+    "image": "X51005711443.jpg",
+    "image_path": "data\\raw\\X51005711443.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5576
+    }
+  },
+  {
+    "image": "X51005711444.jpg",
+    "image_path": "data\\raw\\X51005711444.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5076
+    }
+  },
+  {
+    "image": "X51005711445.jpg",
+    "image_path": "data\\raw\\X51005711445.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5515
+    }
+  },
+  {
+    "image": "X51005711446.jpg",
+    "image_path": "data\\raw\\X51005711446.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5069
+    }
+  },
+  {
+    "image": "X51005711447.jpg",
+    "image_path": "data\\raw\\X51005711447.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4691
+    }
+  },
+  {
+    "image": "X51005711449.jpg",
+    "image_path": "data\\raw\\X51005711449.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5036
+    }
+  },
+  {
+    "image": "X51005711451.jpg",
+    "image_path": "data\\raw\\X51005711451.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4732
+    }
+  },
+  {
+    "image": "X51005711452.jpg",
+    "image_path": "data\\raw\\X51005711452.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5423
+    }
+  },
+  {
+    "image": "X51005711453.jpg",
+    "image_path": "data\\raw\\X51005711453.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.54
+    }
+  },
+  {
+    "image": "X51005711454.jpg",
+    "image_path": "data\\raw\\X51005711454.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6517
+    }
+  },
+  {
+    "image": "X51005711456.jpg",
+    "image_path": "data\\raw\\X51005711456.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7485
+    }
+  },
+  {
+    "image": "X51005712017.jpg",
+    "image_path": "data\\raw\\X51005712017.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4748
+    }
+  },
+  {
+    "image": "X51005712021.jpg",
+    "image_path": "data\\raw\\X51005712021.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5081
+    }
+  },
+  {
+    "image": "X51005712038.jpg",
+    "image_path": "data\\raw\\X51005712038.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4513
+    }
+  },
+  {
+    "image": "X51005712039.jpg",
+    "image_path": "data\\raw\\X51005712039.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4589
+    }
+  },
+  {
+    "image": "X51005715007.jpg",
+    "image_path": "data\\raw\\X51005715007.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5026
+    }
+  },
+  {
+    "image": "X51005715010.jpg",
+    "image_path": "data\\raw\\X51005715010.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4837
+    }
+  },
+  {
+    "image": "X51005715451.jpg",
+    "image_path": "data\\raw\\X51005715451.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4668
+    }
+  },
+  {
+    "image": "X51005715455.jpg",
+    "image_path": "data\\raw\\X51005715455.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4883
+    }
+  },
+  {
+    "image": "X51005715456.jpg",
+    "image_path": "data\\raw\\X51005715456.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.545
+    }
+  },
+  {
+    "image": "X51005717526.jpg",
+    "image_path": "data\\raw\\X51005717526.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5101
+    }
+  },
+  {
+    "image": "X51005719814.jpg",
+    "image_path": "data\\raw\\X51005719814.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5492
+    }
+  },
+  {
+    "image": "X51005719823.jpg",
+    "image_path": "data\\raw\\X51005719823.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6597
+    }
+  },
+  {
+    "image": "X51005719855.jpg",
+    "image_path": "data\\raw\\X51005719855.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5849
+    }
+  },
+  {
+    "image": "X51005719856.jpg",
+    "image_path": "data\\raw\\X51005719856.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6887
+    }
+  },
+  {
+    "image": "X51005719857.jpg",
+    "image_path": "data\\raw\\X51005719857.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5848
+    }
+  },
+  {
+    "image": "X51005719862.jpg",
+    "image_path": "data\\raw\\X51005719862.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4386
+    }
+  },
+  {
+    "image": "X51005719863.jpg",
+    "image_path": "data\\raw\\X51005719863.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5615
+    }
+  },
+  {
+    "image": "X51005719864.jpg",
+    "image_path": "data\\raw\\X51005719864.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5323
+    }
+  },
+  {
+    "image": "X51005719873.jpg",
+    "image_path": "data\\raw\\X51005719873.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7361
+    }
+  },
+  {
+    "image": "X51005719874.jpg",
+    "image_path": "data\\raw\\X51005719874.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4249
+    }
+  },
+  {
+    "image": "X51005719882.jpg",
+    "image_path": "data\\raw\\X51005719882.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5215
+    }
+  },
+  {
+    "image": "X51005719883.jpg",
+    "image_path": "data\\raw\\X51005719883.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4423
+    }
+  },
+  {
+    "image": "X51005719886.jpg",
+    "image_path": "data\\raw\\X51005719886.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4596
+    }
+  },
+  {
+    "image": "X51005719888.jpg",
+    "image_path": "data\\raw\\X51005719888.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5066
+    }
+  },
+  {
+    "image": "X51005719889.jpg",
+    "image_path": "data\\raw\\X51005719889.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7105
+    }
+  },
+  {
+    "image": "X51005719893.jpg",
+    "image_path": "data\\raw\\X51005719893.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6056
+    }
+  },
+  {
+    "image": "X51005719895.jpg",
+    "image_path": "data\\raw\\X51005719895.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8181
+    }
+  },
+  {
+    "image": "X51005719896.jpg",
+    "image_path": "data\\raw\\X51005719896.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.819
+    }
+  },
+  {
+    "image": "X51005719898.jpg",
+    "image_path": "data\\raw\\X51005719898.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6464
+    }
+  },
+  {
+    "image": "X51005719899.jpg",
+    "image_path": "data\\raw\\X51005719899.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4895
+    }
+  },
+  {
+    "image": "X51005719902.jpg",
+    "image_path": "data\\raw\\X51005719902.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6123
+    }
+  },
+  {
+    "image": "X51005719903.jpg",
+    "image_path": "data\\raw\\X51005719903.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5005
+    }
+  },
+  {
+    "image": "X51005719904.jpg",
+    "image_path": "data\\raw\\X51005719904.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4955
+    }
+  },
+  {
+    "image": "X51005719905.jpg",
+    "image_path": "data\\raw\\X51005719905.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6285
+    }
+  },
+  {
+    "image": "X51005719906.jpg",
+    "image_path": "data\\raw\\X51005719906.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.682
+    }
+  },
+  {
+    "image": "X51005719912.jpg",
+    "image_path": "data\\raw\\X51005719912.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6911
+    }
+  },
+  {
+    "image": "X51005719914.jpg",
+    "image_path": "data\\raw\\X51005719914.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.9603
+    }
+  },
+  {
+    "image": "X51005719917.jpg",
+    "image_path": "data\\raw\\X51005719917.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8274
+    }
+  },
+  {
+    "image": "X51005722668.jpg",
+    "image_path": "data\\raw\\X51005722668.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5687
+    }
+  },
+  {
+    "image": "X51005722699.jpg",
+    "image_path": "data\\raw\\X51005722699.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6108
+    }
+  },
+  {
+    "image": "X51005724552.jpg",
+    "image_path": "data\\raw\\X51005724552.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.901
+    }
+  },
+  {
+    "image": "X51005724554.jpg",
+    "image_path": "data\\raw\\X51005724554.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8192
+    }
+  },
+  {
+    "image": "X51005724611.jpg",
+    "image_path": "data\\raw\\X51005724611.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8606
+    }
+  },
+  {
+    "image": "X51005724621.jpg",
+    "image_path": "data\\raw\\X51005724621.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.712
+    }
+  },
+  {
+    "image": "X51005724622.jpg",
+    "image_path": "data\\raw\\X51005724622.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6925
+    }
+  },
+  {
+    "image": "X51005724623.jpg",
+    "image_path": "data\\raw\\X51005724623.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6662
+    }
+  },
+  {
+    "image": "X51005724624.jpg",
+    "image_path": "data\\raw\\X51005724624.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6677
+    }
+  },
+  {
+    "image": "X51005724625.jpg",
+    "image_path": "data\\raw\\X51005724625.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7003
+    }
+  },
+  {
+    "image": "X51005724626.jpg",
+    "image_path": "data\\raw\\X51005724626.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6847
+    }
+  },
+  {
+    "image": "X51005724627.jpg",
+    "image_path": "data\\raw\\X51005724627.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6725
+    }
+  },
+  {
+    "image": "X51005724628.jpg",
+    "image_path": "data\\raw\\X51005724628.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7299
+    }
+  },
+  {
+    "image": "X51005724629.jpg",
+    "image_path": "data\\raw\\X51005724629.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7189
+    }
+  },
+  {
+    "image": "X51005741929.jpg",
+    "image_path": "data\\raw\\X51005741929.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.549
+    }
+  },
+  {
+    "image": "X51005741944.jpg",
+    "image_path": "data\\raw\\X51005741944.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6217
+    }
+  },
+  {
+    "image": "X51005742068.jpg",
+    "image_path": "data\\raw\\X51005742068.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5771
+    }
+  },
+  {
+    "image": "X51005742110.jpg",
+    "image_path": "data\\raw\\X51005742110.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4187
+    }
+  },
+  {
+    "image": "X51005745183.jpg",
+    "image_path": "data\\raw\\X51005745183.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5502
+    }
+  },
+  {
+    "image": "X51005745187.jpg",
+    "image_path": "data\\raw\\X51005745187.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6008
+    }
+  },
+  {
+    "image": "X51005745188.jpg",
+    "image_path": "data\\raw\\X51005745188.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.655
+    }
+  },
+  {
+    "image": "X51005745190.jpg",
+    "image_path": "data\\raw\\X51005745190.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7396
+    }
+  },
+  {
+    "image": "X51005745213.jpg",
+    "image_path": "data\\raw\\X51005745213.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4313
+    }
+  },
+  {
+    "image": "X51005745214.jpg",
+    "image_path": "data\\raw\\X51005745214.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4965
+    }
+  },
+  {
+    "image": "X51005745244.jpg",
+    "image_path": "data\\raw\\X51005745244.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4657
+    }
+  },
+  {
+    "image": "X51005745249.jpg",
+    "image_path": "data\\raw\\X51005745249.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4992
+    }
+  },
+  {
+    "image": "X51005745296.jpg",
+    "image_path": "data\\raw\\X51005745296.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5623
+    }
+  },
+  {
+    "image": "X51005745298.jpg",
+    "image_path": "data\\raw\\X51005745298.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4807
+    }
+  },
+  {
+    "image": "X51005746140.jpg",
+    "image_path": "data\\raw\\X51005746140.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4625
+    }
+  },
+  {
+    "image": "X51005746203.jpg",
+    "image_path": "data\\raw\\X51005746203.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7334
+    }
+  },
+  {
+    "image": "X51005746204.jpg",
+    "image_path": "data\\raw\\X51005746204.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4821
+    }
+  },
+  {
+    "image": "X51005746206.jpg",
+    "image_path": "data\\raw\\X51005746206.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5704
+    }
+  },
+  {
+    "image": "X51005746207.jpg",
+    "image_path": "data\\raw\\X51005746207.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6495
+    }
+  },
+  {
+    "image": "X51005746210.jpg",
+    "image_path": "data\\raw\\X51005746210.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7135
+    }
+  },
+  {
+    "image": "X51005749895.jpg",
+    "image_path": "data\\raw\\X51005749895.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 1.0129
+    }
+  },
+  {
+    "image": "X51005749904.jpg",
+    "image_path": "data\\raw\\X51005749904.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.3314
+    }
+  },
+  {
+    "image": "X51005749905.jpg",
+    "image_path": "data\\raw\\X51005749905.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7402
+    }
+  },
+  {
+    "image": "X51005749912.jpg",
+    "image_path": "data\\raw\\X51005749912.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7455
+    }
+  },
+  {
+    "image": "X51005757199.jpg",
+    "image_path": "data\\raw\\X51005757199.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8707
+    }
+  },
+  {
+    "image": "X51005757201.jpg",
+    "image_path": "data\\raw\\X51005757201.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8874
+    }
+  },
+  {
+    "image": "X51005757233.jpg",
+    "image_path": "data\\raw\\X51005757233.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6061
+    }
+  },
+  {
+    "image": "X51005757235.jpg",
+    "image_path": "data\\raw\\X51005757235.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5763
+    }
+  },
+  {
+    "image": "X51005757243.jpg",
+    "image_path": "data\\raw\\X51005757243.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.573
+    }
+  },
+  {
+    "image": "X51005757248.jpg",
+    "image_path": "data\\raw\\X51005757248.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6762
+    }
+  },
+  {
+    "image": "X51005757273.jpg",
+    "image_path": "data\\raw\\X51005757273.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.539
+    }
+  },
+  {
+    "image": "X51005757282.jpg",
+    "image_path": "data\\raw\\X51005757282.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6044
+    }
+  },
+  {
+    "image": "X51005757286.jpg",
+    "image_path": "data\\raw\\X51005757286.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.534
+    }
+  },
+  {
+    "image": "X51005757290.jpg",
+    "image_path": "data\\raw\\X51005757290.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6789
+    }
+  },
+  {
+    "image": "X51005757292.jpg",
+    "image_path": "data\\raw\\X51005757292.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5513
+    }
+  },
+  {
+    "image": "X51005757294.jpg",
+    "image_path": "data\\raw\\X51005757294.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5748
+    }
+  },
+  {
+    "image": "X51005757304.jpg",
+    "image_path": "data\\raw\\X51005757304.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5535
+    }
+  },
+  {
+    "image": "X51005757308.jpg",
+    "image_path": "data\\raw\\X51005757308.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8565
+    }
+  },
+  {
+    "image": "X51005757323.jpg",
+    "image_path": "data\\raw\\X51005757323.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7158
+    }
+  },
+  {
+    "image": "X51005757324.jpg",
+    "image_path": "data\\raw\\X51005757324.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7084
+    }
+  },
+  {
+    "image": "X51005757342.jpg",
+    "image_path": "data\\raw\\X51005757342.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6264
+    }
+  },
+  {
+    "image": "X51005757346.jpg",
+    "image_path": "data\\raw\\X51005757346.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5695
+    }
+  },
+  {
+    "image": "X51005757349.jpg",
+    "image_path": "data\\raw\\X51005757349.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5265
+    }
+  },
+  {
+    "image": "X51005757351.jpg",
+    "image_path": "data\\raw\\X51005757351.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5808
+    }
+  },
+  {
+    "image": "X51005757353.jpg",
+    "image_path": "data\\raw\\X51005757353.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6352
+    }
+  },
+  {
+    "image": "X51005763940.jpg",
+    "image_path": "data\\raw\\X51005763940.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6786
+    }
+  },
+  {
+    "image": "X51005763958.jpg",
+    "image_path": "data\\raw\\X51005763958.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5571
+    }
+  },
+  {
+    "image": "X51005763964.jpg",
+    "image_path": "data\\raw\\X51005763964.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.4212
+    }
+  },
+  {
+    "image": "X51005763999.jpg",
+    "image_path": "data\\raw\\X51005763999.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7131
+    }
+  },
+  {
+    "image": "X51005764031.jpg",
+    "image_path": "data\\raw\\X51005764031.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6732
+    }
+  },
+  {
+    "image": "X51005764154.jpg",
+    "image_path": "data\\raw\\X51005764154.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7824
+    }
+  },
+  {
+    "image": "X51005764161.jpg",
+    "image_path": "data\\raw\\X51005764161.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5166
+    }
+  },
+  {
+    "image": "X51005806678.jpg",
+    "image_path": "data\\raw\\X51005806678.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.9147
+    }
+  },
+  {
+    "image": "X51005806679.jpg",
+    "image_path": "data\\raw\\X51005806679.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 1.0472
+    }
+  },
+  {
+    "image": "X51005806685.jpg",
+    "image_path": "data\\raw\\X51005806685.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5485
+    }
+  },
+  {
+    "image": "X51005806692.jpg",
+    "image_path": "data\\raw\\X51005806692.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.9029
+    }
+  },
+  {
+    "image": "X51005806695.jpg",
+    "image_path": "data\\raw\\X51005806695.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7338
+    }
+  },
+  {
+    "image": "X51005806696.jpg",
+    "image_path": "data\\raw\\X51005806696.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7211
+    }
+  },
+  {
+    "image": "X51005806698.jpg",
+    "image_path": "data\\raw\\X51005806698.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6995
+    }
+  },
+  {
+    "image": "X51005806702.jpg",
+    "image_path": "data\\raw\\X51005806702.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.5875
+    }
+  },
+  {
+    "image": "X51005806703.jpg",
+    "image_path": "data\\raw\\X51005806703.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.8088
+    }
+  },
+  {
+    "image": "X51005806716.jpg",
+    "image_path": "data\\raw\\X51005806716.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.6093
+    }
+  },
+  {
+    "image": "X51005806718.jpg",
+    "image_path": "data\\raw\\X51005806718.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7765
+    }
+  },
+  {
+    "image": "X51005806719.jpg",
+    "image_path": "data\\raw\\X51005806719.jpg",
+    "status": "failed",
+    "error": "'OCRResult' object has no attribute 'metadata'",
+    "pipeline": {
+      "processing_time_seconds": 0.7407
+    }
+  }
+]

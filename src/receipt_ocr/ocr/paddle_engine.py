@@ -51,6 +51,7 @@ class PaddleOCREngine(BaseOCREngine):
             "use_doc_orientation_classify": use_doc_orientation_classify,
             "use_doc_unwarping": use_doc_unwarping,
             "use_textline_orientation": use_textline_orientation,
+            "device": "cpu",
         }
 
         try:

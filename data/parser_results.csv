@@ -1,0 +1,743 @@
+file,merchant,date,receipt_number,item_count,subtotal,discount,tax,total,payment_method,confidence,warning_count,warnings
+0.jpg,WAL*MART,08/20/10,5748,2,5.11,0.57,,5.11,CASH,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+0.jpg,WAL*MART,08/20/10,5748,2,5.11,0.57,,5.11,CASH,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+1.jpg,TRADER JOE'S,06-28-2014,,19,38.68,,,40.0,CASH,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+1.jpg,TRADER JOE'S,06-28-2014,,19,38.68,,,40.0,CASH,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+10.jpg,SPAR,23.02.21,,15,,,119.48,338.16,,1.0,0,
+10.jpg,SPAR,23.02.21,,15,,,119.48,338.16,,1.0,0,
+11.jpg,WHOLE,,,14,,,,,,1.0,1,Receipt total could not be confidently identified.
+11.jpg,WHOLE,,,14,,,,,,1.0,1,Receipt total could not be confidently identified.
+12.jpg,WAL*MART,10/20/07,2600,2,7.59,,0.54,18.75,,1.0,1,"Subtotal, discount, tax and total do not reconcile."
+12.jpg,WAL*MART,10/20/07,2600,2,7.59,,0.54,18.75,,1.0,1,"Subtotal, discount, tax and total do not reconcile."
+13.jpg,/L.1SWOY8KCW,08/11/17,07142,1,,,,50.0,CASH,1.0,0,
+13.jpg,/L.1SWOY8KCW,08/11/17,07142,1,,,,50.0,CASH,1.0,0,
+14.jpg,to win 1000,05/04/17,for,2,1.25,,7.0,26.6,DEBIT,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+14.jpg,to win 1000,05/04/17,for,2,1.25,,7.0,26.6,DEBIT,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+15.jpg,to win 1000,07/22/16,ID-586205139884060,1,12.58,,,12.58,VISA,1.0,0,
+15.jpg,to win 1000,07/22/16,ID-586205139884060,1,12.58,,,12.58,VISA,1.0,0,
+16.jpg,See back of receipt for your chance,11/13/17,for,3,,,1.15,23.19,DEBIT,1.0,0,
+16.jpg,See back of receipt for your chance,11/13/17,for,3,,,1.15,23.19,DEBIT,1.0,0,
+17.jpg,See back of recelpt for your chance,01/15/17,03080,8,1.07,,7.9,38.68,CASH,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+17.jpg,See back of recelpt for your chance,01/15/17,03080,8,1.07,,7.9,38.68,CASH,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+18.jpg,Give us feedback survey.walmart.com,10/31/21,03347,16,82.75,,7.0,86.35,DEBIT,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+18.jpg,Give us feedback survey.walmart.com,10/31/21,03347,16,82.75,,7.0,86.35,DEBIT,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+19.jpg,Thank you ID 7QDRJJ99F3X,10/16/21,00859,3,34.0,,1.05,35.05,CARD,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+19.jpg,Thank you ID 7QDRJJ99F3X,10/16/21,00859,3,34.0,,1.05,35.05,CARD,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+2.jpg,Give us feedback survey.walmart.com,10/18/20,02527,3,46.44,,7.75,49.9,DEBIT,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+2.jpg,Give us feedback survey.walmart.com,10/18/20,02527,3,46.44,,7.75,49.9,DEBIT,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+20.png,DOLLAR TREE,9/17/22,,1,1.44,,25.44,25.44,DEBIT,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+20.png,DOLLAR TREE,9/17/22,,1,1.44,,25.44,25.44,DEBIT,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+21.jpg,Dollar TreeE STOres INC.,2/20/14,,1,10.0,,,10.21,CASH,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+21.jpg,Dollar TreeE STOres INC.,2/20/14,,1,10.0,,,10.21,CASH,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+3.jpg,See back of receipt for your chance,5.88-0,for,27,139.44,,7.0,144.02,CASH,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+3.jpg,See back of receipt for your chance,5.88-0,for,27,139.44,,7.0,144.02,CASH,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+4.jpg,Walmart,12/08/15,01965,1,6.94,,7.0,7.43,DEBIT,1.0,1,"Subtotal, discount, tax and total do not reconcile."
+4.jpg,Walmart,12/08/15,01965,1,6.94,,7.0,7.43,DEBIT,1.0,1,"Subtotal, discount, tax and total do not reconcile."
+5.jpg,WHOLE FOODS,9/15/2020,,4,28.28,,,,VISA,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+5.jpg,WHOLE FOODS,9/15/2020,,4,28.28,,,,VISA,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+6.JPG,MOMI&TOY'S,26/01/2015,,0,,,,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+6.JPG,MOMI&TOY'S,26/01/2015,,0,,,,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+7.jpg,See back of receipt for your chance,11/13/17,for,3,,,1.15,23.19,DEBIT,1.0,0,
+7.jpg,See back of receipt for your chance,11/13/17,for,3,,,1.15,23.19,DEBIT,1.0,0,
+8.jpg,COSTCO,,,4,3.52,,89.13,89.13,,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+8.jpg,COSTCO,,,4,3.52,,89.13,89.13,,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+9.jpg,WinCo,09/08/14,,26,121.92,,,121.92,,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+9.jpg,WinCo,09/08/14,,26,121.92,,,121.92,,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+X00016469612.jpg,tan woon yann,25/12/2018,,2,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X00016469612.jpg,tan woon yann,25/12/2018,,2,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X00016469619.jpg,tan woon yann,19/10/2018,,4,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X00016469619.jpg,tan woon yann,19/10/2018,,4,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X00016469620.jpg,tan woon yann,12-01-19,,4,,,,33.92,CASH,1.0,0,
+X00016469620.jpg,tan woon yann,12-01-19,,4,,,,33.92,CASH,1.0,0,
+X00016469622.jpg,tan woon yann,25/12/2018,,0,,,80.91,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X00016469622.jpg,tan woon yann,25/12/2018,,0,,,80.91,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X00016469623.jpg,tan woon yann,18-11-18,,5,,,,30.91,CASH,1.0,0,
+X00016469623.jpg,tan woon yann,18-11-18,,5,,,,30.91,CASH,1.0,0,
+X00016469669.jpg,tan chay yee,09/01/2019,,1,,,,31.0,CASH,1.0,0,
+X00016469669.jpg,tan chay yee,09/01/2019,,1,,,,31.0,CASH,1.0,0,
+X00016469670.jpg,tan chay yee,15/01/2019,,1,,,193.0,,VISA,1.0,1,Receipt total could not be confidently identified.
+X00016469670.jpg,tan chay yee,15/01/2019,,1,,,193.0,,VISA,1.0,1,Receipt total could not be confidently identified.
+X00016469671.jpg,tan chay yee,02/01/2019,,2,,,,,VISA,1.0,1,Receipt total could not be confidently identified.
+X00016469671.jpg,tan chay yee,02/01/2019,,2,,,,,VISA,1.0,1,Receipt total could not be confidently identified.
+X00016469672.jpg,tan chay yee,11/01/2019,,0,,327.0,,0.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X00016469672.jpg,tan chay yee,11/01/2019,,0,,327.0,,0.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X00016469676.jpg,tan chay yee,23-01-2019,,1,20.0,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X00016469676.jpg,tan chay yee,23-01-2019,,1,20.0,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005200931.jpg,PERNIAGAAN ZHENG HUI,09/02/2018,,0,,,24.69,,CASH,0.9965284513852681,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005200931.jpg,PERNIAGAAN ZHENG HUI,09/02/2018,,0,,,24.69,,CASH,0.9965284513852681,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005200938.jpg,PERNIAGAAN ZHENG HUI,12/02/2018,,0,106.1,0.0,106.1,,CASH,0.99756395536133,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005200938.jpg,PERNIAGAAN ZHENG HUI,12/02/2018,,0,106.1,0.0,106.1,,CASH,0.99756395536133,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005230605.jpg,PETRON BKT LANJAN SB,01/02/2018,,0,,,4.9,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005230605.jpg,PETRON BKT LANJAN SB,01/02/2018,,0,,,4.9,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005230616.jpg,Gerbang Alaf Restaurants Sdn Bhd,18/01/2018,,0,,,38.9,25.4,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005230616.jpg,Gerbang Alaf Restaurants Sdn Bhd,18/01/2018,,0,,,38.9,25.4,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005230617.jpg,IkL,,,0,,,26.6,11.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005230617.jpg,IkL,,,0,,,26.6,11.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005230621.jpg,SIN LIANHAP SDN BHD,05/02/2018,,2,7.3,,6.69,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005230621.jpg,SIN LIANHAP SDN BHD,05/02/2018,,2,7.3,,6.69,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005230648.jpg,CROSS CHANNEL NETWORK SDN. BHD.,29/01/2018,,2,,,6.36,0.36,,1.0,0,
+X51005230648.jpg,CROSS CHANNEL NETWORK SDN. BHD.,29/01/2018,,2,,,6.36,0.36,,1.0,0,
+X51005230657.jpg,CROSS CHANNEL NETWORK SDN. BHD.,31/12/2017,,5,,,1.8,,,1.0,1,Receipt total could not be confidently identified.
+X51005230657.jpg,CROSS CHANNEL NETWORK SDN. BHD.,31/12/2017,,5,,,1.8,,,1.0,1,Receipt total could not be confidently identified.
+X51005230659.jpg,SWC ENTERPRISE SDN BHD,08/01/2018,,0,,,,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005230659.jpg,SWC ENTERPRISE SDN BHD,08/01/2018,,0,,,,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005255805.jpg,SAM SAM TRADING CO,29-12-2017,,4,,,13.3,14.1,CASH,1.0,0,
+X51005255805.jpg,SAM SAM TRADING CO,29-12-2017,,4,,,13.3,14.1,CASH,1.0,0,
+X51005268200.jpg,AIK HUAT HARDWAKE,15/06/2017,CSP0393921,0,,,15.0,15.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005268200.jpg,AIK HUAT HARDWAKE,15/06/2017,CSP0393921,0,,,15.0,15.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005268262.jpg,HOME MASTER HARDWARE &,22/12/2017,TQM,0,15.9,,15.0,,,0.9994486342592441,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005268262.jpg,HOME MASTER HARDWARE &,22/12/2017,TQM,0,15.9,,15.0,,,0.9994486342592441,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005268275.jpg,LIGHTROOM GALLERY SDN BHD,20/11/2017,,6,263.02,0.0,278.8,,CREDIT,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005268275.jpg,LIGHTROOM GALLERY SDN BHD,20/11/2017,,6,263.02,0.0,278.8,,CREDIT,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005268400.jpg,RESTORAN HASSANBISTRO,2-1-1,,1,15.0,0.0,15.0,15.0,CASH,1.0,0,
+X51005268400.jpg,RESTORAN HASSANBISTRO,2-1-1,,1,15.0,0.0,15.0,15.0,CASH,1.0,0,
+X51005268408.jpg,99 SPEED MART S/B S19537-X,20-11-17,,4,,,9.61,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005268408.jpg,99 SPEED MART S/B S19537-X,20-11-17,,4,,,9.61,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005268472.jpg,ASIA MART,22/12/2017,,0,,0.0,31.03,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005268472.jpg,ASIA MART,22/12/2017,,0,,0.0,31.03,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005288570.jpg,SECURE PARKING,23.03.18,Number,0,,,0.06,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005288570.jpg,SECURE PARKING,23.03.18,Number,0,,,0.06,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005301659.jpg,HOME MASTER HARDWARE &,22/12/2017,TQM,0,15.9,,15.0,,,0.9994486342592441,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005301659.jpg,HOME MASTER HARDWARE &,22/12/2017,TQM,0,15.9,,15.0,,,0.9994486342592441,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005301661.jpg,LIGHTROOM GALLERY SDN BHD,20/12/2017,,3,68.87,,4.13,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005301661.jpg,LIGHTROOM GALLERY SDN BHD,20/12/2017,,3,68.87,,4.13,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005301666.jpg,LIGHTROOM GALLERY SDN BHD,20/11/2017,,6,263.02,0.0,278.8,,CREDIT,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005301666.jpg,LIGHTROOM GALLERY SDN BHD,20/11/2017,,6,263.02,0.0,278.8,,CREDIT,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005301667.jpg,LIGHTROOM GALLERY SDN BHD,20/11/2017,,2,,,2.25,,CREDIT,1.0,1,Receipt total could not be confidently identified.
+X51005301667.jpg,LIGHTROOM GALLERY SDN BHD,20/11/2017,,2,,,2.25,,CREDIT,1.0,1,Receipt total could not be confidently identified.
+X51005303661.jpg,LIGHTROOM GALLERY SDN BHD,20/12/2017,,3,68.87,,4.13,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005303661.jpg,LIGHTROOM GALLERY SDN BHD,20/12/2017,,3,68.87,,4.13,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005306399.jpg,Shell ISNI PETRO TRADING,18/03/18,,1,,,6.0,86.0,VISA,1.0,0,
+X51005306399.jpg,Shell ISNI PETRO TRADING,18/03/18,,1,,,6.0,86.0,VISA,1.0,0,
+X51005337867.jpg,SY LEE.,22 Mar 18,,1,25.94,,1.71,30.25,,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+X51005337867.jpg,SY LEE.,22 Mar 18,,1,25.94,,1.71,30.25,,1.0,2,"Extracted item totals do not reconcile with the detected subtotal. | Subtotal, discount, tax and total do not reconcile."
+X51005337872.jpg,Rsk.,06/03/2018,,6,,0.0,51.42,,,1.0,1,Receipt total could not be confidently identified.
+X51005337872.jpg,Rsk.,06/03/2018,,6,,0.0,51.42,,,1.0,1,Receipt total could not be confidently identified.
+X51005337877.jpg,7eff Pr,20/03/2018,,8,,10.0,3.0,,,1.0,1,Receipt total could not be confidently identified.
+X51005337877.jpg,7eff Pr,20/03/2018,,8,,10.0,3.0,,,1.0,1,Receipt total could not be confidently identified.
+X51005361883.jpg,TEO HENG STATIONERY BOOKS,18/01/2018,No,2,,,0.28,4.9,CASH,1.0,0,
+X51005361883.jpg,TEO HENG STATIONERY BOOKS,18/01/2018,No,2,,,0.28,4.9,CASH,1.0,0,
+X51005361895.jpg,FUYIMINIMARKET,25/01/2018,,1,,,1.0,1.0,CASH,1.0,0,
+X51005361895.jpg,FUYIMINIMARKET,25/01/2018,,1,,,1.0,1.0,CASH,1.0,0,
+X51005361897.jpg,TEO HENG STATIONERY & BOOKS,17/01/2018,No,2,,,0.01,27.55,CASH,1.0,0,
+X51005361897.jpg,TEO HENG STATIONERY & BOOKS,17/01/2018,No,2,,,0.01,27.55,CASH,1.0,0,
+X51005361898.jpg,TED HENG STATIONERY & BOOKS,15/01/2018,No,2,,,3.12,55.1,CASH,1.0,0,
+X51005361898.jpg,TED HENG STATIONERY & BOOKS,15/01/2018,No,2,,,3.12,55.1,CASH,1.0,0,
+X51005361900.jpg,TEO HENG STATIONERY & BOOKS,23/01/2018,No,2,,,0.0,18.0,CASH,1.0,0,
+X51005361900.jpg,TEO HENG STATIONERY & BOOKS,23/01/2018,No,2,,,0.0,18.0,CASH,1.0,0,
+X51005361906.jpg,TEO HENG STATIONERY & BOOKS,27/01/2018,No,5,,,0.0,27.35,CASH,1.0,0,
+X51005361906.jpg,TEO HENG STATIONERY & BOOKS,27/01/2018,No,5,,,0.0,27.35,CASH,1.0,0,
+X51005361907.jpg,TED HENG STATIONERY B BOOKS,12/02/2018,No,7,,,8.68,153.35,CASH,1.0,0,
+X51005361907.jpg,TED HENG STATIONERY B BOOKS,12/02/2018,No,7,,,8.68,153.35,CASH,1.0,0,
+X51005361908.jpg,TEO HENG STATIONERY S BOOKS,15/03/2018,No,1,,,7.2,127.2,CASH,1.0,0,
+X51005361908.jpg,TEO HENG STATIONERY S BOOKS,15/03/2018,No,1,,,7.2,127.2,CASH,1.0,0,
+X51005361912.jpg,TED HENG STATIONERY & BOOKS,29/01/2018,No,1,,,0.06,1.05,CASH,1.0,0,
+X51005361912.jpg,TED HENG STATIONERY & BOOKS,29/01/2018,No,1,,,0.06,1.05,CASH,1.0,0,
+X51005361923.jpg,SWC ENTERPRISE SDN BHD,02/01/2018,,0,,,0.24,,CASH,0.9781597907976671,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005361923.jpg,SWC ENTERPRISE SDN BHD,02/01/2018,,0,,,0.24,,CASH,0.9781597907976671,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005361946.jpg,PAID,14-03-18,,3,,,50.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005361946.jpg,PAID,14-03-18,,3,,,50.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005361950.jpg,99 SPEED MART S/B 519537-X,24-01-18,,1,,,2.5,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005361950.jpg,99 SPEED MART S/B 519537-X,24-01-18,,1,,,2.5,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005365179.jpg,C W KHOO HARDWARE SDN BHD,01-03-18,,2,,,1.2,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005365179.jpg,C W KHOO HARDWARE SDN BHD,01-03-18,,2,,,1.2,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005365187.jpg,F&P PHARMACY,02/03/2018,,1,,0.0,6.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005365187.jpg,F&P PHARMACY,02/03/2018,,1,,0.0,6.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005433492.jpg,UNIHAKKA INTERNATIONAL SDN BHD,05 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433492.jpg,UNIHAKKA INTERNATIONAL SDN BHD,05 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433494.jpg,AEON CO M BHD 126926-H,06/03/2018,,1,,,75.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005433494.jpg,AEON CO M BHD 126926-H,06/03/2018,,1,,,75.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005433514.jpg,UNIHAKKA INTERNATIONAL SDN BHD,03 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433514.jpg,UNIHAKKA INTERNATIONAL SDN BHD,03 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433518.jpg,UNIHAKKA INTERNATIONAL SDN BHD,07 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433518.jpg,UNIHAKKA INTERNATIONAL SDN BHD,07 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433522.jpg,UNIHAKKA INTERNATIONAL SDN BHD,10 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433522.jpg,UNIHAKKA INTERNATIONAL SDN BHD,10 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433533.jpg,PERNIAGAAN ZHENG HUI,09/03/2018,CS00084670,0,,,18.81,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005433533.jpg,PERNIAGAAN ZHENG HUI,09/03/2018,CS00084670,0,,,18.81,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005433538.jpg,UNIHAKKA INTERNATIONAL SDN BHD,12 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433538.jpg,UNIHAKKA INTERNATIONAL SDN BHD,12 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433541.jpg,UNIHAKKA INTERNATIONAL SDN BHD,14 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433541.jpg,UNIHAKKA INTERNATIONAL SDN BHD,14 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433543.jpg,UNIHAKKA INTERNATIONAL SDN BHD,13 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433543.jpg,UNIHAKKA INTERNATIONAL SDN BHD,13 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005433548.jpg,PASAR MINI JIN SENG,03/03/18,,3,33.8,,50.0,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005433548.jpg,PASAR MINI JIN SENG,03/03/18,,3,33.8,,50.0,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005433552.jpg,WARAKUYA PERMAS CITY SDN BHD,10/03/2018,,1,79.6,,3.27,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005433552.jpg,WARAKUYA PERMAS CITY SDN BHD,10/03/2018,,1,79.6,,3.27,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005433553.jpg,YHM Aeon Tebrau City,11/03/2018,No,4,,,0.74,13.1,CASH,1.0,0,
+X51005433553.jpg,YHM Aeon Tebrau City,11/03/2018,No,4,,,0.74,13.1,CASH,1.0,0,
+X51005433556.jpg,YHM Aeon Tebrau City,11/03/2018,No,5,49.7,,1.5,49.7,CASH,1.0,0,
+X51005433556.jpg,YHM Aeon Tebrau City,11/03/2018,No,5,49.7,,1.5,49.7,CASH,1.0,0,
+X51005441398.jpg,BREWERY TAP,30/03/2018,No,4,179.0,,10.74,,,1.0,1,Receipt total could not be confidently identified.
+X51005441398.jpg,BREWERY TAP,30/03/2018,No,4,179.0,,10.74,,,1.0,1,Receipt total could not be confidently identified.
+X51005441401.jpg,THREE STOOGES,12/03/2018,00012916,4,295.0,,19.47,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005441401.jpg,THREE STOOGES,12/03/2018,00012916,4,295.0,,19.47,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005441402.jpg,THREE STOOGES,03/03/2018,,0,150.0,,174.9,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005441402.jpg,THREE STOOGES,03/03/2018,,0,150.0,,174.9,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005441407.jpg,Geoventure,5/3/2018,,6,,,5.83,100.0,CASH,1.0,0,
+X51005441407.jpg,Geoventure,5/3/2018,,6,,,5.83,100.0,CASH,1.0,0,
+X51005441408.jpg,32 PUB & BISTRO own by CNU TRADING,10-03-2018,,0,,,95.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005441408.jpg,32 PUB & BISTRO own by CNU TRADING,10-03-2018,,0,,,95.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005442322.jpg,RESTAURANT,03 Mar 18,With,0,23.1,,269.4,,,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005442322.jpg,RESTAURANT,03 Mar 18,With,0,23.1,,269.4,,,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005442327.jpg,UNIHAKKA INTERNATIONAL SDN BHD,18 Mar 2018,,0,,,0.49,8.6,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442327.jpg,UNIHAKKA INTERNATIONAL SDN BHD,18 Mar 2018,,0,,,0.49,8.6,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442333.jpg,UNIHAKKA INTERNATIONAL SDN BHD,27 Mar 2018,,0,,,0.39,6.9,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442333.jpg,UNIHAKKA INTERNATIONAL SDN BHD,27 Mar 2018,,0,,,0.39,6.9,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442334.jpg,UNIHAKKA INTERNATIONAL SDN BHD,26 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442334.jpg,UNIHAKKA INTERNATIONAL SDN BHD,26 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442338.jpg,PASAR MINI JIN SENG,18/03/18,,7,28.6,,100.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442338.jpg,PASAR MINI JIN SENG,18/03/18,,7,28.6,,100.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442341.jpg,RESTAURANT SIN DU,09/03/2018,,3,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442341.jpg,RESTAURANT SIN DU,09/03/2018,,3,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442343.jpg,YONG TAT HARDWARE TRADING,13/03/2018,,1,,0.0,72.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442343.jpg,YONG TAT HARDWARE TRADING,13/03/2018,,1,,0.0,72.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442344.jpg,YONG TAT HARDWARE TRADING,13/03/2018,,2,,5.71,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442344.jpg,YONG TAT HARDWARE TRADING,13/03/2018,,2,,5.71,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442346.jpg,PERNIAGAAN ZHENG HUI,15/03/2018,,0,0.0,,0.0,,CASH,0.9969205035907882,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005442346.jpg,PERNIAGAAN ZHENG HUI,15/03/2018,,0,0.0,,0.0,,CASH,0.9969205035907882,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005442361.jpg,Morganfield's,2018-03-23,,1,,,559.53,,,1.0,1,Receipt total could not be confidently identified.
+X51005442361.jpg,Morganfield's,2018-03-23,,1,,,559.53,,,1.0,1,Receipt total could not be confidently identified.
+X51005442366.jpg,Triple Six Point Enterprise 666,22-03-2018,no,1,,0.3,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442366.jpg,Triple Six Point Enterprise 666,22-03-2018,no,1,,0.3,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442375.jpg,UNIHAKKA INTERNATIONAL SDN BHD,25 Mar 2018,,0,,,0.48,8.5,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442375.jpg,UNIHAKKA INTERNATIONAL SDN BHD,25 Mar 2018,,0,,,0.48,8.5,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442376.jpg,UNIHAKKA INTERNATIONAL SDN BHD,22 Mar 2018,,0,,,0.43,7.6,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442376.jpg,UNIHAKKA INTERNATIONAL SDN BHD,22 Mar 2018,,0,,,0.43,7.6,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442378.jpg,TO FOR SHOPPING WITH mVNEWS.com,23/03/2018,,2,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442378.jpg,TO FOR SHOPPING WITH mVNEWS.com,23/03/2018,,2,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442379.jpg,UNIHAKKA INTERNATIONAL SDN BHD,24 Mar 2018,,0,,,0.52,9.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442379.jpg,UNIHAKKA INTERNATIONAL SDN BHD,24 Mar 2018,,0,,,0.52,9.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442382.jpg,UNIHAKKA INTERNATIONAL SDN BHD,20 Mar 2018,,0,,,0.37,6.6,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442382.jpg,UNIHAKKA INTERNATIONAL SDN BHD,20 Mar 2018,,0,,,0.37,6.6,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442383.jpg,CARREFOUR RESTAURANT,20/03/201,,1,,,0.78,13.8,CASH,1.0,0,
+X51005442383.jpg,CARREFOUR RESTAURANT,20/03/201,,1,,,0.78,13.8,CASH,1.0,0,
+X51005442384.jpg,UNIHAKKA INTERNATIONAL SDN BHD,19 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442384.jpg,UNIHAKKA INTERNATIONAL SDN BHD,19 Mar 2018,,0,,,0.46,8.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442386.jpg,UNIHAKKA INTERNATIONAL SDN BHD,21 Mar 2018,,0,,,0.49,8.7,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442386.jpg,UNIHAKKA INTERNATIONAL SDN BHD,21 Mar 2018,,0,,,0.49,8.7,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442388.jpg,CONTENTO JM0761170-K,20/03/18,,8,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442388.jpg,CONTENTO JM0761170-K,20/03/18,,8,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442392.jpg,UNIHAKKA INTERNATIONAL SDN BHD,29 Mar 2018,,0,,,0.4,7.1,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442392.jpg,UNIHAKKA INTERNATIONAL SDN BHD,29 Mar 2018,,0,,,0.4,7.1,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005442394.jpg,UNIHAKKA INTERNATIONAL SDN BHD,30 Mar 2018,,0,,,0.46,8.2,,1.0,1,No purchasable items could be confidently extracted.
+X51005442394.jpg,UNIHAKKA INTERNATIONAL SDN BHD,30 Mar 2018,,0,,,0.46,8.2,,1.0,1,No purchasable items could be confidently extracted.
+X51005442397.jpg,Triple Six Point Enterprise 666,25-03-2018,no,1,,7.6,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005442397.jpg,Triple Six Point Enterprise 666,25-03-2018,no,1,,7.6,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005444033.jpg,B.I.G.,12/03/18,,0,,,77.2,77.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005444033.jpg,B.I.G.,12/03/18,,0,,,77.2,77.2,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005444037.jpg,Nando's,1300-88-6555,,2,129.3,,7.3,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005444037.jpg,Nando's,1300-88-6555,,2,129.3,,7.3,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005444040.jpg,B.I.G.,09/03/18,,0,,,133.7,0.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005444040.jpg,B.I.G.,09/03/18,,0,,,133.7,0.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005444041.jpg,B.I.G.,08/03/18,,0,,,81.0,81.0,DEBIT,1.0,1,No purchasable items could be confidently extracted.
+X51005444041.jpg,B.I.G.,08/03/18,,0,,,81.0,81.0,DEBIT,1.0,1,No purchasable items could be confidently extracted.
+X51005444044.jpg,99SPEED MART S/B 519537-X,10-03-18,,1,,,6.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005444044.jpg,99SPEED MART S/B 519537-X,10-03-18,,1,,,6.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005444045.jpg,99 SPEED MART S/B 519537-X,19-03-18,,1,,,11.4,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005444045.jpg,99 SPEED MART S/B 519537-X,19-03-18,,1,,,11.4,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005444046.jpg,STAR GROCER SDN BHD 1171881-W,25/03/18,,6,,,66.17,66.15,CASH,1.0,0,
+X51005444046.jpg,STAR GROCER SDN BHD 1171881-W,25/03/18,,6,,,66.17,66.15,CASH,1.0,0,
+X51005447832.jpg,PETRODELI ENTERPRISE,26/02/18,,1,,,0.0,85.54,VISA,1.0,0,
+X51005447832.jpg,PETRODELI ENTERPRISE,26/02/18,,1,,,0.0,85.54,VISA,1.0,0,
+X51005447833.jpg,SUN WONG KUT SDN BHD,21/02/1811,,1,,,39.54,,VISA,1.0,1,Receipt total could not be confidently identified.
+X51005447833.jpg,SUN WONG KUT SDN BHD,21/02/1811,,1,,,39.54,,VISA,1.0,1,Receipt total could not be confidently identified.
+X51005447839.jpg,RESTAURANT JIAWEI,9/3/2018,,5,65.2,65.2,,65.2,,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+X51005447839.jpg,RESTAURANT JIAWEI,9/3/2018,,5,65.2,65.2,,65.2,,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+X51005447840.jpg,PASARAYA BORONG PINTAR,14/03/2018,,3,,,8.2,4.0,CASH,1.0,0,
+X51005447840.jpg,PASARAYA BORONG PINTAR,14/03/2018,,3,,,8.2,4.0,CASH,1.0,0,
+X51005447841.jpg,PASARAYA BORONG PINTAR,09/03/2018,,4,,,1.2,4.0,CASH,1.0,0,
+X51005447841.jpg,PASARAYA BORONG PINTAR,09/03/2018,,4,,,1.2,4.0,CASH,1.0,0,
+X51005447842.jpg,PASARAYA BORONG PINTAR,14/03/2018,,1,,,0.9,1.0,CASH,1.0,0,
+X51005447842.jpg,PASARAYA BORONG PINTAR,14/03/2018,,1,,,0.9,1.0,CASH,1.0,0,
+X51005447844.jpg,RESTAURANT JIAWEI,23/2/2018,,7,110.0,,,110.0,,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+X51005447844.jpg,RESTAURANT JIAWEI,23/2/2018,,7,110.0,,,110.0,,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+X51005447848.jpg,LIAN CHI PU TIAN VEGETARIAN,06/01/18,,10,,,2.87,,,1.0,1,Receipt total could not be confidently identified.
+X51005447848.jpg,LIAN CHI PU TIAN VEGETARIAN,06/01/18,,10,,,2.87,,,1.0,1,Receipt total could not be confidently identified.
+X51005447850.jpg,PASARAYA BORONG PINTAR,,,1,,,3.2,1.0,CASH,1.0,0,
+X51005447850.jpg,PASARAYA BORONG PINTAR,,,1,,,3.2,1.0,CASH,1.0,0,
+X51005447851.jpg,PASARAYA BORONG PINTAR,,,1,,,1.7,1.0,CASH,1.0,0,
+X51005447851.jpg,PASARAYA BORONG PINTAR,,,1,,,1.7,1.0,CASH,1.0,0,
+X51005447852.jpg,99 SPEED MART S/B 519537-X,20-02-18,,1,,,9.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005447852.jpg,99 SPEED MART S/B 519537-X,20-02-18,,1,,,9.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005447853.jpg,99 SPEED MART S/D 519537X,,,4,,,150.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005447853.jpg,99 SPEED MART S/D 519537X,,,4,,,150.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005447859.jpg,PASARAYA BORONG PINTAR,,,1,,,1.45,1.0,CASH,1.0,0,
+X51005447859.jpg,PASARAYA BORONG PINTAR,,,1,,,1.45,1.0,CASH,1.0,0,
+X51005447860.jpg,AEON CO. M BHD 126926-H,19/02/2018,,2,,,17.7,16.71,CASH,1.0,0,
+X51005447860.jpg,AEON CO. M BHD 126926-H,19/02/2018,,2,,,17.7,16.71,CASH,1.0,0,
+X51005447861.jpg,POPULAR BOOK,01/03/18,114793,5,,1.2,49.39,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005447861.jpg,POPULAR BOOK,01/03/18,114793,5,,1.2,49.39,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005453729.jpg,LIAN HING STATIONERY SDN BHD,27/03/2018,,1,,,58.3,4.5,,1.0,0,
+X51005453729.jpg,LIAN HING STATIONERY SDN BHD,27/03/2018,,1,,,58.3,4.5,,1.0,0,
+X51005453801.jpg,GL HANDICRAFT & TAILORING,20/03/2018,,1,102.0,,102.0,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005453801.jpg,GL HANDICRAFT & TAILORING,20/03/2018,,1,102.0,,102.0,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005453802.jpg,CHECKED,30/03/2018,,1,,,159.0,150.0,,1.0,0,
+X51005453802.jpg,CHECKED,30/03/2018,,1,,,159.0,150.0,,1.0,0,
+X51005453804.jpg,LJAN HING STATIONERY SDN BHD,27/03/2018,,2,,,187057.75,,,1.0,1,Receipt total could not be confidently identified.
+X51005453804.jpg,LJAN HING STATIONERY SDN BHD,27/03/2018,,2,,,187057.75,,,1.0,1,Receipt total could not be confidently identified.
+X51005568827.jpg,Banh Mi CafE,29-10-2017,,2,,,21.3,,,1.0,1,Receipt total could not be confidently identified.
+X51005568827.jpg,Banh Mi CafE,29-10-2017,,2,,,21.3,,,1.0,1,Receipt total could not be confidently identified.
+X51005568829.jpg,THAI DELICIOUS RESTAURANT,02/02/2017,,9,,,,92.8,CASH,1.0,0,
+X51005568829.jpg,THAI DELICIOUS RESTAURANT,02/02/2017,,9,,,,92.8,CASH,1.0,0,
+X51005568855.jpg,POPULAR BOOK,23/12/17,309782,20,,0.42,140.65,,MASTERCARD,1.0,1,Receipt total could not be confidently identified.
+X51005568855.jpg,POPULAR BOOK,23/12/17,309782,20,,0.42,140.65,,MASTERCARD,1.0,1,Receipt total could not be confidently identified.
+X51005568866.jpg,POPULAR BOOK,25 AUG,304168,2,,0.56,5.04,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568866.jpg,POPULAR BOOK,25 AUG,304168,2,,0.56,5.04,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568880.jpg,MR.D.I.YMSDN BHD,5/40/160,,5,,,15.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568880.jpg,MR.D.I.YMSDN BHD,5/40/160,,5,,,15.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568881.jpg,HON HWA HARDWARE TRADING,21/09/2017,,2,,0.0,10.4,9.81,CASH,1.0,0,
+X51005568881.jpg,HON HWA HARDWARE TRADING,21/09/2017,,2,,0.0,10.4,9.81,CASH,1.0,0,
+X51005568884.jpg,MR. D.I.Y. SDN BHD,24-11-17,,3,,,3.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568884.jpg,MR. D.I.Y. SDN BHD,24-11-17,,3,,,3.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568885.jpg,EVERGREEN LIGHT SDN BHD,10/07/2017,,0,,,56.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005568885.jpg,EVERGREEN LIGHT SDN BHD,10/07/2017,,0,,,56.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005568887.jpg,HON HWA HARDWARE TRADING,20/04/2017,,1,,0.0,7.2,0.41,CASH,1.0,0,
+X51005568887.jpg,HON HWA HARDWARE TRADING,20/04/2017,,1,,0.0,7.2,0.41,CASH,1.0,0,
+X51005568889.jpg,HON HWA HARDWARE TRADING,,,2,,0.0,19.6,19.6,CASH,1.0,0,
+X51005568889.jpg,HON HWA HARDWARE TRADING,,,2,,0.0,19.6,19.6,CASH,1.0,0,
+X51005568890.jpg,HON HWA HARDWARE TRADING,05/01/2017,,1,,0.0,5.0,4.72,CASH,1.0,0,
+X51005568890.jpg,HON HWA HARDWARE TRADING,05/01/2017,,1,,0.0,5.0,4.72,CASH,1.0,0,
+X51005568891.jpg,HON HWA HARDWARE TRADING,08/02/2017,,10,,0.0,277.0,277.9,CASH,1.0,0,
+X51005568891.jpg,HON HWA HARDWARE TRADING,08/02/2017,,10,,0.0,277.0,277.9,CASH,1.0,0,
+X51005568892.jpg,EVERGREEN LIGHT SDN BHD,18/09/2017,,0,,,1.47,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005568892.jpg,EVERGREEN LIGHT SDN BHD,18/09/2017,,0,,,1.47,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005568894.jpg,VIVOPACMARKETING SDN BHD 1070687-M,,must,7,,,44.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568894.jpg,VIVOPACMARKETING SDN BHD 1070687-M,,must,7,,,44.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568895.jpg,VIVOPAC MARKETING SDN BHD 1070687-M,,mustbe,5,49.5,,49.5,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005568895.jpg,VIVOPAC MARKETING SDN BHD 1070687-M,,mustbe,5,49.5,,49.5,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005568898.jpg,VIVOPAC MARKETING SDN BHD 1070687-M,30/05/2017,must,3,17.75,,17.75,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005568898.jpg,VIVOPAC MARKETING SDN BHD 1070687-M,30/05/2017,must,3,17.75,,17.75,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005568899.jpg,MR. D.I.Y. SDN BHD,18-10-17,,1,,,5.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568899.jpg,MR. D.I.Y. SDN BHD,18-10-17,,1,,,5.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568900.jpg,MR. D.I.Y. SDN BHD,28-12-17,,1,,,9.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568900.jpg,MR. D.I.Y. SDN BHD,28-12-17,,1,,,9.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568911.jpg,MR. D.I.Y. KUCHAI SDN BHD,41-71-10,,5,,,40.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568911.jpg,MR. D.I.Y. KUCHAI SDN BHD,41-71-10,,5,,,40.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005568913.jpg,IKANO HANDEL SDN BHD,27/07/17,311136194,2,,,538.0,,VISA,1.0,1,Receipt total could not be confidently identified.
+X51005568913.jpg,IKANO HANDEL SDN BHD,27/07/17,311136194,2,,,538.0,,VISA,1.0,1,Receipt total could not be confidently identified.
+X51005568914.jpg,IKANO HANDEL SDN BHD,09/08/17,311140123,3,,,99.8,,MASTERCARD,1.0,1,Receipt total could not be confidently identified.
+X51005568914.jpg,IKANO HANDEL SDN BHD,09/08/17,311140123,3,,,99.8,,MASTERCARD,1.0,1,Receipt total could not be confidently identified.
+X51005577191.jpg,FY EAGLE ENTERPRISE,07/12/2017,CSO0031383,0,,,0.57,10.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005577191.jpg,FY EAGLE ENTERPRISE,07/12/2017,CSO0031383,0,,,0.57,10.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005577192.jpg,FY EAGLE ENTERPRISE,04/12/2017,CSOOO3118O,0,,,0.4,7.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005577192.jpg,FY EAGLE ENTERPRISE,04/12/2017,CSOOO3118O,0,,,0.4,7.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005582745.jpg,SDN BHD,04/12/2016,CS00090733,0,,,0.0,150.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005582745.jpg,SDN BHD,04/12/2016,CS00090733,0,,,0.0,150.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005587254.jpg,TRI SHAAS SDN BHD 728515-M,13/03/2017,255018,1,,,4.72,5.0,CASH,1.0,0,
+X51005587254.jpg,TRI SHAAS SDN BHD 728515-M,13/03/2017,255018,1,,,4.72,5.0,CASH,1.0,0,
+X51005587261.jpg,CHOP YEW LIAN,23/03/17,,2,,,6.0,30.0,CASH,1.0,0,
+X51005587261.jpg,CHOP YEW LIAN,23/03/17,,2,,,6.0,30.0,CASH,1.0,0,
+X51005587267.jpg,MYDIN,4/02/2017,261172,5,,8.0,80.27,8.0,CASH,1.0,0,
+X51005587267.jpg,MYDIN,4/02/2017,261172,5,,8.0,80.27,8.0,CASH,1.0,0,
+X51005605284.jpg,ADVANCO COMPANY,23/03/2018,,0,,0.2,83.0,84.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005605284.jpg,ADVANCO COMPANY,23/03/2018,,0,,0.2,83.0,84.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005605285.jpg,AEON CO. M BHD. 126926-H,22/03/2018,,1,,,5.9,5.57,CASH,1.0,0,
+X51005605285.jpg,AEON CO. M BHD. 126926-H,22/03/2018,,1,,,5.9,5.57,CASH,1.0,0,
+X51005605286.jpg,AEON CO. M BHD 126926-H,09/02/2018,,1,,,5.9,5.57,CASH,1.0,0,
+X51005605286.jpg,AEON CO. M BHD 126926-H,09/02/2018,,1,,,5.9,5.57,CASH,1.0,0,
+X51005605287.jpg,AEON C0. M BHD 126926-H,14/03/2018,,2,,,12.25,11.55,CASH,1.0,0,
+X51005605287.jpg,AEON C0. M BHD 126926-H,14/03/2018,,2,,,12.25,11.55,CASH,1.0,0,
+X51005605295.jpg,ECONSAVE,22/03/18,,0,5.15,,5.15,,CASH,0.9947196930210764,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005605295.jpg,ECONSAVE,22/03/18,,0,5.15,,5.15,,CASH,0.9947196930210764,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005605332.jpg,POPULAR BOOK,14/03/18,90243,1,,0.0,7.95,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005605332.jpg,POPULAR BOOK,14/03/18,90243,1,,0.0,7.95,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005605333.jpg,POPULAR BOOK,07/01/18,364810,2,,9.6,31.47,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005605333.jpg,POPULAR BOOK,07/01/18,364810,2,,9.6,31.47,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005605334.jpg,POPULAR BOOK,29/03/18,121722,2,,,9.65,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005605334.jpg,POPULAR BOOK,29/03/18,121722,2,,,9.65,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005605335.jpg,POPULAR BOOK,12/01/18,77499,2,,,0.02,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005605335.jpg,POPULAR BOOK,12/01/18,77499,2,,,0.02,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005621482.jpg,PREMIO,,form,0,,6.0,6.0,6.0,CREDIT,1.0,1,No purchasable items could be confidently extracted.
+X51005621482.jpg,PREMIO,,form,0,,6.0,6.0,6.0,CREDIT,1.0,1,No purchasable items could be confidently extracted.
+X51005663272.jpg,WAHIN HARDWARE SDN BHD,04/12/17,,3,0.0,,42.4,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663272.jpg,WAHIN HARDWARE SDN BHD,04/12/17,,3,0.0,,42.4,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663273.jpg,SYARIKAT PERNIAGAAN GIN KEE,04/12/2017,,0,,2.7,47.7,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663273.jpg,SYARIKAT PERNIAGAAN GIN KEE,04/12/2017,,0,,2.7,47.7,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663274.jpg,LIM SENG THO HARDWARE TRADING,,,1,10.5,,10.5,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663274.jpg,LIM SENG THO HARDWARE TRADING,,,1,10.5,,10.5,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663276.jpg,1ngmmy.slg,02/12/2017,,0,,0.42,0.0,,CASH,0.9865737650433524,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663276.jpg,1ngmmy.slg,02/12/2017,,0,,0.42,0.0,,CASH,0.9865737650433524,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663277.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/12/2017,,0,,1.68,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663277.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/12/2017,,0,,1.68,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663278.jpg,IKANO HANDEL SDN BHD,23/12/17,411395568,4,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005663278.jpg,IKANO HANDEL SDN BHD,23/12/17,411395568,4,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005663279.jpg,SYARIKAT PERNIAGAAN GIN KEE,28/12/2017,,0,,0.0,140.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663279.jpg,SYARIKAT PERNIAGAAN GIN KEE,28/12/2017,,0,,0.0,140.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663280.jpg,Chili's,30 Dec 17,,0,8.78,,102.39,102.4,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005663280.jpg,Chili's,30 Dec 17,,0,8.78,,102.39,102.4,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005663293.jpg,SWEET FOREST CAFE,14-02-2018,,2,,,12.5,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005663293.jpg,SWEET FOREST CAFE,14-02-2018,,2,,,12.5,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005663297.jpg,BEYOND BROTHERS HARDWARE,1-0-2,,0,,,159.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663297.jpg,BEYOND BROTHERS HARDWARE,1-0-2,,0,,,159.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663298.jpg,AL MENDIS-THE MINES,21-03-2018,116455,0,,,22.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663298.jpg,AL MENDIS-THE MINES,21-03-2018,116455,0,,,22.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663300.jpg,LIM SENG THO HARDWARE TRADING,,,1,7.0,,7.0,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663300.jpg,LIM SENG THO HARDWARE TRADING,,,1,7.0,,7.0,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663301.jpg,LIM SENG THO HARDWARE TRADING,,,1,7.0,,7.0,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663301.jpg,LIM SENG THO HARDWARE TRADING,,,1,7.0,,7.0,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663307.jpg,Tax Invoice,09/02/2018,,5,56.8,,56.8,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663307.jpg,Tax Invoice,09/02/2018,,5,56.8,,56.8,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663309.jpg,KOH SENG HARDWARE,01/02/2018,CS00044964,0,,,0.3,5.3,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005663309.jpg,KOH SENG HARDWARE,01/02/2018,CS00044964,0,,,0.3,5.3,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005663310.jpg,LIM SENG THO HARDWARE TRADING,,,1,8.4,,8.4,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663310.jpg,LIM SENG THO HARDWARE TRADING,,,1,8.4,,8.4,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663311.jpg,LIM SENG THO HARDWARE TRADING,,,1,7.0,,7.0,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663311.jpg,LIM SENG THO HARDWARE TRADING,,,1,7.0,,7.0,,,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005663317.jpg,LIM SENG THO HARDWAR TRADING,,,0,,,,,,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663317.jpg,LIM SENG THO HARDWAR TRADING,,,0,,,,,,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663323.jpg,KOHSENG HARDWARE,04/12/2017,CS00042153,0,,,48.0,848.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005663323.jpg,KOHSENG HARDWARE,04/12/2017,CS00042153,0,,,48.0,848.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005663324.jpg,SYARIKAT PERNIAGAAN GIN KEE,28/12/2017,,0,,,26.34,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005663324.jpg,SYARIKAT PERNIAGAAN GIN KEE,28/12/2017,,0,,,26.34,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005675095.jpg,SOLARIS,14/01/2018,,3,,,4.0,4.0,,1.0,0,
+X51005675095.jpg,SOLARIS,14/01/2018,,3,,,4.0,4.0,,1.0,0,
+X51005675099.jpg,Super Terminal Sdn Bhd,20/01/2018,,0,,,132.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005675099.jpg,Super Terminal Sdn Bhd,20/01/2018,,0,,,132.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005675103.jpg,SYARIKAT PERNIAGAAN GIN KEE,04/01/2018,,0,,,94.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005675103.jpg,SYARIKAT PERNIAGAAN GIN KEE,04/01/2018,,0,,,94.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005675104.jpg,SYARIKAT PERNIAGAAN GIN KEE,25/01/2018,,1,,10.8,190.8,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005675104.jpg,SYARIKAT PERNIAGAAN GIN KEE,25/01/2018,,1,,10.8,190.8,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005675914.jpg,BEYOND BROTHERS HARDWARE,1-0-2,,0,,0.0,5.0,,CASH,0.9993685978651046,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005675914.jpg,BEYOND BROTHERS HARDWARE,1-0-2,,0,,0.0,5.0,,CASH,0.9993685978651046,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676534.jpg,SYARIKAT PERNIAGAAN GIN KEE,03/01/2018,,0,,0.0,68.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676534.jpg,SYARIKAT PERNIAGAAN GIN KEE,03/01/2018,,0,,0.0,68.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676535.jpg,SYARIKAT PERNIAGAAN GIN KEE,30/12/2017,,0,,0.0,5.04,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676535.jpg,SYARIKAT PERNIAGAAN GIN KEE,30/12/2017,,0,,0.0,5.04,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676536.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/01/2018,,0,,0.0,87.8,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676536.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/01/2018,,0,,0.0,87.8,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676537.jpg,SYARIKAT PERNIAGAAN GIN KEE,03/01/2018,,0,,0.0,90.1,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676537.jpg,SYARIKAT PERNIAGAAN GIN KEE,03/01/2018,,0,,0.0,90.1,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676538.jpg,SYARIKAT PERNIAGAAN GIN KEE,04/01/2018,,0,,2.53,42.2,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676538.jpg,SYARIKAT PERNIAGAAN GIN KEE,04/01/2018,,0,,2.53,42.2,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676539.jpg,SYARIKAT PERNIAGAAN GIN KEE,10/01/2018,,0,,1.32,23.32,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676539.jpg,SYARIKAT PERNIAGAAN GIN KEE,10/01/2018,,0,,1.32,23.32,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676540.jpg,SYARIKAT PERNIAGAAN GIN KEE,11/01/2018,,0,,0.0,116.28,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676540.jpg,SYARIKAT PERNIAGAAN GIN KEE,11/01/2018,,0,,0.0,116.28,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676541.jpg,SYARIKAT PERNIAGAAN GIN KEE,03/01/2018,,0,,0.0,89.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676541.jpg,SYARIKAT PERNIAGAAN GIN KEE,03/01/2018,,0,,0.0,89.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676542.jpg,SYARIKAT PERNIAGAAN GIN KEE,29/12/2017,,0,,0.0,10.6,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676542.jpg,SYARIKAT PERNIAGAAN GIN KEE,29/12/2017,,0,,0.0,10.6,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676543.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/01/2018,,0,,0.75,12.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676543.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/01/2018,,0,,0.75,12.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676544.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/01/2018,,0,,0.0,2.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676544.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/01/2018,,0,,0.0,2.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676545.jpg,SYARIKAT PERNIAGAAN GIN KEE,13/01/2018,,0,,,6.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676545.jpg,SYARIKAT PERNIAGAAN GIN KEE,13/01/2018,,0,,,6.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676546.jpg,SYARIKAT PERNIAGAAN GIN KEE,11/01/2018,,0,,1.2,21.2,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676546.jpg,SYARIKAT PERNIAGAAN GIN KEE,11/01/2018,,0,,1.2,21.2,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676547.jpg,SYARIKAT PERNIAGAAN GIN KEE,13/01/2018,,0,,0.0,12.72,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676547.jpg,SYARIKAT PERNIAGAAN GIN KEE,13/01/2018,,0,,0.0,12.72,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676548.jpg,SYARIKAT PERNIAGAAN GIN KEE,15/01/2018,,0,,0.63,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676548.jpg,SYARIKAT PERNIAGAAN GIN KEE,15/01/2018,,0,,0.63,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676549.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/01/2018,,0,,,37.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005676549.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/01/2018,,0,,,37.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677327.jpg,SYARIKAT PERNIAGAAN GIN KEE,01/02/2018,,0,,0.0,2.04,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677327.jpg,SYARIKAT PERNIAGAAN GIN KEE,01/02/2018,,0,,0.0,2.04,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677328.jpg,SYARIKAT PERNIAGAAN GIN KEE,12/02/2018,,0,,0.0,5.3,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677328.jpg,SYARIKAT PERNIAGAAN GIN KEE,12/02/2018,,0,,0.0,5.3,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677329.jpg,SYARIKAT PERNIAGAAN GIN KEE,12/02/2018,,0,,0.0,90.1,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677329.jpg,SYARIKAT PERNIAGAAN GIN KEE,12/02/2018,,0,,0.0,90.1,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677331.jpg,SYARIKAT PERNIAGAAN GIN KEE,03/02/2018,,0,,,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677331.jpg,SYARIKAT PERNIAGAAN GIN KEE,03/02/2018,,0,,,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677332.jpg,SYARIKAT PERNIAGAAN GIN KEE,12/01/2018,,0,,,7.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677332.jpg,SYARIKAT PERNIAGAAN GIN KEE,12/01/2018,,0,,,7.5,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677333.jpg,SYARIKAT PERNIAGAAN GIN KEE,31/01/2018,,0,,0.0,5.76,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677333.jpg,SYARIKAT PERNIAGAAN GIN KEE,31/01/2018,,0,,0.0,5.76,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677334.jpg,SYARIKAT PERNIAGAAN GIN KEE,31/01/2018,,0,,0.0,78.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677334.jpg,SYARIKAT PERNIAGAAN GIN KEE,31/01/2018,,0,,0.0,78.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677335.jpg,SYARIKAT PERNIAGAAN GIN KEE,24/01/2018,,0,,0.0,6.36,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677335.jpg,SYARIKAT PERNIAGAAN GIN KEE,24/01/2018,,0,,0.0,6.36,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677336.jpg,SYARIKAT PERNIAGAAN GIN KEE,27/01/2018,,0,,,21.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677336.jpg,SYARIKAT PERNIAGAAN GIN KEE,27/01/2018,,0,,,21.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677337.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/02/2018,,0,,,25.44,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677337.jpg,SYARIKAT PERNIAGAAN GIN KEE,02/02/2018,,0,,,25.44,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677339.jpg,BEYOND BROTHERS HARDWARE,1-0-2,,0,,0.0,60.0,,CASH,0.9905960109378351,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005677339.jpg,BEYOND BROTHERS HARDWARE,1-0-2,,0,,0.0,60.0,,CASH,0.9905960109378351,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005684949.jpg,WESTERN EASTERN,26-02-2018,,3,,,7.42,0.02,CASH,1.0,0,
+X51005684949.jpg,WESTERN EASTERN,26-02-2018,,3,,,7.42,0.02,CASH,1.0,0,
+X51005685355.jpg,RESTORAN IBRAHIM MAJU SB,19/03/2018,,0,,,5.0,5.3,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005685355.jpg,RESTORAN IBRAHIM MAJU SB,19/03/2018,,0,,,5.0,5.3,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005685357.jpg,sang Foole,02/03/18,71857936,2,,,0.0,,,1.0,1,Receipt total could not be confidently identified.
+X51005685357.jpg,sang Foole,02/03/18,71857936,2,,,0.0,,,1.0,1,Receipt total could not be confidently identified.
+X51005705722.jpg,ASO ELECTRICAL TRADING SDN BHD,27/09/2017,CS00087400,0,0.0,14.04,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005705722.jpg,ASO ELECTRICAL TRADING SDN BHD,27/09/2017,CS00087400,0,0.0,14.04,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005705727.jpg,KEDAI BUKU NEW ACHEIVERS,28/12/2017,CS00310146,0,4.0,2.16,4.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005705727.jpg,KEDAI BUKU NEW ACHEIVERS,28/12/2017,CS00310146,0,4.0,2.16,4.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005705729.jpg,ASO ELECTRICAL TRADING SDN BHD,13/10/2017,CS00088810,0,89.26,0.0,89.26,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005705729.jpg,ASO ELECTRICAL TRADING SDN BHD,13/10/2017,CS00088810,0,89.26,0.0,89.26,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005705760.jpg,MYDIN,10/08/2017,322563,9,,,20.19,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005705760.jpg,MYDIN,10/08/2017,322563,9,,,20.19,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005705784.jpg,KEDAI BUKU NEW ACHEIVERS,15/09/2017,,0,0.0,2.72,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005705784.jpg,KEDAI BUKU NEW ACHEIVERS,15/09/2017,,0,0.0,2.72,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005705804.jpg,ASO ELECTRICAL TRADING SDN BHD,04/12/2017,CS00093091,0,0.0,5.6,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005705804.jpg,ASO ELECTRICAL TRADING SDN BHD,04/12/2017,CS00093091,0,0.0,5.6,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005710963.jpg,59 JALAN BANDAR SATU,21/03/2018,CS00032256,0,,,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005710963.jpg,59 JALAN BANDAR SATU,21/03/2018,CS00032256,0,,,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711401.jpg,RESTORAN WAN SHENG,,,0,,,0.34,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711401.jpg,RESTORAN WAN SHENG,,,0,,,0.34,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711402.jpg,RESTORAN WAN SHENG,17-03-2018,,0,,,9.07,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711402.jpg,RESTORAN WAN SHENG,17-03-2018,,0,,,9.07,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711403.jpg,RESTORAN WAN SHENG,19-03-2018,,0,,,4.4,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711403.jpg,RESTORAN WAN SHENG,19-03-2018,,0,,,4.4,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711404.jpg,RESTORAN WAN SHENG,14-03-2018,,0,,,0.26,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711404.jpg,RESTORAN WAN SHENG,14-03-2018,,0,,,0.26,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711441.jpg,RESTORAN WAN SHENG,,,0,,,2.2,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711441.jpg,RESTORAN WAN SHENG,,,0,,,2.2,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711442.jpg,RESTORAN WAN SHENG,,,0,,,9.07,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711442.jpg,RESTORAN WAN SHENG,,,0,,,9.07,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711443.jpg,RESTORAN WAN SHENG,,,0,,,0.37,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711443.jpg,RESTORAN WAN SHENG,,,0,,,0.37,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711444.jpg,RESTORAN WAN SHENG,,,0,,,0.26,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711444.jpg,RESTORAN WAN SHENG,,,0,,,0.26,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711445.jpg,RESTORAN WAN SHENG,,,0,,,0.38,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711445.jpg,RESTORAN WAN SHENG,,,0,,,0.38,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711446.jpg,RESTORAN WAN SHENG,,,0,,,6.81,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711446.jpg,RESTORAN WAN SHENG,,,0,,,6.81,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711447.jpg,RESTORAN WAN SHENG,14-03-2018,,0,,,2.17,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711447.jpg,RESTORAN WAN SHENG,14-03-2018,,0,,,2.17,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711449.jpg,RESTORAN WAN SHENG,07-03-2018,,0,,,4.54,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711449.jpg,RESTORAN WAN SHENG,07-03-2018,,0,,,4.54,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711451.jpg,RESTORAN WAN SHENG,,,0,,,0.34,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711451.jpg,RESTORAN WAN SHENG,,,0,,,0.34,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711452.jpg,Gerbang Alaf Restaurants Sdn Bhd,1300-13-1300,,0,,,25.4,9.5,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005711452.jpg,Gerbang Alaf Restaurants Sdn Bhd,1300-13-1300,,0,,,25.4,9.5,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005711453.jpg,Gerbang Alaf Restaurants Sdn Bhd,10/03/2018,,0,,,8.5,3.5,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005711453.jpg,Gerbang Alaf Restaurants Sdn Bhd,10/03/2018,,0,,,8.5,3.5,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005711454.jpg,PappaRich BMC,24 Mar 18,,6,6.25,,72.93,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005711454.jpg,PappaRich BMC,24 Mar 18,,6,6.25,,72.93,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005711456.jpg,SUSHI MENTAI - MAHKOTA CHERAS,31-03-2018,114105,0,,,56.2,,VISA,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005711456.jpg,SUSHI MENTAI - MAHKOTA CHERAS,31-03-2018,114105,0,,,56.2,,VISA,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005712017.jpg,Gerbang Alaf Restaurants Sdn Bhd,18/03/2018,,0,,,13.1,11.1,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005712017.jpg,Gerbang Alaf Restaurants Sdn Bhd,18/03/2018,,0,,,13.1,11.1,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005712021.jpg,HAPPY SNACKS ENTERPRISE,20/03/2018,,0,,,0.02,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005712021.jpg,HAPPY SNACKS ENTERPRISE,20/03/2018,,0,,,0.02,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005712038.jpg,SWCENTERPRISE,28/03/2018,,1,30.0,,30.0,30.0,CASH,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+X51005712038.jpg,SWCENTERPRISE,28/03/2018,,1,30.0,,30.0,30.0,CASH,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+X51005712039.jpg,L TWO FLORIST & HANDICRAFT,21/03/2018,,3,,,0.0,9.0,CASH,1.0,0,
+X51005712039.jpg,L TWO FLORIST & HANDICRAFT,21/03/2018,,3,,,0.0,9.0,CASH,1.0,0,
+X51005715007.jpg,KAISON FURNISHING SDN BHD,25-03-18,1502102697,3,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005715007.jpg,KAISON FURNISHING SDN BHD,25-03-18,1502102697,3,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005715010.jpg,watsons,,,4,41.43,,,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005715010.jpg,watsons,,,4,41.43,,,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005715451.jpg,POPULAR BOOK,06/02/18,246761,2,,,0.01,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005715451.jpg,POPULAR BOOK,06/02/18,246761,2,,,0.01,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005715455.jpg,99 SPEED MAPT S/B 519537-X,26-03-18,,2,,,10.6,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005715455.jpg,99 SPEED MAPT S/B 519537-X,26-03-18,,2,,,10.6,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005715456.jpg,KHE ELECTRICAL TRADING,22/03/2018,,0,,0.0,5.76,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005715456.jpg,KHE ELECTRICAL TRADING,22/03/2018,,0,,0.0,5.76,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005717526.jpg,Derbang Alaf Restaurants Sdn Bhd,02/03/2018,,0,,,,11.1,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005717526.jpg,Derbang Alaf Restaurants Sdn Bhd,02/03/2018,,0,,,,11.1,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005719814.jpg,KIKU JAPANESE RESTAURANT,17/1/2018,,4,29.7,29.7,,29.7,CASH,1.0,0,
+X51005719814.jpg,KIKU JAPANESE RESTAURANT,17/1/2018,,4,29.7,29.7,,29.7,CASH,1.0,0,
+X51005719823.jpg,SIMPLIFIED TAX INVOICE,29/01/2018,CS00123688,3,,,1.26,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719823.jpg,SIMPLIFIED TAX INVOICE,29/01/2018,CS00123688,3,,,1.26,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719855.jpg,ROCKU YAKINIKU,,,5,,,10.28,181.55,CASH,1.0,0,
+X51005719855.jpg,ROCKU YAKINIKU,,,5,,,10.28,181.55,CASH,1.0,0,
+X51005719856.jpg,baskinBRrobbins,,,2,,,22.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719856.jpg,baskinBRrobbins,,,2,,,22.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719857.jpg,Salon Du Chocolat,19-02-2018,,0,,,20.4,,,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005719857.jpg,Salon Du Chocolat,19-02-2018,,0,,,20.4,,,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005719862.jpg,99 SPEED MART S/B S19537-X,03-02-18,,1,,,3.49,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719862.jpg,99 SPEED MART S/B S19537-X,03-02-18,,1,,,3.49,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719863.jpg,SEN LEE HEONG RESTAURANT,12-01-2018,,6,73.0,,4.38,77.4,CASH,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+X51005719863.jpg,SEN LEE HEONG RESTAURANT,12-01-2018,,6,73.0,,4.38,77.4,CASH,1.0,1,Extracted item totals do not reconcile with the detected subtotal.
+X51005719864.jpg,FUN N CHEER MALURI,05/01/2018,,1,,,1.69,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719864.jpg,FUN N CHEER MALURI,05/01/2018,,1,,,1.69,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719873.jpg,Your order number is,21/01/2018,number,2,8.6,,8.6,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719873.jpg,Your order number is,21/01/2018,number,2,8.6,,8.6,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719874.jpg,NADEJE PRESTIGE SDN BHD,2018/02/2213,,6,,,2.21,39.0,CASH,1.0,0,
+X51005719874.jpg,NADEJE PRESTIGE SDN BHD,2018/02/2213,,6,,,2.21,39.0,CASH,1.0,0,
+X51005719882.jpg,99 SPEED MART S/B S19537-X,17-02-18,,1,,,213.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719882.jpg,99 SPEED MART S/B S19537-X,17-02-18,,1,,,213.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719883.jpg,99 SPEED MART S/B 519537-X,17-02-18,,1,,,150.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719883.jpg,99 SPEED MART S/B 519537-X,17-02-18,,1,,,150.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719886.jpg,SUNFISH,05/01/2018,,5,28.7,,1.62,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719886.jpg,SUNFISH,05/01/2018,,5,28.7,,1.62,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719888.jpg,POTTERS GARDEN SDN BHD,04/01/2018,,5,39.8,,37.54,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005719888.jpg,POTTERS GARDEN SDN BHD,04/01/2018,,5,39.8,,37.54,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005719889.jpg,HENG KEE DELIGHTS BAK KUT TEH.,04/01/2018,aotionBy,0,42.0,0.0,17.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005719889.jpg,HENG KEE DELIGHTS BAK KUT TEH.,04/01/2018,aotionBy,0,42.0,0.0,17.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005719893.jpg,Mr.Dakgalbi Solaris,2018-01-05,No,3,,,71.0,71.0,CASH,1.0,0,
+X51005719893.jpg,Mr.Dakgalbi Solaris,2018-01-05,No,3,,,71.0,71.0,CASH,1.0,0,
+X51005719895.jpg,GREEN LANE PHARMACY SDN BHD,1/8/2018,,0,,,0.51,34.8,,1.0,1,No purchasable items could be confidently extracted.
+X51005719895.jpg,GREEN LANE PHARMACY SDN BHD,1/8/2018,,0,,,0.51,34.8,,1.0,1,No purchasable items could be confidently extracted.
+X51005719896.jpg,THE STORE MALAYSIA SDN BHD 8199K,14-01-2018,,0,,,35.8,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005719896.jpg,THE STORE MALAYSIA SDN BHD 8199K,14-01-2018,,0,,,35.8,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005719898.jpg,MR. D.I.Y.KUCHAI SDN BHD,19-03-18,,3,,,11.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719898.jpg,MR. D.I.Y.KUCHAI SDN BHD,19-03-18,,3,,,11.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719899.jpg,NYONYA COLORS 1 UTAMA,,,10,53.6,,3.03,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005719899.jpg,NYONYA COLORS 1 UTAMA,,,10,53.6,,3.03,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005719902.jpg,NO.41 JALAN SERI BINTANG 2,11/03/18,,0,,,1.42,1.42,,1.0,1,No purchasable items could be confidently extracted.
+X51005719902.jpg,NO.41 JALAN SERI BINTANG 2,11/03/18,,0,,,1.42,1.42,,1.0,1,No purchasable items could be confidently extracted.
+X51005719903.jpg,Gerbang Alaf Restaurants Sdn Bhd,11/03/2018,,0,,,8.5,4.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005719903.jpg,Gerbang Alaf Restaurants Sdn Bhd,11/03/2018,,0,,,8.5,4.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005719904.jpg,Yam Fresh,2018-03-1813,,8,,,1.66,29.3,CASH,1.0,0,
+X51005719904.jpg,Yam Fresh,2018-03-1813,,8,,,1.66,29.3,CASH,1.0,0,
+X51005719905.jpg,SAINT HEART PASTRY,25/03/2018,,0,,0.0,7.74,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005719905.jpg,SAINT HEART PASTRY,25/03/2018,,0,,0.0,7.74,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005719906.jpg,Zen and coffee 28S/B,25 Mar 2018,No,5,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719906.jpg,Zen and coffee 28S/B,25 Mar 2018,No,5,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719912.jpg,Guardian Health And Beauty Sdn Bhd,04/03/18,s,0,12.0,11.6,5.9,,CASH,0.9937211465835571,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005719912.jpg,Guardian Health And Beauty Sdn Bhd,04/03/18,s,0,12.0,11.6,5.9,,CASH,0.9937211465835571,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005719914.jpg,MR. D.I.Y.KUCHAI SDN BHD,3-21-12,,1,,,53.3,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719914.jpg,MR. D.I.Y.KUCHAI SDN BHD,3-21-12,,1,,,53.3,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719917.jpg,TAX INVOICE,26/03/18,,3,,33.0,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005719917.jpg,TAX INVOICE,26/03/18,,3,,33.0,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005722668.jpg,MY HAPPY PHARMACYPLT,01/02/2018,,0,,,19.34,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005722668.jpg,MY HAPPY PHARMACYPLT,01/02/2018,,0,,,19.34,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005722699.jpg,POPULAR BOOK,11/02/18,79369,2,,0.0,11.8,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005722699.jpg,POPULAR BOOK,11/02/18,79369,2,,0.0,11.8,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005724552.jpg,KEDAI PAPAN YEW CHUAN,21/03/2018,PORT,0,,0.0,65.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724552.jpg,KEDAI PAPAN YEW CHUAN,21/03/2018,PORT,0,,0.0,65.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724554.jpg,KEDAI PAPAN YEW CHUAN,28/02/2018,PORT,0,,0.0,24.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724554.jpg,KEDAI PAPAN YEW CHUAN,28/02/2018,PORT,0,,0.0,24.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724611.jpg,KEDAI PAPAN YEW CHUAN,21/03/2018,PORT,1,,0.0,213.06,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005724611.jpg,KEDAI PAPAN YEW CHUAN,21/03/2018,PORT,1,,0.0,213.06,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005724621.jpg,KEDAI PAPAN YEW CHUAN,06/03/2018,PORT,0,,0.0,120.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724621.jpg,KEDAI PAPAN YEW CHUAN,06/03/2018,PORT,0,,0.0,120.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724622.jpg,Comb,07/03/2018,PORT,0,,0.0,65.0,,CASH,0.9999657637559916,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724622.jpg,Comb,07/03/2018,PORT,0,,0.0,65.0,,CASH,0.9999657637559916,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724623.jpg,KEDA,,PORT,0,,0.0,174.9,,CASH,0.9893962905225875,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724623.jpg,KEDA,,PORT,0,,0.0,174.9,,CASH,0.9893962905225875,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724624.jpg,KEDAI PAPAN YEW CHUAN,16/03/2018,PORT,0,,0.0,128.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724624.jpg,KEDAI PAPAN YEW CHUAN,16/03/2018,PORT,0,,0.0,128.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724625.jpg,KEDAI PAPAN YEW CHUAN,12/03/2018,PORT,0,,0.0,60.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724625.jpg,KEDAI PAPAN YEW CHUAN,12/03/2018,PORT,0,,0.0,60.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724626.jpg,KEDAI PAPAN YEW CHUAN,02/04/2018,PORT,0,,0.0,255.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724626.jpg,KEDAI PAPAN YEW CHUAN,02/04/2018,PORT,0,,0.0,255.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724627.jpg,KEDAI PAPAN YEW CHUAN,31/03/2018,PORT,0,,0.0,17.49,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724627.jpg,KEDAI PAPAN YEW CHUAN,31/03/2018,PORT,0,,0.0,17.49,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724628.jpg,KEDAI PAPAN YEW CHUAN,10/03/2018,PORT,0,,0.0,80.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724628.jpg,KEDAI PAPAN YEW CHUAN,10/03/2018,PORT,0,,0.0,80.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724629.jpg,Cele,17/03/2018,PORT,0,,0.0,165.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005724629.jpg,Cele,17/03/2018,PORT,0,,0.0,165.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005741929.jpg,MyMydin Subang Bestari 2300,15/01/2018,No,0,,,0.31,0.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005741929.jpg,MyMydin Subang Bestari 2300,15/01/2018,No,0,,,0.31,0.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005741944.jpg,INVOICE,18-01-2018,,1,,,2.37,,CARD,1.0,1,Receipt total could not be confidently identified.
+X51005741944.jpg,INVOICE,18-01-2018,,1,,,2.37,,CARD,1.0,1,Receipt total could not be confidently identified.
+X51005742068.jpg,BHPetrol Palekbang,24-03-2018,action,1,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005742068.jpg,BHPetrol Palekbang,24-03-2018,action,1,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005742110.jpg,YONG CEN ENTERPRISE,06/01/2018,CS00668595,1,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005742110.jpg,YONG CEN ENTERPRISE,06/01/2018,CS00668595,1,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005745183.jpg,BILLION SIX ENTERPRISE,22/02/2018,,2,,6.0,6.0,,CARD,1.0,1,Receipt total could not be confidently identified.
+X51005745183.jpg,BILLION SIX ENTERPRISE,22/02/2018,,2,,6.0,6.0,,CARD,1.0,1,Receipt total could not be confidently identified.
+X51005745187.jpg,SLF CASH & CARRY,03/02/2018,,0,,,100.0,,CASH,0.9823198367300487,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005745187.jpg,SLF CASH & CARRY,03/02/2018,,0,,,100.0,,CASH,0.9823198367300487,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005745188.jpg,SLF CASH & CARRY,02/02/2018,CS00241867,0,,,0.0,48.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005745188.jpg,SLF CASH & CARRY,02/02/2018,CS00241867,0,,,0.0,48.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005745190.jpg,SUPER SEVEN CASH & CARRY SDN 3HD,12-02-2018,,12,,,367.1,,VISA,1.0,1,Receipt total could not be confidently identified.
+X51005745190.jpg,SUPER SEVEN CASH & CARRY SDN 3HD,12-02-2018,,12,,,367.1,,VISA,1.0,1,Receipt total could not be confidently identified.
+X51005745213.jpg,MUN HENG ELECTRICAL &,01/02/2018,,2,,,7.0,,,1.0,1,Receipt total could not be confidently identified.
+X51005745213.jpg,MUN HENG ELECTRICAL &,01/02/2018,,2,,,7.0,,,1.0,1,Receipt total could not be confidently identified.
+X51005745214.jpg,99 SPEED MART S/B 519537-X,07-02-18,,3,,,9.57,,CREDIT,1.0,1,Receipt total could not be confidently identified.
+X51005745214.jpg,99 SPEED MART S/B 519537-X,07-02-18,,3,,,9.57,,CREDIT,1.0,1,Receipt total could not be confidently identified.
+X51005745244.jpg,URBAN IDEA SDN BHD 417940-M,14/02/2018,action,1,,,0.67,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005745244.jpg,URBAN IDEA SDN BHD 417940-M,14/02/2018,action,1,,,0.67,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005745249.jpg,URBAN 1DEA SDN BHD 417940-M,27/02/2018,action,4,,,22.65,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005745249.jpg,URBAN 1DEA SDN BHD 417940-M,27/02/2018,action,4,,,22.65,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005745296.jpg,SUSHI MENTAI - PANDAN INDAH,09-04-2018,275705,2,,,26.6,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005745296.jpg,SUSHI MENTAI - PANDAN INDAH,09-04-2018,275705,2,,,26.6,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005745298.jpg,99 SPEED MART S/B S19537-X,31-03-18,,2,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005745298.jpg,99 SPEED MART S/B S19537-X,31-03-18,,2,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005746140.jpg,YONG CEN ENTERPRISE,02/03/2018,CS00677115,1,,,3.36,63.35,CASH,1.0,0,
+X51005746140.jpg,YONG CEN ENTERPRISE,02/03/2018,CS00677115,1,,,3.36,63.35,CASH,1.0,0,
+X51005746203.jpg,SUPER SEVEN CASH & CARRY SDN BHD,01-03-2018,,14,,,408.45,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005746203.jpg,SUPER SEVEN CASH & CARRY SDN BHD,01-03-2018,,14,,,408.45,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005746204.jpg,BEMED SP SDN. BHD.,,,0,0.0,,308.7,308.7,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005746204.jpg,BEMED SP SDN. BHD.,,,0,0.0,,308.7,308.7,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005746206.jpg,PANA JAYA ENTERPAISE,21-03-2018,,0,,,99.06,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005746206.jpg,PANA JAYA ENTERPAISE,21-03-2018,,0,,,99.06,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005746207.jpg,SUPER SEVEN CASH & CARRY SDN BHD,21-03-2018,,11,,,0.01,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005746207.jpg,SUPER SEVEN CASH & CARRY SDN BHD,21-03-2018,,11,,,0.01,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005746210.jpg,Segi Cash & Carry Sdn. Bhd.317041-W,12 Mar 2018,,5,0.01,,0.01,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005746210.jpg,Segi Cash & Carry Sdn. Bhd.317041-W,12 Mar 2018,,5,0.01,,0.01,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005749895.jpg,MR. D.I.. M SDN BHD,02-03-1817,,6,,,72.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005749895.jpg,MR. D.I.. M SDN BHD,02-03-1817,,6,,,72.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005749904.jpg,SWC ENTERPRISE SDN BHD,06/03/2018,,0,,,,,CASH,0.9939471056112428,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005749904.jpg,SWC ENTERPRISE SDN BHD,06/03/2018,,0,,,,,CASH,0.9939471056112428,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005749905.jpg,ENW Hardware Centre M Sdn. Bhd.,10/03/2018,,4,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005749905.jpg,ENW Hardware Centre M Sdn. Bhd.,10/03/2018,,4,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005749912.jpg,MR. D.I.Y. M SDN BHD,04-2/60,,1,,,38.8,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005749912.jpg,MR. D.I.Y. M SDN BHD,04-2/60,,1,,,38.8,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757199.jpg,POPULAR BOOK,01/03/18,21396,2,,,10.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757199.jpg,POPULAR BOOK,01/03/18,21396,2,,,10.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757201.jpg,AEON CO. M BHD.126926-H,28/02/2018,,13,,,88.97,83.93,CASH,1.0,0,
+X51005757201.jpg,AEON CO. M BHD.126926-H,28/02/2018,,13,,,88.97,83.93,CASH,1.0,0,
+X51005757233.jpg,Guardian IHealth And Beauty Sdn Bhd,09/03/18,s,0,9.95,,9.95,,,0.9872905158352208,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005757233.jpg,Guardian IHealth And Beauty Sdn Bhd,09/03/18,s,0,9.95,,9.95,,,0.9872905158352208,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005757235.jpg,AEON CO. M BHD 126926-H,09/03/2018,,1,,,31.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757235.jpg,AEON CO. M BHD 126926-H,09/03/2018,,1,,,31.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757243.jpg,POPULAR BOOK,11/03/18,250504,1,,,50.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757243.jpg,POPULAR BOOK,11/03/18,250504,1,,,50.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757248.jpg,AEON CO. M BHD 126926-H,12/03/2018,,3,,,0.02,42.47,CASH,1.0,0,
+X51005757248.jpg,AEON CO. M BHD 126926-H,12/03/2018,,3,,,0.02,42.47,CASH,1.0,0,
+X51005757273.jpg,MR. D.I.Y. KUCHAI SDN BHD,12-03-18,,2,,,45.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757273.jpg,MR. D.I.Y. KUCHAI SDN BHD,12-03-18,,2,,,45.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757282.jpg,Heo,12/09/2017,,4,0.5,,6.0,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005757282.jpg,Heo,12/09/2017,,4,0.5,,6.0,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005757286.jpg,TSH POWER HARDWARE,10/10/2017,,2,8.0,,7.55,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005757286.jpg,TSH POWER HARDWARE,10/10/2017,,2,8.0,,7.55,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005757290.jpg,MR. D.I.Y. M SDN BHD,17-03-18,,4,,,50.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757290.jpg,MR. D.I.Y. M SDN BHD,17-03-18,,4,,,50.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757292.jpg,MR. D.1.Y. M SDN BHD,18-03-18,,1,,,6.6,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757292.jpg,MR. D.1.Y. M SDN BHD,18-03-18,,1,,,6.6,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757294.jpg,MR. D.1.Y. M SDN BHD,52-62-25,,2,,,20.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757294.jpg,MR. D.1.Y. M SDN BHD,52-62-25,,2,,,20.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757304.jpg,000002 BAIFU M Sdn Bhd,20/03/2018,,2,,,6.0,35.4,CASH,1.0,0,
+X51005757304.jpg,000002 BAIFU M Sdn Bhd,20/03/2018,,2,,,6.0,35.4,CASH,1.0,0,
+X51005757308.jpg,MR. D.I.Y. M SDN BHD,21-03-18,,6,,,21.5,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757308.jpg,MR. D.I.Y. M SDN BHD,21-03-18,,6,,,21.5,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757323.jpg,MR. D.I.Y. M SDN BHD,26-03-18,,3,,,28.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757323.jpg,MR. D.I.Y. M SDN BHD,26-03-18,,3,,,28.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757324.jpg,MR. D.I.Y. M SDN BHD,25-03-18,,2,,,50.8,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757324.jpg,MR. D.I.Y. M SDN BHD,25-03-18,,2,,,50.8,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757342.jpg,MR. D.I.Y. M SDN BHD,23-03-18,,4,,,100.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757342.jpg,MR. D.I.Y. M SDN BHD,23-03-18,,4,,,100.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757346.jpg,MR. D.I.Y. M SDN BHD,23-03-18,,3,,,50.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757346.jpg,MR. D.I.Y. M SDN BHD,23-03-18,,3,,,50.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757349.jpg,GOLDEN KEY MAKER,,,2,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757349.jpg,GOLDEN KEY MAKER,,,2,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757351.jpg,MR. D.I.Y. M SDN BHD,33-53-12,,2,,,14.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757351.jpg,MR. D.I.Y. M SDN BHD,33-53-12,,2,,,14.9,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757353.jpg,MR. D.I.Y. M SDN BHD,24-03-18,,4,,,50.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005757353.jpg,MR. D.I.Y. M SDN BHD,24-03-18,,4,,,50.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005763940.jpg,Harvey Norman,1300-88-5200,ac,1,,,60.0,,CARD,1.0,1,Receipt total could not be confidently identified.
+X51005763940.jpg,Harvey Norman,1300-88-5200,ac,1,,,60.0,,CARD,1.0,1,Receipt total could not be confidently identified.
+X51005763958.jpg,SUPER SEVEN CASH & CARRY DN BHD,27-01-2018,,3,,,0.0,,VISA,1.0,1,Receipt total could not be confidently identified.
+X51005763958.jpg,SUPER SEVEN CASH & CARRY DN BHD,27-01-2018,,3,,,0.0,,VISA,1.0,1,Receipt total could not be confidently identified.
+X51005763964.jpg,buton,06/01/2018,CS00668594,0,,,3.72,65.7,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005763964.jpg,buton,06/01/2018,CS00668594,0,,,3.72,65.7,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005763999.jpg,Segi Cash & Carry Sdn. Bhd.317041-W,06 Jan 2018,,11,0.01,1.6,0.01,,VISA,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005763999.jpg,Segi Cash & Carry Sdn. Bhd.317041-W,06 Jan 2018,,11,0.01,1.6,0.01,,VISA,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005764031.jpg,SUPER SEVEN CASH & CARRY SDN BHD,01-02-2018,,7,,,42.1,,VISA,1.0,1,Receipt total could not be confidently identified.
+X51005764031.jpg,SUPER SEVEN CASH & CARRY SDN BHD,01-02-2018,,7,,,42.1,,VISA,1.0,1,Receipt total could not be confidently identified.
+X51005764154.jpg,Disposue,,,1,,,11.63,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005764154.jpg,Disposue,,,1,,,11.63,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005764161.jpg,99 SPEED MART S/B 519537-X,28-01-18,,2,,,93.28,,CREDIT,1.0,1,Receipt total could not be confidently identified.
+X51005764161.jpg,99 SPEED MART S/B 519537-X,28-01-18,,2,,,93.28,,CREDIT,1.0,1,Receipt total could not be confidently identified.
+X51005806678.jpg,KAISON FURNISHING SDN BHD,29-01-18,1603029175,6,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005806678.jpg,KAISON FURNISHING SDN BHD,29-01-18,1603029175,6,,,,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005806679.jpg,LEE WAH FLORIST SDN BHD,02/02/2018,,0,,21.18,12.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005806679.jpg,LEE WAH FLORIST SDN BHD,02/02/2018,,0,,21.18,12.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005806685.jpg,ADVANCO COMPANY,17/01/2018,,0,,,8.08,29.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005806685.jpg,ADVANCO COMPANY,17/01/2018,,0,,,8.08,29.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005806692.jpg,Tax Invoice,18/02/2018,,11,346.51,,346.51,,CREDIT,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005806692.jpg,Tax Invoice,18/02/2018,,11,346.51,,346.51,,CREDIT,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005806695.jpg,JUWITA WEDDINGS 366310-U,,Date,1,4.1,,6.0,4.1,CREDIT,1.0,0,
+X51005806695.jpg,JUWITA WEDDINGS 366310-U,,Date,1,4.1,,6.0,4.1,CREDIT,1.0,0,
+X51005806696.jpg,IMAGE PRINTEC M SDN BHD,23/02/2018,,3,0.43,,0.02,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005806696.jpg,IMAGE PRINTEC M SDN BHD,23/02/2018,,3,0.43,,0.02,,CASH,1.0,2,Receipt total could not be confidently identified. | Extracted item totals do not reconcile with the detected subtotal.
+X51005806698.jpg,ADVANCO COMPANY,28/02/2018,,0,,11.6,20.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005806698.jpg,ADVANCO COMPANY,28/02/2018,,0,,11.6,20.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005806702.jpg,Cash Sale,06/02/2018,,1,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005806702.jpg,Cash Sale,06/02/2018,,1,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005806703.jpg,Cash Sale,06/02/2018,,2,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005806703.jpg,Cash Sale,06/02/2018,,2,,,0.0,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005806716.jpg,ADVANCO COMPANY,,,0,,,7.0,7.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005806716.jpg,ADVANCO COMPANY,,,0,,,7.0,7.0,CASH,1.0,1,No purchasable items could be confidently extracted.
+X51005806718.jpg,HUGO TRADING SDN BHD,13/01/2018,,1,,,11.44,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005806718.jpg,HUGO TRADING SDN BHD,13/01/2018,,1,,,11.44,,CASH,1.0,1,Receipt total could not be confidently identified.
+X51005806719.jpg,POSTED,13/01/201,,0,,0.0,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.
+X51005806719.jpg,POSTED,13/01/201,,0,,0.0,0.0,,CASH,1.0,2,Receipt total could not be confidently identified. | No purchasable items could be confidently extracted.

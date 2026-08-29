@@ -545,23 +545,20 @@ The generated submission package follows this structure:
 ```text
 carbon_crunch_submission/
 
-├── README.md
-├── requirements.txt
-│
 ├── processing_report.json
 │
 ├── expense_summary.csv
 ├── expense_summary.json
 ├── expense_summary.xlsx
 │
-├── json_outputs/
+├── json/
 │   ├── 0.json
 │   ├── 1.json
 │   ├── 2.json
 │   ├── ...
 │   └── X51005806719.json
 │
-└── ocr_raw_outputs/
+└── ocr/
     ├── 0_ocr.json
     ├── 1_ocr.json
     ├── 2_ocr.json
@@ -739,26 +736,18 @@ carbon-crunch-receipt-ocr/
 │       └── .gitkeep
 │
 ├── outputs/
-│   ├── README.md
 │   ├── expense_summary.csv
 │   ├── expense_summary.json
 │   ├── expense_summary.xlsx
 │   ├── json/
-│   │   └── .gitkeep
-│   ├── json_outputs/
 │   │   └── Per-receipt structured JSON files
 │   ├── logs/
 │   │   └── .gitkeep
 │   ├── ocr/
-│   │   └── .gitkeep
-│   ├── ocr_raw_outputs/
 │   │   └── Raw OCR JSON files
 │   ├── processing_report.json
-│   ├── receipts/
-│   │   └── Receipt JSON files
 │   ├── reports/
 │   │   └── .gitkeep
-│   ├── requirements.txt
 │   └── visualizations/
 │       └── .gitkeep
 │

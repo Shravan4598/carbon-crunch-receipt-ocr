@@ -29,6 +29,49 @@ The system processes receipt images using **PaddleOCR**, extracts structured rec
 
 ---
 
+## Results
+
+| Metric | Result |
+|---|---:|
+| Receipt images | 371 |
+| Successfully processed | 371 |
+| Failed | 0 |
+| Processing success rate | 100% |
+| Receipts with extracted total | 348 |
+| Total expense | 28,154.92 |
+| Average receipt total | 80.90 |
+| Processing time | 1,703.62 seconds |
+| JSON outputs generated | 371 |
+
+## Sample Structured Output
+
+```json
+{
+  "merchant": "WAL*MART",
+  "receipt_date": "08/20/10",
+  "receipt_number": "03178",
+  "items": [
+    {
+      "name": "BANANAS",
+      "quantity": 1.0,
+      "unit_price": 0.41,
+      "total_price": 0.41
+    }
+  ],
+  "subtotal": 5.11,
+  "discount": 0.57,
+  "tax": null,
+  "total": 5.11,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.8,
+  "warnings": []
+}
+```
+
+This is much easier for a reviewer to understand.
+
+---
+
 # 1. Objective
 
 The objective of this project is to build a robust receipt-processing pipeline capable of converting receipt images into structured and machine-readable expense information.
@@ -96,6 +139,28 @@ The pipeline is designed to:
              ┌───────────┼───────────┐
              ▼           ▼           ▼
             CSV         JSON        XLSX
+```
+
+### Simplified Pipeline Overview
+
+```text
+Receipt Images
+      ↓
+Image Discovery
+      ↓
+PaddleOCR
+      ↓
+OCR Results
+      ↓
+Receipt Parser
+      ↓
+Validation
+      ↓
+Confidence Scoring
+      ↓
+Structured JSON
+      ↓
+Expense Summary
 ```
 
 ---

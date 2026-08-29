@@ -1,0 +1,19 @@
+{
+  "merchant": "Triple Six Point Enterprise 666",
+  "receipt_date": "22-03-2018",
+  "receipt_number": "REC-0014888",
+  "items": [],
+  "subtotal": null,
+  "discount": 0.3,
+  "tax": null,
+  "total": 22.6,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.792,
+  "raw_text": "A03103\nTriple Six Point Enterprise 666\nNo 14&16 Jalan Permas 4/3 Bandar Baru Permas Jay:\nTel: 016-7574666\nReceipt no: REC-0014888\nDate: 22-03-2018 04:01:20 PM\nPayment Type: Cash\nReceipt\n(Receipt No.: REC-0014888)\nQTY ITEM\nPRICE\nTOTAL\n(RM)\n(RM)\n1x VS FUJI500ml\n10.00\n10.00\n1x Apollo cake\n6.80\n6.50\noriginal 30s\n(Diso: 0.3000)\n1x TG Cashew\n4.20\n4.20\nnuts mixwd\nAlmond smoke\n1x TG Coated\n1.90\n1.90\ncoconut\npeanuts\nDiscount\n0.30\nTotal Amount\n22.60\nTendered\n22.60",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005442366",
+  "source_image": "X51005442366.jpg",
+  "ocr_confidence": 0.994
+}

@@ -1,0 +1,19 @@
+{
+  "merchant": "TED HENG STATIONERY & BOOKS",
+  "receipt_date": "12/02/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 8.68,
+  "total": 144.68,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.787,
+  "raw_text": "TED HENG STATIONERY & BOOKS\n(001451637-M)\nNO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI\nSELANGOR DARUL EHSAN\nTEL:03-3271 9872 FAX:03-3271 9481\nGST No. : 000689913856\nSIMPLIFIED TAX INVOICE\nCASH\nReceipt No.: CS1802/27714\nDate: 12/02/2018\nITEM\nQTY\nDISC%\nAMOUNT\nU/P\n(RM)\n9555067700208\n10\n10.57\n0.00\n105.66*\n- IK YELLOW 70GRAMS\n9557583450025\n17.45\n0.00\n17.45*\n- PAPYRUS DARK COLOUR PAPER\n4974052801334\n1\n2.70\n0.00\n2.70*\n- ARTLINE 70\n9557546953990\n0.85\n0.00\n0.85*\n-FASTER CX5N BALL PEN\n6924238702311\n2\n0.85\n0.00\n1.70*\n- CBE HANDYCUTTER\n9556655112694\n8.40\n0.00\n8.40*\n- CBE A4 SIZE 20 POCKETS REFILLABLE NEW\nCLEAR HOLDER\n9557369305006\n2\n3.96\n0.00\n7.92*\n- EAGLE F4 120 NUMBERING FOOLSCAP\nBOOK\nTotal Qty. :\n18\n144.68\nSUB-TOTAL(EX)\n144.68\nTOTAL TAX\n12 FER:2010\n8.68\nROUNDING\n-0.01\nTOTAL\n153.35\nCASH\n153.35\nCHANGE\n0.00\nGST SUMMARY\nTAX CODE\nAMOUNT\n90\nTAX\n(RM)\n(RM)\nSR\n6.00\n144.68\n8.68\nTOTAL :\n144.68\n8.68\nNote: (*) Indicated The Item Sold Has Been Related\nTo GST (Goods & Services Tax)\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005361907",
+  "source_image": "X51005361907.jpg",
+  "ocr_confidence": 0.983
+}

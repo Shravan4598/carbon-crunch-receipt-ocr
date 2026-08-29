@@ -1,0 +1,24 @@
+{
+  "merchant": "BHPetrol Palekbang",
+  "receipt_date": "24-03-2018",
+  "receipt_number": "will",
+  "items": [
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 6.0,
+      "total_price": 6.0
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": null,
+  "total": 6.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.872,
+  "raw_text": "BHPetrol Palekbang\nLot 1626, Mukim Kampung Laut\nTumpat\n16200 Palekbang, Kelantan\nPREPAY CHIT NUMBER\n29721\nTHIS IS NOT A RECEIPT\nA Tax Invoice will be issued upon the\ncompletion of the sale transaction\n24-03-2018 22:02:55\nCashier: 465\nTransaction No: 1-8046\nItem\nU\\Price\nQnty Amount\nPPF\nP1\n1.000\n6\n6.00\nTOTAL AMOUNT\nCASH\nRM 6.00\nThank You. Please Come Again\nCustomer Service 1-300-22-2828",
+  "warnings": [],
+  "receipt_id": "X51005742068",
+  "source_image": "X51005742068.jpg",
+  "ocr_confidence": 0.983
+}

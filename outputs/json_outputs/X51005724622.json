@@ -1,0 +1,19 @@
+{
+  "merchant": "Comb Ches",
+  "receipt_date": "07/03/2018",
+  "receipt_number": "PORT",
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 86.0,
+  "total": 86.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.837,
+  "raw_text": "Sc\nR\nComb Ches\n200007\nKEDAI PAPAN YEW CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR\nTEL:03-87686092\nFAX: 03-87686092\nGST ID:000781500416\nTAX INVOICE\nBill To :\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No.\nCS00010562\nDate: 07/03/2018\nCashier\nUSER\nTime: 08:31:00\nSalesperson\nRef.:\n(GST)\n(GST)\nItem\nQty\nS/Price\nS/Price\nAmount\nTax\n101870\n1\n65.00\n68.90\n68.90\nSR\nPASIR HALUS (D)\n100160\n7\n3.00\n3.18\n22.26\nSR\nKAPUR AIR (A1)\nTotal Qty:\n8\n91.16\nTotal Sales (Excluding GST)\n86.00\nDiscount\n0.00\nTotal GST\n5.16\nRounding\n0.00\nTotal Sales (Inclusive of GST) :\n91.16\nCASH :\n91.16\nChange :\n0.00\nGST SUMMARY\nTax Code\n%\nAmt (RM)\nTax(RM)\nSR\n6\n86.00\n5.16\nTotal :\n86.00\n5.16\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005724622",
+  "source_image": "X51005724622.jpg",
+  "ocr_confidence": 0.982
+}

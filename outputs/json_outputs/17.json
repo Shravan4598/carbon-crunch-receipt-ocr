@@ -1,0 +1,19 @@
+{
+  "merchant": "See back of recelpt for your chance",
+  "receipt_date": "01/15/17",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": 36.35,
+  "discount": null,
+  "tax": 1.07,
+  "total": 38.68,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.855,
+  "raw_text": "See back of recelpt for your chance\nto win $1000\nID #：\n7KZGF1SL2FF\nWalmart\nSave money. Live better.\n( 970) 259 - 8755\nMANAGER MIKE NEIDLINGER\n1155 S CAMINO DEL RIO\nDURANGO CO 81303\nST# 02270 0P# 000144 TE# 02 TR# 03080\nBANANAS\n000000004011KI\n1.75.1b\n11b/0.54\n0.95 R\nBEVERAGE\n0\n003120002133 F\n2.00 R\nOS CRAN POM\n003120027015\nF\n2.00 R\nSTRWBRY CC\n076471782200\nF\n0.96 Y\nCAMPARI TOM\n073447501213\nT\n2.98 R\nKFT SINGLES\n002100061526\n3.78 Y\n44500982114\n004450098211 F\n3.98 Y\nHARD SALAMI\n020533960343 F\n3.43 Y\nAVOCADO\n000000004046KI\n4AT1\nFOR\n0.44\n1.76 R\nPILLS WHITE\n068113113619 F\n1.00 Y\nSH NYLON COL\n007417024836\n2.97 X\nHAND CLEANER\n004125100005\n1.67 X\nINJECTR CLNR 004980710003\n8.87 X\nSUBTOTAL\n36.35\nTAX 1\n7.900 %\n1.07\nTAX 2\n5.000%\n1.14\nTAX 6\n2.900%\n0.12\nTOTAL\n38.68\nCASH TEND\n40.68\nCHANGE DUE\n2.00\n# ITEMS SOLD 16\nTC# 3041 7466 0669 7952 272\n01/15/17\n14:26:03",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "17",
+  "source_image": "17.jpg",
+  "ocr_confidence": 0.977
+}

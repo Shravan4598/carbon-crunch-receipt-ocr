@@ -1,0 +1,19 @@
+{
+  "merchant": "GREEN LANE PHARMACY SDN BHD",
+  "receipt_date": "1/8/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 0.51,
+  "total": 34.8,
+  "payment_method": null,
+  "extraction_confidence": 0.736,
+  "raw_text": "GREEN LANE PHARMACY SDN BHD\n33 JLN BANGAU 1,KEPONG BARU.\n52100 KEPONG.KL\nTEL : 62760693\nFAX : 62760693\nBRN : 631002-U\nGST No : 001888309248\nTAX INVOICE\nInv No : 18-001641\nDATE : 1/8/2018 9:42:41 AM\n1)UAMO06K AMOXICAP 50OMG CAPSU\n1.00 X 6.00\n6.00 z\n2)0984K NOFLUX TAB 90MG 10\n2.00 X 4.51\n9.01 *\n3)9557892102639 IBUPR0FEN 400MG 10\n3.00X 3.00\n9.00 z\n4)9556492002837K FEBRICOL -RX10\n4.00 X 2.70\n10.80 z\nRounding :\n-0.01\nTOTAL\n34.80\n(GST\n: 0.51 )\n家家家家家水本水本水东东东\nPAYMENT :\nTOTAL PAYMENT :\n34.80\nCHANGE\n0.00\n> MASTER\n34.80\n冰\nRate %\nTOTAL\nGST\n： 6%\n8.50\n0.51\nz : 0%\n25.80\n0.00\nLEE MEI YEIN\nPrev Balance : 1455\nPoints Earn : 34 (Complete)\nFARMASI ALPHA.COM\nGOODS SOLD ARE NOT RETURNABLE\nWHATSAPP NO: 0103768122\n* Total Sales Inclusive GST @ 6% *",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719895",
+  "source_image": "X51005719895.jpg",
+  "ocr_confidence": 0.958
+}

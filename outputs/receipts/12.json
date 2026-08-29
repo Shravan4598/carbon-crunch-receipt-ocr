@@ -1,0 +1,81 @@
+{
+  "image": "12.jpg",
+  "image_path": "data\\raw\\12.jpg",
+  "status": "success",
+  "ocr": {
+    "engine": "tesseract",
+    "engine_version": "5.5.3.20260724",
+    "image_width": 768,
+    "image_height": 1024,
+    "line_count": 27,
+    "word_count": 89,
+    "average_confidence": 0.8213888888888888,
+    "processing_time_seconds": 0.4303383999504149,
+    "full_text": "WAL*MART\nbetter. Live Save money.\nWE SELL LESS FOR\nALWAYS\nSESSION MANAGER DAPHNE\n4601 ( ) 536 636 -\nMO 63005. CHESTERFIELD,\nTR# 03359 17 2600 00001855 TEs ST# OP#\n6.63 X FIGURES 065356920144 SW\n— 0.96 003500055500 x TOOTHBRUSH\nSUBTOTAL 7759\n009725614790 WOMEN 9.86 X SLIPPE\nSUBTOTAL 17.45\n3.400% 0.54 TAX 1\nTAX 3 4,3500% 0.76\nTOTAL 18.75\nMCARD TEND 18.75\nACCOUNT #3546\nAPPROVAL #007190\nTRANS ID ~\nVALIDATION -\nPAYMENT SERVICE A -\nCHANGE DUE 0.00\nCD Easles Wal-Mart exclusive ,\n30th! October available\n13:48:43 10/20/07\n—_"
+  },
+  "receipt": {
+    "merchant": "WAL*MART",
+    "receipt_date": "10/20/07",
+    "receipt_number": "03359",
+    "items": [
+      {
+        "name": "X FIGURES SW",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 6.63,
+        "confidence": 0.9100000000000001
+      },
+      {
+        "name": "— x TOOTHBRUSH",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 0.96,
+        "confidence": 0.9060000000000001
+      },
+      {
+        "name": "WOMEN X SLIPPE",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 9.86,
+        "confidence": 1.0
+      }
+    ],
+    "subtotal": 17.45,
+    "discount": null,
+    "tax": 0.54,
+    "total": 18.75,
+    "payment_method": null,
+    "currency": "USD",
+    "extraction_confidence": 1.0,
+    "raw_text": "WAL*MART\nbetter. Live Save money.\nWE SELL LESS FOR\nALWAYS\nSESSION MANAGER DAPHNE\n4601 ( ) 536 636 -\nMO 63005. CHESTERFIELD,\nTR# 03359 17 2600 00001855 TEs ST# OP#\n6.63 X FIGURES 065356920144 SW\n— 0.96 003500055500 x TOOTHBRUSH\nSUBTOTAL 7759\n009725614790 WOMEN 9.86 X SLIPPE\nSUBTOTAL 17.45\n3.400% 0.54 TAX 1\nTAX 3 4,3500% 0.76\nTOTAL 18.75\nMCARD TEND 18.75\nACCOUNT #3546\nAPPROVAL #007190\nTRANS ID ~\nVALIDATION -\nPAYMENT SERVICE A -\nCHANGE DUE 0.00\nCD Easles Wal-Mart exclusive ,\n30th! October available\n13:48:43 10/20/07\n—_",
+    "warnings": [
+      "Subtotal, discount, tax and total do not reconcile."
+    ]
+  },
+  "validation": {
+    "is_valid": true,
+    "error_count": 0,
+    "warning_count": 2,
+    "issues": [
+      {
+        "field": "payment_method",
+        "message": "Payment method could not be identified.",
+        "severity": "warning"
+      },
+      {
+        "field": "total",
+        "message": "Total mismatch. Expected approximately 17.99, but extracted 18.75.",
+        "severity": "warning"
+      }
+    ]
+  },
+  "conflicts": {
+    "count": 1,
+    "items": [
+      "Receipt total conflict: expected approximately 17.99, extracted 18.75."
+    ]
+  },
+  "pipeline": {
+    "processing_time_seconds": 0.4491
+  }
+}

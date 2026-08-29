@@ -1,0 +1,24 @@
+{
+  "merchant": "CHOP YEW LIAN",
+  "receipt_date": "23/03/17",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "1itre Pump # 01",
+      "quantity": 1.0,
+      "unit_price": 11.54,
+      "total_price": 11.54
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 6.0,
+  "total": 30.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.877,
+  "raw_text": "CHOP YEW LIAN\nCompany No : 000200101-A\nLOT PT 5121, Per. Klang, Sek. 27\n40000 Shah Alam, Selangor\nSite : 1164\nTelephone : 03-51911239\nGST No : 000840966144\n>>>>>>> Pre-Author|sation <<<<<\nPre auth code A01A1490249339\n11.54 1itre Pump # 01\nV-Power 97\nRM\n30.00 A\n2.600 RM / litre\nTotal\nRM\n30.00\nCash\nRM\n30.00\n6.00% GST\nA\nRM\n1.70\nTotal Gross\nA\nRM\n30.00\nShell Loyalty Card\n6018840117325593\nPoints will be awarded for any eligible\npurchases.\nPay your fuel with points!\nCashier:\nJamaluddin\nThis is not the final fiscal receipt\nDate\nTime Num POS CNo Shift\n23/03/17 14:08 17542 01 8994 160\nDiesel & Petrol R0N95 given relief\nunder Sectlon 56(3)(b) GST Act 2014\nThank You and Please Come Again",
+  "warnings": [],
+  "receipt_id": "X51005587261",
+  "source_image": "X51005587261.jpg",
+  "ocr_confidence": 0.994
+}

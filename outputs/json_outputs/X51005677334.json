@@ -1,0 +1,19 @@
+{
+  "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+  "receipt_date": "31/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 78.0,
+  "total": 78.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.792,
+  "raw_text": "3180201.6\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS.\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL:03-40210276\nGST ID: 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No\nCS00013066\nDate:31/01/2018\nCashier\nUSER\nTime: 11:33:00\nSalesperson\nRef.:\nItem\nQty\nS/Price\nAmount\nTax\n1701\n5\n6.36\n31.80\nSR\n6/8 BATU (BAG)\n2167\n1\n50.88\n50.88\nSR\n4.5KG RENDEROC PLUG\nTotal Qty:\n6\n82.68\nTotal Sales (Excluding GST)\n78.00\nDiscount\n0.00\nTotal GST\n4.68\nRounding\n0.00\nTotal Sales (Inclusive of GST)\n82.68\nCASH :\n82.68\nChange :\n0.00\nGST SUMMARY\nTax Code\n%\nAmt (RM)\nTax(RM)\nSR\n6\n78.00\n4.68\nTotal :\n78.00\n4.68\nGOODS SOLD ARE NOT RETURNABLE. THANK YOU",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005677334",
+  "source_image": "X51005677334.jpg",
+  "ocr_confidence": 0.994
+}

@@ -1,0 +1,19 @@
+{
+  "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+  "receipt_date": "12/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 7.5,
+  "total": 7.5,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.786,
+  "raw_text": "3180201.6.\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290. JALAN AIR PANAS.\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL:03-40210276\nGSTID:000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No.\nCS00012693\nDate: 12/01/2018\nUSER\nTime: 13:02:00\nCashier\nSalesperson\nRef. :\nItem\nQty\nS/Price\nAmount\nTax\n3483\n1\n795\n7.95\nSR\n1 1/2\" SANCORA PAINT BRUSH\nTotal Qty:\n1\n7.95\nTotal Sales (Excluding GST)\n7.50\nDiscount\n0.00\nTotal GST\n0.45\nRounding\n0.00\nTotal Sales (Inclusive of GST)\n7.95\nCASH :\n7.95\n6.00\nG\nET SUMMARY\nIaxLode\n2\nAmt (RM)\nTax(RM)\n6\n7.50\n045\nTotal:\n7.50\n0.45\nGC ODS SOLD APE NOT RETURNABLE THANK YOU",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005677332",
+  "source_image": "X51005677332.jpg",
+  "ocr_confidence": 0.981
+}

@@ -1,0 +1,30 @@
+{
+  "merchant": "SWC ENTERPRISE",
+  "receipt_date": "28/03/2018",
+  "receipt_number": "00518087100028",
+  "items": [
+    {
+      "name": "PD",
+      "quantity": 1.0,
+      "unit_price": 3.2,
+      "total_price": 3.2
+    },
+    {
+      "name": "Saving",
+      "quantity": 1.0,
+      "unit_price": 3.8,
+      "total_price": 3.8
+    }
+  ],
+  "subtotal": 30.0,
+  "discount": null,
+  "tax": 30.0,
+  "total": 30.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.996,
+  "raw_text": "SWC ENTERPRISE\nSDN BHD\n(1125830-V)\n5-7, JALAN MAHAGONI 7/1\nSEKSYEN 4, BANDAR UTAMA, 44300\nBATANG KALI, SELANGOR\n03-60571377\nGST\n002017808384\nTax Invoice No : 00518087100028\n005002(BATANGKALI-2)\n8\n002\n28/03/2018 10:36:13\nOPEN CODE-SR ITEM\n0025679 U\n3x8.00\n24.00 S\n0025679 U\n1×7.00\n7.00 S\nPD 3.20\n-3.80\nAuthorize : BATANGKALI-S\nSTAR 12X13 (1X180)\n0020323 PKT\n1×1.00\n1.00 S\nSTAR 15X16 AA (1X120)\n0020324 PKT\n1x1.80\n1.80 S\nItem 4\nSubTotal Incl GST\n30.00\nQty 6\nSpec.Disc\n0.00\nSaving 3.80\nRounding\n0.00\nTotal\n30.00\nCash\n50.00\nChange\n20.00\nGST Summary\nAmount(RM)\nTax(RM)\nS(6%)\n28.30\n1.70\n28/03/2018 10:36:13\nGOODS SOLD ONLY EXCHANGEABLE WITHIN 3 DAYS\nGOODS SOLD ARE NOT REFUNDABLE\nTHANK YOU FOR YOUR KIND SUPPORT\nPLEASE COME AGAIN",
+  "warnings": [],
+  "receipt_id": "X51005712038",
+  "source_image": "X51005712038.jpg",
+  "ocr_confidence": 0.992
+}

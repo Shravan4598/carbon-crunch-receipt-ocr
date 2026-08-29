@@ -1,0 +1,42 @@
+{
+  "merchant": "MR. D.1.Y. (M) SDN BHD",
+  "receipt_date": "18-03-18",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 6.6,
+      "total_price": 6.6
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 43.4,
+      "total_price": 43.4
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 0.37,
+      "total_price": 0.37
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 6.6,
+  "total": 0.37,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.87,
+  "raw_text": "31803041\nMR. D.1.Y. (M) SDN BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\nPP WATER FILTER CARTRIDGE INDOOR 1S\n*S\nWA38- 100\n9690059\n2 X 3.30\n6.60\nItem(s) : 1\nQty(s) : 2\nTotal Incl. GST@6%\nRM 6.60\nCASH\nRM 50.00\nCHANGE\nRM 43.40\nGST @6% included in total\nRM 0.37\n*\n-*\n18-03-18 12:09 SH01 ZJ86\nT3 R000060580\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND.",
+  "warnings": [],
+  "receipt_id": "X51005757292",
+  "source_image": "X51005757292.jpg",
+  "ocr_confidence": 0.978
+}

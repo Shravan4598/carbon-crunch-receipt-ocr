@@ -1,0 +1,1322 @@
+{
+  "receipt_id": "X51005605334",
+  "source_image": "X51005605334.jpg",
+  "ocr_confidence": 0.993,
+  "lines": [
+    {
+      "text": "POPULAR BOOK",
+      "confidence": 1.0
+    },
+    {
+      "text": "CO. (M) SDN BHD",
+      "confidence": 0.9959
+    },
+    {
+      "text": "(Co. No. 113825-W)",
+      "confidence": 0.9903
+    },
+    {
+      "text": "(GST Reg No. 001492992000)",
+      "confidence": 0.9939
+    },
+    {
+      "text": "No 8, Jalan 7/118B, Desa Tun Razak",
+      "confidence": 0.9934
+    },
+    {
+      "text": "56000 Kuala Lumpur, Malaysia",
+      "confidence": 0.9988
+    },
+    {
+      "text": "SUNWAY VELOCITY",
+      "confidence": 0.9736
+    },
+    {
+      "text": "Tel : 03-9201 6281/6920",
+      "confidence": 0.9659
+    },
+    {
+      "text": "29/03/18 13:24",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Slip No.: 0010111111",
+      "confidence": 0.999
+    },
+    {
+      "text": "WONG HUI LING",
+      "confidence": 1.0
+    },
+    {
+      "text": "Trans: 121722",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Description",
+      "confidence": 1.0
+    },
+    {
+      "text": "Amount",
+      "confidence": 1.0
+    },
+    {
+      "text": "PB SHT/P 11H A4 10'S C/0.",
+      "confidence": 0.9966
+    },
+    {
+      "text": "2pc @ 3.50",
+      "confidence": 0.9981
+    },
+    {
+      "text": "7.00 T",
+      "confidence": 0.9989
+    },
+    {
+      "text": "R RING 500'S",
+      "confidence": 0.9999
+    },
+    {
+      "text": "2.65 T",
+      "confidence": 0.9505
+    },
+    {
+      "text": "Total RM Incl. of GST",
+      "confidence": 0.9991
+    },
+    {
+      "text": "9.65",
+      "confidence": 0.9812
+    },
+    {
+      "text": "Cash",
+      "confidence": 1.0
+    },
+    {
+      "text": "-50.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 1.0
+    },
+    {
+      "text": "40.35",
+      "confidence": 1.0
+    },
+    {
+      "text": "Item Count",
+      "confidence": 0.9999
+    },
+    {
+      "text": "3",
+      "confidence": 1.0
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 1.0
+    },
+    {
+      "text": "Amount (RM)",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Tax (RM)",
+      "confidence": 0.9765
+    },
+    {
+      "text": "T @ 6%",
+      "confidence": 0.9344
+    },
+    {
+      "text": "9.10",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.55",
+      "confidence": 1.0
+    },
+    {
+      "text": "Total Savings",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "BE A POPULAR CARD MEMBER",
+      "confidence": 0.9825
+    },
+    {
+      "text": "AND ENJOY SPECIAL DISCOUNTS",
+      "confidence": 1.0
+    },
+    {
+      "text": "THANK YOU. PLEASE COME AGAIN.",
+      "confidence": 0.9995
+    },
+    {
+      "text": "www.popular.com.my",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Buy Chinese books online",
+      "confidence": 1.0
+    },
+    {
+      "text": "www.popularonline.com.my",
+      "confidence": 1.0
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "POPULAR BOOK",
+      "confidence": 1.0,
+      "box": [
+        135,
+        121,
+        567,
+        187
+      ],
+      "polygon": [
+        [
+          135,
+          121
+        ],
+        [
+          567,
+          121
+        ],
+        [
+          567,
+          187
+        ],
+        [
+          135,
+          187
+        ]
+      ]
+    },
+    {
+      "text": "CO. (M) SDN BHD",
+      "confidence": 0.9959,
+      "box": [
+        99,
+        187,
+        637,
+        255
+      ],
+      "polygon": [
+        [
+          99,
+          187
+        ],
+        [
+          637,
+          187
+        ],
+        [
+          637,
+          255
+        ],
+        [
+          99,
+          255
+        ]
+      ]
+    },
+    {
+      "text": "(Co. No. 113825-W)",
+      "confidence": 0.9903,
+      "box": [
+        192,
+        253,
+        510,
+        291
+      ],
+      "polygon": [
+        [
+          192,
+          253
+        ],
+        [
+          510,
+          253
+        ],
+        [
+          510,
+          291
+        ],
+        [
+          192,
+          291
+        ]
+      ]
+    },
+    {
+      "text": "(GST Reg No. 001492992000)",
+      "confidence": 0.9939,
+      "box": [
+        123,
+        293,
+        582,
+        328
+      ],
+      "polygon": [
+        [
+          123,
+          293
+        ],
+        [
+          582,
+          293
+        ],
+        [
+          582,
+          328
+        ],
+        [
+          123,
+          328
+        ]
+      ]
+    },
+    {
+      "text": "No 8, Jalan 7/118B, Desa Tun Razak",
+      "confidence": 0.9934,
+      "box": [
+        48,
+        328,
+        651,
+        364
+      ],
+      "polygon": [
+        [
+          48,
+          328
+        ],
+        [
+          651,
+          328
+        ],
+        [
+          651,
+          364
+        ],
+        [
+          48,
+          364
+        ]
+      ]
+    },
+    {
+      "text": "56000 Kuala Lumpur, Malaysia",
+      "confidence": 0.9988,
+      "box": [
+        99,
+        366,
+        602,
+        405
+      ],
+      "polygon": [
+        [
+          99,
+          366
+        ],
+        [
+          602,
+          368
+        ],
+        [
+          602,
+          405
+        ],
+        [
+          99,
+          403
+        ]
+      ]
+    },
+    {
+      "text": "SUNWAY VELOCITY",
+      "confidence": 0.9736,
+      "box": [
+        207,
+        407,
+        479,
+        443
+      ],
+      "polygon": [
+        [
+          207,
+          407
+        ],
+        [
+          479,
+          407
+        ],
+        [
+          479,
+          443
+        ],
+        [
+          207,
+          443
+        ]
+      ]
+    },
+    {
+      "text": "Tel : 03-9201 6281/6920",
+      "confidence": 0.9659,
+      "box": [
+        155,
+        485,
+        563,
+        521
+      ],
+      "polygon": [
+        [
+          155,
+          485
+        ],
+        [
+          563,
+          485
+        ],
+        [
+          563,
+          521
+        ],
+        [
+          155,
+          521
+        ]
+      ]
+    },
+    {
+      "text": "29/03/18 13:24",
+      "confidence": 0.9997,
+      "box": [
+        31,
+        564,
+        285,
+        601
+      ],
+      "polygon": [
+        [
+          31,
+          564
+        ],
+        [
+          285,
+          564
+        ],
+        [
+          285,
+          601
+        ],
+        [
+          31,
+          601
+        ]
+      ]
+    },
+    {
+      "text": "Slip No.: 0010111111",
+      "confidence": 0.999,
+      "box": [
+        331,
+        564,
+        688,
+        601
+      ],
+      "polygon": [
+        [
+          331,
+          564
+        ],
+        [
+          688,
+          564
+        ],
+        [
+          688,
+          601
+        ],
+        [
+          331,
+          601
+        ]
+      ]
+    },
+    {
+      "text": "WONG HUI LING",
+      "confidence": 1.0,
+      "box": [
+        31,
+        603,
+        265,
+        641
+      ],
+      "polygon": [
+        [
+          31,
+          603
+        ],
+        [
+          265,
+          603
+        ],
+        [
+          265,
+          641
+        ],
+        [
+          31,
+          641
+        ]
+      ]
+    },
+    {
+      "text": "Trans: 121722",
+      "confidence": 0.9981,
+      "box": [
+        386,
+        603,
+        620,
+        641
+      ],
+      "polygon": [
+        [
+          386,
+          603
+        ],
+        [
+          620,
+          603
+        ],
+        [
+          620,
+          641
+        ],
+        [
+          386,
+          641
+        ]
+      ]
+    },
+    {
+      "text": "Description",
+      "confidence": 1.0,
+      "box": [
+        27,
+        678,
+        229,
+        719
+      ],
+      "polygon": [
+        [
+          28,
+          678
+        ],
+        [
+          229,
+          682
+        ],
+        [
+          228,
+          719
+        ],
+        [
+          27,
+          715
+        ]
+      ]
+    },
+    {
+      "text": "Amount",
+      "confidence": 1.0,
+      "box": [
+        525,
+        680,
+        638,
+        717
+      ],
+      "polygon": [
+        [
+          525,
+          680
+        ],
+        [
+          638,
+          680
+        ],
+        [
+          638,
+          717
+        ],
+        [
+          525,
+          717
+        ]
+      ]
+    },
+    {
+      "text": "PB SHT/P 11H A4 10'S C/0.",
+      "confidence": 0.9966,
+      "box": [
+        31,
+        753,
+        468,
+        790
+      ],
+      "polygon": [
+        [
+          31,
+          753
+        ],
+        [
+          468,
+          753
+        ],
+        [
+          468,
+          790
+        ],
+        [
+          31,
+          790
+        ]
+      ]
+    },
+    {
+      "text": "2pc @ 3.50",
+      "confidence": 0.9981,
+      "box": [
+        82,
+        792,
+        265,
+        830
+      ],
+      "polygon": [
+        [
+          82,
+          792
+        ],
+        [
+          265,
+          792
+        ],
+        [
+          265,
+          830
+        ],
+        [
+          82,
+          830
+        ]
+      ]
+    },
+    {
+      "text": "7.00 T",
+      "confidence": 0.9989,
+      "box": [
+        580,
+        792,
+        691,
+        830
+      ],
+      "polygon": [
+        [
+          580,
+          792
+        ],
+        [
+          691,
+          792
+        ],
+        [
+          691,
+          830
+        ],
+        [
+          580,
+          830
+        ]
+      ]
+    },
+    {
+      "text": "R RING 500'S",
+      "confidence": 0.9999,
+      "box": [
+        29,
+        832,
+        245,
+        867
+      ],
+      "polygon": [
+        [
+          29,
+          832
+        ],
+        [
+          245,
+          832
+        ],
+        [
+          245,
+          867
+        ],
+        [
+          29,
+          867
+        ]
+      ]
+    },
+    {
+      "text": "2.65 T",
+      "confidence": 0.9505,
+      "box": [
+        578,
+        830,
+        691,
+        869
+      ],
+      "polygon": [
+        [
+          578,
+          830
+        ],
+        [
+          691,
+          830
+        ],
+        [
+          691,
+          869
+        ],
+        [
+          578,
+          869
+        ]
+      ]
+    },
+    {
+      "text": "Total RM Incl. of GST",
+      "confidence": 0.9991,
+      "box": [
+        31,
+        910,
+        406,
+        946
+      ],
+      "polygon": [
+        [
+          31,
+          910
+        ],
+        [
+          406,
+          910
+        ],
+        [
+          406,
+          946
+        ],
+        [
+          31,
+          946
+        ]
+      ]
+    },
+    {
+      "text": "9.65",
+      "confidence": 0.9812,
+      "box": [
+        576,
+        908,
+        657,
+        948
+      ],
+      "polygon": [
+        [
+          576,
+          908
+        ],
+        [
+          657,
+          908
+        ],
+        [
+          657,
+          948
+        ],
+        [
+          576,
+          948
+        ]
+      ]
+    },
+    {
+      "text": "Cash",
+      "confidence": 1.0,
+      "box": [
+        31,
+        951,
+        106,
+        985
+      ],
+      "polygon": [
+        [
+          31,
+          951
+        ],
+        [
+          106,
+          951
+        ],
+        [
+          106,
+          985
+        ],
+        [
+          31,
+          985
+        ]
+      ]
+    },
+    {
+      "text": "-50.00",
+      "confidence": 1.0,
+      "box": [
+        541,
+        948,
+        653,
+        985
+      ],
+      "polygon": [
+        [
+          541,
+          948
+        ],
+        [
+          653,
+          948
+        ],
+        [
+          653,
+          985
+        ],
+        [
+          541,
+          985
+        ]
+      ]
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 1.0,
+      "box": [
+        29,
+        989,
+        143,
+        1028
+      ],
+      "polygon": [
+        [
+          29,
+          989
+        ],
+        [
+          143,
+          989
+        ],
+        [
+          143,
+          1028
+        ],
+        [
+          29,
+          1028
+        ]
+      ]
+    },
+    {
+      "text": "40.35",
+      "confidence": 1.0,
+      "box": [
+        560,
+        989,
+        657,
+        1028
+      ],
+      "polygon": [
+        [
+          560,
+          989
+        ],
+        [
+          657,
+          989
+        ],
+        [
+          657,
+          1028
+        ],
+        [
+          560,
+          1028
+        ]
+      ]
+    },
+    {
+      "text": "Item Count",
+      "confidence": 0.9999,
+      "box": [
+        33,
+        1067,
+        209,
+        1099
+      ],
+      "polygon": [
+        [
+          33,
+          1067
+        ],
+        [
+          209,
+          1067
+        ],
+        [
+          209,
+          1099
+        ],
+        [
+          33,
+          1099
+        ]
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 1.0,
+      "box": [
+        631,
+        1067,
+        655,
+        1099
+      ],
+      "polygon": [
+        [
+          631,
+          1067
+        ],
+        [
+          655,
+          1067
+        ],
+        [
+          655,
+          1099
+        ],
+        [
+          631,
+          1099
+        ]
+      ]
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 1.0,
+      "box": [
+        29,
+        1103,
+        232,
+        1138
+      ],
+      "polygon": [
+        [
+          29,
+          1103
+        ],
+        [
+          232,
+          1103
+        ],
+        [
+          232,
+          1138
+        ],
+        [
+          29,
+          1138
+        ]
+      ]
+    },
+    {
+      "text": "Amount (RM)",
+      "confidence": 0.9991,
+      "box": [
+        258,
+        1103,
+        457,
+        1138
+      ],
+      "polygon": [
+        [
+          258,
+          1103
+        ],
+        [
+          457,
+          1103
+        ],
+        [
+          457,
+          1138
+        ],
+        [
+          258,
+          1138
+        ]
+      ]
+    },
+    {
+      "text": "Tax (RM)",
+      "confidence": 0.9765,
+      "box": [
+        507,
+        1101,
+        653,
+        1138
+      ],
+      "polygon": [
+        [
+          507,
+          1101
+        ],
+        [
+          653,
+          1101
+        ],
+        [
+          653,
+          1138
+        ],
+        [
+          507,
+          1138
+        ]
+      ]
+    },
+    {
+      "text": "T @ 6%",
+      "confidence": 0.9344,
+      "box": [
+        27,
+        1140,
+        143,
+        1178
+      ],
+      "polygon": [
+        [
+          27,
+          1140
+        ],
+        [
+          143,
+          1140
+        ],
+        [
+          143,
+          1178
+        ],
+        [
+          27,
+          1178
+        ]
+      ]
+    },
+    {
+      "text": "9.10",
+      "confidence": 1.0,
+      "box": [
+        382,
+        1142,
+        459,
+        1176
+      ],
+      "polygon": [
+        [
+          382,
+          1142
+        ],
+        [
+          459,
+          1142
+        ],
+        [
+          459,
+          1176
+        ],
+        [
+          382,
+          1176
+        ]
+      ]
+    },
+    {
+      "text": "0.55",
+      "confidence": 1.0,
+      "box": [
+        578,
+        1140,
+        655,
+        1179
+      ],
+      "polygon": [
+        [
+          578,
+          1140
+        ],
+        [
+          655,
+          1140
+        ],
+        [
+          655,
+          1179
+        ],
+        [
+          578,
+          1179
+        ]
+      ]
+    },
+    {
+      "text": "Total Savings",
+      "confidence": 1.0,
+      "box": [
+        29,
+        1217,
+        262,
+        1254
+      ],
+      "polygon": [
+        [
+          29,
+          1217
+        ],
+        [
+          262,
+          1217
+        ],
+        [
+          262,
+          1254
+        ],
+        [
+          29,
+          1254
+        ]
+      ]
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0,
+      "box": [
+        578,
+        1217,
+        657,
+        1256
+      ],
+      "polygon": [
+        [
+          578,
+          1217
+        ],
+        [
+          657,
+          1217
+        ],
+        [
+          657,
+          1256
+        ],
+        [
+          578,
+          1256
+        ]
+      ]
+    },
+    {
+      "text": "BE A POPULAR CARD MEMBER",
+      "confidence": 0.9825,
+      "box": [
+        135,
+        1297,
+        565,
+        1333
+      ],
+      "polygon": [
+        [
+          135,
+          1297
+        ],
+        [
+          565,
+          1297
+        ],
+        [
+          565,
+          1333
+        ],
+        [
+          135,
+          1333
+        ]
+      ]
+    },
+    {
+      "text": "AND ENJOY SPECIAL DISCOUNTS",
+      "confidence": 1.0,
+      "box": [
+        117,
+        1335,
+        600,
+        1374
+      ],
+      "polygon": [
+        [
+          117,
+          1335
+        ],
+        [
+          600,
+          1337
+        ],
+        [
+          600,
+          1374
+        ],
+        [
+          117,
+          1372
+        ]
+      ]
+    },
+    {
+      "text": "THANK YOU. PLEASE COME AGAIN.",
+      "confidence": 0.9995,
+      "box": [
+        101,
+        1374,
+        609,
+        1410
+      ],
+      "polygon": [
+        [
+          101,
+          1374
+        ],
+        [
+          609,
+          1374
+        ],
+        [
+          609,
+          1410
+        ],
+        [
+          101,
+          1410
+        ]
+      ]
+    },
+    {
+      "text": "www.popular.com.my",
+      "confidence": 0.9999,
+      "box": [
+        190,
+        1417,
+        510,
+        1447
+      ],
+      "polygon": [
+        [
+          190,
+          1417
+        ],
+        [
+          510,
+          1417
+        ],
+        [
+          510,
+          1447
+        ],
+        [
+          190,
+          1447
+        ]
+      ]
+    },
+    {
+      "text": "Buy Chinese books online",
+      "confidence": 1.0,
+      "box": [
+        135,
+        1451,
+        562,
+        1486
+      ],
+      "polygon": [
+        [
+          135,
+          1451
+        ],
+        [
+          562,
+          1451
+        ],
+        [
+          562,
+          1486
+        ],
+        [
+          135,
+          1486
+        ]
+      ]
+    },
+    {
+      "text": "www.popularonline.com.my",
+      "confidence": 1.0,
+      "box": [
+        133,
+        1486,
+        567,
+        1526
+      ],
+      "polygon": [
+        [
+          134,
+          1486
+        ],
+        [
+          567,
+          1488
+        ],
+        [
+          567,
+          1526
+        ],
+        [
+          133,
+          1524
+        ]
+      ]
+    }
+  ],
+  "raw_text": "POPULAR BOOK\nCO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nSUNWAY VELOCITY\nTel : 03-9201 6281/6920\n29/03/18 13:24\nSlip No.: 0010111111\nWONG HUI LING\nTrans: 121722\nDescription\nAmount\nPB SHT/P 11H A4 10'S C/0.\n2pc @ 3.50\n7.00 T\nR RING 500'S\n2.65 T\nTotal RM Incl. of GST\n9.65\nCash\n-50.00\nCHANGE\n40.35\nItem Count\n3\nGST Summary\nAmount (RM)\nTax (RM)\nT @ 6%\n9.10\n0.55\nTotal Savings\n0.00\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+}

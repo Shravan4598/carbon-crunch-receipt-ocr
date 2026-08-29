@@ -1,0 +1,19 @@
+{
+  "merchant": "MYDIN",
+  "receipt_date": "10/08/2017",
+  "receipt_number": "322563",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 20.19,
+  "total": 21.4,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.836,
+  "raw_text": "MYDIN\nTRI SHAAS SDN BHD (728515-M)\nMYDIN MART SRI MUDA\n4-20, Jalan Ria 25/62 Taman Sri Muda\nSeksyen 25, 40400 Shah Alam Selangor\nTel : 03-51217970 Fax : 03-51218059\nGST ID: 000429166592\nRECEIPT\nTerminal: 195 - 5505P0S011\nTrans # : 322563\nDate\n: 10/08/2017 03:26:21PM\nCashier : CH107004\nMSM - ALMIDAH\nPARTNER E/LOPE 4.5INX9.5IN W4292 EA\n.S\n9555023304662\n2\n2.60\n5.20\nPLASTIC BAG RMO.20\nEA\n.S\n2300000017984\n0.20\n0.20\n*\nTEN Q E/LOPE 15INX10IN TQ-S1015 EA\n.s\n9555023307724\n2*\n2.50\n5.00\nUMOE S/NT 100MX75M, N/GRN\nEA\n.S\n9555495401722\n3.00\n3.00\n*\nUMOE S/NT 100MX75M, N/YLW\nEA\n.S\n5555495400985\n*\n3.00\n3.00\nUMOE S/NT 50MX38M, N/YLW\nEA\n.S\n9555495400961\n2.50\n2.50\nUMOE S/NT 75MX50M, N/PINK\nEA\n.S\n9555495401814\n2.50\n2.50\nItem-fount\n9\nTota\n21.40\nRounding Adjustment\n0.00\nTotal AtterCRounding\n21.40\nCash\n50.00\nCHANGE\n28.60\nGST Rate\nAmt Excl GST(RM)\nTax(RM)\nS = 6%\n20.19\n1.21\n1 = 0%\n0.00\n0.00\nPoints Missed:\n20\nJoin our Meriah Loyalty Programme today!\n5605505001950000322563\nPrint Date: 10/08/2017 03:26:22PM\nAny request for production of full tax\ninvoice or related payment information\nshall be made within 3 months from the\ndate of purchase, failing which MYDIN at\nits absolute discretion as deem fit may\nreject or refuse to entertain such\nrequest\nThank You and Please Come Again",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005705760",
+  "source_image": "X51005705760.jpg",
+  "ocr_confidence": 0.981
+}

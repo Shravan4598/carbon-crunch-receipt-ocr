@@ -1,0 +1,26 @@
+{
+  "merchant": "baskinBRrobbins",
+  "receipt_date": null,
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 1.5,
+      "total_price": 1.5
+    }
+  ],
+  "subtotal": 21.5,
+  "discount": null,
+  "tax": 21.5,
+  "total": 21.5,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.84,
+  "raw_text": "baskinBRrobbins\nDesa Park City\nGolden Scoop SdnBhd (169609-A)\nA-16-1, Tower A, Northpoint Office, Mid Valley\nCity, No1, Medan Syed Putra Utara Kuala\nLumpur\nMalaysia\nGST ID: 001513148416\nOutlet Tel: (603) 62807131\nTax Invoice\nInvoice No\n:DPC11 53409-001-0006\nPOS No\n: DPC11\nCashier\n: DPC1PT1\nDate & time\n:16/02/201812:04:58\nDescription\nQty\nU.Price\nTotal(RM)\nDouble Rg. Cup\n1\n20.00\n20.00SR\nColour Rice\n1\n1.50\n1.50 SR\nSub Total\n21.50\nRounding adj.\n0\nTotal (Incl.GST)\n21.50\nCash (MYR)\n22.00\nCash Change:\n0.50\nGST\nTax Rate Sale (RM) Tax(RM\nSummary\nSR\n6.0%\n20.28\n1.22\nThank you! Please come again!\nwww.baskinrobbins.com.my\nding",
+  "warnings": [
+    "Receipt date could not be identified."
+  ],
+  "receipt_id": "X51005719856",
+  "source_image": "X51005719856.jpg",
+  "ocr_confidence": 0.989
+}

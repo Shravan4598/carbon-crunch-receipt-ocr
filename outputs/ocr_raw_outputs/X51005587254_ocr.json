@@ -1,0 +1,1738 @@
+{
+  "receipt_id": "X51005587254",
+  "source_image": "X51005587254.jpg",
+  "ocr_confidence": 0.976,
+  "lines": [
+    {
+      "text": "TRI SHAAS SDN BHD (728515-M)",
+      "confidence": 0.9969
+    },
+    {
+      "text": "MYDIN MART SRI MUDA",
+      "confidence": 0.9991
+    },
+    {
+      "text": "4-20, Jalan Ria 25/62 Taman Sri Muda",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Seksyen 25, 40400 Shah Alam Selangor",
+      "confidence": 0.9943
+    },
+    {
+      "text": "Tel : 03-51217970. Fax : 03-51218059",
+      "confidence": 0.9316
+    },
+    {
+      "text": "GST ID:000429166592",
+      "confidence": 0.9997
+    },
+    {
+      "text": "RECEIPT",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Terminal: 188,-,5505P0S004",
+      "confidence": 0.9539
+    },
+    {
+      "text": "Trans # : 255018",
+      "confidence": 0.9975
+    },
+    {
+      "text": "Date",
+      "confidence": 1.0
+    },
+    {
+      "text": ": 13/03/2017 03:00:42PM",
+      "confidence": 0.9863
+    },
+    {
+      "text": "Cashier : CH110137",
+      "confidence": 0.9909
+    },
+    {
+      "text": "MSM - ROHINI",
+      "confidence": 0.9808
+    },
+    {
+      "text": "EVEREADY BAT H/D 1015 SW4 AA",
+      "confidence": 0.999
+    },
+    {
+      "text": "EA",
+      "confidence": 1.0
+    },
+    {
+      "text": ".s",
+      "confidence": 0.8633
+    },
+    {
+      "text": "8999002310564",
+      "confidence": 0.9736
+    },
+    {
+      "text": "2",
+      "confidence": 1.0
+    },
+    {
+      "text": "*",
+      "confidence": 0.9995
+    },
+    {
+      "text": "2.50",
+      "confidence": 1.0
+    },
+    {
+      "text": "5.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Item Count",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9997
+    },
+    {
+      "text": "2",
+      "confidence": 1.0
+    },
+    {
+      "text": "5.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Rounding Adjustment",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Total After Rounding",
+      "confidence": 0.9996
+    },
+    {
+      "text": "5.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cash",
+      "confidence": 1.0
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.999
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 1.0
+    },
+    {
+      "text": "5.00",
+      "confidence": 0.9451
+    },
+    {
+      "text": "GST Rate",
+      "confidence": 1.0
+    },
+    {
+      "text": "Amt Excl GST(RM)",
+      "confidence": 0.9745
+    },
+    {
+      "text": "Tax(RIM)",
+      "confidence": 0.9006
+    },
+    {
+      "text": "S = 6%",
+      "confidence": 0.8321
+    },
+    {
+      "text": "4.72",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.28",
+      "confidence": 1.0
+    },
+    {
+      "text": "2 = 0%",
+      "confidence": 0.9489
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CKTY",
+      "confidence": 0.5881
+    },
+    {
+      "text": "Points Missed?",
+      "confidence": 0.9551
+    },
+    {
+      "text": "Join our-Merian Loyalty Programme today!",
+      "confidence": 0.9527
+    },
+    {
+      "text": "6605505001880000255018",
+      "confidence": 1.0
+    },
+    {
+      "text": "Print Date: 13/03/2017 03:00:44PM",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Note: Any request for production of fuil",
+      "confidence": 0.9902
+    },
+    {
+      "text": "tax invoice must be made within 3 months",
+      "confidence": 1.0
+    },
+    {
+      "text": "from the date of purchase. If the request",
+      "confidence": 0.9907
+    },
+    {
+      "text": "is not made within the prescribed",
+      "confidence": 0.9884
+    },
+    {
+      "text": "time frame,NYDIN may based on its absolute",
+      "confidence": 0.9899
+    },
+    {
+      "text": "discretion reject the request.",
+      "confidence": 1.0
+    },
+    {
+      "text": "Thank You and Please Come Again",
+      "confidence": 1.0
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "TRI SHAAS SDN BHD (728515-M)",
+      "confidence": 0.9969,
+      "box": [
+        284,
+        197,
+        744,
+        264
+      ],
+      "polygon": [
+        [
+          286,
+          197
+        ],
+        [
+          744,
+          217
+        ],
+        [
+          742,
+          264
+        ],
+        [
+          284,
+          244
+        ]
+      ]
+    },
+    {
+      "text": "MYDIN MART SRI MUDA",
+      "confidence": 0.9991,
+      "box": [
+        358,
+        240,
+        679,
+        297
+      ],
+      "polygon": [
+        [
+          360,
+          240
+        ],
+        [
+          679,
+          255
+        ],
+        [
+          677,
+          297
+        ],
+        [
+          358,
+          282
+        ]
+      ]
+    },
+    {
+      "text": "4-20, Jalan Ria 25/62 Taman Sri Muda",
+      "confidence": 0.9996,
+      "box": [
+        217,
+        273,
+        804,
+        344
+      ],
+      "polygon": [
+        [
+          219,
+          273
+        ],
+        [
+          804,
+          297
+        ],
+        [
+          802,
+          344
+        ],
+        [
+          217,
+          320
+        ]
+      ]
+    },
+    {
+      "text": "Seksyen 25, 40400 Shah Alam Selangor",
+      "confidence": 0.9943,
+      "box": [
+        212,
+        315,
+        802,
+        382
+      ],
+      "polygon": [
+        [
+          214,
+          315
+        ],
+        [
+          802,
+          340
+        ],
+        [
+          800,
+          382
+        ],
+        [
+          212,
+          357
+        ]
+      ]
+    },
+    {
+      "text": "Tel : 03-51217970. Fax : 03-51218059",
+      "confidence": 0.9316,
+      "box": [
+        212,
+        355,
+        801,
+        417
+      ],
+      "polygon": [
+        [
+          214,
+          355
+        ],
+        [
+          801,
+          377
+        ],
+        [
+          800,
+          417
+        ],
+        [
+          212,
+          395
+        ]
+      ]
+    },
+    {
+      "text": "GST ID:000429166592",
+      "confidence": 0.9997,
+      "box": [
+        337,
+        395,
+        672,
+        453
+      ],
+      "polygon": [
+        [
+          339,
+          395
+        ],
+        [
+          672,
+          410
+        ],
+        [
+          670,
+          453
+        ],
+        [
+          337,
+          437
+        ]
+      ]
+    },
+    {
+      "text": "RECEIPT",
+      "confidence": 0.9999,
+      "box": [
+        444,
+        477,
+        572,
+        528
+      ],
+      "polygon": [
+        [
+          446,
+          477
+        ],
+        [
+          572,
+          483
+        ],
+        [
+          570,
+          528
+        ],
+        [
+          444,
+          522
+        ]
+      ]
+    },
+    {
+      "text": "Terminal: 188,-,5505P0S004",
+      "confidence": 0.9539,
+      "box": [
+        155,
+        546,
+        584,
+        603
+      ],
+      "polygon": [
+        [
+          156,
+          546
+        ],
+        [
+          584,
+          561
+        ],
+        [
+          582,
+          603
+        ],
+        [
+          155,
+          588
+        ]
+      ]
+    },
+    {
+      "text": "Trans # : 255018",
+      "confidence": 0.9975,
+      "box": [
+        152,
+        586,
+        422,
+        636
+      ],
+      "polygon": [
+        [
+          154,
+          586
+        ],
+        [
+          422,
+          594
+        ],
+        [
+          421,
+          636
+        ],
+        [
+          152,
+          628
+        ]
+      ]
+    },
+    {
+      "text": "Date",
+      "confidence": 1.0,
+      "box": [
+        155,
+        629,
+        231,
+        669
+      ],
+      "polygon": [
+        [
+          155,
+          629
+        ],
+        [
+          231,
+          629
+        ],
+        [
+          231,
+          669
+        ],
+        [
+          155,
+          669
+        ]
+      ]
+    },
+    {
+      "text": ": 13/03/2017 03:00:42PM",
+      "confidence": 0.9863,
+      "box": [
+        275,
+        626,
+        660,
+        688
+      ],
+      "polygon": [
+        [
+          277,
+          626
+        ],
+        [
+          660,
+          641
+        ],
+        [
+          659,
+          688
+        ],
+        [
+          275,
+          673
+        ]
+      ]
+    },
+    {
+      "text": "Cashier : CH110137",
+      "confidence": 0.9909,
+      "box": [
+        150,
+        663,
+        450,
+        716
+      ],
+      "polygon": [
+        [
+          151,
+          663
+        ],
+        [
+          450,
+          674
+        ],
+        [
+          448,
+          716
+        ],
+        [
+          150,
+          706
+        ]
+      ]
+    },
+    {
+      "text": "MSM - ROHINI",
+      "confidence": 0.9808,
+      "box": [
+        305,
+        708,
+        512,
+        756
+      ],
+      "polygon": [
+        [
+          306,
+          708
+        ],
+        [
+          512,
+          714
+        ],
+        [
+          511,
+          756
+        ],
+        [
+          305,
+          751
+        ]
+      ]
+    },
+    {
+      "text": "EVEREADY BAT H/D 1015 SW4 AA",
+      "confidence": 0.999,
+      "box": [
+        143,
+        779,
+        605,
+        839
+      ],
+      "polygon": [
+        [
+          145,
+          779
+        ],
+        [
+          605,
+          796
+        ],
+        [
+          603,
+          839
+        ],
+        [
+          143,
+          821
+        ]
+      ]
+    },
+    {
+      "text": "EA",
+      "confidence": 1.0,
+      "box": [
+        676,
+        800,
+        720,
+        843
+      ],
+      "polygon": [
+        [
+          676,
+          800
+        ],
+        [
+          720,
+          800
+        ],
+        [
+          720,
+          843
+        ],
+        [
+          676,
+          843
+        ]
+      ]
+    },
+    {
+      "text": ".s",
+      "confidence": 0.8633,
+      "box": [
+        788,
+        799,
+        835,
+        850
+      ],
+      "polygon": [
+        [
+          796,
+          799
+        ],
+        [
+          835,
+          806
+        ],
+        [
+          827,
+          850
+        ],
+        [
+          788,
+          843
+        ]
+      ]
+    },
+    {
+      "text": "8999002310564",
+      "confidence": 0.9736,
+      "box": [
+        141,
+        819,
+        364,
+        869
+      ],
+      "polygon": [
+        [
+          142,
+          819
+        ],
+        [
+          364,
+          827
+        ],
+        [
+          362,
+          869
+        ],
+        [
+          141,
+          861
+        ]
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 1.0,
+      "box": [
+        465,
+        836,
+        493,
+        871
+      ],
+      "polygon": [
+        [
+          465,
+          836
+        ],
+        [
+          493,
+          836
+        ],
+        [
+          493,
+          871
+        ],
+        [
+          465,
+          871
+        ]
+      ]
+    },
+    {
+      "text": "*",
+      "confidence": 0.9995,
+      "box": [
+        523,
+        838,
+        556,
+        871
+      ],
+      "polygon": [
+        [
+          523,
+          838
+        ],
+        [
+          556,
+          838
+        ],
+        [
+          556,
+          871
+        ],
+        [
+          523,
+          871
+        ]
+      ]
+    },
+    {
+      "text": "2.50",
+      "confidence": 1.0,
+      "box": [
+        603,
+        830,
+        686,
+        884
+      ],
+      "polygon": [
+        [
+          607,
+          830
+        ],
+        [
+          686,
+          837
+        ],
+        [
+          682,
+          884
+        ],
+        [
+          603,
+          877
+        ]
+      ]
+    },
+    {
+      "text": "5.00",
+      "confidence": 0.9998,
+      "box": [
+        749,
+        835,
+        832,
+        888
+      ],
+      "polygon": [
+        [
+          753,
+          835
+        ],
+        [
+          832,
+          842
+        ],
+        [
+          828,
+          888
+        ],
+        [
+          749,
+          882
+        ]
+      ]
+    },
+    {
+      "text": "Item Count",
+      "confidence": 0.9995,
+      "box": [
+        138,
+        897,
+        308,
+        944
+      ],
+      "polygon": [
+        [
+          140,
+          897
+        ],
+        [
+          308,
+          902
+        ],
+        [
+          307,
+          944
+        ],
+        [
+          138,
+          939
+        ]
+      ]
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9997,
+      "box": [
+        136,
+        934,
+        230,
+        983
+      ],
+      "polygon": [
+        [
+          139,
+          934
+        ],
+        [
+          230,
+          940
+        ],
+        [
+          227,
+          983
+        ],
+        [
+          136,
+          976
+        ]
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 1.0,
+      "box": [
+        803,
+        928,
+        826,
+        963
+      ],
+      "polygon": [
+        [
+          803,
+          928
+        ],
+        [
+          826,
+          928
+        ],
+        [
+          826,
+          963
+        ],
+        [
+          803,
+          963
+        ]
+      ]
+    },
+    {
+      "text": "5.00",
+      "confidence": 1.0,
+      "box": [
+        748,
+        958,
+        826,
+        1003
+      ],
+      "polygon": [
+        [
+          748,
+          958
+        ],
+        [
+          826,
+          958
+        ],
+        [
+          826,
+          1003
+        ],
+        [
+          748,
+          1003
+        ]
+      ]
+    },
+    {
+      "text": "Rounding Adjustment",
+      "confidence": 1.0,
+      "box": [
+        134,
+        974,
+        450,
+        1029
+      ],
+      "polygon": [
+        [
+          135,
+          974
+        ],
+        [
+          450,
+          987
+        ],
+        [
+          448,
+          1029
+        ],
+        [
+          134,
+          1017
+        ]
+      ]
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999,
+      "box": [
+        750,
+        1001,
+        822,
+        1038
+      ],
+      "polygon": [
+        [
+          750,
+          1001
+        ],
+        [
+          822,
+          1001
+        ],
+        [
+          822,
+          1038
+        ],
+        [
+          750,
+          1038
+        ]
+      ]
+    },
+    {
+      "text": "Total After Rounding",
+      "confidence": 0.9996,
+      "box": [
+        136,
+        1012,
+        466,
+        1067
+      ],
+      "polygon": [
+        [
+          138,
+          1012
+        ],
+        [
+          466,
+          1025
+        ],
+        [
+          464,
+          1067
+        ],
+        [
+          136,
+          1054
+        ]
+      ]
+    },
+    {
+      "text": "5.00",
+      "confidence": 1.0,
+      "box": [
+        743,
+        1036,
+        822,
+        1081
+      ],
+      "polygon": [
+        [
+          743,
+          1036
+        ],
+        [
+          822,
+          1036
+        ],
+        [
+          822,
+          1081
+        ],
+        [
+          743,
+          1081
+        ]
+      ]
+    },
+    {
+      "text": "Cash",
+      "confidence": 1.0,
+      "box": [
+        126,
+        1087,
+        207,
+        1138
+      ],
+      "polygon": [
+        [
+          130,
+          1087
+        ],
+        [
+          207,
+          1093
+        ],
+        [
+          203,
+          1138
+        ],
+        [
+          126,
+          1131
+        ]
+      ]
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.999,
+      "box": [
+        729,
+        1114,
+        819,
+        1156
+      ],
+      "polygon": [
+        [
+          729,
+          1114
+        ],
+        [
+          819,
+          1114
+        ],
+        [
+          819,
+          1156
+        ],
+        [
+          729,
+          1156
+        ]
+      ]
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 1.0,
+      "box": [
+        124,
+        1165,
+        235,
+        1215
+      ],
+      "polygon": [
+        [
+          127,
+          1165
+        ],
+        [
+          235,
+          1171
+        ],
+        [
+          232,
+          1215
+        ],
+        [
+          124,
+          1209
+        ]
+      ]
+    },
+    {
+      "text": "5.00",
+      "confidence": 0.9451,
+      "box": [
+        733,
+        1186,
+        816,
+        1237
+      ],
+      "polygon": [
+        [
+          736,
+          1186
+        ],
+        [
+          816,
+          1192
+        ],
+        [
+          812,
+          1237
+        ],
+        [
+          733,
+          1230
+        ]
+      ]
+    },
+    {
+      "text": "GST Rate",
+      "confidence": 1.0,
+      "box": [
+        120,
+        1245,
+        262,
+        1293
+      ],
+      "polygon": [
+        [
+          122,
+          1245
+        ],
+        [
+          262,
+          1251
+        ],
+        [
+          260,
+          1293
+        ],
+        [
+          120,
+          1287
+        ]
+      ]
+    },
+    {
+      "text": "Amt Excl GST(RM)",
+      "confidence": 0.9745,
+      "box": [
+        331,
+        1252,
+        595,
+        1305
+      ],
+      "polygon": [
+        [
+          332,
+          1252
+        ],
+        [
+          595,
+          1262
+        ],
+        [
+          594,
+          1305
+        ],
+        [
+          331,
+          1294
+        ]
+      ]
+    },
+    {
+      "text": "Tax(RIM)",
+      "confidence": 0.9006,
+      "box": [
+        671,
+        1264,
+        792,
+        1314
+      ],
+      "polygon": [
+        [
+          673,
+          1264
+        ],
+        [
+          792,
+          1270
+        ],
+        [
+          790,
+          1314
+        ],
+        [
+          671,
+          1308
+        ]
+      ]
+    },
+    {
+      "text": "S = 6%",
+      "confidence": 0.8321,
+      "box": [
+        117,
+        1282,
+        230,
+        1331
+      ],
+      "polygon": [
+        [
+          120,
+          1282
+        ],
+        [
+          230,
+          1288
+        ],
+        [
+          228,
+          1331
+        ],
+        [
+          117,
+          1325
+        ]
+      ]
+    },
+    {
+      "text": "4.72",
+      "confidence": 0.9999,
+      "box": [
+        520,
+        1294,
+        601,
+        1345
+      ],
+      "polygon": [
+        [
+          524,
+          1294
+        ],
+        [
+          601,
+          1301
+        ],
+        [
+          597,
+          1345
+        ],
+        [
+          520,
+          1338
+        ]
+      ]
+    },
+    {
+      "text": "0.28",
+      "confidence": 1.0,
+      "box": [
+        715,
+        1307,
+        794,
+        1351
+      ],
+      "polygon": [
+        [
+          715,
+          1307
+        ],
+        [
+          794,
+          1307
+        ],
+        [
+          794,
+          1351
+        ],
+        [
+          715,
+          1351
+        ]
+      ]
+    },
+    {
+      "text": "2 = 0%",
+      "confidence": 0.9489,
+      "box": [
+        115,
+        1320,
+        228,
+        1371
+      ],
+      "polygon": [
+        [
+          117,
+          1320
+        ],
+        [
+          228,
+          1326
+        ],
+        [
+          225,
+          1371
+        ],
+        [
+          115,
+          1365
+        ]
+      ]
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0,
+      "box": [
+        519,
+        1337,
+        597,
+        1382
+      ],
+      "polygon": [
+        [
+          519,
+          1337
+        ],
+        [
+          597,
+          1337
+        ],
+        [
+          597,
+          1382
+        ],
+        [
+          519,
+          1382
+        ]
+      ]
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999,
+      "box": [
+        713,
+        1344,
+        792,
+        1389
+      ],
+      "polygon": [
+        [
+          713,
+          1344
+        ],
+        [
+          792,
+          1344
+        ],
+        [
+          792,
+          1389
+        ],
+        [
+          713,
+          1389
+        ]
+      ]
+    },
+    {
+      "text": "CKTY",
+      "confidence": 0.5881,
+      "box": [
+        329,
+        1389,
+        474,
+        1480
+      ],
+      "polygon": [
+        [
+          344,
+          1389
+        ],
+        [
+          474,
+          1428
+        ],
+        [
+          459,
+          1480
+        ],
+        [
+          329,
+          1441
+        ]
+      ]
+    },
+    {
+      "text": "Points Missed?",
+      "confidence": 0.9551,
+      "box": [
+        108,
+        1475,
+        353,
+        1531
+      ],
+      "polygon": [
+        [
+          110,
+          1475
+        ],
+        [
+          353,
+          1488
+        ],
+        [
+          350,
+          1531
+        ],
+        [
+          108,
+          1518
+        ]
+      ]
+    },
+    {
+      "text": "Join our-Merian Loyalty Programme today!",
+      "confidence": 0.9527,
+      "box": [
+        122,
+        1511,
+        778,
+        1587
+      ],
+      "polygon": [
+        [
+          124,
+          1511
+        ],
+        [
+          778,
+          1538
+        ],
+        [
+          776,
+          1587
+        ],
+        [
+          122,
+          1560
+        ]
+      ]
+    },
+    {
+      "text": "6605505001880000255018",
+      "confidence": 1.0,
+      "box": [
+        171,
+        1610,
+        737,
+        1674
+      ],
+      "polygon": [
+        [
+          172,
+          1610
+        ],
+        [
+          737,
+          1632
+        ],
+        [
+          735,
+          1674
+        ],
+        [
+          171,
+          1652
+        ]
+      ]
+    },
+    {
+      "text": "Print Date: 13/03/2017 03:00:44PM",
+      "confidence": 0.9998,
+      "box": [
+        101,
+        1678,
+        646,
+        1740
+      ],
+      "polygon": [
+        [
+          103,
+          1678
+        ],
+        [
+          646,
+          1698
+        ],
+        [
+          645,
+          1740
+        ],
+        [
+          101,
+          1720
+        ]
+      ]
+    },
+    {
+      "text": "Note: Any request for production of fuil",
+      "confidence": 0.9902,
+      "box": [
+        115,
+        1718,
+        769,
+        1785
+      ],
+      "polygon": [
+        [
+          117,
+          1718
+        ],
+        [
+          769,
+          1740
+        ],
+        [
+          768,
+          1785
+        ],
+        [
+          115,
+          1763
+        ]
+      ]
+    },
+    {
+      "text": "tax invoice must be made within 3 months",
+      "confidence": 1.0,
+      "box": [
+        113,
+        1758,
+        767,
+        1825
+      ],
+      "polygon": [
+        [
+          114,
+          1758
+        ],
+        [
+          767,
+          1783
+        ],
+        [
+          765,
+          1825
+        ],
+        [
+          113,
+          1800
+        ]
+      ]
+    },
+    {
+      "text": "from the date of purchase. If the request",
+      "confidence": 0.9907,
+      "box": [
+        97,
+        1796,
+        767,
+        1867
+      ],
+      "polygon": [
+        [
+          98,
+          1796
+        ],
+        [
+          767,
+          1823
+        ],
+        [
+          765,
+          1867
+        ],
+        [
+          97,
+          1840
+        ]
+      ]
+    },
+    {
+      "text": "is not made within the prescribed",
+      "confidence": 0.9884,
+      "box": [
+        159,
+        1838,
+        702,
+        1900
+      ],
+      "polygon": [
+        [
+          161,
+          1838
+        ],
+        [
+          702,
+          1858
+        ],
+        [
+          700,
+          1900
+        ],
+        [
+          159,
+          1881
+        ]
+      ]
+    },
+    {
+      "text": "time frame,NYDIN may based on its absolute",
+      "confidence": 0.9899,
+      "box": [
+        94,
+        1873,
+        781,
+        1943
+      ],
+      "polygon": [
+        [
+          96,
+          1873
+        ],
+        [
+          781,
+          1900
+        ],
+        [
+          779,
+          1943
+        ],
+        [
+          94,
+          1916
+        ]
+      ]
+    },
+    {
+      "text": "discretion reject the request.",
+      "confidence": 1.0,
+      "box": [
+        187,
+        1918,
+        679,
+        1978
+      ],
+      "polygon": [
+        [
+          189,
+          1918
+        ],
+        [
+          679,
+          1938
+        ],
+        [
+          677,
+          1978
+        ],
+        [
+          187,
+          1958
+        ]
+      ]
+    },
+    {
+      "text": "Thank You and Please Come Again",
+      "confidence": 1.0,
+      "box": [
+        187,
+        1956,
+        697,
+        2018
+      ],
+      "polygon": [
+        [
+          189,
+          1956
+        ],
+        [
+          697,
+          1976
+        ],
+        [
+          696,
+          2018
+        ],
+        [
+          187,
+          1998
+        ]
+      ]
+    }
+  ],
+  "raw_text": "TRI SHAAS SDN BHD (728515-M)\nMYDIN MART SRI MUDA\n4-20, Jalan Ria 25/62 Taman Sri Muda\nSeksyen 25, 40400 Shah Alam Selangor\nTel : 03-51217970. Fax : 03-51218059\nGST ID:000429166592\nRECEIPT\nTerminal: 188,-,5505P0S004\nTrans # : 255018\nDate\n: 13/03/2017 03:00:42PM\nCashier : CH110137\nMSM - ROHINI\nEVEREADY BAT H/D 1015 SW4 AA\nEA\n.s\n8999002310564\n2\n*\n2.50\n5.00\nItem Count\nTotal\n2\n5.00\nRounding Adjustment\n0.00\nTotal After Rounding\n5.00\nCash\n10.00\nCHANGE\n5.00\nGST Rate\nAmt Excl GST(RM)\nTax(RIM)\nS = 6%\n4.72\n0.28\n2 = 0%\n0.00\n0.00\nCKTY\nPoints Missed?\nJoin our-Merian Loyalty Programme today!\n6605505001880000255018\nPrint Date: 13/03/2017 03:00:44PM\nNote: Any request for production of fuil\ntax invoice must be made within 3 months\nfrom the date of purchase. If the request\nis not made within the prescribed\ntime frame,NYDIN may based on its absolute\ndiscretion reject the request.\nThank You and Please Come Again"
+}

@@ -1,0 +1,32 @@
+{
+  "merchant": "PASARAYA BORONG PINTAR",
+  "receipt_date": null,
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "ZRL",
+      "quantity": 1.0,
+      "unit_price": 1.6,
+      "total_price": 1.6
+    },
+    {
+      "name": "ZRL",
+      "quantity": 1.0,
+      "unit_price": 4.5,
+      "total_price": 4.5
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 8.2,
+  "total": 4.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.771,
+  "raw_text": "PASARAYA BORONG PINTAR\nSDN BHD\nBR No.: (124525-H)\nNO 19-G&19-1&19-2 JALAN TASIK UTAMA 4.\nMEDAN NIAGA TASIK DAMAI\n016-5498845,\nGST No. :\n14/03/20185:57:07PM\nTAX INVOICE\nTRN: CR0008964\nCOUNTER 3\nCASHIER: 1\nQTY UOM\nUNITAmt Exc. Amt Inc. GST\nPrice\nTax\nTax Code\nWALL'S TOPTEN CHOCOLATE 73ML\n1\nWALK\n1.60\n1.60\n1.60 ZRL\nWALL'S TOPTEN CHOCOLATE 73ML\n1\nWALK\n1.60\n1.60\n1.60 ZRL\nMAGNUM ALMOND 90ML\n1\nWALK\n4.50\n4.50\n4.50 ZRL\nCloud 9 plus 22g\n1\nWALK\n0.50\n0.50\n0.50\nZRL\n*Total Qty: 4.00\n8.20\nTotal Includes GST 0%\n8.20\nCustomer's Payment\nCash\n20.20\nChange\n12.00\nGST Summary\nAmount (RM)\nTax (RM)\nZRL=0%\n8.20\n0.00\n*Goods sold are not returnable\nThank you for shopping at PASARAYA\nBORONG PINTAR SDN BHD",
+  "warnings": [
+    "Receipt date could not be identified."
+  ],
+  "receipt_id": "X51005447840",
+  "source_image": "X51005447840.jpg",
+  "ocr_confidence": 0.992
+}

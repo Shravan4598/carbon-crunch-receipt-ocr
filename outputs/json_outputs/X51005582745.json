@@ -1,0 +1,19 @@
+{
+  "merchant": "MODERN DEPOT",
+  "receipt_date": "04/12/2016",
+  "receipt_number": "CS00090733",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 8.49,
+  "total": 8.49,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.835,
+  "raw_text": "MODERN DEPOT\nSDN BHD\n950345-T\nNO.19, PT18685, JALAN JAMBU MELAKA 2,\nJINJANG SELATAN, KEPONG.\nTEL: +603-6242 8076 FAX: +603-6242 8176\nGST NO: 002098102272\nCASH\nRECEIPT #: CS00090733 DATE: 04/12/2016\nSALESPERSON :\nTIME: 09:58:00\nCASHIER : THYE\nITEM\nQTY\nU/P\nAMOUNT\nCLSTEL670\n1\n141.51\n141.51\nSR:STEL670HEATGUN 2000W\"STANLEY\"\nS/N: 031274\nTOTAL QUANIITY\nqe\nSUB-TOTAL\n141.51\nDISC\n0.00\nTOTAL GST\n8.49\nTAX\n0.00\nROUNDING\n0.00\nTOTAL\n150-00\nCASH\n150.00\nCHANGE\n0.00\nGST SUMMARY\nCODE\nAMOUNT\n%\nTAX/AMT\nSR\n141.51\n6\n8.49\nTAX TOTAL:\n8.49\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.\n# GST @ 6% INCLUDED IN TOTAL",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005582745",
+  "source_image": "X51005582745.jpg",
+  "ocr_confidence": 0.978
+}

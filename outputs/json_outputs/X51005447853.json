@@ -1,0 +1,32 @@
+{
+  "merchant": "99 SPEED MART S/D (519537·X)",
+  "receipt_date": null,
+  "receipt_number": "for",
+  "items": [
+    {
+      "name": "05 X RM",
+      "quantity": 1.0,
+      "unit_price": 12.5,
+      "total_price": 12.5
+    },
+    {
+      "name": "05 X RM",
+      "quantity": 1.0,
+      "unit_price": 15.8,
+      "total_price": 15.8
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 141.5,
+  "total": 141.5,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.816,
+  "raw_text": "99 SPEED MART S/D (519537·X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SCLANGOR\n1317 TRILLIUM SB BESI\nGST ID.NO : 000101747712\nINVDICE NO: 18299/102/T0230\n568017\n05 02-18\n01:34PM\n2506 YONCCHUN LOKAM MNDRN S\nRM62.50 z\n05 X RM 12.50\n2508 YONGCHUN LOKAM MNDRN M\nRM79.00 z\n05 X RM 15.80\nTotal Sales (Inclusive GST)RM\n141.50\nCASH RM\n150.00\nCHANGE RM\n0.50\nGSTSummary\nAmount(RM)\nTax(RM)\nz = 0%\n141.50\n.00\nThank You. Please come again\nKeep the invoice for applicable returns",
+  "warnings": [
+    "Receipt date could not be identified."
+  ],
+  "receipt_id": "X51005447853",
+  "source_image": "X51005447853.jpg",
+  "ocr_confidence": 0.981
+}

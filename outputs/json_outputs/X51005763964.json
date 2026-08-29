@@ -1,0 +1,19 @@
+{
+  "merchant": "button",
+  "receipt_date": "06/01/2018",
+  "receipt_number": "CS00668594",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 3.72,
+  "total": 65.7,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.837,
+  "raw_text": "(0)\nbutton\nYONG CEN ENTERPRISE\n9, JALAN SUBANG JASA 3,\nTEL: 012-9719498\nGST NO: 001147981824\nCASH\nRECEIPT #: CS00668594 DATE: 06/01/2018\nSALESPERSON:\nTIME:10:47:00\nCOUNTER :\nITEM\nQTY\nU/P AMOUNT\n9555223500000\n24\n2.58 61.99\nSR:CHAMPIGNONS MUSHROOMS 425G(2 5833X\nTOTAL QUANTITY\n24\nSUB-TOTAL\n61.99\nDISC\n0.00\nGST\n3.72\n65270\nTAX\n0.00\nROUNDING\n-0.01\nTOTAL\n65.70\nCASH\n65.70\nCHANGE\n0.00\nGOODS SOLD ARE NOT RETURNABLE\nTHANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005763964",
+  "source_image": "X51005763964.jpg",
+  "ocr_confidence": 0.982
+}

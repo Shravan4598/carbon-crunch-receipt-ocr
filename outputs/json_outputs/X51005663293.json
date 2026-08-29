@@ -1,0 +1,24 @@
+{
+  "merchant": "SWEET FOREST CAFE",
+  "receipt_date": "14-02-2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 12.5,
+      "total_price": 12.5
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 28.58,
+  "total": 30.3,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.877,
+  "raw_text": "31802013\nSWEET FOREST CAFE\nNO 21,JLN BUNGA KANTAN\nTAMAN P.RAMLEE SETAPAK\n53000 KUALA LUMPUR.\n(GST Reg. No : 000465809408)\nTax Invoice\nTable 15\nINV No.: 593101\nPax(s): 2\nDate : 14-02-2018 13:02:42\nCashier: SIM ITAN WAI\nDescription\nQty\nU.price Total TAX\nSmoked Duck Spaghetti\n1 x\n12.50\n12.50 SR\nHot Green Tea\n1 x\n3.00\n3.00\nSR\nCoffee(H)\n1 x\n4.90\n4.90\nSR\nRendang Chicken Rice\n1 x\n9.90\n9.90\nSR\nTotal QTY: 4\nTotal (Excluding GST):\n28.58\nGST payable (6%):\n1.72\nTotal (Inclusive of GST):\n30.30\nTOTAL:\n30.30\nClosed: 001\n14-02-2018\n13:50:58\nServer: SIM JIAN WAI\n14/2/18\nCASH :\n50.00\nCHANGE :\n30.30\n19.70\nGST Summary\nAmount(RM)\nTax(RM)\nSR\n(@ 6%)\n28.58\n1.72/",
+  "warnings": [],
+  "receipt_id": "X51005663293",
+  "source_image": "X51005663293.jpg",
+  "ocr_confidence": 0.994
+}

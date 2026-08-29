@@ -1,0 +1,30 @@
+{
+  "merchant": "MR. D.I.Y. SDN BHD",
+  "receipt_date": "28-12-17",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 9.9,
+      "total_price": 9.9
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 9.9,
+  "total": 9.9,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.876,
+  "raw_text": "MR. D.I.Y. SDN BHD\n(CO.REG :704427-T)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :001092886528)\n(CHERAS LEISURE MALL)\n-TAX INVOICE-\nPADL0CK ST-P6150 50MM\n*S\nOZ02-12/48\n6942131561507\n1 X 9.90\n9.90\nItem(s) : 1\nQty(s): 1\nTotal Incl. GST@6%\nRM 9.90\nCASH\nRM 10.00\nCHANGE\nRM0.10\nGST Summary\nAmt(RM)\nTax(RM)\nGSTS@6%\n9.34\n0.56\n*\n*\n28-12-17 18:52 SH01 ZT09\nT1R000020832\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND.",
+  "warnings": [],
+  "receipt_id": "X51005568900",
+  "source_image": "X51005568900.jpg",
+  "ocr_confidence": 0.99
+}

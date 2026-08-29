@@ -1,0 +1,19 @@
+{
+  "merchant": "THE STORE (MALAYSIA) SDN BHD (8199K)",
+  "receipt_date": "14-01-2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 35.8,
+  "total": 35.8,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.789,
+  "raw_text": "THE STORE (MALAYSIA) SDN BHD (8199K)\nWWW.TSTORE.COM.MY\nLOT 34817 JALAN BATU AMBAR\nTAMAN KOK LIAN\n51200 KUALA LUMPUR,\nGST REG. NO : 000364929024\n14-01-2018 (Sun) 16:02\nRN:1012-3001-0094\nCASHIER:0009998 sandip rao\nUNI WORKER'S CARD (1-31) 100'S\n20000004300%\n40\n3.10\n12.40 S\nUNI A6 NOTE BOOK 120'S\n200000159202118@\n1.30\n23.40 8\nTOTAL ITEM\n22\nTOTAL SALES INCLUSIVE GST\n35.80\nTOTAL PAYABLE AMOUNT\n35.80\nCASH\n50.00\nCHANGE\n14.20\nGST SUMMARY\nAMOUNT(RM)\nTAX(RM)\nS: GST 6%\n33.82\n1.98\nZ: GST 0%\n0.00\n0.00\n33.82\n1.98\nMOHON KAD THE STORE DAN KUMPULKAN\nMATA GANJARAN HARI INI\nTERIMA KASIH KERANA MEMBELI BELAH\nDI THE STORE\nMARBLE COATING COOKWARE\n24 NOVEMBER 2017 - 4 MARCH 2018\nSTICKER(s)=1",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719896",
+  "source_image": "X51005719896.jpg",
+  "ocr_confidence": 0.986
+}

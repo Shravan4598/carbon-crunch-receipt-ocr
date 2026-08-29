@@ -1,0 +1,155 @@
+{
+  "image": "11.jpg",
+  "image_path": "data\\raw\\11.jpg",
+  "status": "success",
+  "ocr": {
+    "engine": "tesseract",
+    "engine_version": "5.5.3.20260724",
+    "image_width": 622,
+    "image_height": 768,
+    "line_count": 27,
+    "word_count": 138,
+    "average_confidence": 0.5786478542034098,
+    "processing_time_seconds": 0.4647895998787135,
+    "full_text": "ee ae = eh _\nae ~ -\npy 2\nFOODS Bre 8\nCaP . $y\ns Paitehe\nSHARON RD. MP ;\nee\n4 =\nB oe 6.99 PL TORTILLA’S “a ”\nB 3.69 CAGE FREE f ALL WHIT *\n> 2on8 = BLACK BEANS 1 i ‘\n. B a Frozen 2.99 Mansoes 160 ? *\na B Whole Strawberries 2.99 x\nB 0G LF COTTAGE CHEE 3.49 *\nMAHI MAHI B FILLETS 8.99 *\n“VC $2 off (1) WC 2.00- Fill .\nCalifornia B * Harvest 2.69\n1,08 @ Ib 1.99 /1b TARE .01 =\n“UT PLUMS BLACK CV 2.15 B\nITEM 4040 =\n359 9)aR) NHP SLICED OVEN RO\n3,998 NHP SLICED HICKORY\nTARE .01 1.64 lb @ 1.99 /lb =\nB UT 3.26 GALA APPLES OG\n94135 ITEM =\n45.44 TAX 93 BAL wane"
+  },
+  "receipt": {
+    "merchant": "ee ae eh",
+    "receipt_date": null,
+    "receipt_number": null,
+    "items": [
+      {
+        "name": "B oe PL TORTILLA’S “a ”",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 6.99,
+        "confidence": 0.7014285714285716
+      },
+      {
+        "name": "B CAGE FREE ALL WHIT *",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 3.69,
+        "confidence": 0.8600000000000001
+      },
+      {
+        "name": " B a Frozen Mansoes 160 ? *",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 2.99,
+        "confidence": 0.8144444444444445
+      },
+      {
+        "name": "a B Whole Strawberries x",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 2.99,
+        "confidence": 0.7366666666666668
+      },
+      {
+        "name": "B LF COTTAGE CHEE *",
+        "quantity": 0.0,
+        "unit_price": null,
+        "total_price": 3.49,
+        "confidence": 1.0
+      },
+      {
+        "name": "MAHI MAHI B FILLETS *",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 8.99,
+        "confidence": 0.9583333333333335
+      },
+      {
+        "name": "“VC $2 off (1) WC - Fill ",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 2.0,
+        "confidence": 0.82125
+      },
+      {
+        "name": "California B * Harvest",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 2.69,
+        "confidence": 1.0
+      },
+      {
+        "name": "1,08 @ Ib /1b TARE .01 =",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 1.99,
+        "confidence": 0.8650000000000001
+      },
+      {
+        "name": "“UT PLUMS BLACK CV B",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 2.15,
+        "confidence": 0.9733333333333335
+      },
+      {
+        "name": "TARE .01 /lb =",
+        "quantity": 1.64,
+        "unit_price": 1.99,
+        "total_price": 1.99,
+        "confidence": 0.9312500000000001
+      },
+      {
+        "name": "B UT GALA APPLES OG",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 3.26,
+        "confidence": 0.9950000000000001
+      }
+    ],
+    "subtotal": null,
+    "discount": null,
+    "tax": 45.44,
+    "total": null,
+    "payment_method": null,
+    "currency": "USD",
+    "extraction_confidence": 0.678648,
+    "raw_text": "ee ae = eh _\nae ~ -\npy 2\nFOODS Bre 8\nCaP . $y\ns Paitehe\nSHARON RD. MP ;\nee\n4 =\nB oe 6.99 PL TORTILLA’S “a ”\nB 3.69 CAGE FREE f ALL WHIT *\n> 2on8 = BLACK BEANS 1 i ‘\n. B a Frozen 2.99 Mansoes 160 ? *\na B Whole Strawberries 2.99 x\nB 0G LF COTTAGE CHEE 3.49 *\nMAHI MAHI B FILLETS 8.99 *\n“VC $2 off (1) WC 2.00- Fill .\nCalifornia B * Harvest 2.69\n1,08 @ Ib 1.99 /1b TARE .01 =\n“UT PLUMS BLACK CV 2.15 B\nITEM 4040 =\n359 9)aR) NHP SLICED OVEN RO\n3,998 NHP SLICED HICKORY\nTARE .01 1.64 lb @ 1.99 /lb =\nB UT 3.26 GALA APPLES OG\n94135 ITEM =\n45.44 TAX 93 BAL wane",
+    "warnings": [
+      "Receipt total could not be confidently identified.",
+      "OCR confidence is moderate; extracted fields should be reviewed."
+    ]
+  },
+  "validation": {
+    "is_valid": false,
+    "error_count": 1,
+    "warning_count": 3,
+    "issues": [
+      {
+        "field": "items[5].quantity",
+        "message": "Quantity must be greater than zero.",
+        "severity": "error"
+      },
+      {
+        "field": "payment_method",
+        "message": "Payment method could not be identified.",
+        "severity": "warning"
+      },
+      {
+        "field": "receipt_date",
+        "message": "Receipt date could not be identified.",
+        "severity": "warning"
+      },
+      {
+        "field": "total",
+        "message": "Receipt total could not be identified.",
+        "severity": "warning"
+      }
+    ]
+  },
+  "conflicts": {
+    "count": 1,
+    "items": [
+      "Item 11 price mismatch: quantity × unit price = 3.26, but total price = 1.99."
+    ]
+  },
+  "pipeline": {
+    "processing_time_seconds": 0.4822
+  }
+}

@@ -1,0 +1,842 @@
+{
+  "receipt_id": "X51005444045",
+  "source_image": "X51005444045.jpg",
+  "ocr_confidence": 0.984,
+  "lines": [
+    {
+      "text": "99 SPEED MART S/B (519537-X)",
+      "confidence": 0.9988
+    },
+    {
+      "text": "LOT P.T. 2811, JALAN ANGSA,",
+      "confidence": 0.9646
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9997
+    },
+    {
+      "text": "41150 KLANG, SELANGOR",
+      "confidence": 0.9892
+    },
+    {
+      "text": "1245-DESA SRI HARTAMAS",
+      "confidence": 0.9969
+    },
+    {
+      "text": "GST ID. NO : 000181747712",
+      "confidence": 0.9532
+    },
+    {
+      "text": "INVOICE NO : 18341/103/T0138",
+      "confidence": 0.9916
+    },
+    {
+      "text": "09:06PM",
+      "confidence": 0.9998
+    },
+    {
+      "text": "569547",
+      "confidence": 0.9999
+    },
+    {
+      "text": "19-03-18",
+      "confidence": 0.9999
+    },
+    {
+      "text": "103 SUNQUICK OREN 840ML",
+      "confidence": 0.985
+    },
+    {
+      "text": "RM11.40 s",
+      "confidence": 0.9522
+    },
+    {
+      "text": "Total Sales (Inclusive GST) RM",
+      "confidence": 0.997
+    },
+    {
+      "text": "11.40",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9958
+    },
+    {
+      "text": "11.40",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9995
+    },
+    {
+      "text": ".00",
+      "confidence": 0.9981
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9971
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9996
+    },
+    {
+      "text": "s = 6%",
+      "confidence": 0.9076
+    },
+    {
+      "text": "10.75",
+      "confidence": 0.9999
+    },
+    {
+      "text": ".65",
+      "confidence": 0.8745
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9949
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "99 SPEED MART S/B (519537-X)",
+      "confidence": 0.9988,
+      "box": [
+        135,
+        278,
+        561,
+        328
+      ],
+      "polygon": [
+        [
+          136,
+          278
+        ],
+        [
+          561,
+          287
+        ],
+        [
+          560,
+          328
+        ],
+        [
+          135,
+          319
+        ]
+      ]
+    },
+    {
+      "text": "LOT P.T. 2811, JALAN ANGSA,",
+      "confidence": 0.9646,
+      "box": [
+        148,
+        319,
+        558,
+        370
+      ],
+      "polygon": [
+        [
+          149,
+          319
+        ],
+        [
+          558,
+          328
+        ],
+        [
+          557,
+          370
+        ],
+        [
+          148,
+          361
+        ]
+      ]
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9997,
+      "box": [
+        239,
+        364,
+        460,
+        405
+      ],
+      "polygon": [
+        [
+          240,
+          364
+        ],
+        [
+          460,
+          367
+        ],
+        [
+          459,
+          405
+        ],
+        [
+          239,
+          402
+        ]
+      ]
+    },
+    {
+      "text": "41150 KLANG, SELANGOR",
+      "confidence": 0.9892,
+      "box": [
+        192,
+        405,
+        516,
+        451
+      ],
+      "polygon": [
+        [
+          193,
+          405
+        ],
+        [
+          516,
+          409
+        ],
+        [
+          516,
+          451
+        ],
+        [
+          192,
+          447
+        ]
+      ]
+    },
+    {
+      "text": "1245-DESA SRI HARTAMAS",
+      "confidence": 0.9969,
+      "box": [
+        176,
+        448,
+        514,
+        490
+      ],
+      "polygon": [
+        [
+          176,
+          448
+        ],
+        [
+          514,
+          453
+        ],
+        [
+          513,
+          490
+        ],
+        [
+          176,
+          485
+        ]
+      ]
+    },
+    {
+      "text": "GST ID. NO : 000181747712",
+      "confidence": 0.9532,
+      "box": [
+        162,
+        491,
+        544,
+        533
+      ],
+      "polygon": [
+        [
+          162,
+          491
+        ],
+        [
+          544,
+          495
+        ],
+        [
+          544,
+          533
+        ],
+        [
+          162,
+          529
+        ]
+      ]
+    },
+    {
+      "text": "INVOICE NO : 18341/103/T0138",
+      "confidence": 0.9916,
+      "box": [
+        144,
+        575,
+        570,
+        616
+      ],
+      "polygon": [
+        [
+          144,
+          575
+        ],
+        [
+          570,
+          579
+        ],
+        [
+          570,
+          616
+        ],
+        [
+          144,
+          612
+        ]
+      ]
+    },
+    {
+      "text": "09:06PM",
+      "confidence": 0.9998,
+      "box": [
+        53,
+        659,
+        167,
+        697
+      ],
+      "polygon": [
+        [
+          53,
+          659
+        ],
+        [
+          167,
+          659
+        ],
+        [
+          167,
+          697
+        ],
+        [
+          53,
+          697
+        ]
+      ]
+    },
+    {
+      "text": "569547",
+      "confidence": 0.9999,
+      "box": [
+        310,
+        663,
+        407,
+        699
+      ],
+      "polygon": [
+        [
+          310,
+          663
+        ],
+        [
+          407,
+          663
+        ],
+        [
+          407,
+          699
+        ],
+        [
+          310,
+          699
+        ]
+      ]
+    },
+    {
+      "text": "19-03-18",
+      "confidence": 0.9999,
+      "box": [
+        536,
+        665,
+        663,
+        703
+      ],
+      "polygon": [
+        [
+          536,
+          665
+        ],
+        [
+          663,
+          665
+        ],
+        [
+          663,
+          703
+        ],
+        [
+          536,
+          703
+        ]
+      ]
+    },
+    {
+      "text": "103 SUNQUICK OREN 840ML",
+      "confidence": 0.985,
+      "box": [
+        54,
+        741,
+        402,
+        780
+      ],
+      "polygon": [
+        [
+          54,
+          741
+        ],
+        [
+          402,
+          744
+        ],
+        [
+          401,
+          780
+        ],
+        [
+          54,
+          777
+        ]
+      ]
+    },
+    {
+      "text": "RM11.40 s",
+      "confidence": 0.9522,
+      "box": [
+        518,
+        745,
+        662,
+        783
+      ],
+      "polygon": [
+        [
+          518,
+          745
+        ],
+        [
+          662,
+          745
+        ],
+        [
+          662,
+          783
+        ],
+        [
+          518,
+          783
+        ]
+      ]
+    },
+    {
+      "text": "Total Sales (Inclusive GST) RM",
+      "confidence": 0.997,
+      "box": [
+        54,
+        825,
+        509,
+        865
+      ],
+      "polygon": [
+        [
+          54,
+          825
+        ],
+        [
+          509,
+          828
+        ],
+        [
+          509,
+          865
+        ],
+        [
+          54,
+          862
+        ]
+      ]
+    },
+    {
+      "text": "11.40",
+      "confidence": 0.9998,
+      "box": [
+        547,
+        826,
+        631,
+        866
+      ],
+      "polygon": [
+        [
+          547,
+          826
+        ],
+        [
+          631,
+          826
+        ],
+        [
+          631,
+          866
+        ],
+        [
+          547,
+          866
+        ]
+      ]
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9958,
+      "box": [
+        396,
+        867,
+        509,
+        905
+      ],
+      "polygon": [
+        [
+          396,
+          867
+        ],
+        [
+          509,
+          867
+        ],
+        [
+          509,
+          905
+        ],
+        [
+          396,
+          905
+        ]
+      ]
+    },
+    {
+      "text": "11.40",
+      "confidence": 0.9999,
+      "box": [
+        545,
+        867,
+        628,
+        907
+      ],
+      "polygon": [
+        [
+          545,
+          867
+        ],
+        [
+          628,
+          867
+        ],
+        [
+          628,
+          907
+        ],
+        [
+          545,
+          907
+        ]
+      ]
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9995,
+      "box": [
+        368,
+        908,
+        511,
+        946
+      ],
+      "polygon": [
+        [
+          368,
+          908
+        ],
+        [
+          511,
+          908
+        ],
+        [
+          511,
+          946
+        ],
+        [
+          368,
+          946
+        ]
+      ]
+    },
+    {
+      "text": ".00",
+      "confidence": 0.9981,
+      "box": [
+        577,
+        909,
+        630,
+        947
+      ],
+      "polygon": [
+        [
+          577,
+          909
+        ],
+        [
+          630,
+          909
+        ],
+        [
+          630,
+          947
+        ],
+        [
+          577,
+          947
+        ]
+      ]
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9991,
+      "box": [
+        50,
+        988,
+        227,
+        1035
+      ],
+      "polygon": [
+        [
+          50,
+          988
+        ],
+        [
+          227,
+          991
+        ],
+        [
+          226,
+          1035
+        ],
+        [
+          50,
+          1032
+        ]
+      ]
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9971,
+      "box": [
+        289,
+        991,
+        447,
+        1029
+      ],
+      "polygon": [
+        [
+          289,
+          991
+        ],
+        [
+          447,
+          991
+        ],
+        [
+          447,
+          1029
+        ],
+        [
+          289,
+          1029
+        ]
+      ]
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9996,
+      "box": [
+        532,
+        990,
+        644,
+        1029
+      ],
+      "polygon": [
+        [
+          532,
+          990
+        ],
+        [
+          644,
+          990
+        ],
+        [
+          644,
+          1029
+        ],
+        [
+          532,
+          1029
+        ]
+      ]
+    },
+    {
+      "text": "s = 6%",
+      "confidence": 0.9076,
+      "box": [
+        48,
+        1032,
+        151,
+        1071
+      ],
+      "polygon": [
+        [
+          48,
+          1032
+        ],
+        [
+          151,
+          1032
+        ],
+        [
+          151,
+          1071
+        ],
+        [
+          48,
+          1071
+        ]
+      ]
+    },
+    {
+      "text": "10.75",
+      "confidence": 0.9999,
+      "box": [
+        367,
+        1032,
+        451,
+        1071
+      ],
+      "polygon": [
+        [
+          367,
+          1032
+        ],
+        [
+          451,
+          1032
+        ],
+        [
+          451,
+          1071
+        ],
+        [
+          367,
+          1071
+        ]
+      ]
+    },
+    {
+      "text": ".65",
+      "confidence": 0.8745,
+      "box": [
+        590,
+        1033,
+        645,
+        1071
+      ],
+      "polygon": [
+        [
+          590,
+          1033
+        ],
+        [
+          645,
+          1033
+        ],
+        [
+          645,
+          1071
+        ],
+        [
+          590,
+          1071
+        ]
+      ]
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9991,
+      "box": [
+        130,
+        1160,
+        555,
+        1196
+      ],
+      "polygon": [
+        [
+          130,
+          1160
+        ],
+        [
+          555,
+          1160
+        ],
+        [
+          555,
+          1196
+        ],
+        [
+          130,
+          1196
+        ]
+      ]
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9949,
+      "box": [
+        53,
+        1202,
+        642,
+        1238
+      ],
+      "polygon": [
+        [
+          53,
+          1202
+        ],
+        [
+          642,
+          1202
+        ],
+        [
+          642,
+          1238
+        ],
+        [
+          53,
+          1238
+        ]
+      ]
+    }
+  ],
+  "raw_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1245-DESA SRI HARTAMAS\nGST ID. NO : 000181747712\nINVOICE NO : 18341/103/T0138\n09:06PM\n569547\n19-03-18\n103 SUNQUICK OREN 840ML\nRM11.40 s\nTotal Sales (Inclusive GST) RM\n11.40\nCASH RM\n11.40\nCHANGE RM\n.00\nGST Summary\nAmount(RM)\nTax(RM)\ns = 6%\n10.75\n.65\nThank You. Please come again\nKeep the invoice for applicable returns"
+}

@@ -1,0 +1,20 @@
+{
+  "merchant": "LIAN CHI PU TIAN VEGETARIAN",
+  "receipt_date": "06/01/18",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 2.87,
+  "total": null,
+  "payment_method": null,
+  "extraction_confidence": 0.625,
+  "raw_text": "LIAN CHI PU TIAN VEGETARIAN\nRESTAURANT SDN BHD\n(1095514-X)\n(GST IDNo:001147416576)\n54,JALAN SS23/11.\nTAMAN SEA,47400\nPETALING JAYA.SELANGOR\nTel: 03-7805 7889, 016-3020669\nTable :8\nCashier\nDate\n06/01/18\n12:17:26 PM\nitem\nQty\nPrice\nAmount\n(S)\n@15.90\nCURRY MIXED VEGE\n515\n1\n16.85\n16 85\nSR\n(S)\n@13.90\n517\n1\n14.73\n1473\nSR\n(12 PCS)\n@12.00\n'XINGHUA' SPRING ROLL\n410\n1\n12.72\n12.72\nSR\n(POT)\n@3.00\nTI GUAN YIN TEA\n822\n1\n3.18\n3.18\nSR\n(B)\n@1.50\nPLAIN RICE\n922\n2\n1.59\n3.18\nSR\nGross Amt\n4780\nSvr Tax\n2.87\nGST (6%):\n2.86\nNet Amt :\n53.55\nGST Summary\nAmount(RM)\nTax(RM)\n@ 0%\n2.87\n0.00\nSR @ 6%\n47.80\n2.86\nTHANK YOU\nPLEASE COME AGAIN",
+  "warnings": [
+    "Receipt total could not be confidently identified.",
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005447848",
+  "source_image": "X51005447848.jpg",
+  "ocr_confidence": 0.989
+}

@@ -1,0 +1,1226 @@
+{
+  "receipt_id": "X51005433543",
+  "source_image": "X51005433543.jpg",
+  "ocr_confidence": 0.988,
+  "lines": [
+    {
+      "text": "A03052",
+      "confidence": 0.9975
+    },
+    {
+      "text": "UNIHAKKA INTERNATIONAL SDN BHD",
+      "confidence": 0.9997
+    },
+    {
+      "text": "13 Mar 2018 18:35",
+      "confidence": 0.9997
+    },
+    {
+      "text": "(867388-U)",
+      "confidence": 0.9992
+    },
+    {
+      "text": "12, Jalan Tampoi 7/4,Kawasan Perindustrian",
+      "confidence": 0.9958
+    },
+    {
+      "text": "Tampoi.81200 Johor Bahru,Johor",
+      "confidence": 0.9874
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9776
+    },
+    {
+      "text": "Invoice #: OR18031302170441",
+      "confidence": 0.9811
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9969
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9931
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9976
+    },
+    {
+      "text": "SR I00100000035- 1 Meat + 3 Vege",
+      "confidence": 0.9738
+    },
+    {
+      "text": "S7.10",
+      "confidence": 0.9843
+    },
+    {
+      "text": "S7.10",
+      "confidence": 0.9705
+    },
+    {
+      "text": "SR 100100000015- Vegetable",
+      "confidence": 0.9801
+    },
+    {
+      "text": "$1.10",
+      "confidence": 0.9999
+    },
+    {
+      "text": "$1.10",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total Amount: $8.20",
+      "confidence": 0.9878
+    },
+    {
+      "text": "GST @6%: $0.46",
+      "confidence": 0.989
+    },
+    {
+      "text": "Nett Total: $8.20",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Payment Mode",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH",
+      "confidence": 1.0
+    },
+    {
+      "text": "$8.20",
+      "confidence": 0.9863
+    },
+    {
+      "text": "Change",
+      "confidence": 1.0
+    },
+    {
+      "text": "$0.00",
+      "confidence": 0.9978
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9937
+    },
+    {
+      "text": "Amaunt($)",
+      "confidence": 0.9382
+    },
+    {
+      "text": "Tax($)",
+      "confidence": 0.9846
+    },
+    {
+      "text": "SR = GST @6%",
+      "confidence": 0.8966
+    },
+    {
+      "text": "774",
+      "confidence": 0.9995
+    },
+    {
+      "text": "046",
+      "confidence": 0.9946
+    },
+    {
+      "text": "GST REG #000656195584",
+      "confidence": 0.9997
+    },
+    {
+      "text": "BAR WANG RICE@PERMAS JAYA",
+      "confidence": 0.9996
+    },
+    {
+      "text": "(Price Inclusive OI GST)",
+      "confidence": 0.9729
+    },
+    {
+      "text": "Thank You & Come Again!",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Like and Follow Us on Facebook!",
+      "confidence": 0.9826
+    },
+    {
+      "text": "Facebook.com/BarWangRice",
+      "confidence": 0.9999
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "A03052",
+      "confidence": 0.9975,
+      "box": [
+        599,
+        329,
+        707,
+        364
+      ],
+      "polygon": [
+        [
+          599,
+          329
+        ],
+        [
+          707,
+          329
+        ],
+        [
+          707,
+          364
+        ],
+        [
+          599,
+          364
+        ]
+      ]
+    },
+    {
+      "text": "UNIHAKKA INTERNATIONAL SDN BHD",
+      "confidence": 0.9997,
+      "box": [
+        382,
+        385,
+        680,
+        409
+      ],
+      "polygon": [
+        [
+          382,
+          388
+        ],
+        [
+          680,
+          385
+        ],
+        [
+          680,
+          406
+        ],
+        [
+          383,
+          409
+        ]
+      ]
+    },
+    {
+      "text": "13 Mar 2018 18:35",
+      "confidence": 0.9997,
+      "box": [
+        479,
+        406,
+        590,
+        423
+      ],
+      "polygon": [
+        [
+          479,
+          406
+        ],
+        [
+          590,
+          406
+        ],
+        [
+          590,
+          423
+        ],
+        [
+          479,
+          423
+        ]
+      ]
+    },
+    {
+      "text": "(867388-U)",
+      "confidence": 0.9992,
+      "box": [
+        496,
+        418,
+        569,
+        444
+      ],
+      "polygon": [
+        [
+          496,
+          422
+        ],
+        [
+          568,
+          418
+        ],
+        [
+          569,
+          440
+        ],
+        [
+          497,
+          444
+        ]
+      ]
+    },
+    {
+      "text": "12, Jalan Tampoi 7/4,Kawasan Perindustrian",
+      "confidence": 0.9958,
+      "box": [
+        405,
+        437,
+        662,
+        463
+      ],
+      "polygon": [
+        [
+          405,
+          442
+        ],
+        [
+          662,
+          437
+        ],
+        [
+          662,
+          458
+        ],
+        [
+          405,
+          463
+        ]
+      ]
+    },
+    {
+      "text": "Tampoi.81200 Johor Bahru,Johor",
+      "confidence": 0.9874,
+      "box": [
+        435,
+        455,
+        630,
+        481
+      ],
+      "polygon": [
+        [
+          435,
+          460
+        ],
+        [
+          630,
+          455
+        ],
+        [
+          630,
+          475
+        ],
+        [
+          436,
+          481
+        ]
+      ]
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9776,
+      "box": [
+        492,
+        477,
+        575,
+        495
+      ],
+      "polygon": [
+        [
+          492,
+          477
+        ],
+        [
+          575,
+          477
+        ],
+        [
+          575,
+          495
+        ],
+        [
+          492,
+          495
+        ]
+      ]
+    },
+    {
+      "text": "Invoice #: OR18031302170441",
+      "confidence": 0.9811,
+      "box": [
+        371,
+        490,
+        559,
+        514
+      ],
+      "polygon": [
+        [
+          371,
+          493
+        ],
+        [
+          559,
+          490
+        ],
+        [
+          559,
+          510
+        ],
+        [
+          371,
+          514
+        ]
+      ]
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9969,
+      "box": [
+        373,
+        520,
+        405,
+        539
+      ],
+      "polygon": [
+        [
+          373,
+          520
+        ],
+        [
+          405,
+          520
+        ],
+        [
+          405,
+          539
+        ],
+        [
+          373,
+          539
+        ]
+      ]
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9931,
+      "box": [
+        476,
+        520,
+        501,
+        539
+      ],
+      "polygon": [
+        [
+          476,
+          520
+        ],
+        [
+          501,
+          520
+        ],
+        [
+          501,
+          539
+        ],
+        [
+          476,
+          539
+        ]
+      ]
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9976,
+      "box": [
+        662,
+        517,
+        698,
+        534
+      ],
+      "polygon": [
+        [
+          662,
+          517
+        ],
+        [
+          698,
+          517
+        ],
+        [
+          698,
+          534
+        ],
+        [
+          662,
+          534
+        ]
+      ]
+    },
+    {
+      "text": "SR I00100000035- 1 Meat + 3 Vege",
+      "confidence": 0.9738,
+      "box": [
+        374,
+        542,
+        583,
+        558
+      ],
+      "polygon": [
+        [
+          374,
+          542
+        ],
+        [
+          583,
+          542
+        ],
+        [
+          583,
+          558
+        ],
+        [
+          374,
+          558
+        ]
+      ]
+    },
+    {
+      "text": "S7.10",
+      "confidence": 0.9843,
+      "box": [
+        374,
+        561,
+        411,
+        581
+      ],
+      "polygon": [
+        [
+          374,
+          561
+        ],
+        [
+          411,
+          561
+        ],
+        [
+          411,
+          581
+        ],
+        [
+          374,
+          581
+        ]
+      ]
+    },
+    {
+      "text": "S7.10",
+      "confidence": 0.9705,
+      "box": [
+        657,
+        557,
+        696,
+        576
+      ],
+      "polygon": [
+        [
+          657,
+          557
+        ],
+        [
+          696,
+          557
+        ],
+        [
+          696,
+          576
+        ],
+        [
+          657,
+          576
+        ]
+      ]
+    },
+    {
+      "text": "SR 100100000015- Vegetable",
+      "confidence": 0.9801,
+      "box": [
+        374,
+        584,
+        548,
+        608
+      ],
+      "polygon": [
+        [
+          374,
+          587
+        ],
+        [
+          548,
+          584
+        ],
+        [
+          548,
+          604
+        ],
+        [
+          375,
+          608
+        ]
+      ]
+    },
+    {
+      "text": "$1.10",
+      "confidence": 0.9999,
+      "box": [
+        374,
+        609,
+        415,
+        628
+      ],
+      "polygon": [
+        [
+          374,
+          609
+        ],
+        [
+          415,
+          609
+        ],
+        [
+          415,
+          628
+        ],
+        [
+          374,
+          628
+        ]
+      ]
+    },
+    {
+      "text": "$1.10",
+      "confidence": 0.9997,
+      "box": [
+        659,
+        604,
+        698,
+        624
+      ],
+      "polygon": [
+        [
+          659,
+          604
+        ],
+        [
+          698,
+          604
+        ],
+        [
+          698,
+          624
+        ],
+        [
+          659,
+          624
+        ]
+      ]
+    },
+    {
+      "text": "Total Amount: $8.20",
+      "confidence": 0.9878,
+      "box": [
+        577,
+        636,
+        696,
+        654
+      ],
+      "polygon": [
+        [
+          577,
+          636
+        ],
+        [
+          696,
+          636
+        ],
+        [
+          696,
+          654
+        ],
+        [
+          577,
+          654
+        ]
+      ]
+    },
+    {
+      "text": "GST @6%: $0.46",
+      "confidence": 0.989,
+      "box": [
+        591,
+        652,
+        698,
+        673
+      ],
+      "polygon": [
+        [
+          591,
+          656
+        ],
+        [
+          697,
+          652
+        ],
+        [
+          698,
+          669
+        ],
+        [
+          592,
+          673
+        ]
+      ]
+    },
+    {
+      "text": "Nett Total: $8.20",
+      "confidence": 0.9989,
+      "box": [
+        599,
+        671,
+        697,
+        689
+      ],
+      "polygon": [
+        [
+          599,
+          671
+        ],
+        [
+          697,
+          671
+        ],
+        [
+          697,
+          689
+        ],
+        [
+          599,
+          689
+        ]
+      ]
+    },
+    {
+      "text": "Payment Mode",
+      "confidence": 0.9977,
+      "box": [
+        376,
+        701,
+        466,
+        719
+      ],
+      "polygon": [
+        [
+          376,
+          701
+        ],
+        [
+          466,
+          701
+        ],
+        [
+          466,
+          719
+        ],
+        [
+          376,
+          719
+        ]
+      ]
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9999,
+      "box": [
+        646,
+        695,
+        699,
+        717
+      ],
+      "polygon": [
+        [
+          646,
+          695
+        ],
+        [
+          699,
+          695
+        ],
+        [
+          699,
+          717
+        ],
+        [
+          646,
+          717
+        ]
+      ]
+    },
+    {
+      "text": "CASH",
+      "confidence": 1.0,
+      "box": [
+        376,
+        722,
+        419,
+        740
+      ],
+      "polygon": [
+        [
+          376,
+          722
+        ],
+        [
+          419,
+          722
+        ],
+        [
+          419,
+          740
+        ],
+        [
+          376,
+          740
+        ]
+      ]
+    },
+    {
+      "text": "$8.20",
+      "confidence": 0.9863,
+      "box": [
+        661,
+        716,
+        698,
+        735
+      ],
+      "polygon": [
+        [
+          661,
+          716
+        ],
+        [
+          698,
+          716
+        ],
+        [
+          698,
+          735
+        ],
+        [
+          661,
+          735
+        ]
+      ]
+    },
+    {
+      "text": "Change",
+      "confidence": 1.0,
+      "box": [
+        378,
+        741,
+        428,
+        759
+      ],
+      "polygon": [
+        [
+          378,
+          741
+        ],
+        [
+          428,
+          741
+        ],
+        [
+          428,
+          759
+        ],
+        [
+          378,
+          759
+        ]
+      ]
+    },
+    {
+      "text": "$0.00",
+      "confidence": 0.9978,
+      "box": [
+        661,
+        735,
+        698,
+        754
+      ],
+      "polygon": [
+        [
+          661,
+          735
+        ],
+        [
+          698,
+          735
+        ],
+        [
+          698,
+          754
+        ],
+        [
+          661,
+          754
+        ]
+      ]
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9937,
+      "box": [
+        376,
+        784,
+        455,
+        802
+      ],
+      "polygon": [
+        [
+          376,
+          784
+        ],
+        [
+          455,
+          784
+        ],
+        [
+          455,
+          802
+        ],
+        [
+          376,
+          802
+        ]
+      ]
+    },
+    {
+      "text": "Amaunt($)",
+      "confidence": 0.9382,
+      "box": [
+        542,
+        783,
+        596,
+        798
+      ],
+      "polygon": [
+        [
+          542,
+          783
+        ],
+        [
+          596,
+          783
+        ],
+        [
+          596,
+          798
+        ],
+        [
+          542,
+          798
+        ]
+      ]
+    },
+    {
+      "text": "Tax($)",
+      "confidence": 0.9846,
+      "box": [
+        662,
+        779,
+        701,
+        798
+      ],
+      "polygon": [
+        [
+          662,
+          779
+        ],
+        [
+          701,
+          779
+        ],
+        [
+          701,
+          798
+        ],
+        [
+          662,
+          798
+        ]
+      ]
+    },
+    {
+      "text": "SR = GST @6%",
+      "confidence": 0.8966,
+      "box": [
+        376,
+        805,
+        456,
+        821
+      ],
+      "polygon": [
+        [
+          376,
+          805
+        ],
+        [
+          456,
+          805
+        ],
+        [
+          456,
+          821
+        ],
+        [
+          376,
+          821
+        ]
+      ]
+    },
+    {
+      "text": "774",
+      "confidence": 0.9995,
+      "box": [
+        571,
+        800,
+        598,
+        818
+      ],
+      "polygon": [
+        [
+          571,
+          800
+        ],
+        [
+          598,
+          800
+        ],
+        [
+          598,
+          818
+        ],
+        [
+          571,
+          818
+        ]
+      ]
+    },
+    {
+      "text": "046",
+      "confidence": 0.9946,
+      "box": [
+        670,
+        798,
+        701,
+        816
+      ],
+      "polygon": [
+        [
+          670,
+          798
+        ],
+        [
+          701,
+          798
+        ],
+        [
+          701,
+          816
+        ],
+        [
+          670,
+          816
+        ]
+      ]
+    },
+    {
+      "text": "GST REG #000656195584",
+      "confidence": 0.9997,
+      "box": [
+        460,
+        827,
+        616,
+        848
+      ],
+      "polygon": [
+        [
+          460,
+          830
+        ],
+        [
+          615,
+          827
+        ],
+        [
+          616,
+          845
+        ],
+        [
+          460,
+          848
+        ]
+      ]
+    },
+    {
+      "text": "BAR WANG RICE@PERMAS JAYA",
+      "confidence": 0.9996,
+      "box": [
+        432,
+        843,
+        640,
+        867
+      ],
+      "polygon": [
+        [
+          432,
+          846
+        ],
+        [
+          639,
+          843
+        ],
+        [
+          640,
+          864
+        ],
+        [
+          433,
+          867
+        ]
+      ]
+    },
+    {
+      "text": "(Price Inclusive OI GST)",
+      "confidence": 0.9729,
+      "box": [
+        467,
+        860,
+        608,
+        885
+      ],
+      "polygon": [
+        [
+          467,
+          864
+        ],
+        [
+          607,
+          860
+        ],
+        [
+          608,
+          881
+        ],
+        [
+          468,
+          885
+        ]
+      ]
+    },
+    {
+      "text": "Thank You & Come Again!",
+      "confidence": 0.9978,
+      "box": [
+        461,
+        880,
+        616,
+        902
+      ],
+      "polygon": [
+        [
+          461,
+          881
+        ],
+        [
+          615,
+          880
+        ],
+        [
+          616,
+          900
+        ],
+        [
+          461,
+          902
+        ]
+      ]
+    },
+    {
+      "text": "Like and Follow Us on Facebook!",
+      "confidence": 0.9826,
+      "box": [
+        443,
+        897,
+        632,
+        921
+      ],
+      "polygon": [
+        [
+          443,
+          900
+        ],
+        [
+          631,
+          897
+        ],
+        [
+          632,
+          918
+        ],
+        [
+          444,
+          921
+        ]
+      ]
+    },
+    {
+      "text": "Facebook.com/BarWangRice",
+      "confidence": 0.9999,
+      "box": [
+        453,
+        918,
+        622,
+        937
+      ],
+      "polygon": [
+        [
+          453,
+          919
+        ],
+        [
+          622,
+          918
+        ],
+        [
+          622,
+          935
+        ],
+        [
+          453,
+          937
+        ]
+      ]
+    }
+  ],
+  "raw_text": "A03052\nUNIHAKKA INTERNATIONAL SDN BHD\n13 Mar 2018 18:35\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi.81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice #: OR18031302170441\nItem\nQty\nTotal\nSR I00100000035- 1 Meat + 3 Vege\nS7.10\nS7.10\nSR 100100000015- Vegetable\n$1.10\n$1.10\nTotal Amount: $8.20\nGST @6%: $0.46\nNett Total: $8.20\nPayment Mode\nAmount\nCASH\n$8.20\nChange\n$0.00\nGST Summary\nAmaunt($)\nTax($)\nSR = GST @6%\n774\n046\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive OI GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+}

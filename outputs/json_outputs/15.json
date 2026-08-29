@@ -1,0 +1,19 @@
+{
+  "merchant": "See back of receipt for your",
+  "receipt_date": "07/22/16",
+  "receipt_number": "for",
+  "items": [],
+  "subtotal": 12.58,
+  "discount": null,
+  "tax": null,
+  "total": 12.58,
+  "payment_method": "VISA",
+  "extraction_confidence": 0.854,
+  "raw_text": "See back of receipt for your\nto win $1000\nchance\nID #:\n7JYY2JW0K3Y\nWalmart\nSave money. Live better.\n(714)799-0020\nMANAGER YVONNE THOMAS\n13331 BEACH BLVD\nWESTMINSTER CA 92683\nDIABETES\n068113131172H\n12.58 N\nSUBTOTAL\n12.58\nTOTAL\n12.58\nVISA\nTEND\n12.58\nbat10\nVisa Credit\n家家家家家家水水家家家家\n3670 I1\nAPPROVAL # 222235\nREF # 620500604401\nTRANS ID - 586205139884060\nVALIDATION-76LK\nPAYMENT SERVICE - E\nAID A0000000031010\nTC 9E0FAC9A809E5D92\nTERMINAL # 281767447\n*NO SIGNATURE REQUIRED\n07/22/16\n20:53:11\nCHANGE DUE\n0.00\n# ITEMS SOLD 1\nTC# 7503 0129 1089 7649 4115\nLow Prices You Can Trust. Every Day.\n07/22/16\n20:53:11\n**CUSTOMER COPY***\nSavings Catcher! Scan with Walmart app",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "15",
+  "source_image": "15.jpg",
+  "ocr_confidence": 0.976
+}

@@ -1,0 +1,24 @@
+{
+  "merchant": "PappaRich BMC",
+  "receipt_date": "24 Mar 18",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "R03 N'LEMAK+fc E @",
+      "quantity": 1.0,
+      "unit_price": 17.83,
+      "total_price": 17.83
+    }
+  ],
+  "subtotal": 62.55,
+  "discount": null,
+  "tax": 68.82,
+  "total": 72.93,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.945,
+  "raw_text": "PappaRich BMC\nNO.19 & 21\nJALAN TEMENGGUNG 23/9\nBANDAR MAHKOTA CHERAS\n43200 SELANGOR DARUL EHSAN, MALAYSIA\nTAX INVOICE\nGST ID:0 0 0 1 6 4 2 7 0 0 8 0\n2 COUNTER1\n2003saiful\nChk 263370\nGuest1\n24 Mar 18 09:12:41 PM\nTBL35/1\nD28 MILO DINO(I) E\n7.45 S\nR03 N'LEMAK+fc E @17.83\n2\n35.66 S\n1 N22 SPRG NDL+su+cr E\n9.34 S\n1 B02 HALF BL EGG E\n4.53 S\n1\nD19 CHAM (I) E\n5.57 S\nCASH\n73.00\n62.55\nSubtotal\n62.55\n10% Srv Chg\n6.25\n6% GST\n4.13\nTotal:\n72.93\nRND ADJ\n0.02\nTTL ATF RND\n72.95\nPayment\n73.00\nChange Due\n0.05\n----2003 CL0SED24 Mar 18 09:58:26 PM---\nTHANK YOU! PLEASE COME AGAIN!\nPRICE IS GST INCLUSIVE\nGSTSummary Amount(RM)\nGST(RM)\nS=GST @6%: 68.82\n4.13\nZ=GST @0%: 0.00\n0.00",
+  "warnings": [],
+  "receipt_id": "X51005711454",
+  "source_image": "X51005711454.jpg",
+  "ocr_confidence": 0.99
+}

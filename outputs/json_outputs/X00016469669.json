@@ -1,0 +1,19 @@
+{
+  "merchant": "tan chay yee",
+  "receipt_date": "09/01/2019",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": null,
+  "total": 31.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.741,
+  "raw_text": "tan chay yee\nABC HO TRADING\nNo.2&4,JALAN HARMONI 3/2,\nTAMAN DESA HARMONI.\n81100 JOHOR BAHRU.JOHOR\n07-355 2616\nCash Bill :\n01-143008\nDate\n09/01/2019 8:01:11 PM\nCashier\n01\nDescription\nQty\nPrice\nAmount\nRM\nRM\nPlastic\n2\n15.50\n31.00\nTotal\n31.00\nTotal Amount:\n31.00\nCash Received\n101.00\nChange :\n70.00\n*Goods Sold are non-refundable\n***Thank You**a\n31.00\n***Please Come Again***",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X00016469669",
+  "source_image": "X00016469669.jpg",
+  "ocr_confidence": 0.992
+}

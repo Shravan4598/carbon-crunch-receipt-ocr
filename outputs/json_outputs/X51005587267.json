@@ -1,0 +1,19 @@
+{
+  "merchant": "MYDIN",
+  "receipt_date": "4/02/2017",
+  "receipt_number": "261172",
+  "items": [],
+  "subtotal": null,
+  "discount": 8.0,
+  "tax": 80.27,
+  "total": 8.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.836,
+  "raw_text": "MYDIN\nTRI SHAAS SDN BHD (728515-M)\nMYDIN MART SRI MUDA\n4-20, Jalan Ria 25/62 Taman Sri Muda\nSeksyen 25, 40400 Shah Alam Selangor\nTel : 03-51217970 Fax : 03-51218059\nGST ID: 000429166592\nRECEIPT\nTerminal: 195 - 5505P0S011\nTrans # : 261172\nDate\n: 4/02/2017 03:30:27PM\nCashier : CH107691\nMSM - WERNIE\nMYCLIP BINDER CLIP 12S 25MM 12S EA\n.S\n2901060611145\n1\n六\n2.00\n2.00\nMYCLIP BINDER CLIP\n15MM 12S\nCS\n.S\n2901050611213\n2*\n12.00\n24.00\nMYCLIP BINDER CLIP 15MM 12S\nEA\n.S\n2901060611206\n10 *\n1.00\n10.00\nPARTNER E/LOPE 4.51NX9.5IN W4292 EA\n.S\n9555023304655\n2\n2.20\n4.40\nQUALITY LFTTER TRAY 1T-1196-MIX EA\n.S\n9555052401196\n14.90\n44.70\n*\nItem Count\n18\nSRIMUD\nTotal\nSF\nMYDIN\n85.10\nMART\nRounding Adjustment\nCURI\n0.00\nTotal After Rounding\n85.10\nCash\n100.10\nCHANGE\n15.00\nGST Rate\nAmt Excl GST(RM)\nTax(RM)\nS =6%\n80.27\n4.83\ni = 0%\n0.00\n0.00\n* Your Total Savings 8.00 *\nPoints Missed:\nJoin cur Meriah Loyalty Programme today!\n6605505001950000261172\nPrint Date: 4/02/2017 03:30:29PM\nNote: Any request for production of full\ntax invoice must be made within 3 months\nfrom the date of purchase. If the request\nis not made within the prescribed\ntime frame,MYDIN may based on its absolute\ndiscretion reject the request.\nThank You and Please Come Again",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005587267",
+  "source_image": "X51005587267.jpg",
+  "ocr_confidence": 0.979
+}

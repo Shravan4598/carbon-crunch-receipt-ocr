@@ -1,0 +1,1322 @@
+{
+  "receipt_id": "5",
+  "source_image": "5.jpg",
+  "ocr_confidence": 0.972,
+  "lines": [
+    {
+      "text": "WHOLE FOODS",
+      "confidence": 0.9758
+    },
+    {
+      "text": "MARKET",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sunnyvale SVL 408-419-1290",
+      "confidence": 0.9998
+    },
+    {
+      "text": "150 E Mc Kinley Ave",
+      "confidence": 0.9618
+    },
+    {
+      "text": "Sunnyvale, CA 94086",
+      "confidence": 0.9901
+    },
+    {
+      "text": "KTTL SEA SALT POT CHP",
+      "confidence": 0.9784
+    },
+    {
+      "text": "$1.29 F",
+      "confidence": 0.9455
+    },
+    {
+      "text": "BRAIDED BRIOCHE",
+      "confidence": 0.9999
+    },
+    {
+      "text": "$6.99 F",
+      "confidence": 0.9673
+    },
+    {
+      "text": "CHEF PLATE MEAL $10",
+      "confidence": 0.9999
+    },
+    {
+      "text": "$20.00 F",
+      "confidence": 0.9985
+    },
+    {
+      "text": "2",
+      "confidence": 1.0
+    },
+    {
+      "text": "@ $10.00 ea",
+      "confidence": 0.9959
+    },
+    {
+      "text": "$28.28",
+      "confidence": 1.0
+    },
+    {
+      "text": "Subtotal:",
+      "confidence": 0.9999
+    },
+    {
+      "text": "$28.28",
+      "confidence": 1.0
+    },
+    {
+      "text": "Net Sales:",
+      "confidence": 1.0
+    },
+    {
+      "text": "Total:",
+      "confidence": 1.0
+    },
+    {
+      "text": "$28.28",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sold Items:",
+      "confidence": 0.9999
+    },
+    {
+      "text": "4",
+      "confidence": 1.0
+    },
+    {
+      "text": "Paid:",
+      "confidence": 0.9999
+    },
+    {
+      "text": "RETURNS: We are now accepting returns on",
+      "confidence": 0.9947
+    },
+    {
+      "text": "purchases with the following conditions:",
+      "confidence": 1.0
+    },
+    {
+      "text": "Returns will only be accepted on purchases",
+      "confidence": 0.9953
+    },
+    {
+      "text": "made on or after 9/15/2020. A11 returns",
+      "confidence": 0.9877
+    },
+    {
+      "text": "require a receipt. No returns on items",
+      "confidence": 0.9942
+    },
+    {
+      "text": "purchased after 90 days. For additional",
+      "confidence": 0.9943
+    },
+    {
+      "text": "information please visit wfm.com/returns.",
+      "confidence": 1.0
+    },
+    {
+      "text": "*火*火*火火*火火******",
+      "confidence": 0.5663
+    },
+    {
+      "text": "Earn 5% Back at Whole Foods Market",
+      "confidence": 1.0
+    },
+    {
+      "text": "with the Amazon Prime Rewards Visa.",
+      "confidence": 0.9964
+    },
+    {
+      "text": "Learn more at amazon.com/amazonvisa",
+      "confidence": 0.9997
+    },
+    {
+      "text": "*火*火火火火火火***",
+      "confidence": 0.5363
+    },
+    {
+      "text": "HOW WAS YOUR SHOPPING EXPERIENCE?",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Go to: http://www.wfm.com/feedback",
+      "confidence": 0.9877
+    },
+    {
+      "text": "ENTER FOR A CHANCE TO WIN A $250 GIFT CARD",
+      "confidence": 0.988
+    },
+    {
+      "text": "908 6387 02/10/2021 07:10 PM",
+      "confidence": 0.9974
+    },
+    {
+      "text": "63011070790806387021020210",
+      "confidence": 1.0
+    },
+    {
+      "text": "6KTHQW62ZD",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Thanks for shonning at Whole Foods Market",
+      "confidence": 0.9874
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "WHOLE FOODS",
+      "confidence": 0.9758,
+      "box": [
+        394,
+        87,
+        1932,
+        396
+      ],
+      "polygon": [
+        [
+          400,
+          87
+        ],
+        [
+          1932,
+          119
+        ],
+        [
+          1926,
+          396
+        ],
+        [
+          394,
+          364
+        ]
+      ]
+    },
+    {
+      "text": "MARKET",
+      "confidence": 1.0,
+      "box": [
+        800,
+        339,
+        1527,
+        484
+      ],
+      "polygon": [
+        [
+          800,
+          354
+        ],
+        [
+          1524,
+          339
+        ],
+        [
+          1527,
+          470
+        ],
+        [
+          802,
+          484
+        ]
+      ]
+    },
+    {
+      "text": "Sunnyvale SVL 408-419-1290",
+      "confidence": 0.9998,
+      "box": [
+        596,
+        600,
+        1626,
+        710
+      ],
+      "polygon": [
+        [
+          596,
+          609
+        ],
+        [
+          1625,
+          600
+        ],
+        [
+          1626,
+          701
+        ],
+        [
+          597,
+          710
+        ]
+      ]
+    },
+    {
+      "text": "150 E Mc Kinley Ave",
+      "confidence": 0.9618,
+      "box": [
+        717,
+        680,
+        1472,
+        782
+      ],
+      "polygon": [
+        [
+          717,
+          693
+        ],
+        [
+          1471,
+          680
+        ],
+        [
+          1472,
+          768
+        ],
+        [
+          718,
+          782
+        ]
+      ]
+    },
+    {
+      "text": "Sunnyvale, CA 94086",
+      "confidence": 0.9901,
+      "box": [
+        708,
+        751,
+        1476,
+        866
+      ],
+      "polygon": [
+        [
+          708,
+          765
+        ],
+        [
+          1475,
+          751
+        ],
+        [
+          1476,
+          852
+        ],
+        [
+          710,
+          866
+        ]
+      ]
+    },
+    {
+      "text": "KTTL SEA SALT POT CHP",
+      "confidence": 0.9784,
+      "box": [
+        274,
+        827,
+        1118,
+        941
+      ],
+      "polygon": [
+        [
+          276,
+          827
+        ],
+        [
+          1118,
+          845
+        ],
+        [
+          1116,
+          941
+        ],
+        [
+          274,
+          923
+        ]
+      ]
+    },
+    {
+      "text": "$1.29 F",
+      "confidence": 0.9455,
+      "box": [
+        1572,
+        832,
+        1859,
+        924
+      ],
+      "polygon": [
+        [
+          1572,
+          832
+        ],
+        [
+          1859,
+          832
+        ],
+        [
+          1859,
+          924
+        ],
+        [
+          1572,
+          924
+        ]
+      ]
+    },
+    {
+      "text": "BRAIDED BRIOCHE",
+      "confidence": 0.9999,
+      "box": [
+        274,
+        906,
+        889,
+        1013
+      ],
+      "polygon": [
+        [
+          277,
+          906
+        ],
+        [
+          889,
+          925
+        ],
+        [
+          886,
+          1013
+        ],
+        [
+          274,
+          995
+        ]
+      ]
+    },
+    {
+      "text": "$6.99 F",
+      "confidence": 0.9673,
+      "box": [
+        1572,
+        907,
+        1859,
+        995
+      ],
+      "polygon": [
+        [
+          1572,
+          907
+        ],
+        [
+          1859,
+          907
+        ],
+        [
+          1859,
+          995
+        ],
+        [
+          1572,
+          995
+        ]
+      ]
+    },
+    {
+      "text": "CHEF PLATE MEAL $10",
+      "confidence": 0.9999,
+      "box": [
+        270,
+        986,
+        1043,
+        1093
+      ],
+      "polygon": [
+        [
+          272,
+          986
+        ],
+        [
+          1043,
+          1004
+        ],
+        [
+          1041,
+          1093
+        ],
+        [
+          270,
+          1075
+        ]
+      ]
+    },
+    {
+      "text": "$20.00 F",
+      "confidence": 0.9985,
+      "box": [
+        1538,
+        1058,
+        1872,
+        1147
+      ],
+      "polygon": [
+        [
+          1538,
+          1058
+        ],
+        [
+          1872,
+          1058
+        ],
+        [
+          1872,
+          1147
+        ],
+        [
+          1538,
+          1147
+        ]
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 1.0,
+      "box": [
+        346,
+        1071,
+        417,
+        1151
+      ],
+      "polygon": [
+        [
+          346,
+          1071
+        ],
+        [
+          417,
+          1071
+        ],
+        [
+          417,
+          1151
+        ],
+        [
+          346,
+          1151
+        ]
+      ]
+    },
+    {
+      "text": "@ $10.00 ea",
+      "confidence": 0.9959,
+      "box": [
+        905,
+        1079,
+        1401,
+        1168
+      ],
+      "polygon": [
+        [
+          905,
+          1079
+        ],
+        [
+          1401,
+          1079
+        ],
+        [
+          1401,
+          1168
+        ],
+        [
+          905,
+          1168
+        ]
+      ]
+    },
+    {
+      "text": "$28.28",
+      "confidence": 1.0,
+      "box": [
+        1538,
+        1138,
+        1801,
+        1226
+      ],
+      "polygon": [
+        [
+          1538,
+          1138
+        ],
+        [
+          1801,
+          1138
+        ],
+        [
+          1801,
+          1226
+        ],
+        [
+          1538,
+          1226
+        ]
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "confidence": 0.9999,
+      "box": [
+        670,
+        1150,
+        1043,
+        1248
+      ],
+      "polygon": [
+        [
+          673,
+          1150
+        ],
+        [
+          1043,
+          1160
+        ],
+        [
+          1041,
+          1248
+        ],
+        [
+          670,
+          1238
+        ]
+      ]
+    },
+    {
+      "text": "$28.28",
+      "confidence": 1.0,
+      "box": [
+        1538,
+        1218,
+        1801,
+        1306
+      ],
+      "polygon": [
+        [
+          1538,
+          1218
+        ],
+        [
+          1801,
+          1218
+        ],
+        [
+          1801,
+          1306
+        ],
+        [
+          1538,
+          1306
+        ]
+      ]
+    },
+    {
+      "text": "Net Sales:",
+      "confidence": 1.0,
+      "box": [
+        675,
+        1239,
+        1071,
+        1315
+      ],
+      "polygon": [
+        [
+          675,
+          1239
+        ],
+        [
+          1071,
+          1239
+        ],
+        [
+          1071,
+          1315
+        ],
+        [
+          675,
+          1315
+        ]
+      ]
+    },
+    {
+      "text": "Total:",
+      "confidence": 1.0,
+      "box": [
+        824,
+        1305,
+        1085,
+        1408
+      ],
+      "polygon": [
+        [
+          828,
+          1305
+        ],
+        [
+          1085,
+          1316
+        ],
+        [
+          1081,
+          1408
+        ],
+        [
+          824,
+          1398
+        ]
+      ]
+    },
+    {
+      "text": "$28.28",
+      "confidence": 1.0,
+      "box": [
+        1538,
+        1298,
+        1805,
+        1390
+      ],
+      "polygon": [
+        [
+          1538,
+          1298
+        ],
+        [
+          1805,
+          1298
+        ],
+        [
+          1805,
+          1390
+        ],
+        [
+          1538,
+          1390
+        ]
+      ]
+    },
+    {
+      "text": "Sold Items:",
+      "confidence": 0.9999,
+      "box": [
+        825,
+        1385,
+        1276,
+        1483
+      ],
+      "polygon": [
+        [
+          827,
+          1385
+        ],
+        [
+          1276,
+          1395
+        ],
+        [
+          1275,
+          1483
+        ],
+        [
+          825,
+          1474
+        ]
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 1.0,
+      "box": [
+        1747,
+        1386,
+        1805,
+        1453
+      ],
+      "polygon": [
+        [
+          1747,
+          1386
+        ],
+        [
+          1805,
+          1386
+        ],
+        [
+          1805,
+          1453
+        ],
+        [
+          1747,
+          1453
+        ]
+      ]
+    },
+    {
+      "text": "Paid:",
+      "confidence": 0.9999,
+      "box": [
+        663,
+        1462,
+        884,
+        1554
+      ],
+      "polygon": [
+        [
+          663,
+          1462
+        ],
+        [
+          884,
+          1462
+        ],
+        [
+          884,
+          1554
+        ],
+        [
+          663,
+          1554
+        ]
+      ]
+    },
+    {
+      "text": "RETURNS: We are now accepting returns on",
+      "confidence": 0.9947,
+      "box": [
+        342,
+        1856,
+        1976,
+        1940
+      ],
+      "polygon": [
+        [
+          342,
+          1856
+        ],
+        [
+          1976,
+          1856
+        ],
+        [
+          1976,
+          1940
+        ],
+        [
+          342,
+          1940
+        ]
+      ]
+    },
+    {
+      "text": "purchases with the following conditions:",
+      "confidence": 1.0,
+      "box": [
+        346,
+        1945,
+        1964,
+        2016
+      ],
+      "polygon": [
+        [
+          346,
+          1945
+        ],
+        [
+          1964,
+          1945
+        ],
+        [
+          1964,
+          2016
+        ],
+        [
+          346,
+          2016
+        ]
+      ]
+    },
+    {
+      "text": "Returns will only be accepted on purchases",
+      "confidence": 0.9953,
+      "box": [
+        296,
+        2016,
+        2018,
+        2100
+      ],
+      "polygon": [
+        [
+          296,
+          2016
+        ],
+        [
+          2018,
+          2016
+        ],
+        [
+          2018,
+          2100
+        ],
+        [
+          296,
+          2100
+        ]
+      ]
+    },
+    {
+      "text": "made on or after 9/15/2020. A11 returns",
+      "confidence": 0.9877,
+      "box": [
+        329,
+        2096,
+        1943,
+        2180
+      ],
+      "polygon": [
+        [
+          329,
+          2096
+        ],
+        [
+          1943,
+          2096
+        ],
+        [
+          1943,
+          2180
+        ],
+        [
+          329,
+          2180
+        ]
+      ]
+    },
+    {
+      "text": "require a receipt. No returns on items",
+      "confidence": 0.9942,
+      "box": [
+        363,
+        2171,
+        1947,
+        2260
+      ],
+      "polygon": [
+        [
+          363,
+          2176
+        ],
+        [
+          1947,
+          2171
+        ],
+        [
+          1947,
+          2255
+        ],
+        [
+          363,
+          2260
+        ]
+      ]
+    },
+    {
+      "text": "purchased after 90 days. For additional",
+      "confidence": 0.9943,
+      "box": [
+        325,
+        2251,
+        1939,
+        2344
+      ],
+      "polygon": [
+        [
+          325,
+          2255
+        ],
+        [
+          1938,
+          2251
+        ],
+        [
+          1939,
+          2339
+        ],
+        [
+          325,
+          2344
+        ]
+      ]
+    },
+    {
+      "text": "information please visit wfm.com/returns.",
+      "confidence": 1.0,
+      "box": [
+        304,
+        2344,
+        1964,
+        2415
+      ],
+      "polygon": [
+        [
+          304,
+          2344
+        ],
+        [
+          1964,
+          2344
+        ],
+        [
+          1964,
+          2415
+        ],
+        [
+          304,
+          2415
+        ]
+      ]
+    },
+    {
+      "text": "*火*火*火火*火火******",
+      "confidence": 0.5663,
+      "box": [
+        384,
+        2428,
+        1934,
+        2486
+      ],
+      "polygon": [
+        [
+          384,
+          2428
+        ],
+        [
+          1934,
+          2428
+        ],
+        [
+          1934,
+          2486
+        ],
+        [
+          384,
+          2486
+        ]
+      ]
+    },
+    {
+      "text": "Earn 5% Back at Whole Foods Market",
+      "confidence": 1.0,
+      "box": [
+        421,
+        2579,
+        1818,
+        2663
+      ],
+      "polygon": [
+        [
+          421,
+          2579
+        ],
+        [
+          1818,
+          2579
+        ],
+        [
+          1818,
+          2663
+        ],
+        [
+          421,
+          2663
+        ]
+      ]
+    },
+    {
+      "text": "with the Amazon Prime Rewards Visa.",
+      "confidence": 0.9964,
+      "box": [
+        429,
+        2659,
+        1843,
+        2743
+      ],
+      "polygon": [
+        [
+          429,
+          2659
+        ],
+        [
+          1843,
+          2659
+        ],
+        [
+          1843,
+          2743
+        ],
+        [
+          429,
+          2743
+        ]
+      ]
+    },
+    {
+      "text": "Learn more at amazon.com/amazonvisa",
+      "confidence": 0.9997,
+      "box": [
+        421,
+        2730,
+        1855,
+        2827
+      ],
+      "polygon": [
+        [
+          421,
+          2730
+        ],
+        [
+          1855,
+          2739
+        ],
+        [
+          1855,
+          2827
+        ],
+        [
+          421,
+          2818
+        ]
+      ]
+    },
+    {
+      "text": "*火*火火火火火火***",
+      "confidence": 0.5363,
+      "box": [
+        542,
+        2898,
+        1730,
+        2974
+      ],
+      "polygon": [
+        [
+          542,
+          2898
+        ],
+        [
+          1730,
+          2902
+        ],
+        [
+          1730,
+          2974
+        ],
+        [
+          542,
+          2969
+        ]
+      ]
+    },
+    {
+      "text": "HOW WAS YOUR SHOPPING EXPERIENCE?",
+      "confidence": 0.9996,
+      "box": [
+        463,
+        2969,
+        1809,
+        3053
+      ],
+      "polygon": [
+        [
+          463,
+          2969
+        ],
+        [
+          1809,
+          2969
+        ],
+        [
+          1809,
+          3053
+        ],
+        [
+          463,
+          3053
+        ]
+      ]
+    },
+    {
+      "text": "Go to: http://www.wfm.com/feedback",
+      "confidence": 0.9877,
+      "box": [
+        463,
+        3058,
+        1855,
+        3142
+      ],
+      "polygon": [
+        [
+          463,
+          3058
+        ],
+        [
+          1855,
+          3058
+        ],
+        [
+          1855,
+          3142
+        ],
+        [
+          463,
+          3142
+        ]
+      ]
+    },
+    {
+      "text": "ENTER FOR A CHANCE TO WIN A $250 GIFT CARD",
+      "confidence": 0.988,
+      "box": [
+        292,
+        3142,
+        2026,
+        3226
+      ],
+      "polygon": [
+        [
+          292,
+          3142
+        ],
+        [
+          2026,
+          3142
+        ],
+        [
+          2026,
+          3226
+        ],
+        [
+          292,
+          3226
+        ]
+      ]
+    },
+    {
+      "text": "908 6387 02/10/2021 07:10 PM",
+      "confidence": 0.9974,
+      "box": [
+        584,
+        3226,
+        1747,
+        3310
+      ],
+      "polygon": [
+        [
+          584,
+          3226
+        ],
+        [
+          1747,
+          3226
+        ],
+        [
+          1747,
+          3310
+        ],
+        [
+          584,
+          3310
+        ]
+      ]
+    },
+    {
+      "text": "63011070790806387021020210",
+      "confidence": 1.0,
+      "box": [
+        604,
+        3692,
+        1714,
+        3797
+      ],
+      "polygon": [
+        [
+          605,
+          3692
+        ],
+        [
+          1714,
+          3700
+        ],
+        [
+          1713,
+          3797
+        ],
+        [
+          604,
+          3788
+        ]
+      ]
+    },
+    {
+      "text": "6KTHQW62ZD",
+      "confidence": 0.9997,
+      "box": [
+        938,
+        3788,
+        1380,
+        3889
+      ],
+      "polygon": [
+        [
+          938,
+          3788
+        ],
+        [
+          1380,
+          3788
+        ],
+        [
+          1380,
+          3889
+        ],
+        [
+          938,
+          3889
+        ]
+      ]
+    },
+    {
+      "text": "Thanks for shonning at Whole Foods Market",
+      "confidence": 0.9874,
+      "box": [
+        275,
+        3952,
+        2010,
+        4032
+      ],
+      "polygon": [
+        [
+          275,
+          3952
+        ],
+        [
+          2010,
+          3961
+        ],
+        [
+          2009,
+          4032
+        ],
+        [
+          275,
+          4023
+        ]
+      ]
+    }
+  ],
+  "raw_text": "WHOLE FOODS\nMARKET\nSunnyvale SVL 408-419-1290\n150 E Mc Kinley Ave\nSunnyvale, CA 94086\nKTTL SEA SALT POT CHP\n$1.29 F\nBRAIDED BRIOCHE\n$6.99 F\nCHEF PLATE MEAL $10\n$20.00 F\n2\n@ $10.00 ea\n$28.28\nSubtotal:\n$28.28\nNet Sales:\nTotal:\n$28.28\nSold Items:\n4\nPaid:\nRETURNS: We are now accepting returns on\npurchases with the following conditions:\nReturns will only be accepted on purchases\nmade on or after 9/15/2020. A11 returns\nrequire a receipt. No returns on items\npurchased after 90 days. For additional\ninformation please visit wfm.com/returns.\n*火*火*火火*火火******\nEarn 5% Back at Whole Foods Market\nwith the Amazon Prime Rewards Visa.\nLearn more at amazon.com/amazonvisa\n*火*火火火火火火***\nHOW WAS YOUR SHOPPING EXPERIENCE?\nGo to: http://www.wfm.com/feedback\nENTER FOR A CHANCE TO WIN A $250 GIFT CARD\n908 6387 02/10/2021 07:10 PM\n63011070790806387021020210\n6KTHQW62ZD\nThanks for shonning at Whole Foods Market"
+}

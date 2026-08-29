@@ -1,0 +1,19 @@
+{
+  "merchant": "LIAN HING STATIONERY SDN BHD",
+  "receipt_date": "27/03/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 79.5,
+  "total": 75.0,
+  "payment_method": null,
+  "extraction_confidence": 0.749,
+  "raw_text": "3180303\nLIAN HING STATIONERY SDN BHD\n(162761-M)\nNO.32 & 33. JALAN SR 1/9. SEKSYEN 9.\nTAMAN SERDANG RAYA,\n43300 SERI KEMBANGAN. SELANGOR\nDARUL EHSAN\nGSTID:002139201536\nTaxInvoice\n27/03/2018\nNo.:CS-20242\nQty Tax\nRM\nDurafile H399 (110 × 95mm)\n100 SR\n58.30\nName Badge (H) (@ 0.5500\n809 Metal Name Badge Clip\n1\nSR\n21.20\n- 100's @ 20.0000\nTotal Amt Incl. GST @) 6%:\n79.50\nRounding Adjustment\nTotal Ant Payable:\n79.50\nPaid Amount\n100.00\nChange :\n20.50\nTotal Qty Tender\n101\nGST Summary\nAmount\nTax\n(RM)\n(RM)\nSR (@) A\n15.00\n4.50\nTotal\n75.00\n4.50\nTHANK YOU\nFor any enduiry nlease contact us",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005453729",
+  "source_image": "X51005453729.jpg",
+  "ocr_confidence": 0.987
+}

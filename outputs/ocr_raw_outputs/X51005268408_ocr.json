@@ -1,0 +1,1226 @@
+{
+  "receipt_id": "X51005268408",
+  "source_image": "X51005268408.jpg",
+  "ocr_confidence": 0.977,
+  "lines": [
+    {
+      "text": "99 SPEED MART S/B (S19537-X)",
+      "confidence": 0.9788
+    },
+    {
+      "text": "LOT P.T. 2811, JALAN ANGSA,",
+      "confidence": 0.9649
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9951
+    },
+    {
+      "text": "41150 KLANG, SELANGOR",
+      "confidence": 0.9737
+    },
+    {
+      "text": "1413-SETIA ALAM 2",
+      "confidence": 0.9975
+    },
+    {
+      "text": "GST ID. NO : 000101747712",
+      "confidence": 0.9875
+    },
+    {
+      "text": "INVOICE NO : 10222/102/TO341",
+      "confidence": 0.9689
+    },
+    {
+      "text": "20-11-17",
+      "confidence": 0.999
+    },
+    {
+      "text": "03:29PH",
+      "confidence": 0.9269
+    },
+    {
+      "text": "562936",
+      "confidence": 0.9998
+    },
+    {
+      "text": "RM117.90 s",
+      "confidence": 0.9941
+    },
+    {
+      "text": "2973 PEDIASURE COMPLETE S3S",
+      "confidence": 0.9953
+    },
+    {
+      "text": "RM34.90 s",
+      "confidence": 0.9723
+    },
+    {
+      "text": "069 MILD 2KG",
+      "confidence": 0.9705
+    },
+    {
+      "text": "RN4,10 s",
+      "confidence": 0.8822
+    },
+    {
+      "text": "2709 ZING HEING OAT & WHEAT",
+      "confidence": 0.9893
+    },
+    {
+      "text": "RM5.89 s",
+      "confidence": 0.9736
+    },
+    {
+      "text": "2093 DISNEY DS112 WIDE NECK",
+      "confidence": 0.9958
+    },
+    {
+      "text": "RM6.99 s",
+      "confidence": 0.9874
+    },
+    {
+      "text": "4385 JOHNSONS PH5.5 2IN1 BO",
+      "confidence": 0.9816
+    },
+    {
+      "text": "169.78",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Total Sales (Inclusive GST) RM",
+      "confidence": 0.9968
+    },
+    {
+      "text": ".02",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Rounding Adjustment RM",
+      "confidence": 0.9828
+    },
+    {
+      "text": "169.80",
+      "confidence": 0.9889
+    },
+    {
+      "text": "Rounding RM",
+      "confidence": 0.9854
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9892
+    },
+    {
+      "text": "200.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9987
+    },
+    {
+      "text": "30.20",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Tax(RH)",
+      "confidence": 0.9645
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9869
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9953
+    },
+    {
+      "text": "9.61",
+      "confidence": 0.994
+    },
+    {
+      "text": "160.17",
+      "confidence": 1.0
+    },
+    {
+      "text": "s = 61",
+      "confidence": 0.7548
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9717
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9981
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "99 SPEED MART S/B (S19537-X)",
+      "confidence": 0.9788,
+      "box": [
+        137,
+        273,
+        540,
+        318
+      ],
+      "polygon": [
+        [
+          137,
+          278
+        ],
+        [
+          540,
+          273
+        ],
+        [
+          540,
+          313
+        ],
+        [
+          138,
+          318
+        ]
+      ]
+    },
+    {
+      "text": "LOT P.T. 2811, JALAN ANGSA,",
+      "confidence": 0.9649,
+      "box": [
+        150,
+        308,
+        543,
+        359
+      ],
+      "polygon": [
+        [
+          150,
+          315
+        ],
+        [
+          543,
+          308
+        ],
+        [
+          543,
+          352
+        ],
+        [
+          151,
+          359
+        ]
+      ]
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9951,
+      "box": [
+        240,
+        350,
+        447,
+        395
+      ],
+      "polygon": [
+        [
+          240,
+          356
+        ],
+        [
+          446,
+          350
+        ],
+        [
+          447,
+          389
+        ],
+        [
+          241,
+          395
+        ]
+      ]
+    },
+    {
+      "text": "41150 KLANG, SELANGOR",
+      "confidence": 0.9737,
+      "box": [
+        199,
+        389,
+        506,
+        435
+      ],
+      "polygon": [
+        [
+          199,
+          397
+        ],
+        [
+          505,
+          389
+        ],
+        [
+          506,
+          428
+        ],
+        [
+          200,
+          435
+        ]
+      ]
+    },
+    {
+      "text": "1413-SETIA ALAM 2",
+      "confidence": 0.9975,
+      "box": [
+        229,
+        427,
+        479,
+        473
+      ],
+      "polygon": [
+        [
+          229,
+          434
+        ],
+        [
+          478,
+          427
+        ],
+        [
+          479,
+          466
+        ],
+        [
+          230,
+          473
+        ]
+      ]
+    },
+    {
+      "text": "GST ID. NO : 000101747712",
+      "confidence": 0.9875,
+      "box": [
+        172,
+        466,
+        539,
+        515
+      ],
+      "polygon": [
+        [
+          172,
+          476
+        ],
+        [
+          538,
+          466
+        ],
+        [
+          539,
+          505
+        ],
+        [
+          173,
+          515
+        ]
+      ]
+    },
+    {
+      "text": "INVOICE NO : 10222/102/TO341",
+      "confidence": 0.9689,
+      "box": [
+        161,
+        542,
+        566,
+        595
+      ],
+      "polygon": [
+        [
+          161,
+          556
+        ],
+        [
+          564,
+          542
+        ],
+        [
+          566,
+          581
+        ],
+        [
+          162,
+          595
+        ]
+      ]
+    },
+    {
+      "text": "20-11-17",
+      "confidence": 0.999,
+      "box": [
+        535,
+        613,
+        659,
+        660
+      ],
+      "polygon": [
+        [
+          535,
+          619
+        ],
+        [
+          657,
+          613
+        ],
+        [
+          659,
+          654
+        ],
+        [
+          537,
+          660
+        ]
+      ]
+    },
+    {
+      "text": "03:29PH",
+      "confidence": 0.9269,
+      "box": [
+        77,
+        630,
+        190,
+        676
+      ],
+      "polygon": [
+        [
+          77,
+          634
+        ],
+        [
+          188,
+          630
+        ],
+        [
+          190,
+          672
+        ],
+        [
+          78,
+          676
+        ]
+      ]
+    },
+    {
+      "text": "562936",
+      "confidence": 0.9998,
+      "box": [
+        320,
+        625,
+        419,
+        670
+      ],
+      "polygon": [
+        [
+          320,
+          629
+        ],
+        [
+          417,
+          625
+        ],
+        [
+          419,
+          665
+        ],
+        [
+          322,
+          670
+        ]
+      ]
+    },
+    {
+      "text": "RM117.90 s",
+      "confidence": 0.9941,
+      "box": [
+        510,
+        693,
+        664,
+        738
+      ],
+      "polygon": [
+        [
+          510,
+          699
+        ],
+        [
+          662,
+          693
+        ],
+        [
+          664,
+          732
+        ],
+        [
+          511,
+          738
+        ]
+      ]
+    },
+    {
+      "text": "2973 PEDIASURE COMPLETE S3S",
+      "confidence": 0.9953,
+      "box": [
+        82,
+        701,
+        476,
+        756
+      ],
+      "polygon": [
+        [
+          82,
+          717
+        ],
+        [
+          474,
+          701
+        ],
+        [
+          476,
+          740
+        ],
+        [
+          83,
+          756
+        ]
+      ]
+    },
+    {
+      "text": "RM34.90 s",
+      "confidence": 0.9723,
+      "box": [
+        525,
+        732,
+        665,
+        777
+      ],
+      "polygon": [
+        [
+          525,
+          738
+        ],
+        [
+          664,
+          732
+        ],
+        [
+          665,
+          771
+        ],
+        [
+          527,
+          777
+        ]
+      ]
+    },
+    {
+      "text": "069 MILD 2KG",
+      "confidence": 0.9705,
+      "box": [
+        83,
+        750,
+        267,
+        796
+      ],
+      "polygon": [
+        [
+          83,
+          757
+        ],
+        [
+          266,
+          750
+        ],
+        [
+          267,
+          789
+        ],
+        [
+          85,
+          796
+        ]
+      ]
+    },
+    {
+      "text": "RN4,10 s",
+      "confidence": 0.8822,
+      "box": [
+        543,
+        773,
+        668,
+        816
+      ],
+      "polygon": [
+        [
+          543,
+          777
+        ],
+        [
+          667,
+          773
+        ],
+        [
+          668,
+          812
+        ],
+        [
+          544,
+          816
+        ]
+      ]
+    },
+    {
+      "text": "2709 ZING HEING OAT & WHEAT",
+      "confidence": 0.9893,
+      "box": [
+        86,
+        782,
+        481,
+        837
+      ],
+      "polygon": [
+        [
+          86,
+          798
+        ],
+        [
+          479,
+          782
+        ],
+        [
+          481,
+          821
+        ],
+        [
+          88,
+          837
+        ]
+      ]
+    },
+    {
+      "text": "RM5.89 s",
+      "confidence": 0.9736,
+      "box": [
+        548,
+        812,
+        668,
+        855
+      ],
+      "polygon": [
+        [
+          548,
+          816
+        ],
+        [
+          667,
+          812
+        ],
+        [
+          668,
+          851
+        ],
+        [
+          549,
+          855
+        ]
+      ]
+    },
+    {
+      "text": "2093 DISNEY DS112 WIDE NECK",
+      "confidence": 0.9958,
+      "box": [
+        88,
+        821,
+        482,
+        877
+      ],
+      "polygon": [
+        [
+          88,
+          838
+        ],
+        [
+          481,
+          821
+        ],
+        [
+          482,
+          860
+        ],
+        [
+          90,
+          877
+        ]
+      ]
+    },
+    {
+      "text": "RM6.99 s",
+      "confidence": 0.9874,
+      "box": [
+        546,
+        850,
+        673,
+        895
+      ],
+      "polygon": [
+        [
+          546,
+          856
+        ],
+        [
+          672,
+          850
+        ],
+        [
+          673,
+          889
+        ],
+        [
+          548,
+          895
+        ]
+      ]
+    },
+    {
+      "text": "4385 JOHNSONS PH5.5 2IN1 BO",
+      "confidence": 0.9816,
+      "box": [
+        89,
+        860,
+        487,
+        918
+      ],
+      "polygon": [
+        [
+          89,
+          879
+        ],
+        [
+          485,
+          860
+        ],
+        [
+          487,
+          899
+        ],
+        [
+          91,
+          918
+        ]
+      ]
+    },
+    {
+      "text": "169.78",
+      "confidence": 0.9995,
+      "box": [
+        552,
+        927,
+        648,
+        973
+      ],
+      "polygon": [
+        [
+          552,
+          933
+        ],
+        [
+          646,
+          927
+        ],
+        [
+          648,
+          967
+        ],
+        [
+          555,
+          973
+        ]
+      ]
+    },
+    {
+      "text": "Total Sales (Inclusive GST) RM",
+      "confidence": 0.9968,
+      "box": [
+        96,
+        935,
+        536,
+        998
+      ],
+      "polygon": [
+        [
+          96,
+          959
+        ],
+        [
+          534,
+          935
+        ],
+        [
+          536,
+          974
+        ],
+        [
+          98,
+          998
+        ]
+      ]
+    },
+    {
+      "text": ".02",
+      "confidence": 0.9986,
+      "box": [
+        599,
+        970,
+        649,
+        1010
+      ],
+      "polygon": [
+        [
+          599,
+          970
+        ],
+        [
+          649,
+          970
+        ],
+        [
+          649,
+          1010
+        ],
+        [
+          599,
+          1010
+        ]
+      ]
+    },
+    {
+      "text": "Rounding Adjustment RM",
+      "confidence": 0.9828,
+      "box": [
+        211,
+        974,
+        538,
+        1035
+      ],
+      "polygon": [
+        [
+          211,
+          991
+        ],
+        [
+          535,
+          974
+        ],
+        [
+          538,
+          1017
+        ],
+        [
+          213,
+          1035
+        ]
+      ]
+    },
+    {
+      "text": "169.80",
+      "confidence": 0.9889,
+      "box": [
+        557,
+        1008,
+        651,
+        1052
+      ],
+      "polygon": [
+        [
+          557,
+          1014
+        ],
+        [
+          649,
+          1008
+        ],
+        [
+          651,
+          1045
+        ],
+        [
+          559,
+          1052
+        ]
+      ]
+    },
+    {
+      "text": "Rounding RM",
+      "confidence": 0.9854,
+      "box": [
+        370,
+        1014,
+        541,
+        1064
+      ],
+      "polygon": [
+        [
+          370,
+          1024
+        ],
+        [
+          539,
+          1014
+        ],
+        [
+          541,
+          1055
+        ],
+        [
+          373,
+          1064
+        ]
+      ]
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9892,
+      "box": [
+        430,
+        1052,
+        544,
+        1098
+      ],
+      "polygon": [
+        [
+          430,
+          1058
+        ],
+        [
+          542,
+          1052
+        ],
+        [
+          544,
+          1092
+        ],
+        [
+          433,
+          1098
+        ]
+      ]
+    },
+    {
+      "text": "200.00",
+      "confidence": 0.9998,
+      "box": [
+        558,
+        1045,
+        655,
+        1092
+      ],
+      "polygon": [
+        [
+          558,
+          1052
+        ],
+        [
+          652,
+          1045
+        ],
+        [
+          655,
+          1086
+        ],
+        [
+          561,
+          1092
+        ]
+      ]
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9987,
+      "box": [
+        405,
+        1092,
+        545,
+        1141
+      ],
+      "polygon": [
+        [
+          405,
+          1100
+        ],
+        [
+          543,
+          1092
+        ],
+        [
+          545,
+          1133
+        ],
+        [
+          407,
+          1141
+        ]
+      ]
+    },
+    {
+      "text": "30.20",
+      "confidence": 0.9999,
+      "box": [
+        576,
+        1086,
+        658,
+        1129
+      ],
+      "polygon": [
+        [
+          576,
+          1092
+        ],
+        [
+          655,
+          1086
+        ],
+        [
+          658,
+          1123
+        ],
+        [
+          578,
+          1129
+        ]
+      ]
+    },
+    {
+      "text": "Tax(RH)",
+      "confidence": 0.9645,
+      "box": [
+        566,
+        1164,
+        675,
+        1209
+      ],
+      "polygon": [
+        [
+          566,
+          1170
+        ],
+        [
+          673,
+          1164
+        ],
+        [
+          675,
+          1203
+        ],
+        [
+          568,
+          1209
+        ]
+      ]
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9869,
+      "box": [
+        337,
+        1175,
+        490,
+        1224
+      ],
+      "polygon": [
+        [
+          337,
+          1185
+        ],
+        [
+          488,
+          1175
+        ],
+        [
+          490,
+          1214
+        ],
+        [
+          340,
+          1224
+        ]
+      ]
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9953,
+      "box": [
+        108,
+        1191,
+        278,
+        1240
+      ],
+      "polygon": [
+        [
+          108,
+          1199
+        ],
+        [
+          277,
+          1191
+        ],
+        [
+          278,
+          1232
+        ],
+        [
+          110,
+          1240
+        ]
+      ]
+    },
+    {
+      "text": "9.61",
+      "confidence": 0.994,
+      "box": [
+        609,
+        1203,
+        675,
+        1246
+      ],
+      "polygon": [
+        [
+          609,
+          1207
+        ],
+        [
+          672,
+          1203
+        ],
+        [
+          675,
+          1242
+        ],
+        [
+          612,
+          1246
+        ]
+      ]
+    },
+    {
+      "text": "160.17",
+      "confidence": 1.0,
+      "box": [
+        397,
+        1212,
+        495,
+        1259
+      ],
+      "polygon": [
+        [
+          397,
+          1219
+        ],
+        [
+          492,
+          1212
+        ],
+        [
+          495,
+          1253
+        ],
+        [
+          400,
+          1259
+        ]
+      ]
+    },
+    {
+      "text": "s = 61",
+      "confidence": 0.7548,
+      "box": [
+        107,
+        1234,
+        211,
+        1280
+      ],
+      "polygon": [
+        [
+          107,
+          1240
+        ],
+        [
+          208,
+          1234
+        ],
+        [
+          211,
+          1274
+        ],
+        [
+          109,
+          1280
+        ]
+      ]
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9717,
+      "box": [
+        195,
+        1329,
+        601,
+        1392
+      ],
+      "polygon": [
+        [
+          195,
+          1353
+        ],
+        [
+          599,
+          1329
+        ],
+        [
+          601,
+          1368
+        ],
+        [
+          197,
+          1392
+        ]
+      ]
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9981,
+      "box": [
+        118,
+        1360,
+        688,
+        1443
+      ],
+      "polygon": [
+        [
+          118,
+          1399
+        ],
+        [
+          685,
+          1360
+        ],
+        [
+          688,
+          1404
+        ],
+        [
+          120,
+          1443
+        ]
+      ]
+    }
+  ],
+  "raw_text": "99 SPEED MART S/B (S19537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1413-SETIA ALAM 2\nGST ID. NO : 000101747712\nINVOICE NO : 10222/102/TO341\n20-11-17\n03:29PH\n562936\nRM117.90 s\n2973 PEDIASURE COMPLETE S3S\nRM34.90 s\n069 MILD 2KG\nRN4,10 s\n2709 ZING HEING OAT & WHEAT\nRM5.89 s\n2093 DISNEY DS112 WIDE NECK\nRM6.99 s\n4385 JOHNSONS PH5.5 2IN1 BO\n169.78\nTotal Sales (Inclusive GST) RM\n.02\nRounding Adjustment RM\n169.80\nRounding RM\nCASH RM\n200.00\nCHANGE RM\n30.20\nTax(RH)\nAmount(RM)\nGST Summary\n9.61\n160.17\ns = 61\nThank You. Please come again\nKeep the invoice for applicable returns"
+}

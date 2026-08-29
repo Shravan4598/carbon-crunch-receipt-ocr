@@ -1,0 +1,19 @@
+{
+  "merchant": "SPAR",
+  "receipt_date": "23.02.21",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 0.0,
+  "total": 338.16,
+  "payment_method": null,
+  "extraction_confidence": 0.751,
+  "raw_text": "SPAR\nTel :036-4481240\nemail : bergspar@telkomsa.net\nVAT No : 4450102696\nNLA REG NO: KZN 032577\nR\n17.99 A\nLAZENBY WORCESTER SAUCE 125ML\n80GR\n16.99 A\nMILKY BAR CHOC\n500GR\n33.99 A\nSMOKED VIENNAS\n400G\n82.99 A\nPEALED PEACHES\n1KG\n44.99 *\nMEDITERRANEAN MIX\n375ML\n14.99*\nSPAR COOKING OIL\n1'S\n12.99*\nF/L ENGLISH CUCUMB\n85GR\n20.99 A\nNESTLE AERO\n80GR\n16.99 A\nCADBURY DAIRY MI\nGRAPES MIXED TUB\nTUB\n24.99 *\nTASTIC RICE\n500GR\n11.99 *\nBLACK CAT SMOOTH\n270GR\n27.99 A\nCARRIER BAG 24L\n1'S\n0.75 A\nBANANAS LOOSE\n17KG\n0.596kg@\n15.99 R\n/kg\n9.53 *\nTOTAL\nFOR 14 ITEMS\n338.16\nTENDERED Nedbank\n338.16\nTAX INVOICE\nVAT rate\nexcl.\nTAX\nincl.\n0.00%\n119.48\n0.00\n119.48 *\n15.00%\n190.16\n28.52\n218.68 A\nSLIP /\nTILL\n/ CASHIER\nDATE\nTIME\n3780\n005\n101\n23.02.21\n16:17\nCASHIER NAME: SWAZI\nPlease Retain Slip\nThank You For Shopping With Us! :)\nFollow us on Facebook: Spar Bergville",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "10",
+  "source_image": "10.jpg",
+  "ocr_confidence": 0.99
+}

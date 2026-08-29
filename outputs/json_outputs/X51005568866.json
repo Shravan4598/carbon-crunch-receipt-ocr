@@ -1,0 +1,24 @@
+{
+  "merchant": "POPULAR BOOK",
+  "receipt_date": "25 AUG",
+  "receipt_number": "304168",
+  "items": [
+    {
+      "name": "4pc e",
+      "quantity": 1.0,
+      "unit_price": 1.4,
+      "total_price": 1.4
+    }
+  ],
+  "subtotal": null,
+  "discount": 0.56,
+  "tax": 5.04,
+  "total": 0.56,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.915,
+  "raw_text": "POPULAR BOOK\nCO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nCHERAS LEISURE MALL\nTel:03-91322435/437\n串宗宗京幸宰永永串寧本本幸本幸市市本宗寧本幸市宰串宗串京串\nMega Bookfair @ SPCC 2017\nSunway Pyramid Convention Centre\n25 AUG - 3 Sept 2017\n本京宗东东串市本本本本本东东本本本永京本本串本寧本水串京京\n20/08/17 12:48\nSlip No.: 9020374693\nYen Lee\nTrans:304168\nMemberCardNo: 2002008362249\nCard Expiry: 31/08/20\nDescription\nAmount\nH'MAN GLASS PAPER\n4pc e 1.40\n5.60 T\nMember Discount\n-0.56\nTotal RM Incl. of GST\n5.04\nRounding Adj\n0.01\nTotal RM\n5.05\nCash\n-10.00\nCHANGE\n4.95\nItem Count\n4\nGST Summary\nAmount (RM)\nTax (RM)\nT @ 6%\n4.75\n0.29\nTotal Savings\n-0.56\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my",
+  "warnings": [],
+  "receipt_id": "X51005568866",
+  "source_image": "X51005568866.jpg",
+  "ocr_confidence": 0.968
+}

@@ -1,0 +1,1482 @@
+{
+  "receipt_id": "X51005230617",
+  "source_image": "X51005230617.jpg",
+  "ocr_confidence": 0.984,
+  "lines": [
+    {
+      "text": "1kL",
+      "confidence": 0.6338
+    },
+    {
+      "text": "per",
+      "confidence": 0.793
+    },
+    {
+      "text": "1950",
+      "confidence": 1.0
+    },
+    {
+      "text": "0598",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Gerbang Alaf Restaurants Sdn Bhd",
+      "confidence": 0.9999
+    },
+    {
+      "text": "(65351-M)",
+      "confidence": 0.9999
+    },
+    {
+      "text": "formerly known as",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Golden Arches Restaurants Sdn Bhd",
+      "confidence": 0.9975
+    },
+    {
+      "text": "Licensee of McDonald's",
+      "confidence": 0.9625
+    },
+    {
+      "text": "Level 6, Bangunan TH, Damansara Uptown3",
+      "confidence": 0.9924
+    },
+    {
+      "text": "No.3, Jalan SS21/39,47400 Petaling Jaya",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Selangor",
+      "confidence": 1.0
+    },
+    {
+      "text": "(GST ID No: 000504664064)",
+      "confidence": 0.9969
+    },
+    {
+      "text": "McDonald's BHP Taman Melawati(#328)",
+      "confidence": 0.9961
+    },
+    {
+      "text": "Tel No. 03-4162-2318",
+      "confidence": 0.979
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9994
+    },
+    {
+      "text": "MFY Side 1",
+      "confidence": 0.9969
+    },
+    {
+      "text": "INV#003281900229170",
+      "confidence": 1.0
+    },
+    {
+      "text": "ORD #50-REG #19- 18/01/2018 10:27:03",
+      "confidence": 0.964
+    },
+    {
+      "text": "QTY ITEM",
+      "confidence": 0.9999
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9998
+    },
+    {
+      "text": "2ChicMcMuffin",
+      "confidence": 0.9998
+    },
+    {
+      "text": "11.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "1 M Porridge",
+      "confidence": 0.9929
+    },
+    {
+      "text": "5.60",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1 BM 2HotCakes",
+      "confidence": 0.9935
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1 L Coke",
+      "confidence": 0.9946
+    },
+    {
+      "text": "TakeOut Total (incl GST)",
+      "confidence": 0.9865
+    },
+    {
+      "text": "26.60",
+      "confidence": 1.0
+    },
+    {
+      "text": "Total Rounded",
+      "confidence": 0.9996
+    },
+    {
+      "text": "26.60",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cash Tendered",
+      "confidence": 0.9999
+    },
+    {
+      "text": "100.00",
+      "confidence": 0.9915
+    },
+    {
+      "text": "Change",
+      "confidence": 1.0
+    },
+    {
+      "text": "73.40",
+      "confidence": 0.9998
+    },
+    {
+      "text": "TOTAL INCLUDES 6% GST",
+      "confidence": 0.9992
+    },
+    {
+      "text": "1.51",
+      "confidence": 0.9994
+    },
+    {
+      "text": "We'd love to hear your feedback!",
+      "confidence": 0.9974
+    },
+    {
+      "text": "sit www.mcdfeedback.com.my",
+      "confidence": 0.9983
+    },
+    {
+      "text": "OR",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Download My McD Feedback from",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Google Play/App Store",
+      "confidence": 0.9999
+    },
+    {
+      "text": "to share your experience",
+      "confidence": 0.9974
+    },
+    {
+      "text": "Thank You and Please Come Again.",
+      "confidence": 0.996
+    },
+    {
+      "text": "Customer Service Hotline : 03-2726-5600",
+      "confidence": 0.9876
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "1kL",
+      "confidence": 0.6338,
+      "box": [
+        387,
+        13,
+        474,
+        78
+      ],
+      "polygon": [
+        [
+          387,
+          19
+        ],
+        [
+          471,
+          13
+        ],
+        [
+          474,
+          72
+        ],
+        [
+          390,
+          78
+        ]
+      ]
+    },
+    {
+      "text": "per",
+      "confidence": 0.793,
+      "box": [
+        430,
+        17,
+        563,
+        122
+      ],
+      "polygon": [
+        [
+          430,
+          62
+        ],
+        [
+          541,
+          17
+        ],
+        [
+          563,
+          78
+        ],
+        [
+          452,
+          122
+        ]
+      ]
+    },
+    {
+      "text": "1950",
+      "confidence": 1.0,
+      "box": [
+        218,
+        105,
+        333,
+        168
+      ],
+      "polygon": [
+        [
+          218,
+          105
+        ],
+        [
+          333,
+          105
+        ],
+        [
+          333,
+          168
+        ],
+        [
+          218,
+          168
+        ]
+      ]
+    },
+    {
+      "text": "0598",
+      "confidence": 0.9999,
+      "box": [
+        440,
+        80,
+        585,
+        204
+      ],
+      "polygon": [
+        [
+          440,
+          140
+        ],
+        [
+          554,
+          80
+        ],
+        [
+          585,
+          144
+        ],
+        [
+          470,
+          204
+        ]
+      ]
+    },
+    {
+      "text": "Gerbang Alaf Restaurants Sdn Bhd",
+      "confidence": 0.9999,
+      "box": [
+        43,
+        189,
+        477,
+        227
+      ],
+      "polygon": [
+        [
+          43,
+          189
+        ],
+        [
+          477,
+          191
+        ],
+        [
+          477,
+          227
+        ],
+        [
+          43,
+          225
+        ]
+      ]
+    },
+    {
+      "text": "(65351-M)",
+      "confidence": 0.9999,
+      "box": [
+        188,
+        219,
+        318,
+        261
+      ],
+      "polygon": [
+        [
+          190,
+          219
+        ],
+        [
+          318,
+          224
+        ],
+        [
+          317,
+          261
+        ],
+        [
+          188,
+          257
+        ]
+      ]
+    },
+    {
+      "text": "formerly known as",
+      "confidence": 0.9999,
+      "box": [
+        135,
+        254,
+        371,
+        293
+      ],
+      "polygon": [
+        [
+          136,
+          254
+        ],
+        [
+          371,
+          258
+        ],
+        [
+          370,
+          293
+        ],
+        [
+          135,
+          289
+        ]
+      ]
+    },
+    {
+      "text": "Golden Arches Restaurants Sdn Bhd",
+      "confidence": 0.9975,
+      "box": [
+        29,
+        288,
+        477,
+        325
+      ],
+      "polygon": [
+        [
+          29,
+          288
+        ],
+        [
+          477,
+          290
+        ],
+        [
+          477,
+          325
+        ],
+        [
+          29,
+          323
+        ]
+      ]
+    },
+    {
+      "text": "Licensee of McDonald's",
+      "confidence": 0.9625,
+      "box": [
+        110,
+        322,
+        408,
+        356
+      ],
+      "polygon": [
+        [
+          110,
+          322
+        ],
+        [
+          408,
+          324
+        ],
+        [
+          408,
+          356
+        ],
+        [
+          110,
+          354
+        ]
+      ]
+    },
+    {
+      "text": "Level 6, Bangunan TH, Damansara Uptown3",
+      "confidence": 0.9924,
+      "box": [
+        2,
+        352,
+        530,
+        390
+      ],
+      "polygon": [
+        [
+          2,
+          352
+        ],
+        [
+          530,
+          354
+        ],
+        [
+          530,
+          390
+        ],
+        [
+          2,
+          388
+        ]
+      ]
+    },
+    {
+      "text": "No.3, Jalan SS21/39,47400 Petaling Jaya",
+      "confidence": 0.9989,
+      "box": [
+        0,
+        384,
+        529,
+        422
+      ],
+      "polygon": [
+        [
+          0,
+          384
+        ],
+        [
+          529,
+          386
+        ],
+        [
+          528,
+          422
+        ],
+        [
+          0,
+          420
+        ]
+      ]
+    },
+    {
+      "text": "Selangor",
+      "confidence": 1.0,
+      "box": [
+        202,
+        418,
+        317,
+        456
+      ],
+      "polygon": [
+        [
+          202,
+          418
+        ],
+        [
+          317,
+          418
+        ],
+        [
+          317,
+          456
+        ],
+        [
+          202,
+          456
+        ]
+      ]
+    },
+    {
+      "text": "(GST ID No: 000504664064)",
+      "confidence": 0.9969,
+      "box": [
+        96,
+        449,
+        434,
+        486
+      ],
+      "polygon": [
+        [
+          96,
+          449
+        ],
+        [
+          434,
+          451
+        ],
+        [
+          434,
+          486
+        ],
+        [
+          96,
+          484
+        ]
+      ]
+    },
+    {
+      "text": "McDonald's BHP Taman Melawati(#328)",
+      "confidence": 0.9961,
+      "box": [
+        27,
+        481,
+        501,
+        518
+      ],
+      "polygon": [
+        [
+          28,
+          481
+        ],
+        [
+          501,
+          483
+        ],
+        [
+          501,
+          518
+        ],
+        [
+          27,
+          517
+        ]
+      ]
+    },
+    {
+      "text": "Tel No. 03-4162-2318",
+      "confidence": 0.979,
+      "box": [
+        124,
+        515,
+        410,
+        551
+      ],
+      "polygon": [
+        [
+          124,
+          515
+        ],
+        [
+          410,
+          515
+        ],
+        [
+          410,
+          551
+        ],
+        [
+          124,
+          551
+        ]
+      ]
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9994,
+      "box": [
+        190,
+        551,
+        341,
+        583
+      ],
+      "polygon": [
+        [
+          190,
+          551
+        ],
+        [
+          341,
+          551
+        ],
+        [
+          341,
+          583
+        ],
+        [
+          190,
+          583
+        ]
+      ]
+    },
+    {
+      "text": "MFY Side 1",
+      "confidence": 0.9969,
+      "box": [
+        202,
+        615,
+        341,
+        647
+      ],
+      "polygon": [
+        [
+          202,
+          615
+        ],
+        [
+          341,
+          615
+        ],
+        [
+          341,
+          647
+        ],
+        [
+          202,
+          647
+        ]
+      ]
+    },
+    {
+      "text": "INV#003281900229170",
+      "confidence": 1.0,
+      "box": [
+        5,
+        679,
+        275,
+        710
+      ],
+      "polygon": [
+        [
+          5,
+          679
+        ],
+        [
+          275,
+          679
+        ],
+        [
+          275,
+          710
+        ],
+        [
+          5,
+          710
+        ]
+      ]
+    },
+    {
+      "text": "ORD #50-REG #19- 18/01/2018 10:27:03",
+      "confidence": 0.964,
+      "box": [
+        2,
+        710,
+        501,
+        745
+      ],
+      "polygon": [
+        [
+          2,
+          710
+        ],
+        [
+          501,
+          713
+        ],
+        [
+          501,
+          745
+        ],
+        [
+          2,
+          742
+        ]
+      ]
+    },
+    {
+      "text": "QTY ITEM",
+      "confidence": 0.9999,
+      "box": [
+        2,
+        744,
+        115,
+        776
+      ],
+      "polygon": [
+        [
+          2,
+          744
+        ],
+        [
+          115,
+          744
+        ],
+        [
+          115,
+          776
+        ],
+        [
+          2,
+          776
+        ]
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9998,
+      "box": [
+        456,
+        745,
+        527,
+        779
+      ],
+      "polygon": [
+        [
+          456,
+          745
+        ],
+        [
+          527,
+          745
+        ],
+        [
+          527,
+          779
+        ],
+        [
+          456,
+          779
+        ]
+      ]
+    },
+    {
+      "text": "2ChicMcMuffin",
+      "confidence": 0.9998,
+      "box": [
+        27,
+        774,
+        223,
+        810
+      ],
+      "polygon": [
+        [
+          27,
+          774
+        ],
+        [
+          223,
+          774
+        ],
+        [
+          223,
+          810
+        ],
+        [
+          27,
+          810
+        ]
+      ]
+    },
+    {
+      "text": "11.00",
+      "confidence": 1.0,
+      "box": [
+        456,
+        779,
+        528,
+        812
+      ],
+      "polygon": [
+        [
+          456,
+          779
+        ],
+        [
+          528,
+          779
+        ],
+        [
+          528,
+          812
+        ],
+        [
+          456,
+          812
+        ]
+      ]
+    },
+    {
+      "text": "1 M Porridge",
+      "confidence": 0.9929,
+      "box": [
+        29,
+        810,
+        194,
+        842
+      ],
+      "polygon": [
+        [
+          29,
+          810
+        ],
+        [
+          194,
+          810
+        ],
+        [
+          194,
+          842
+        ],
+        [
+          29,
+          842
+        ]
+      ]
+    },
+    {
+      "text": "5.60",
+      "confidence": 0.9999,
+      "box": [
+        467,
+        812,
+        528,
+        845
+      ],
+      "polygon": [
+        [
+          467,
+          812
+        ],
+        [
+          528,
+          812
+        ],
+        [
+          528,
+          845
+        ],
+        [
+          467,
+          845
+        ]
+      ]
+    },
+    {
+      "text": "1 BM 2HotCakes",
+      "confidence": 0.9935,
+      "box": [
+        29,
+        840,
+        223,
+        876
+      ],
+      "polygon": [
+        [
+          29,
+          840
+        ],
+        [
+          223,
+          840
+        ],
+        [
+          223,
+          876
+        ],
+        [
+          29,
+          876
+        ]
+      ]
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9999,
+      "box": [
+        456,
+        844,
+        528,
+        878
+      ],
+      "polygon": [
+        [
+          456,
+          844
+        ],
+        [
+          528,
+          844
+        ],
+        [
+          528,
+          878
+        ],
+        [
+          456,
+          878
+        ]
+      ]
+    },
+    {
+      "text": "1 L Coke",
+      "confidence": 0.9946,
+      "box": [
+        53,
+        870,
+        170,
+        912
+      ],
+      "polygon": [
+        [
+          54,
+          870
+        ],
+        [
+          170,
+          874
+        ],
+        [
+          169,
+          912
+        ],
+        [
+          53,
+          908
+        ]
+      ]
+    },
+    {
+      "text": "TakeOut Total (incl GST)",
+      "confidence": 0.9865,
+      "box": [
+        0,
+        937,
+        326,
+        974
+      ],
+      "polygon": [
+        [
+          0,
+          937
+        ],
+        [
+          326,
+          938
+        ],
+        [
+          326,
+          974
+        ],
+        [
+          0,
+          972
+        ]
+      ]
+    },
+    {
+      "text": "26.60",
+      "confidence": 1.0,
+      "box": [
+        455,
+        940,
+        528,
+        974
+      ],
+      "polygon": [
+        [
+          455,
+          940
+        ],
+        [
+          528,
+          940
+        ],
+        [
+          528,
+          974
+        ],
+        [
+          455,
+          974
+        ]
+      ]
+    },
+    {
+      "text": "Total Rounded",
+      "confidence": 0.9996,
+      "box": [
+        2,
+        971,
+        180,
+        1001
+      ],
+      "polygon": [
+        [
+          2,
+          971
+        ],
+        [
+          180,
+          971
+        ],
+        [
+          180,
+          1001
+        ],
+        [
+          2,
+          1001
+        ]
+      ]
+    },
+    {
+      "text": "26.60",
+      "confidence": 1.0,
+      "box": [
+        455,
+        974,
+        528,
+        1006
+      ],
+      "polygon": [
+        [
+          455,
+          974
+        ],
+        [
+          528,
+          974
+        ],
+        [
+          528,
+          1006
+        ],
+        [
+          455,
+          1006
+        ]
+      ]
+    },
+    {
+      "text": "Cash Tendered",
+      "confidence": 0.9999,
+      "box": [
+        0,
+        1003,
+        182,
+        1039
+      ],
+      "polygon": [
+        [
+          0,
+          1003
+        ],
+        [
+          182,
+          1003
+        ],
+        [
+          182,
+          1039
+        ],
+        [
+          0,
+          1039
+        ]
+      ]
+    },
+    {
+      "text": "100.00",
+      "confidence": 0.9915,
+      "box": [
+        450,
+        1006,
+        527,
+        1039
+      ],
+      "polygon": [
+        [
+          450,
+          1006
+        ],
+        [
+          527,
+          1006
+        ],
+        [
+          527,
+          1039
+        ],
+        [
+          450,
+          1039
+        ]
+      ]
+    },
+    {
+      "text": "Change",
+      "confidence": 1.0,
+      "box": [
+        0,
+        1035,
+        89,
+        1072
+      ],
+      "polygon": [
+        [
+          0,
+          1035
+        ],
+        [
+          89,
+          1035
+        ],
+        [
+          89,
+          1072
+        ],
+        [
+          0,
+          1072
+        ]
+      ]
+    },
+    {
+      "text": "73.40",
+      "confidence": 0.9998,
+      "box": [
+        455,
+        1039,
+        528,
+        1072
+      ],
+      "polygon": [
+        [
+          455,
+          1039
+        ],
+        [
+          528,
+          1039
+        ],
+        [
+          528,
+          1072
+        ],
+        [
+          455,
+          1072
+        ]
+      ]
+    },
+    {
+      "text": "TOTAL INCLUDES 6% GST",
+      "confidence": 0.9992,
+      "box": [
+        2,
+        1099,
+        287,
+        1137
+      ],
+      "polygon": [
+        [
+          2,
+          1099
+        ],
+        [
+          287,
+          1101
+        ],
+        [
+          286,
+          1137
+        ],
+        [
+          2,
+          1135
+        ]
+      ]
+    },
+    {
+      "text": "1.51",
+      "confidence": 0.9994,
+      "box": [
+        467,
+        1105,
+        527,
+        1139
+      ],
+      "polygon": [
+        [
+          467,
+          1105
+        ],
+        [
+          527,
+          1105
+        ],
+        [
+          527,
+          1139
+        ],
+        [
+          467,
+          1139
+        ]
+      ]
+    },
+    {
+      "text": "We'd love to hear your feedback!",
+      "confidence": 0.9974,
+      "box": [
+        39,
+        1198,
+        470,
+        1235
+      ],
+      "polygon": [
+        [
+          40,
+          1198
+        ],
+        [
+          470,
+          1199
+        ],
+        [
+          470,
+          1235
+        ],
+        [
+          39,
+          1233
+        ]
+      ]
+    },
+    {
+      "text": "sit www.mcdfeedback.com.my",
+      "confidence": 0.9983,
+      "box": [
+        98,
+        1266,
+        444,
+        1301
+      ],
+      "polygon": [
+        [
+          98,
+          1266
+        ],
+        [
+          444,
+          1266
+        ],
+        [
+          444,
+          1301
+        ],
+        [
+          98,
+          1301
+        ]
+      ]
+    },
+    {
+      "text": "OR",
+      "confidence": 0.9992,
+      "box": [
+        239,
+        1300,
+        275,
+        1332
+      ],
+      "polygon": [
+        [
+          239,
+          1300
+        ],
+        [
+          275,
+          1300
+        ],
+        [
+          275,
+          1332
+        ],
+        [
+          239,
+          1332
+        ]
+      ]
+    },
+    {
+      "text": "Download My McD Feedback from",
+      "confidence": 0.9993,
+      "box": [
+        65,
+        1328,
+        460,
+        1366
+      ],
+      "polygon": [
+        [
+          65,
+          1328
+        ],
+        [
+          460,
+          1330
+        ],
+        [
+          460,
+          1366
+        ],
+        [
+          65,
+          1364
+        ]
+      ]
+    },
+    {
+      "text": "Google Play/App Store",
+      "confidence": 0.9999,
+      "box": [
+        118,
+        1362,
+        409,
+        1402
+      ],
+      "polygon": [
+        [
+          119,
+          1362
+        ],
+        [
+          409,
+          1366
+        ],
+        [
+          408,
+          1402
+        ],
+        [
+          118,
+          1398
+        ]
+      ]
+    },
+    {
+      "text": "to share your experience",
+      "confidence": 0.9974,
+      "box": [
+        93,
+        1426,
+        419,
+        1466
+      ],
+      "polygon": [
+        [
+          93,
+          1426
+        ],
+        [
+          419,
+          1430
+        ],
+        [
+          418,
+          1466
+        ],
+        [
+          93,
+          1462
+        ]
+      ]
+    },
+    {
+      "text": "Thank You and Please Come Again.",
+      "confidence": 0.996,
+      "box": [
+        26,
+        1491,
+        455,
+        1530
+      ],
+      "polygon": [
+        [
+          26,
+          1491
+        ],
+        [
+          455,
+          1494
+        ],
+        [
+          455,
+          1530
+        ],
+        [
+          26,
+          1526
+        ]
+      ]
+    },
+    {
+      "text": "Customer Service Hotline : 03-2726-5600",
+      "confidence": 0.9876,
+      "box": [
+        0,
+        1526,
+        523,
+        1561
+      ],
+      "polygon": [
+        [
+          0,
+          1526
+        ],
+        [
+          523,
+          1528
+        ],
+        [
+          523,
+          1561
+        ],
+        [
+          0,
+          1559
+        ]
+      ]
+    }
+  ],
+  "raw_text": "1kL\nper\n1950\n0598\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nformerly known as\nGolden Arches Restaurants Sdn Bhd\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's BHP Taman Melawati(#328)\nTel No. 03-4162-2318\nTAX INVOICE\nMFY Side 1\nINV#003281900229170\nORD #50-REG #19- 18/01/2018 10:27:03\nQTY ITEM\nTOTAL\n2ChicMcMuffin\n11.00\n1 M Porridge\n5.60\n1 BM 2HotCakes\n10.00\n1 L Coke\nTakeOut Total (incl GST)\n26.60\nTotal Rounded\n26.60\nCash Tendered\n100.00\nChange\n73.40\nTOTAL INCLUDES 6% GST\n1.51\nWe'd love to hear your feedback!\nsit www.mcdfeedback.com.my\nOR\nDownload My McD Feedback from\nGoogle Play/App Store\nto share your experience\nThank You and Please Come Again.\nCustomer Service Hotline : 03-2726-5600"
+}

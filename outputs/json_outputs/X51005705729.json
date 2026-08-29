@@ -1,0 +1,19 @@
+{
+  "merchant": "ASO ELECTRICAL TRADING SDN BHD",
+  "receipt_date": "13/10/2017",
+  "receipt_number": "CS00088810",
+  "items": [],
+  "subtotal": 89.26,
+  "discount": 0.0,
+  "tax": 89.26,
+  "total": 89.26,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.912,
+  "raw_text": "ASO ELECTRICAL TRADING SDN BHD\n1000131-K\nNO 31G, JALAN SEPADU C 25/C.\nSECTION 26, TAMAN INDUSTRIES,\nAXIS 40400 SHAH ALAM, SELANGOR.\nTEL:03-51221701.51313091 FAX:03-51215716\nGST NO:000683900928\nTAX INVOICE\nBill To :\nReceipt #: CS00088810\nSalesperson:\nDate: 13/10/2017\nCashier: USER\nTime: 11:37:00\n(GST)\nItem\n(GST)\nQty\nRSP\nRSP\nAmount\n101861\n10\n1.43\n1.51\nSR: CABLE LUG 50MM(M10)\n15.12\n107645\n1\n75.00\n79.50\n79.50\nSR: CRIMPING TOOL, HS-38, 5.5MM - 38MM\nTOT QTY:\n94.62\n(Excluded GST) Sub Total :\n89.26\nDiscount :\n0.00\nTotal GST :\n5.36\nRounding :\n-0.02\nTotal :\n94.60\nCASH :\n100.00\nChange :\n5.40\nGST SUMMARY\nTax Code\n%\nAmount\nGST\nSR\n6\n89.26\n5.36\nTotal :\n89.26\n5.36\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005705729",
+  "source_image": "X51005705729.jpg",
+  "ocr_confidence": 0.992
+}

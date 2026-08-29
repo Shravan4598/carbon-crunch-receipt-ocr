@@ -1,0 +1,19 @@
+{
+  "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+  "receipt_date": "28/12/2017",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 439.0,
+  "total": 439.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.792,
+  "raw_text": "31812012.\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL:03-40210276\nGST ID:000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No\nCS00012440\nDate: 28/12/2017\nCashier\nUSER\nTime: 11:57:00\nSalesperson\nRef.:\nItem\nQty\nS/Price\nAmount\nTax\n2623\n2\n2.12\n4.24\nSR\nNAIL (PER/PACK) - RM2\n3483\n1\n7.95\n7.95\nSR\n1 1/2\" SANCORA PAINT BRUSH\n1452\n1\n10.07\n10.07\nSR\n7\" PAINT ROLLER SET\n1664\n2\n26.50\n53.00\nSR\n1LT BIG TREE HIGH GLOSS PAINT\n1665\n450\n0.30\n133.56\nSR\nCEMENT BRICK\n1041\n3\n15.90\n47.70\nSR\n6'X 35# CORRUGATED ROOFING SHEET\n2430\n4\n18.02\n72.08\nSR\nCEMENT (50KG)\n1812\n2\n16.96\n33.92\nSR\n102X3\n1792\n3\n7.42\n22.26\nSR\n101X2\n1840\n2\n40.28\n80.56\nSR\nK10'1X8\nTotal Qty\n470\n465.34\nTotal Sales (Excluding GST)\n439.00\nDiscount\n0.00\nTotal GST\n26.34\nRounding\n0.00\nTotal Sales (Inclusive of GST)\n465.34\nCASH :\n465.34\nChange :\n0.00\nGST SUMMARY\nTax Code\n%\nAmt (RM)\nTax(RM)\nSR\n6\n439.00\n26.34\nTotal :\n439.00\n26.34\n26.34\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005663324",
+  "source_image": "X51005663324.jpg",
+  "ocr_confidence": 0.993
+}

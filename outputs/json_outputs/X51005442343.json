@@ -1,0 +1,24 @@
+{
+  "merchant": "YONG TAT HARDWARE TRADING",
+  "receipt_date": "13/03/2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SHTS",
+      "quantity": 1.0,
+      "unit_price": 1.0,
+      "total_price": 1.0
+    }
+  ],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 67.92,
+  "total": 67.92,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.868,
+  "raw_text": "Ao3077\nYONG TAT HARDWARE TRADING\n(JM0292487-D)\nNO 4.JALAN PERJIRANAN 10.\nTAMAN AIR BIRU.\n81700 PASIR GUDANG.\nJOHOR.\nTEL:07-2514733 FAX:07-2514733\nYONGTAT99@YAHOO.COM.MY\nGST ID:001570349056\nTAX INVOICE\nDoc No.\n:CS00035862\nDate: 13/03/2018\nCashier\n: USER\nTime: 12:41:00\nSalesperson\nRēf.:\n(GST)\n(GST)\nItem\naty\nS/Price\nS/Price\nAmount\nTax\n8603\n1.00 SHTS\n67.92\n72.00\n72.00\nSR\n0.8MM X 50\" X 50\" AR RED GASKET\nTotal Qty:\n72.00\nTotal Sales (Excluding GST):\n67.92\nDiscount :\n0.00\nTotal GST :\n4.08\nRounding :\n0.00\nTotal Sales (Inclusive of GST) :\n72.00\nCASH :\n102.00\nChange\n30.00\nGST SUMMARY\nTax Code\n%\nAmt (RM)\nTax (RM)\nSR\n6\n67.92\n4.08\nTotal :\n67.92\n4.08\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU",
+  "warnings": [],
+  "receipt_id": "X51005442343",
+  "source_image": "X51005442343.jpg",
+  "ocr_confidence": 0.974
+}

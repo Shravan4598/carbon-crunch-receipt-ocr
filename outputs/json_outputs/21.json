@@ -1,0 +1,24 @@
+{
+  "merchant": "Dollar TreeE STOres, INC.",
+  "receipt_date": "2/20/14",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "Where Everything's",
+      "quantity": 1.0,
+      "unit_price": 1.0,
+      "total_price": 1.0
+    }
+  ],
+  "subtotal": 10.0,
+  "discount": null,
+  "tax": 0.21,
+  "total": 10.21,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.943,
+  "raw_text": "Dollar TreeE STOres, INC.\nStore# 4561\n(305) 835-8204\n7900 NW 27th Ave\nSuite C-3\nMiami FL 33147-4911\nDESCRIPTION\nQTY\nPRICE\nTOTAL\nCLIF BAR PB\n1\n1.00\n1.00N\nCLIF BAR PB\n1.00\n1.00N\nSLICED PEPPERONI3Z\n1.00\n1.00N\nSLICED PEPPERONI3Z\n1.00\n1.00N\nASSURED CAPLETS\n1.00\n1.00N\nSUPER GLUE GEL\n1.00\n1.00T\nCONDITIONER\n1.00\n1.00T\nGINSENG TAB 500MG\n1.00\n1.00N\nGINSENG TAB 500MG\n1.00\n1.00N\nSCRUB SPONGE\n1.00\n1.00T\nSub Total\n$10.00\nGENERAL EXEM\n$0.00\nSALES TAX\n$0.21\nTotal\n$10.21\nCash\n$20.21\nCHANGE\n:Eee>\n$-10.00\nThank You for Shopping at Dollar Tree\nWhere Everything's $1.00\nNow Shoo On-Line at Dollartree.com\n1601 04561 03 033 21128592\n2/20/14 19:52\nSales Associate:jacquitta",
+  "warnings": [],
+  "receipt_id": "21",
+  "source_image": "21.jpg",
+  "ocr_confidence": 0.984
+}

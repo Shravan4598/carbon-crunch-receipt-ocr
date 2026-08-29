@@ -1,0 +1,1002 @@
+{
+  "receipt_id": "X51005757294",
+  "source_image": "X51005757294.jpg",
+  "ocr_confidence": 0.988,
+  "lines": [
+    {
+      "text": "31803042",
+      "confidence": 0.9999
+    },
+    {
+      "text": "MR. D.1.Y. (M) SDN BHD",
+      "confidence": 0.9949
+    },
+    {
+      "text": "(CO.REG :860671-D)",
+      "confidence": 0.9908
+    },
+    {
+      "text": "LOT 1851-A & 1851-B, JALAN KPB 6,",
+      "confidence": 0.9963
+    },
+    {
+      "text": "KAWASAN PERINDUSTRIAN BALAKONG.",
+      "confidence": 0.9929
+    },
+    {
+      "text": "43300 SERI KEMBANGAN, SELANGOR",
+      "confidence": 0.9938
+    },
+    {
+      "text": "(GST ID No :000306020352)",
+      "confidence": 0.9986
+    },
+    {
+      "text": "(IOI PUCHONG)",
+      "confidence": 0.9979
+    },
+    {
+      "text": "-TAX INVOICE-",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CARBON FIBER CARTRIDGE CTO-98#10'",
+      "confidence": 0.9882
+    },
+    {
+      "text": "*5",
+      "confidence": 0.9631
+    },
+    {
+      "text": "CC22-52-62-25",
+      "confidence": 1.0
+    },
+    {
+      "text": "9063785",
+      "confidence": 1.0
+    },
+    {
+      "text": "2 X 5.30 10.60",
+      "confidence": 0.9842
+    },
+    {
+      "text": "Item(s) : 1",
+      "confidence": 0.9382
+    },
+    {
+      "text": "Qty(s) : 2",
+      "confidence": 0.9938
+    },
+    {
+      "text": "Total Incl. GST@6%",
+      "confidence": 0.9978
+    },
+    {
+      "text": "RM 10.60",
+      "confidence": 0.9979
+    },
+    {
+      "text": "CASH",
+      "confidence": 1.0
+    },
+    {
+      "text": "RM 20.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9999
+    },
+    {
+      "text": "RM 9.40",
+      "confidence": 0.9977
+    },
+    {
+      "text": "GST @6% included in totai",
+      "confidence": 0.9869
+    },
+    {
+      "text": "RM 0.60",
+      "confidence": 0.9981
+    },
+    {
+      "text": "*ー",
+      "confidence": 0.8281
+    },
+    {
+      "text": "18-03-18 15:12 SH01 ZJ86",
+      "confidence": 0.9998
+    },
+    {
+      "text": "T3 R000060727",
+      "confidence": 0.9997
+    },
+    {
+      "text": "OPERATOR TRAINEE CASHIER",
+      "confidence": 1.0
+    },
+    {
+      "text": "EXCHANGE ARE ALLOWED WITHIN",
+      "confidence": 1.0
+    },
+    {
+      "text": "7 DAY WITH RECEIPT.",
+      "confidence": 1.0
+    },
+    {
+      "text": "STRICTLY NO CASH REFUND.",
+      "confidence": 1.0
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "31803042",
+      "confidence": 0.9999,
+      "box": [
+        7,
+        0,
+        234,
+        66
+      ],
+      "polygon": [
+        [
+          10,
+          0
+        ],
+        [
+          234,
+          7
+        ],
+        [
+          232,
+          66
+        ],
+        [
+          7,
+          57
+        ]
+      ]
+    },
+    {
+      "text": "MR. D.1.Y. (M) SDN BHD",
+      "confidence": 0.9949,
+      "box": [
+        155,
+        247,
+        523,
+        281
+      ],
+      "polygon": [
+        [
+          155,
+          247
+        ],
+        [
+          523,
+          247
+        ],
+        [
+          523,
+          281
+        ],
+        [
+          155,
+          281
+        ]
+      ]
+    },
+    {
+      "text": "(CO.REG :860671-D)",
+      "confidence": 0.9908,
+      "box": [
+        189,
+        279,
+        491,
+        317
+      ],
+      "polygon": [
+        [
+          189,
+          281
+        ],
+        [
+          491,
+          279
+        ],
+        [
+          491,
+          314
+        ],
+        [
+          189,
+          317
+        ]
+      ]
+    },
+    {
+      "text": "LOT 1851-A & 1851-B, JALAN KPB 6,",
+      "confidence": 0.9963,
+      "box": [
+        56,
+        314,
+        603,
+        349
+      ],
+      "polygon": [
+        [
+          56,
+          314
+        ],
+        [
+          603,
+          314
+        ],
+        [
+          603,
+          349
+        ],
+        [
+          56,
+          349
+        ]
+      ]
+    },
+    {
+      "text": "KAWASAN PERINDUSTRIAN BALAKONG.",
+      "confidence": 0.9929,
+      "box": [
+        72,
+        350,
+        583,
+        381
+      ],
+      "polygon": [
+        [
+          72,
+          350
+        ],
+        [
+          583,
+          350
+        ],
+        [
+          583,
+          381
+        ],
+        [
+          72,
+          381
+        ]
+      ]
+    },
+    {
+      "text": "43300 SERI KEMBANGAN, SELANGOR",
+      "confidence": 0.9938,
+      "box": [
+        90,
+        383,
+        590,
+        414
+      ],
+      "polygon": [
+        [
+          90,
+          383
+        ],
+        [
+          590,
+          383
+        ],
+        [
+          590,
+          414
+        ],
+        [
+          90,
+          414
+        ]
+      ]
+    },
+    {
+      "text": "(GST ID No :000306020352)",
+      "confidence": 0.9986,
+      "box": [
+        124,
+        415,
+        539,
+        450
+      ],
+      "polygon": [
+        [
+          124,
+          415
+        ],
+        [
+          539,
+          415
+        ],
+        [
+          539,
+          450
+        ],
+        [
+          124,
+          450
+        ]
+      ]
+    },
+    {
+      "text": "(IOI PUCHONG)",
+      "confidence": 0.9979,
+      "box": [
+        220,
+        445,
+        441,
+        487
+      ],
+      "polygon": [
+        [
+          220,
+          447
+        ],
+        [
+          441,
+          445
+        ],
+        [
+          441,
+          484
+        ],
+        [
+          221,
+          487
+        ]
+      ]
+    },
+    {
+      "text": "-TAX INVOICE-",
+      "confidence": 0.9998,
+      "box": [
+        222,
+        483,
+        441,
+        518
+      ],
+      "polygon": [
+        [
+          222,
+          483
+        ],
+        [
+          441,
+          483
+        ],
+        [
+          441,
+          518
+        ],
+        [
+          222,
+          518
+        ]
+      ]
+    },
+    {
+      "text": "CARBON FIBER CARTRIDGE CTO-98#10'",
+      "confidence": 0.9882,
+      "box": [
+        1,
+        547,
+        552,
+        584
+      ],
+      "polygon": [
+        [
+          1,
+          550
+        ],
+        [
+          552,
+          547
+        ],
+        [
+          552,
+          581
+        ],
+        [
+          1,
+          584
+        ]
+      ]
+    },
+    {
+      "text": "*5",
+      "confidence": 0.9631,
+      "box": [
+        636,
+        550,
+        675,
+        583
+      ],
+      "polygon": [
+        [
+          636,
+          550
+        ],
+        [
+          675,
+          550
+        ],
+        [
+          675,
+          583
+        ],
+        [
+          636,
+          583
+        ]
+      ]
+    },
+    {
+      "text": "CC22-52-62-25",
+      "confidence": 1.0,
+      "box": [
+        0,
+        580,
+        261,
+        619
+      ],
+      "polygon": [
+        [
+          0,
+          583
+        ],
+        [
+          261,
+          580
+        ],
+        [
+          261,
+          616
+        ],
+        [
+          0,
+          619
+        ]
+      ]
+    },
+    {
+      "text": "9063785",
+      "confidence": 1.0,
+      "box": [
+        1,
+        616,
+        127,
+        653
+      ],
+      "polygon": [
+        [
+          1,
+          616
+        ],
+        [
+          127,
+          616
+        ],
+        [
+          127,
+          653
+        ],
+        [
+          1,
+          653
+        ]
+      ]
+    },
+    {
+      "text": "2 X 5.30 10.60",
+      "confidence": 0.9842,
+      "box": [
+        371,
+        615,
+        640,
+        651
+      ],
+      "polygon": [
+        [
+          371,
+          615
+        ],
+        [
+          640,
+          615
+        ],
+        [
+          640,
+          651
+        ],
+        [
+          371,
+          651
+        ]
+      ]
+    },
+    {
+      "text": "Item(s) : 1",
+      "confidence": 0.9382,
+      "box": [
+        3,
+        683,
+        193,
+        722
+      ],
+      "polygon": [
+        [
+          3,
+          683
+        ],
+        [
+          193,
+          683
+        ],
+        [
+          193,
+          722
+        ],
+        [
+          3,
+          722
+        ]
+      ]
+    },
+    {
+      "text": "Qty(s) : 2",
+      "confidence": 0.9938,
+      "box": [
+        504,
+        681,
+        676,
+        721
+      ],
+      "polygon": [
+        [
+          504,
+          681
+        ],
+        [
+          676,
+          681
+        ],
+        [
+          676,
+          721
+        ],
+        [
+          504,
+          721
+        ]
+      ]
+    },
+    {
+      "text": "Total Incl. GST@6%",
+      "confidence": 0.9978,
+      "box": [
+        3,
+        750,
+        311,
+        789
+      ],
+      "polygon": [
+        [
+          3,
+          750
+        ],
+        [
+          311,
+          750
+        ],
+        [
+          311,
+          789
+        ],
+        [
+          3,
+          789
+        ]
+      ]
+    },
+    {
+      "text": "RM 10.60",
+      "confidence": 0.9979,
+      "box": [
+        535,
+        749,
+        673,
+        785
+      ],
+      "polygon": [
+        [
+          535,
+          749
+        ],
+        [
+          673,
+          749
+        ],
+        [
+          673,
+          785
+        ],
+        [
+          535,
+          785
+        ]
+      ]
+    },
+    {
+      "text": "CASH",
+      "confidence": 1.0,
+      "box": [
+        1,
+        785,
+        77,
+        823
+      ],
+      "polygon": [
+        [
+          1,
+          785
+        ],
+        [
+          77,
+          785
+        ],
+        [
+          77,
+          823
+        ],
+        [
+          1,
+          823
+        ]
+      ]
+    },
+    {
+      "text": "RM 20.00",
+      "confidence": 0.9997,
+      "box": [
+        534,
+        781,
+        674,
+        820
+      ],
+      "polygon": [
+        [
+          534,
+          781
+        ],
+        [
+          674,
+          784
+        ],
+        [
+          673,
+          820
+        ],
+        [
+          534,
+          816
+        ]
+      ]
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9999,
+      "box": [
+        1,
+        819,
+        110,
+        856
+      ],
+      "polygon": [
+        [
+          1,
+          819
+        ],
+        [
+          110,
+          819
+        ],
+        [
+          110,
+          856
+        ],
+        [
+          1,
+          856
+        ]
+      ]
+    },
+    {
+      "text": "RM 9.40",
+      "confidence": 0.9977,
+      "box": [
+        549,
+        814,
+        674,
+        854
+      ],
+      "polygon": [
+        [
+          549,
+          817
+        ],
+        [
+          673,
+          814
+        ],
+        [
+          674,
+          851
+        ],
+        [
+          550,
+          854
+        ]
+      ]
+    },
+    {
+      "text": "GST @6% included in totai",
+      "confidence": 0.9869,
+      "box": [
+        1,
+        883,
+        423,
+        924
+      ],
+      "polygon": [
+        [
+          1,
+          886
+        ],
+        [
+          423,
+          883
+        ],
+        [
+          423,
+          921
+        ],
+        [
+          1,
+          924
+        ]
+      ]
+    },
+    {
+      "text": "RM 0.60",
+      "confidence": 0.9981,
+      "box": [
+        501,
+        883,
+        620,
+        920
+      ],
+      "polygon": [
+        [
+          501,
+          883
+        ],
+        [
+          620,
+          883
+        ],
+        [
+          620,
+          920
+        ],
+        [
+          501,
+          920
+        ]
+      ]
+    },
+    {
+      "text": "*ー",
+      "confidence": 0.8281,
+      "box": [
+        4,
+        927,
+        40,
+        952
+      ],
+      "polygon": [
+        [
+          4,
+          927
+        ],
+        [
+          40,
+          927
+        ],
+        [
+          40,
+          952
+        ],
+        [
+          4,
+          952
+        ]
+      ]
+    },
+    {
+      "text": "18-03-18 15:12 SH01 ZJ86",
+      "confidence": 0.9998,
+      "box": [
+        7,
+        953,
+        407,
+        988
+      ],
+      "polygon": [
+        [
+          7,
+          953
+        ],
+        [
+          407,
+          953
+        ],
+        [
+          407,
+          988
+        ],
+        [
+          7,
+          988
+        ]
+      ]
+    },
+    {
+      "text": "T3 R000060727",
+      "confidence": 0.9997,
+      "box": [
+        454,
+        952,
+        672,
+        988
+      ],
+      "polygon": [
+        [
+          454,
+          952
+        ],
+        [
+          672,
+          952
+        ],
+        [
+          672,
+          988
+        ],
+        [
+          454,
+          988
+        ]
+      ]
+    },
+    {
+      "text": "OPERATOR TRAINEE CASHIER",
+      "confidence": 1.0,
+      "box": [
+        3,
+        987,
+        407,
+        1025
+      ],
+      "polygon": [
+        [
+          3,
+          989
+        ],
+        [
+          407,
+          987
+        ],
+        [
+          407,
+          1022
+        ],
+        [
+          3,
+          1025
+        ]
+      ]
+    },
+    {
+      "text": "EXCHANGE ARE ALLOWED WITHIN",
+      "confidence": 1.0,
+      "box": [
+        104,
+        1056,
+        555,
+        1090
+      ],
+      "polygon": [
+        [
+          104,
+          1056
+        ],
+        [
+          555,
+          1056
+        ],
+        [
+          555,
+          1090
+        ],
+        [
+          104,
+          1090
+        ]
+      ]
+    },
+    {
+      "text": "7 DAY WITH RECEIPT.",
+      "confidence": 1.0,
+      "box": [
+        171,
+        1090,
+        486,
+        1125
+      ],
+      "polygon": [
+        [
+          171,
+          1090
+        ],
+        [
+          486,
+          1090
+        ],
+        [
+          486,
+          1125
+        ],
+        [
+          171,
+          1125
+        ]
+      ]
+    },
+    {
+      "text": "STRICTLY NO CASH REFUND.",
+      "confidence": 1.0,
+      "box": [
+        137,
+        1123,
+        535,
+        1158
+      ],
+      "polygon": [
+        [
+          137,
+          1123
+        ],
+        [
+          535,
+          1123
+        ],
+        [
+          535,
+          1158
+        ],
+        [
+          137,
+          1158
+        ]
+      ]
+    }
+  ],
+  "raw_text": "31803042\nMR. D.1.Y. (M) SDN BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG.\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\nCARBON FIBER CARTRIDGE CTO-98#10'\n*5\nCC22-52-62-25\n9063785\n2 X 5.30 10.60\nItem(s) : 1\nQty(s) : 2\nTotal Incl. GST@6%\nRM 10.60\nCASH\nRM 20.00\nCHANGE\nRM 9.40\nGST @6% included in totai\nRM 0.60\n*ー\n18-03-18 15:12 SH01 ZJ86\nT3 R000060727\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+}

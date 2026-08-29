@@ -1,0 +1,30 @@
+{
+  "merchant": "HON HWA HARDWARE TRADING",
+  "receipt_date": "21/09/2017",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 5.4,
+      "total_price": 5.4
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 5.0,
+      "total_price": 5.0
+    }
+  ],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 10.4,
+  "total": 9.81,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.876,
+  "raw_text": "HON HWA HARDWARE TRADING\nCompany Reg. No. : 001055194X\nNO 37, JALAN MANIS 7, TAMAN SEGAR,\n56100 CHERAS, KUALA LUMPUR.\n+603-9130 2672\nGST Reg: 001125220352\nTAXINVOICE\nCB#: 87870\n21/09/2017 10:20:37 AM\nM# : C2-0\nCashier\ncash1-\nQty Description\nPrice\nTotal(RM)\n0.9 3/4\"ALUMINIUM ROD\n6.00\n5.40 SR\n5 PVC WALLPLUG\n1.00\n5.00 SR\n(50PCS)\n5.9 Type:\n2\nTotal\n10.40\nDiscount:\n0.00\nRounding Adj\n0.00\nTotal Inclusive GST:\n10.40\nCASH\n10.40\nGST Summary\nCode\n%\nNet Amt\nGST\nTofal(RM)\nSR\nSR\n9.81\n0.59\n10.40\nTotal\n9.81\n0.59\n10.40\nThank you ! & Please come again !!\nGoods sold are not returnable for refund or exchange !!",
+  "warnings": [],
+  "receipt_id": "X51005568881",
+  "source_image": "X51005568881.jpg",
+  "ocr_confidence": 0.99
+}

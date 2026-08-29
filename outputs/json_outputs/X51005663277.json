@@ -1,0 +1,19 @@
+{
+  "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+  "receipt_date": "02/12/2017",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 1.68,
+  "total": 29.68,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.79,
+  "raw_text": "31812012\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS.\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL:03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nCS00011926\nDate: 02/12/2017\nDoc No.\nTime: 08:44:00\nCashier\nUSER\nRef.:\nSalesperson\nS/Price\nAmount\nTax\nItərn\nQty\n29.68\n29.68\nSR\n3122\n1\n(W33) 105MM/4' CUTTING DISC\n29.68\nTotal Qty:\n1\n28.00\nTotal Sales (Excluding GST) :\nDiscount :\n0.00\nTotal GST :\n1.68\nRounding\n0.00\n29.68\nTotal Sales (Inclusive of GST) :\nCASH :\n29.68\nChange :\n0.00\nGST SUMMARY\nAmt (RM)\nTax(RM)\nTax Code\n%\n28.00\n1.68\nSR\n6\n28.00\n1.68\nTotal :\nANK YOU",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005663277",
+  "source_image": "X51005663277.jpg",
+  "ocr_confidence": 0.989
+}

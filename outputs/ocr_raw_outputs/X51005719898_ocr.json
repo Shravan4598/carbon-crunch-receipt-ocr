@@ -1,0 +1,1130 @@
+{
+  "receipt_id": "X51005719898",
+  "source_image": "X51005719898.jpg",
+  "ocr_confidence": 0.963,
+  "lines": [
+    {
+      "text": "MR. D.I.Y.(KUCHAI) SDN BHD",
+      "confidence": 0.9928
+    },
+    {
+      "text": "(CO Reg : 750441-W)",
+      "confidence": 0.9598
+    },
+    {
+      "text": "LOT 1851-A & 1851-B, JALAN KPB 6,",
+      "confidence": 0.9801
+    },
+    {
+      "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+      "confidence": 0.9999
+    },
+    {
+      "text": "43300 SERI KEMBANGAN, SELANGOR",
+      "confidence": 0.9866
+    },
+    {
+      "text": "(GST ID No :000473792512)",
+      "confidence": 0.9898
+    },
+    {
+      "text": "(TESCO MENJALARA KEPONG,HQ)",
+      "confidence": 0.9985
+    },
+    {
+      "text": "- TAX INVOICE",
+      "confidence": 0.9738
+    },
+    {
+      "text": "-",
+      "confidence": 0.5054
+    },
+    {
+      "text": "CUSHION 45*45CM PLAIN",
+      "confidence": 0.9995
+    },
+    {
+      "text": "*S",
+      "confidence": 0.8928
+    },
+    {
+      "text": "EZ09 - 5/60",
+      "confidence": 0.9276
+    },
+    {
+      "text": "9064525",
+      "confidence": 1.0
+    },
+    {
+      "text": "1 X 11.90 11.90",
+      "confidence": 0.9508
+    },
+    {
+      "text": "Item(s) : 1",
+      "confidence": 0.9476
+    },
+    {
+      "text": "Qty(s) : 1",
+      "confidence": 0.9441
+    },
+    {
+      "text": "total incl. GST @6%",
+      "confidence": 0.9954
+    },
+    {
+      "text": "RM 11.90",
+      "confidence": 0.9961
+    },
+    {
+      "text": "CASH",
+      "confidence": 1.0
+    },
+    {
+      "text": "RM 22.00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 1.0
+    },
+    {
+      "text": "RM 10.10",
+      "confidence": 0.9899
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Amt(RM)",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9994
+    },
+    {
+      "text": "GST S@6%",
+      "confidence": 0.9971
+    },
+    {
+      "text": "11.23",
+      "confidence": 0.9982
+    },
+    {
+      "text": "0.67",
+      "confidence": 1.0
+    },
+    {
+      "text": "*",
+      "confidence": 0.701
+    },
+    {
+      "text": "19-03-18 13:09 SH01 B026",
+      "confidence": 0.97
+    },
+    {
+      "text": "T3 R000129969",
+      "confidence": 0.9972
+    },
+    {
+      "text": "OPERATOR THQT - AIDA NOR HAFIDZA",
+      "confidence": 0.9992
+    },
+    {
+      "text": "EXCHANGE ARE ALLOWED WITHIN",
+      "confidence": 1.0
+    },
+    {
+      "text": "7 DAYS WITH RECEIPT.",
+      "confidence": 0.9993
+    },
+    {
+      "text": "STRICTLY NO CASH REFUND.",
+      "confidence": 0.9999
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "MR. D.I.Y.(KUCHAI) SDN BHD",
+      "confidence": 0.9928,
+      "box": [
+        178,
+        330,
+        715,
+        372
+      ],
+      "polygon": [
+        [
+          178,
+          330
+        ],
+        [
+          715,
+          330
+        ],
+        [
+          715,
+          372
+        ],
+        [
+          178,
+          372
+        ]
+      ]
+    },
+    {
+      "text": "(CO Reg : 750441-W)",
+      "confidence": 0.9598,
+      "box": [
+        242,
+        368,
+        634,
+        415
+      ],
+      "polygon": [
+        [
+          242,
+          368
+        ],
+        [
+          634,
+          372
+        ],
+        [
+          634,
+          415
+        ],
+        [
+          242,
+          411
+        ]
+      ]
+    },
+    {
+      "text": "LOT 1851-A & 1851-B, JALAN KPB 6,",
+      "confidence": 0.9801,
+      "box": [
+        93,
+        412,
+        774,
+        460
+      ],
+      "polygon": [
+        [
+          93,
+          412
+        ],
+        [
+          774,
+          413
+        ],
+        [
+          774,
+          460
+        ],
+        [
+          93,
+          458
+        ]
+      ]
+    },
+    {
+      "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+      "confidence": 0.9999,
+      "box": [
+        116,
+        458,
+        753,
+        500
+      ],
+      "polygon": [
+        [
+          116,
+          458
+        ],
+        [
+          753,
+          458
+        ],
+        [
+          753,
+          500
+        ],
+        [
+          116,
+          500
+        ]
+      ]
+    },
+    {
+      "text": "43300 SERI KEMBANGAN, SELANGOR",
+      "confidence": 0.9866,
+      "box": [
+        136,
+        498,
+        759,
+        541
+      ],
+      "polygon": [
+        [
+          137,
+          498
+        ],
+        [
+          759,
+          500
+        ],
+        [
+          758,
+          541
+        ],
+        [
+          136,
+          539
+        ]
+      ]
+    },
+    {
+      "text": "(GST ID No :000473792512)",
+      "confidence": 0.9898,
+      "box": [
+        181,
+        543,
+        696,
+        584
+      ],
+      "polygon": [
+        [
+          181,
+          543
+        ],
+        [
+          696,
+          543
+        ],
+        [
+          696,
+          584
+        ],
+        [
+          181,
+          584
+        ]
+      ]
+    },
+    {
+      "text": "(TESCO MENJALARA KEPONG,HQ)",
+      "confidence": 0.9985,
+      "box": [
+        161,
+        584,
+        714,
+        626
+      ],
+      "polygon": [
+        [
+          161,
+          584
+        ],
+        [
+          714,
+          584
+        ],
+        [
+          714,
+          626
+        ],
+        [
+          161,
+          626
+        ]
+      ]
+    },
+    {
+      "text": "- TAX INVOICE",
+      "confidence": 0.9738,
+      "box": [
+        282,
+        624,
+        560,
+        666
+      ],
+      "polygon": [
+        [
+          282,
+          624
+        ],
+        [
+          560,
+          624
+        ],
+        [
+          560,
+          666
+        ],
+        [
+          282,
+          666
+        ]
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 0.5054,
+      "box": [
+        546,
+        633,
+        586,
+        661
+      ],
+      "polygon": [
+        [
+          546,
+          633
+        ],
+        [
+          586,
+          633
+        ],
+        [
+          586,
+          661
+        ],
+        [
+          546,
+          661
+        ]
+      ]
+    },
+    {
+      "text": "CUSHION 45*45CM PLAIN",
+      "confidence": 0.9995,
+      "box": [
+        35,
+        711,
+        468,
+        752
+      ],
+      "polygon": [
+        [
+          35,
+          711
+        ],
+        [
+          468,
+          711
+        ],
+        [
+          468,
+          752
+        ],
+        [
+          35,
+          752
+        ]
+      ]
+    },
+    {
+      "text": "*S",
+      "confidence": 0.8928,
+      "box": [
+        816,
+        711,
+        867,
+        756
+      ],
+      "polygon": [
+        [
+          816,
+          711
+        ],
+        [
+          867,
+          711
+        ],
+        [
+          867,
+          756
+        ],
+        [
+          816,
+          756
+        ]
+      ]
+    },
+    {
+      "text": "EZ09 - 5/60",
+      "confidence": 0.9276,
+      "box": [
+        33,
+        750,
+        266,
+        797
+      ],
+      "polygon": [
+        [
+          33,
+          750
+        ],
+        [
+          266,
+          750
+        ],
+        [
+          266,
+          797
+        ],
+        [
+          33,
+          797
+        ]
+      ]
+    },
+    {
+      "text": "9064525",
+      "confidence": 1.0,
+      "box": [
+        33,
+        792,
+        185,
+        835
+      ],
+      "polygon": [
+        [
+          33,
+          792
+        ],
+        [
+          185,
+          792
+        ],
+        [
+          185,
+          835
+        ],
+        [
+          33,
+          835
+        ]
+      ]
+    },
+    {
+      "text": "1 X 11.90 11.90",
+      "confidence": 0.9508,
+      "box": [
+        487,
+        794,
+        822,
+        840
+      ],
+      "polygon": [
+        [
+          487,
+          794
+        ],
+        [
+          822,
+          794
+        ],
+        [
+          822,
+          840
+        ],
+        [
+          487,
+          840
+        ]
+      ]
+    },
+    {
+      "text": "Item(s) : 1",
+      "confidence": 0.9476,
+      "box": [
+        33,
+        877,
+        266,
+        923
+      ],
+      "polygon": [
+        [
+          33,
+          877
+        ],
+        [
+          266,
+          877
+        ],
+        [
+          266,
+          923
+        ],
+        [
+          33,
+          923
+        ]
+      ]
+    },
+    {
+      "text": "Qty(s) : 1",
+      "confidence": 0.9441,
+      "box": [
+        655,
+        880,
+        862,
+        923
+      ],
+      "polygon": [
+        [
+          655,
+          880
+        ],
+        [
+          862,
+          880
+        ],
+        [
+          862,
+          923
+        ],
+        [
+          655,
+          923
+        ]
+      ]
+    },
+    {
+      "text": "total incl. GST @6%",
+      "confidence": 0.9954,
+      "box": [
+        35,
+        963,
+        430,
+        1005
+      ],
+      "polygon": [
+        [
+          35,
+          963
+        ],
+        [
+          430,
+          963
+        ],
+        [
+          430,
+          1005
+        ],
+        [
+          35,
+          1005
+        ]
+      ]
+    },
+    {
+      "text": "RM 11.90",
+      "confidence": 0.9961,
+      "box": [
+        693,
+        961,
+        864,
+        1005
+      ],
+      "polygon": [
+        [
+          693,
+          961
+        ],
+        [
+          864,
+          961
+        ],
+        [
+          864,
+          1005
+        ],
+        [
+          693,
+          1005
+        ]
+      ]
+    },
+    {
+      "text": "CASH",
+      "confidence": 1.0,
+      "box": [
+        31,
+        1001,
+        123,
+        1046
+      ],
+      "polygon": [
+        [
+          31,
+          1001
+        ],
+        [
+          123,
+          1001
+        ],
+        [
+          123,
+          1046
+        ],
+        [
+          31,
+          1046
+        ]
+      ]
+    },
+    {
+      "text": "RM 22.00",
+      "confidence": 0.9982,
+      "box": [
+        695,
+        1006,
+        864,
+        1048
+      ],
+      "polygon": [
+        [
+          695,
+          1006
+        ],
+        [
+          864,
+          1006
+        ],
+        [
+          864,
+          1048
+        ],
+        [
+          695,
+          1048
+        ]
+      ]
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 1.0,
+      "box": [
+        29,
+        1039,
+        161,
+        1088
+      ],
+      "polygon": [
+        [
+          29,
+          1039
+        ],
+        [
+          161,
+          1039
+        ],
+        [
+          161,
+          1088
+        ],
+        [
+          29,
+          1088
+        ]
+      ]
+    },
+    {
+      "text": "RM 10.10",
+      "confidence": 0.9899,
+      "box": [
+        693,
+        1048,
+        864,
+        1091
+      ],
+      "polygon": [
+        [
+          693,
+          1048
+        ],
+        [
+          864,
+          1048
+        ],
+        [
+          864,
+          1091
+        ],
+        [
+          693,
+          1091
+        ]
+      ]
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9999,
+      "box": [
+        33,
+        1127,
+        264,
+        1174
+      ],
+      "polygon": [
+        [
+          33,
+          1127
+        ],
+        [
+          264,
+          1127
+        ],
+        [
+          264,
+          1174
+        ],
+        [
+          33,
+          1174
+        ]
+      ]
+    },
+    {
+      "text": "Amt(RM)",
+      "confidence": 0.9996,
+      "box": [
+        404,
+        1127,
+        553,
+        1176
+      ],
+      "polygon": [
+        [
+          404,
+          1127
+        ],
+        [
+          553,
+          1127
+        ],
+        [
+          553,
+          1176
+        ],
+        [
+          404,
+          1176
+        ]
+      ]
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9994,
+      "box": [
+        610,
+        1129,
+        760,
+        1178
+      ],
+      "polygon": [
+        [
+          610,
+          1129
+        ],
+        [
+          760,
+          1129
+        ],
+        [
+          760,
+          1178
+        ],
+        [
+          610,
+          1178
+        ]
+      ]
+    },
+    {
+      "text": "GST S@6%",
+      "confidence": 0.9971,
+      "box": [
+        33,
+        1171,
+        202,
+        1214
+      ],
+      "polygon": [
+        [
+          33,
+          1171
+        ],
+        [
+          202,
+          1171
+        ],
+        [
+          202,
+          1214
+        ],
+        [
+          33,
+          1214
+        ]
+      ]
+    },
+    {
+      "text": "11.23",
+      "confidence": 0.9982,
+      "box": [
+        489,
+        1172,
+        596,
+        1216
+      ],
+      "polygon": [
+        [
+          489,
+          1172
+        ],
+        [
+          596,
+          1172
+        ],
+        [
+          596,
+          1216
+        ],
+        [
+          489,
+          1216
+        ]
+      ]
+    },
+    {
+      "text": "0.67",
+      "confidence": 1.0,
+      "box": [
+        712,
+        1172,
+        803,
+        1217
+      ],
+      "polygon": [
+        [
+          712,
+          1172
+        ],
+        [
+          803,
+          1172
+        ],
+        [
+          803,
+          1217
+        ],
+        [
+          712,
+          1217
+        ]
+      ]
+    },
+    {
+      "text": "*",
+      "confidence": 0.701,
+      "box": [
+        35,
+        1262,
+        60,
+        1286
+      ],
+      "polygon": [
+        [
+          35,
+          1262
+        ],
+        [
+          60,
+          1262
+        ],
+        [
+          60,
+          1286
+        ],
+        [
+          35,
+          1286
+        ]
+      ]
+    },
+    {
+      "text": "19-03-18 13:09 SH01 B026",
+      "confidence": 0.97,
+      "box": [
+        35,
+        1295,
+        532,
+        1338
+      ],
+      "polygon": [
+        [
+          35,
+          1295
+        ],
+        [
+          532,
+          1297
+        ],
+        [
+          532,
+          1338
+        ],
+        [
+          35,
+          1337
+        ]
+      ]
+    },
+    {
+      "text": "T3 R000129969",
+      "confidence": 0.9972,
+      "box": [
+        591,
+        1299,
+        864,
+        1340
+      ],
+      "polygon": [
+        [
+          591,
+          1299
+        ],
+        [
+          864,
+          1299
+        ],
+        [
+          864,
+          1340
+        ],
+        [
+          591,
+          1340
+        ]
+      ]
+    },
+    {
+      "text": "OPERATOR THQT - AIDA NOR HAFIDZA",
+      "confidence": 0.9992,
+      "box": [
+        35,
+        1340,
+        696,
+        1382
+      ],
+      "polygon": [
+        [
+          35,
+          1340
+        ],
+        [
+          696,
+          1340
+        ],
+        [
+          696,
+          1382
+        ],
+        [
+          35,
+          1382
+        ]
+      ]
+    },
+    {
+      "text": "EXCHANGE ARE ALLOWED WITHIN",
+      "confidence": 1.0,
+      "box": [
+        157,
+        1421,
+        719,
+        1466
+      ],
+      "polygon": [
+        [
+          157,
+          1421
+        ],
+        [
+          719,
+          1423
+        ],
+        [
+          719,
+          1466
+        ],
+        [
+          157,
+          1465
+        ]
+      ]
+    },
+    {
+      "text": "7 DAYS WITH RECEIPT.",
+      "confidence": 0.9993,
+      "box": [
+        242,
+        1468,
+        648,
+        1504
+      ],
+      "polygon": [
+        [
+          242,
+          1468
+        ],
+        [
+          648,
+          1468
+        ],
+        [
+          648,
+          1504
+        ],
+        [
+          242,
+          1504
+        ]
+      ]
+    },
+    {
+      "text": "STRICTLY NO CASH REFUND.",
+      "confidence": 0.9999,
+      "box": [
+        200,
+        1508,
+        691,
+        1549
+      ],
+      "polygon": [
+        [
+          200,
+          1508
+        ],
+        [
+          691,
+          1508
+        ],
+        [
+          691,
+          1549
+        ],
+        [
+          200,
+          1549
+        ]
+      ]
+    }
+  ],
+  "raw_text": "MR. D.I.Y.(KUCHAI) SDN BHD\n(CO Reg : 750441-W)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(TESCO MENJALARA KEPONG,HQ)\n- TAX INVOICE\n-\nCUSHION 45*45CM PLAIN\n*S\nEZ09 - 5/60\n9064525\n1 X 11.90 11.90\nItem(s) : 1\nQty(s) : 1\ntotal incl. GST @6%\nRM 11.90\nCASH\nRM 22.00\nCHANGE\nRM 10.10\nGST Summary\nAmt(RM)\nTax(RM)\nGST S@6%\n11.23\n0.67\n*\n19-03-18 13:09 SH01 B026\nT3 R000129969\nOPERATOR THQT - AIDA NOR HAFIDZA\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+}

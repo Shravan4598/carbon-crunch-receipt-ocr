@@ -1,0 +1,24 @@
+{
+  "merchant": "Cash Sale",
+  "receipt_date": "06/02/2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "PLASTIC BOWL ",
+      "quantity": 1.0,
+      "unit_price": 2.8,
+      "total_price": 2.8
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 109.7,
+  "total": 109.7,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.873,
+  "raw_text": "Cash Sale\nSINNATHAMBY HOLDINGS SDN. SHD. (219336-T)\nNO.17, 18 & 41, JALAN BESAR,\n39100 BRINCHANG\nCAMERON HIGHLANDS,\nPAHANG\nGST Reg.:002120876032\nDocument No. : T04-18/084227\nDate\n: 06/02/2018 07:09:46 PM\nDESC\nPRICE\nDisc\nAMOUNT\nTAX\nRM\nCODE\nQTY\nRM\nPOLY CHOPPING BOARD - 013\n3 UNIT *\n4.80\n0.00\n14.40\nSR\nPLASTIC BOWL - 2.80\nUNIT*\n2.80\n0.00\n22.40\nSR\nPLASTIC CONTAINER W COVER MS-SQ-1\n6 UNIT *\n1.50\n0.00\n9.00\nSR\nBENXON PP HYGIENIC CUP-AO-700 22 OZ-50PCS\n1 UNIT *\n10.00\n0.00\n10.00\nSR\nSTAEDTLER LUNA COLOUR PENCIL\n11 UNIT *\n4.90\n0.00\n53.90\nSR\nTotal Qty:\n29\nTotal Inclusive GST 6% :\n109.70\nRounding Adjustment:\n0.00\nRounded Total (RM):\n109.70\nCash\n109.70\nGST Summary\nAmount(RM)\nTax(RM)\nSR @ 6 %\n103.49\n6.21\n~n~ Thanks You ~iv~",
+  "warnings": [],
+  "receipt_id": "X51005806703",
+  "source_image": "X51005806703.jpg",
+  "ocr_confidence": 0.985
+}

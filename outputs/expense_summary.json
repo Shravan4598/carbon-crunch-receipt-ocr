@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-08-29T14:04:02.715894Z",
+  "dataset": {
+    "total_receipts": 371,
+    "processed_successfully": 371,
+    "processing_failed": 0
+  },
+  "financial_summary": {
+    "receipts_with_total": 348,
+    "total_expense": 28154.92,
+    "average_receipt_total": 80.9,
+    "total_subtotal": 6507.97,
+    "total_tax": 16185.01,
+    "total_discount": 225.57
+  },
+  "payment_methods": {
+    "CASH": 293,
+    "VISA": 13,
+    "DEBIT CARD": 8,
+    "CREDIT CARD": 8,
+    "MASTERCARD": 5,
+    "CARD": 3
+  },
+  "merchant_counts": {
+    "SYARIKAT PERNIAGAAN GIN KEE": 32,
+    "UNIHAKKA INTERNATIONAL SDN BHD": 18,
+    "RESTORAN WAN SHENG": 13,
+    "POPULAR BOOK": 11,
+    "MR. D.I.Y. (M) SDN BHD": 9,
+    "99 SPEED MART S/B (519537-X)": 8,
+    "KEDAI PAPAN YEW CHUAN": 7,
+    "AEON CO. (M) BHD (126926-H)": 6,
+    "PASARAYA BORONG PINTAR": 6,
+    "tan chay yee": 5,
+    "HON HWA HARDWARE TRADING": 5,
+    "LIM SENG THO HARDWARE TRADING": 5,
+    "tan woon yann": 5,
+    "Gerbang Alaf Restaurants Sdn Bhd": 5,
+    "LIGHTROOM GALLERY SDN BHD": 5,
+    "TEO HENG STATIONERY & BOOKS": 4,
+    "ADVANCO COMPANY": 4,
+    "SUPER SEVEN CASH & CARRY SDN BHD": 4,
+    "PERNIAGAAN ZHENG HUI": 4,
+    "BEYOND BROTHERS HARDWARE": 3
+  }
+}

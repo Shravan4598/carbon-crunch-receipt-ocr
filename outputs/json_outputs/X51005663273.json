@@ -1,0 +1,19 @@
+{
+  "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+  "receipt_date": "04/12/2017",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 45.0,
+  "total": 45.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.791,
+  "raw_text": "31812012\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290. JALAN AIR PANAS.\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL:03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No.\nCS00011983\nDate: 04/12/2017\nCashier\nUSER\nTime: 16:15:00\nSalesperson\nRef.:\n11\nQty\nS/Price\nAmount\nTax\n1476\n3\n15.90\n47.70\nSR\n25KG SIKA CREAM-88\nTotal Qty:\n47.70\n3\nTotal Sales (Excluding GST)\n45.00\nDiscount\n0.00\nTotal GST\n2.70\nRounding\n0.00\nTotal Sales (Inclusive of GST) :\n47.70\nCASH :\n47.70\nChange :\n0.00\nGST SUMMARY\nTax Code\n%\nAmt(RM)\nTax(RM)\nSR\n6\n45.00\n2.70\nTotal :\n45.00\n2.70\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005663273",
+  "source_image": "X51005663273.jpg",
+  "ocr_confidence": 0.991
+}

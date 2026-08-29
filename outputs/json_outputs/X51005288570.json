@@ -1,0 +1,20 @@
+{
+  "merchant": "SECURE PARKING",
+  "receipt_date": "23.03.18",
+  "receipt_number": "Number",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 0.06,
+  "total": null,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.717,
+  "raw_text": "3180301\nSECURE PARKING\nCORPORATION S/B\nRiverwalk Village\nBatu 3, Jalan Ipoh\n51200 KL.\nGSTNo.000296652800\nTEL No: 1300881698\nRECEIPT\nC13\nReceipt Number:\nK0131800235697\nENTRY IIME:\n23.03.18\n14:59\nEXIT TIME:\n23.03.18\n15:27\nPARK-DUR.: D:HH:MM\n0:00:28\nKIND OF PAYMENT:\nCASH\nParking Fee\nRM\n0.94\nAdd GST\nRM\n0.06\n*AMT\nRM\n1.00\n*Rate incl. 6% GST\nTHANK YOU FOR YOUR\nVISIT",
+  "warnings": [
+    "Receipt total could not be confidently identified.",
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005288570",
+  "source_image": "X51005288570.jpg",
+  "ocr_confidence": 0.993
+}

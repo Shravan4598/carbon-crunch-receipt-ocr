@@ -1,0 +1,970 @@
+{
+  "receipt_id": "X51005447853",
+  "source_image": "X51005447853.jpg",
+  "ocr_confidence": 0.981,
+  "lines": [
+    {
+      "text": "99 SPEED MART S/D (519537·X)",
+      "confidence": 0.983
+    },
+    {
+      "text": "LOT P.T. 2811, JALAN ANGSA,",
+      "confidence": 0.9864
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9999
+    },
+    {
+      "text": "41150 KLANG, SCLANGOR",
+      "confidence": 0.9767
+    },
+    {
+      "text": "1317 TRILLIUM SB BESI",
+      "confidence": 0.9838
+    },
+    {
+      "text": "GST ID.NO : 000101747712",
+      "confidence": 0.9768
+    },
+    {
+      "text": "INVDICE NO: 18299/102/T0230",
+      "confidence": 0.9643
+    },
+    {
+      "text": "568017",
+      "confidence": 0.8793
+    },
+    {
+      "text": "05 02-18",
+      "confidence": 0.9291
+    },
+    {
+      "text": "01:34PM",
+      "confidence": 0.9966
+    },
+    {
+      "text": "2506 YONCCHUN LOKAM MNDRN S",
+      "confidence": 0.9869
+    },
+    {
+      "text": "RM62.50 z",
+      "confidence": 0.998
+    },
+    {
+      "text": "05 X RM 12.50",
+      "confidence": 0.979
+    },
+    {
+      "text": "2508 YONGCHUN LOKAM MNDRN M",
+      "confidence": 0.9706
+    },
+    {
+      "text": "RM79.00 z",
+      "confidence": 0.9855
+    },
+    {
+      "text": "05 X RM 15.80",
+      "confidence": 0.9804
+    },
+    {
+      "text": "Total Sales (Inclusive GST)RM",
+      "confidence": 0.9973
+    },
+    {
+      "text": "141.50",
+      "confidence": 0.9997
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.995
+    },
+    {
+      "text": "150.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9672
+    },
+    {
+      "text": "0.50",
+      "confidence": 0.9675
+    },
+    {
+      "text": "GSTSummary",
+      "confidence": 0.9899
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.968
+    },
+    {
+      "text": "z = 0%",
+      "confidence": 0.9762
+    },
+    {
+      "text": "141.50",
+      "confidence": 0.9998
+    },
+    {
+      "text": ".00",
+      "confidence": 0.998
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9997
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "99 SPEED MART S/D (519537·X)",
+      "confidence": 0.983,
+      "box": [
+        145,
+        327,
+        646,
+        391
+      ],
+      "polygon": [
+        [
+          145,
+          340
+        ],
+        [
+          644,
+          327
+        ],
+        [
+          646,
+          377
+        ],
+        [
+          147,
+          391
+        ]
+      ]
+    },
+    {
+      "text": "LOT P.T. 2811, JALAN ANGSA,",
+      "confidence": 0.9864,
+      "box": [
+        164,
+        374,
+        647,
+        435
+      ],
+      "polygon": [
+        [
+          164,
+          385
+        ],
+        [
+          646,
+          374
+        ],
+        [
+          647,
+          424
+        ],
+        [
+          166,
+          435
+        ]
+      ]
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9999,
+      "box": [
+        272,
+        424,
+        529,
+        482
+      ],
+      "polygon": [
+        [
+          272,
+          432
+        ],
+        [
+          528,
+          424
+        ],
+        [
+          529,
+          474
+        ],
+        [
+          273,
+          482
+        ]
+      ]
+    },
+    {
+      "text": "41150 KLANG, SCLANGOR",
+      "confidence": 0.9767,
+      "box": [
+        223,
+        474,
+        604,
+        534
+      ],
+      "polygon": [
+        [
+          223,
+          484
+        ],
+        [
+          603,
+          474
+        ],
+        [
+          604,
+          524
+        ],
+        [
+          225,
+          534
+        ]
+      ]
+    },
+    {
+      "text": "1317 TRILLIUM SB BESI",
+      "confidence": 0.9838,
+      "box": [
+        223,
+        522,
+        602,
+        582
+      ],
+      "polygon": [
+        [
+          223,
+          532
+        ],
+        [
+          601,
+          522
+        ],
+        [
+          602,
+          572
+        ],
+        [
+          225,
+          582
+        ]
+      ]
+    },
+    {
+      "text": "GST ID.NO : 000101747712",
+      "confidence": 0.9768,
+      "box": [
+        190,
+        572,
+        644,
+        630
+      ],
+      "polygon": [
+        [
+          190,
+          582
+        ],
+        [
+          643,
+          572
+        ],
+        [
+          644,
+          621
+        ],
+        [
+          191,
+          630
+        ]
+      ]
+    },
+    {
+      "text": "INVDICE NO: 18299/102/T0230",
+      "confidence": 0.9643,
+      "box": [
+        175,
+        671,
+        680,
+        729
+      ],
+      "polygon": [
+        [
+          175,
+          680
+        ],
+        [
+          679,
+          671
+        ],
+        [
+          680,
+          719
+        ],
+        [
+          176,
+          729
+        ]
+      ]
+    },
+    {
+      "text": "568017",
+      "confidence": 0.8793,
+      "box": [
+        372,
+        771,
+        491,
+        827
+      ],
+      "polygon": [
+        [
+          372,
+          775
+        ],
+        [
+          489,
+          771
+        ],
+        [
+          491,
+          823
+        ],
+        [
+          374,
+          827
+        ]
+      ]
+    },
+    {
+      "text": "05 02-18",
+      "confidence": 0.9291,
+      "box": [
+        643,
+        771,
+        793,
+        816
+      ],
+      "polygon": [
+        [
+          643,
+          771
+        ],
+        [
+          793,
+          771
+        ],
+        [
+          793,
+          816
+        ],
+        [
+          643,
+          816
+        ]
+      ]
+    },
+    {
+      "text": "01:34PM",
+      "confidence": 0.9966,
+      "box": [
+        73,
+        782,
+        210,
+        832
+      ],
+      "polygon": [
+        [
+          73,
+          782
+        ],
+        [
+          210,
+          782
+        ],
+        [
+          210,
+          832
+        ],
+        [
+          73,
+          832
+        ]
+      ]
+    },
+    {
+      "text": "2506 YONCCHUN LOKAM MNDRN S",
+      "confidence": 0.9869,
+      "box": [
+        78,
+        873,
+        564,
+        929
+      ],
+      "polygon": [
+        [
+          78,
+          881
+        ],
+        [
+          563,
+          873
+        ],
+        [
+          564,
+          921
+        ],
+        [
+          79,
+          929
+        ]
+      ]
+    },
+    {
+      "text": "RM62.50 z",
+      "confidence": 0.998,
+      "box": [
+        622,
+        868,
+        798,
+        922
+      ],
+      "polygon": [
+        [
+          622,
+          872
+        ],
+        [
+          797,
+          868
+        ],
+        [
+          798,
+          918
+        ],
+        [
+          623,
+          922
+        ]
+      ]
+    },
+    {
+      "text": "05 X RM 12.50",
+      "confidence": 0.979,
+      "box": [
+        111,
+        925,
+        354,
+        977
+      ],
+      "polygon": [
+        [
+          111,
+          929
+        ],
+        [
+          353,
+          925
+        ],
+        [
+          354,
+          973
+        ],
+        [
+          112,
+          977
+        ]
+      ]
+    },
+    {
+      "text": "2508 YONGCHUN LOKAM MNDRN M",
+      "confidence": 0.9706,
+      "box": [
+        78,
+        970,
+        567,
+        1026
+      ],
+      "polygon": [
+        [
+          78,
+          977
+        ],
+        [
+          567,
+          970
+        ],
+        [
+          567,
+          1018
+        ],
+        [
+          79,
+          1026
+        ]
+      ]
+    },
+    {
+      "text": "RM79.00 z",
+      "confidence": 0.9855,
+      "box": [
+        626,
+        966,
+        796,
+        1017
+      ],
+      "polygon": [
+        [
+          626,
+          970
+        ],
+        [
+          795,
+          966
+        ],
+        [
+          796,
+          1013
+        ],
+        [
+          627,
+          1017
+        ]
+      ]
+    },
+    {
+      "text": "05 X RM 15.80",
+      "confidence": 0.9804,
+      "box": [
+        116,
+        1023,
+        356,
+        1072
+      ],
+      "polygon": [
+        [
+          116,
+          1027
+        ],
+        [
+          355,
+          1023
+        ],
+        [
+          356,
+          1068
+        ],
+        [
+          117,
+          1072
+        ]
+      ]
+    },
+    {
+      "text": "Total Sales (Inclusive GST)RM",
+      "confidence": 0.9973,
+      "box": [
+        85,
+        1118,
+        626,
+        1167
+      ],
+      "polygon": [
+        [
+          85,
+          1124
+        ],
+        [
+          626,
+          1118
+        ],
+        [
+          626,
+          1161
+        ],
+        [
+          85,
+          1167
+        ]
+      ]
+    },
+    {
+      "text": "141.50",
+      "confidence": 0.9997,
+      "box": [
+        645,
+        1117,
+        761,
+        1161
+      ],
+      "polygon": [
+        [
+          645,
+          1117
+        ],
+        [
+          761,
+          1117
+        ],
+        [
+          761,
+          1161
+        ],
+        [
+          645,
+          1161
+        ]
+      ]
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.995,
+      "box": [
+        491,
+        1169,
+        626,
+        1213
+      ],
+      "polygon": [
+        [
+          491,
+          1169
+        ],
+        [
+          626,
+          1169
+        ],
+        [
+          626,
+          1213
+        ],
+        [
+          491,
+          1213
+        ]
+      ]
+    },
+    {
+      "text": "150.00",
+      "confidence": 0.9993,
+      "box": [
+        649,
+        1169,
+        763,
+        1213
+      ],
+      "polygon": [
+        [
+          649,
+          1169
+        ],
+        [
+          763,
+          1169
+        ],
+        [
+          763,
+          1213
+        ],
+        [
+          649,
+          1213
+        ]
+      ]
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9672,
+      "box": [
+        456,
+        1215,
+        628,
+        1267
+      ],
+      "polygon": [
+        [
+          456,
+          1215
+        ],
+        [
+          628,
+          1215
+        ],
+        [
+          628,
+          1267
+        ],
+        [
+          456,
+          1267
+        ]
+      ]
+    },
+    {
+      "text": "0.50",
+      "confidence": 0.9675,
+      "box": [
+        685,
+        1217,
+        768,
+        1265
+      ],
+      "polygon": [
+        [
+          685,
+          1217
+        ],
+        [
+          768,
+          1217
+        ],
+        [
+          768,
+          1265
+        ],
+        [
+          685,
+          1265
+        ]
+      ]
+    },
+    {
+      "text": "GSTSummary",
+      "confidence": 0.9899,
+      "box": [
+        88,
+        1321,
+        290,
+        1365
+      ],
+      "polygon": [
+        [
+          88,
+          1321
+        ],
+        [
+          290,
+          1321
+        ],
+        [
+          290,
+          1365
+        ],
+        [
+          88,
+          1365
+        ]
+      ]
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9994,
+      "box": [
+        369,
+        1315,
+        550,
+        1364
+      ],
+      "polygon": [
+        [
+          369,
+          1319
+        ],
+        [
+          549,
+          1315
+        ],
+        [
+          550,
+          1360
+        ],
+        [
+          370,
+          1364
+        ]
+      ]
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.968,
+      "box": [
+        650,
+        1315,
+        784,
+        1365
+      ],
+      "polygon": [
+        [
+          650,
+          1315
+        ],
+        [
+          784,
+          1315
+        ],
+        [
+          784,
+          1365
+        ],
+        [
+          650,
+          1365
+        ]
+      ]
+    },
+    {
+      "text": "z = 0%",
+      "confidence": 0.9762,
+      "box": [
+        83,
+        1365,
+        205,
+        1412
+      ],
+      "polygon": [
+        [
+          83,
+          1365
+        ],
+        [
+          205,
+          1365
+        ],
+        [
+          205,
+          1412
+        ],
+        [
+          83,
+          1412
+        ]
+      ]
+    },
+    {
+      "text": "141.50",
+      "confidence": 0.9998,
+      "box": [
+        439,
+        1365,
+        553,
+        1412
+      ],
+      "polygon": [
+        [
+          439,
+          1365
+        ],
+        [
+          553,
+          1365
+        ],
+        [
+          553,
+          1412
+        ],
+        [
+          439,
+          1412
+        ]
+      ]
+    },
+    {
+      "text": ".00",
+      "confidence": 0.998,
+      "box": [
+        723,
+        1367,
+        786,
+        1412
+      ],
+      "polygon": [
+        [
+          723,
+          1367
+        ],
+        [
+          786,
+          1367
+        ],
+        [
+          786,
+          1412
+        ],
+        [
+          723,
+          1412
+        ]
+      ]
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9989,
+      "box": [
+        179,
+        1510,
+        680,
+        1562
+      ],
+      "polygon": [
+        [
+          179,
+          1510
+        ],
+        [
+          680,
+          1514
+        ],
+        [
+          680,
+          1562
+        ],
+        [
+          179,
+          1559
+        ]
+      ]
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9997,
+      "box": [
+        88,
+        1564,
+        784,
+        1612
+      ],
+      "polygon": [
+        [
+          88,
+          1564
+        ],
+        [
+          784,
+          1564
+        ],
+        [
+          784,
+          1612
+        ],
+        [
+          88,
+          1612
+        ]
+      ]
+    }
+  ],
+  "raw_text": "99 SPEED MART S/D (519537·X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SCLANGOR\n1317 TRILLIUM SB BESI\nGST ID.NO : 000101747712\nINVDICE NO: 18299/102/T0230\n568017\n05 02-18\n01:34PM\n2506 YONCCHUN LOKAM MNDRN S\nRM62.50 z\n05 X RM 12.50\n2508 YONGCHUN LOKAM MNDRN M\nRM79.00 z\n05 X RM 15.80\nTotal Sales (Inclusive GST)RM\n141.50\nCASH RM\n150.00\nCHANGE RM\n0.50\nGSTSummary\nAmount(RM)\nTax(RM)\nz = 0%\n141.50\n.00\nThank You. Please come again\nKeep the invoice for applicable returns"
+}

@@ -1,0 +1,19 @@
+{
+  "merchant": "Triple Six Point Enterprise 666",
+  "receipt_date": "25-03-2018",
+  "receipt_number": "REC-0015016",
+  "items": [],
+  "subtotal": null,
+  "discount": 1.0,
+  "tax": null,
+  "total": 7.6,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.792,
+  "raw_text": "A03138\nTriple Six Point Enterprise 666\nNo 14& 16 Jalan Permas 4/3 Bandar Baru Permas Jay\nTel:016-7574666\nReceipt no: REC-0015016\nDate: 25-03-2018 09:42:19 AM\nPayment Type: Cash\nReceipt\n(Receipt No.: REC-0015016)\nQTY ITEM\nPRICE\nTOTAL\n(RM)\n(RM)\n2x Hey Song\n4.30\n7.60\nCamellia green\ntea 580ml\n(Disc: 1.0000)\nDiscount\n1.00\nTotal Armount\n7.60\nTendered\n10.00\nChange\n2.40",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005442397",
+  "source_image": "X51005442397.jpg",
+  "ocr_confidence": 0.993
+}

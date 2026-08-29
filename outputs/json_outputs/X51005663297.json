@@ -1,0 +1,19 @@
+{
+  "merchant": "BEYOND BROTHERS HARDWARE",
+  "receipt_date": "1-0-2",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 565.5,
+  "total": 565.5,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.791,
+  "raw_text": "31803014\nBEYOND BROTHERS HARDWARE\n(872981-V)\nLOT 1-0-2, JLN 1/50,\nDIAMOND SQUARE\nOFF JLN GOMBAK\n53000 KUALA LUMPUR\nTEL:03-40211233 FAX:03-40223233\nIVAN_KONG12@HOTMAIL.COM\nGST ID: 001921974272\nTAX INVOICE\nBill To\nPDP UTEK (M) SDN BHD\nSEBELAH PETRONAS\nAMPANG\nNEAR TO KPJ HOSPITAL\n019-2616 281 MR.NEO\nDoc No.\nCS00067741\nDate\n14/03/2018\nCashier\nUSER\nTime:\n16:37:00\nSalesperson\nRef.\n(GST)\n(GST)\nItern\nQty\nS/Price\nS/Price\nAmount\nTax\n11028\n1\n150.00\n159.00\n159.00\nSR\nBATU CEMENT (A) 600PCS\n11046\n2\n80.00\n84.80\n169.60\nSR\nPASIR HALUS\n11000\n6\n16.00\n16.96\n101.76\nSR\nYTL CEMENT 50KG (NEW PRICE)\n11036\n300\n3.18\n3.18\nSR\nKAPUR A1\n10012\n2\n300\n3.18\n6.36\nSR\nSALUNG TANGAN GETAH (1PAIR)\n1682\n1\n200\n2.12\n2.12\nSR\nBENANG NYLON #1B\n2567\n16.00\n16.96\n16.96\nSR\n1\nGERMANY SUDU PLASTER\n2564\n6.90\n7.31\n7.31\nSR\n1\nSUDU PLASTER KAYU (NORMAL)\n2686\n450\n4.77\n4.77\nSR\n1\nPAPAN SIMEN (HITAM)\n1521\n19.90\n21.09\n21.09\nSR\n1\nM'MAN RULE TIMBANG 18\n3879\n100.00\n106.00\n106.00\nSR\n1\nKERETA TOLAK H/D (OREN)\n3416\n1.20\n1.27\n1.27\nSR\n0 PAKU KAYU 1\" (KECIL)\n3432\n000\n0.00\n0.00\nSR\n1\nMAYBANK-512204816723\nTotal Qty: 20\n599.43\nTotal Sales (Excluding GST)\n565.50\nDiscount\n0.00\notal GST\n33.93\nRounding\n0.02\notal Sales (Inclusive of GST)\n599.45\nCASH\n599.45\nChange :\n0.00\nGST SUMMARY\nTax Code\n%\nAmt (RM)\nTax(RM)\nSR\n6\n565.50\n33.93\nRCE EA\n.93\nTotal.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005663297",
+  "source_image": "X51005663297.jpg",
+  "ocr_confidence": 0.99
+}

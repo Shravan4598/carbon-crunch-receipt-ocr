@@ -1,0 +1,19 @@
+{
+  "merchant": "Rsk.",
+  "receipt_date": "06/03/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 51.42,
+  "total": 54.5,
+  "payment_method": null,
+  "extraction_confidence": 0.751,
+  "raw_text": "Rsk.\nSYL ROASTED DELIGHTS SDN. BHD.\n1227039\n75, JALAN SS 22/19, DAMANSARA JAYA, 47400 PJ.\nTEL: 03-7731 8169\nGSIID:002046390272\nDoc No.\nSO00022185\nTABLE\nA10\nCashier\nUSER\nDate:\n06/03/2018\nSalesperson\nTime:\n12:06:00\nDescription\nQty\nPrice\nAmount\n(T02) BRAISED PORK\n20\n7.00\n14.00\nRICE WITH PEANUT\n(T PORK-\n1.0\n12.00\n12.00\nSMALL\n(V02) SOUR & SPICY\n1.0\n12.00\n12.00\nMUSTARD\n(B03) JASMINE GREEN\n2.0\n2.30\n4.60\nTEA(HOT)\n(R05) ROAST PORK +\n1.0\n11.90\n11.90\nROAST CHICKEN RICE\nTotal Qty:\n7\n51.42\nTotal Sales (Excluding GST)\n51.42\nDiscount\n0.00\nTotal GST\n3.08\nRounding\n0.00\nTotal Sales (Inclusive of GST)\n54.50",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005337872",
+  "source_image": "X51005337872.jpg",
+  "ocr_confidence": 0.992
+}

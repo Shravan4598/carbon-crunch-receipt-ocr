@@ -1,0 +1,48 @@
+{
+  "merchant": "SEN LEE HEONG RESTAURANT",
+  "receipt_date": "12-01-2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 67.0,
+      "total_price": 67.0
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 3.0,
+      "total_price": 3.0
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 73.0,
+      "total_price": 73.0
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 4.38,
+      "total_price": 4.38
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 0.02,
+      "total_price": 0.02
+    }
+  ],
+  "subtotal": 73.0,
+  "discount": null,
+  "tax": 73.0,
+  "total": 77.4,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.945,
+  "raw_text": "SEN LEE HEONG RESTAURANT\nCD NO.(002083199-T)\nGST ID NO(001115316224)\nG-O-1,M.AVENUE NO.1,JLN 1/38A,\nSEGAMBUT BAHAGIA,5120O,K.LUMPUL\nTEL:012-2525903/ 03-6258 5987\nCashier:Manager\nMachNo:0000\nItem\nQty\nPrice\nAmount\nTable Number:\n4\nFOOD SR\n67.00\nRM 67.00\nBIG RICE\nSR\n1.50\nRM 3.00\nTEA POT\nSR\n1\n3.00\nRM 3.00\nSubtotal\nRM 73.00\nGST TAX AMT:\nRM 73.00\nGST( 6.0%) Amount:\nRM 4.38\nROUND ADJ\nRM 0.02\nItem:\n4\nTOTAL\nRM\n77.40\nCash\n77.40.\n12-01-2018 21:53\nTAX Invoice:\n#11372\nTHANK\nYOU\nPLEASECOMEAGAIN",
+  "warnings": [],
+  "receipt_id": "X51005719863",
+  "source_image": "X51005719863.jpg",
+  "ocr_confidence": 0.988
+}

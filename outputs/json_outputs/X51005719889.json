@@ -1,0 +1,24 @@
+{
+  "merchant": "HENG KEE DELIGHTS BAK KUT TEH.",
+  "receipt_date": "04/01/2018",
+  "receipt_number": "TB011530",
+  "items": [
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 42.0,
+      "total_price": 42.0
+    }
+  ],
+  "subtotal": 42.0,
+  "discount": 0.0,
+  "tax": 17.0,
+  "total": 42.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.996,
+  "raw_text": "HENG KEE DELIGHTS BAK KUT TEH.\nNO31, JALAN 3/62A,\nBANDAR MENJALARA\nKEPONG. 52100KUALA LUMPUR\nGST NO:000403890176\nH/P : 016-6555553\nTAX INVOICE :TB011530\nTABLE: TAKE AWAY\nDATE:04/01/2018 7:42:10AM\nTransaction By:admin\nEMS Reference:\n180104074210 TB011530djf8537854+23\nDESCRIPTION\nAMOUNT\nTAX\n2.00 X 17.00\n34.00\nSR\nBak Kut Teh Soup (\n2.00 X 1.50\n3.00\nSR\nWhite Rice (B)\n1.00 X 4.00\n4.00\nSR\nTofu (B)\n2.00 X 0.50\n1.00\nSR\nChinese Tea/Water\nSubtotal (GST Inal)\n42.00\nVoucher Discount\n0.00\nRedeem Point Discount\n0.00\nDeposit\n0.00\nRounding\n0.00\nTotal:\nRM 42.00\n--Payment Summary--\nCash\n42.00\nChange\n0.00\n--GST Summary--\nAmount(SR)\n39.62\nTax(SR)\n2.38\nTHANK YOU\nPLEASECOMEAGAIN",
+  "warnings": [],
+  "receipt_id": "X51005719889",
+  "source_image": "X51005719889.jpg",
+  "ocr_confidence": 0.99
+}

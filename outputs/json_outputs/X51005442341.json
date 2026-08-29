@@ -1,0 +1,32 @@
+{
+  "merchant": "K3-113, JL IBRAHIM SULTAN",
+  "receipt_date": "09/03/2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 149.0,
+      "total_price": 149.0
+    },
+    {
+      "name": "RN",
+      "quantity": 1.0,
+      "unit_price": 21.0,
+      "total_price": 21.0
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": null,
+  "total": null,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.699,
+  "raw_text": "K3-113, JL IBRAHIM SULTAN\n80300 JOHOR BAHRU\nJOHOR\nH/P: 019-7521215\n016-7867868\n09/03/2018 21:28 0001\n000000#7259 CASHIER01\nDPT.05\nRM 149.00\nDPI.04\nRN 21.00\nCASH\nRM\n170.00",
+  "warnings": [
+    "Receipt total could not be confidently identified."
+  ],
+  "receipt_id": "X51005442341",
+  "source_image": "X51005442341.jpg",
+  "ocr_confidence": 0.987
+}

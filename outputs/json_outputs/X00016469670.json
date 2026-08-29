@@ -1,0 +1,24 @@
+{
+  "merchant": "tan chay yee",
+  "receipt_date": "15/01/2019",
+  "receipt_number": "PEGIV-1030765",
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 193.0,
+      "total_price": 193.0
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 193.0,
+  "total": 193.0,
+  "payment_method": "VISA",
+  "extraction_confidence": 0.925,
+  "raw_text": "tan chay yee\n*** COPY ***\nOJC MARKETING SDN BHD\nROC NO: 538358-H\nNO 2 & 4, JALAN BAYU 4,\nBANDAR SERI ALAM,\n81750 MASAI, JOHOR\nTel:07-388 2218 Fax:07-388 8218\nEmail: ng@ojcgroup.com\nTAX INVOICE\nInvoice No : PEGIV-1030765\nDate\n:15/01/2019 11:05:16 AM\nCashier\n: NG CHUAN MIN\nSales Persor : FATIN\nBill To\n: THE PEAK QUARRY WORKS\nAddress\nDescription\nQty.\nPrice\nAmount\n000000111\n1 193.00\n193.00 SR\nKINGS SAFETY SHOES KWD 805\nQty: 1\nTotal Exclude GST:\n193.00\nTotal GST @6%:\n0.00\nTotal Inclusive GST:\n193.00\nRound Amt:\n0.00\nTOTAL:\n193.00\nVISA CARD\n193.00\nxxxxx000000x4318\nApproval Code:000\n193.00\nGoods Sold Are Not Returnable & Refundable\n****Thank You. Please Come Again.****",
+  "warnings": [],
+  "receipt_id": "X00016469670",
+  "source_image": "X00016469670.jpg",
+  "ocr_confidence": 0.988
+}

@@ -1,0 +1,19 @@
+{
+  "merchant": "POPULAR BOOK",
+  "receipt_date": "14/03/18",
+  "receipt_number": "90243",
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 7.95,
+  "total": 0.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.841,
+  "raw_text": "4\nPOPULAR BOOK\nCO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nSUNWAY VELOCITY\nTel : 03-9201 6281/6920\n14/03/18 12:52\nSlip No.: 0040081037\nLEE WIN LEE\nTrans: 90243\nDescription\nAmount\nCBE Rubber Band200gm\n7.95 T\nTotal RM Incl. of GST\n7.95\nCash\n-10.00\nCHANGE\n2.05\nItem Count\n1\nGST Summary\nAmount (RM)\nTax (RM)\nT @ 6%\n7.50\n0.45\nTotal Savings\n0.00\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005605332",
+  "source_image": "X51005605332.jpg",
+  "ocr_confidence": 0.992
+}

@@ -1,0 +1,19 @@
+{
+  "merchant": "KING'S CONFECTIONERY S/B 273500-U (KSB)",
+  "receipt_date": "11/03/18",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 1.42,
+  "total": 1.42,
+  "payment_method": null,
+  "extraction_confidence": 0.74,
+  "raw_text": "KING'S CONFECTIONERY S/B 273500-U (KSB)\nNO.41, JALAN SERI BINTANG 2\nTAMAN SRI BINTANG,\n52100 KUALA LUMPUR\nTEL NO:- 012 - 602 8832\n(GST ID : 000294060032)\nTax\nInvoice\nInv No :KSB80051978\nDate:11/03/18 21:30\nCashier:FT8303\nCtr :02\nCode\nDesc\nQty\nRM\nD%\nAmt\n201019 KAYA PUFF\n4\n1.60\n0\n6.40S\n231027 Slice Cak\n2\n8.70\n0\n8.70 S\n101110Cheese Le\n1\n3.50 30\n2.45S\n251030 Cheese Ta\n1\n3.40\n0\n3.40 S\n171153 D/R BUTTE\n1\n4.20\n0\n4.20 S\nQty\n8\n25.15\nRounding Adj -\n0.00\nDue\n25.15\nPay\n25.15\nChange\n0.00\n(Total Included GST @ 6% : 1.42)\nGOODS SOLD NOT RETURNABLE/EXCHANGEABLE!\nTHANK YOU PLEASE COME AGAIN!!\nTASTY BAKING HEALTHY NATION!!\n==Visit us online at www.kings.com.my==",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719902",
+  "source_image": "X51005719902.jpg",
+  "ocr_confidence": 0.968
+}

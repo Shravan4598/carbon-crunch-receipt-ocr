@@ -1,0 +1,19 @@
+{
+  "merchant": "ASIA MART",
+  "receipt_date": "22/12/2017",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 31.03,
+  "total": 0.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.791,
+  "raw_text": "ASIA MART\n(SA0264195-T)\nNO.23 BATU 10, TAMAN SENTOSA,\nJALAN KAPAR, 42200 KLANG, SELANGOR.\nGST ID : 001609584640\nTAX INVOICE\nDate: 22/12/2017\nDoc No\nCS02070163\nCashier\nTime: 00:06:00\nEIRA\nSalesperson\nRef.:\nEIRA\n(GST)\n(GST)\nItem\nTax\nQty\nS/Price\nS/Price\nAmount\n9556641320027\n15.25\nSR\n17\n0.85\n0.90\nDELICIA CHOCOLATE [50G]\n9556231110045\n3.55\n3.55\n3.55\nZRL\n1\nGARDENIA ORIGINAL CLASSIC JUMBO [600G]\n9556127101331\n1\n1.41\n1.50\n1.50\nSR\nHU\nUS LIME 50G\n8850199320722\n1\n1.42\n1.51\n1.51\nSR\nDOREMON CATCAT JOY 15G\n885019932072:\n1\n1.42\n1.51\n1.51\nSR\nDOREMON CATCAT JOY 15G\n8888002188511\n2.30\n2.44\n2.44\nSR\nMINUTE MAID PULPY [OREN] [350ML]\n98880\n1\n2 30\n2.44\n2.44\nSR\nMINUTE\nORENI[350ML]\n1.60\n1.60\nSR\nEMON DRINK 500ML\n95565703121\n2.74\n2.90\n2.90\n100 P: JS [1 5]\nSR\nTotal Cty\n25\n32.69\nTotal Sales (Excluding GST):\n31.03\nDiscount :\n0.00\nTotal GST :\n1.65\nRounding :\n0.02\nTatal Sales (Inclusive of GST) :\n32.70\nCASH :\n40.00\nChange :\n7.30\nGST SUMMARY\nTax Code\n%\nAmt(RM)\nTax(RM)\nSR\n6\n27.48\nZRL\n0\n1.65\n3.55\nTotal:\n0.00\n31.03\n1.65\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005268472",
+  "source_image": "X51005268472.jpg",
+  "ocr_confidence": 0.99
+}

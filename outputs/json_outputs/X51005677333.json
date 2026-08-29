@@ -1,0 +1,19 @@
+{
+  "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+  "receipt_date": "31/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 96.0,
+  "total": 96.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.793,
+  "raw_text": "31802016\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS.\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL:03-40210276\nGST ID:000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No.\nCS00013065\nDate: 31/01/2018\nCashier\nUSER\nTime: 10:41:00\nSalesperson\nRef.:\nItem\nQty\nS/Price\nAmount\nTax\n3122\n2\n29.68\n59.36\nSR\n(W33)105MM/4' CUTTING DISC\n3383\n10\n3.18\n31.80\nSR\n4\" MAGIC SAND PAPER\n1512\n1\n10.60\n10.60\nSR\n104 COTTON GLOVE (DOZEN)\nTotal Qty:\n13\n101.76\nTotal Sales (Excluding GST)\n96.00\nDiscount\n0.00\nTotal GST\n5.76\nRounding\n0.00\nTotal Sales (Inclusive of GST)\n101.76\nCASH :\n101.76\nChange :\n0.00\nGST SUMMARY\nTax Code\n%\nAmt (RM)\nTax(RM)\nSR\n6\n96.00\n5.76\nTotal :\n96.00\n5.76\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005677333",
+  "source_image": "X51005677333.jpg",
+  "ocr_confidence": 0.996
+}

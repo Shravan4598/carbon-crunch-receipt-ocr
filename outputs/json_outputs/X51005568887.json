@@ -1,0 +1,24 @@
+{
+  "merchant": "HON HWA HARDWARE TRADING",
+  "receipt_date": "20/04/2017",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 7.2,
+      "total_price": 7.2
+    }
+  ],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 7.2,
+  "total": 6.79,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.87,
+  "raw_text": "HON HWA HARDWARE TRADING\nCompany Reg. No. : 001055194X\nNO 37, JALAN MÄNIS 7, TAMAN SEGAR,\n56100 CHERAS, KUALA LUMPUR\n+603-9130 2672\nGST Reg : 001125220352\nTAXINVOICE\nCB#: 75588\n20/04/2017 11:01:38 AM\nM# : C2-0\nCashier : cash1 –\nQty Description\nPrice\nTotal(RM)\n1.2 3/4\" ALUMINIUM ROD\n6.00\n7.20 SR\nItem Discount\n000\n1.2 Type: 1\nTotal\n7.20\nDiscount:\n0.00\nRounding Adj\n0.00\nTotal Inclusive GST:\n7.20\nCASH\n7.20\nGST Summary\nCode\n9%\nNet Amt\nGST\nTotal(RM)\nSR\nSR\n6.79\n0.41\n7.20\nTotal\n6.79\n0.41\n7.20\nThank you ! & Please come again !!\nGoods sold are not retumable for refund or exchange !",
+  "warnings": [],
+  "receipt_id": "X51005568887",
+  "source_image": "X51005568887.jpg",
+  "ocr_confidence": 0.977
+}

@@ -1,0 +1,24 @@
+{
+  "merchant": "KEDAI PAPAN YEW CHUAN",
+  "receipt_date": "21/03/2018",
+  "receipt_number": "PORT",
+  "items": [
+    {
+      "name": "Time: :00",
+      "quantity": 1.0,
+      "unit_price": 16.39,
+      "total_price": 16.39
+    }
+  ],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 136.0,
+  "total": 136.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.927,
+  "raw_text": "R\nKEDAI PAPAN YEW CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL:03-87686092\nFAX:03-87686092\nGST ID :000781500416\nTAX INVOICE\nBill To :\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\n213.06.\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No.\nCS00011043\nDate: 21/03/2018\nCashier\nUSER\nTime: 16.39:00\nSalesperson\nRef.:\n(GST)\n(GST)\nItem\nQty\nS/Price\nS/Pice\nAmount\nTax\n100139\n8\n17.00\n18.02\n144.16\nSR\nBESI Y 10 (CQ)\nTotal Qty:\n8\n144.16\nTotal Sales (Excluding GST)\n136.00\nDiscount\n0.00\nTotal GST\n8.16\nRounding\n0.00\nTotal Sales (Inclusive of GST)\n144.16\nlal\nCASH :\n144.16\nChange :\n0.00\nGST SUMMARY\nTax Code\n%\nAmt (RM)\nTax(RM)\nSR\n6\n136.00\n8.16\nTotal :\n136.00\n8.16\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.",
+  "warnings": [],
+  "receipt_id": "X51005724611",
+  "source_image": "X51005724611.jpg",
+  "ocr_confidence": 0.992
+}

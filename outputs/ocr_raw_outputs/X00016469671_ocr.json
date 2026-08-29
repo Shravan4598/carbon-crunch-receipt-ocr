@@ -1,0 +1,1322 @@
+{
+  "receipt_id": "X00016469671",
+  "source_image": "X00016469671.jpg",
+  "ocr_confidence": 0.995,
+  "lines": [
+    {
+      "text": "tan chay yee",
+      "confidence": 1.0
+    },
+    {
+      "text": "OJC MARKETING SDN BHD",
+      "confidence": 0.9999
+    },
+    {
+      "text": "ROC NO: 538358-H",
+      "confidence": 0.9968
+    },
+    {
+      "text": "NO 2 & 4, JALAN BAYU 4,",
+      "confidence": 0.9945
+    },
+    {
+      "text": "BANDAR SERI ALAM,",
+      "confidence": 0.9896
+    },
+    {
+      "text": "81750 MASAI, JOHOR",
+      "confidence": 0.9767
+    },
+    {
+      "text": "Tel:07-388 2218 Fax:07-388 8218",
+      "confidence": 0.995
+    },
+    {
+      "text": "Email: ng@ojcgroup.com",
+      "confidence": 0.9922
+    },
+    {
+      "text": "Cash Bill",
+      "confidence": 0.9579
+    },
+    {
+      "text": "Invoice No",
+      "confidence": 0.9996
+    },
+    {
+      "text": ":PEGIV-1030531",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Date",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/01/2019 2:47:14 PM",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Cashier",
+      "confidence": 1.0
+    },
+    {
+      "text": ": RHYS TAN",
+      "confidence": 0.9908
+    },
+    {
+      "text": "Sales Persor : FATIN",
+      "confidence": 0.9872
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Price",
+      "confidence": 1.0
+    },
+    {
+      "text": "Amount",
+      "confidence": 1.0
+    },
+    {
+      "text": "000000111",
+      "confidence": 0.9992
+    },
+    {
+      "text": "1 170.00",
+      "confidence": 0.9808
+    },
+    {
+      "text": "170.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "KINGS SAFETY",
+      "confidence": 0.9999
+    },
+    {
+      "text": "P004",
+      "confidence": 0.9906
+    },
+    {
+      "text": "SHOES KWD 805",
+      "confidence": 0.9958
+    },
+    {
+      "text": "Qty: 1 Total Item Discount:",
+      "confidence": 0.9968
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Total Amount:",
+      "confidence": 0.9997
+    },
+    {
+      "text": "170.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Round Amt:",
+      "confidence": 0.9988
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "TOTAL:",
+      "confidence": 1.0
+    },
+    {
+      "text": "170.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "VISA CARD",
+      "confidence": 0.9998
+    },
+    {
+      "text": "170.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "xxxxxxxxxxxx4318",
+      "confidence": 0.9796
+    },
+    {
+      "text": "Approval Code:123",
+      "confidence": 0.9999
+    },
+    {
+      "text": "170.00",
+      "confidence": 0.9953
+    },
+    {
+      "text": "Goods Sold Are Not Returnable & Refundable",
+      "confidence": 0.9975
+    },
+    {
+      "text": "****Thank You. Please Come Again.****",
+      "confidence": 0.9995
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "tan chay yee",
+      "confidence": 1.0,
+      "box": [
+        113,
+        52,
+        330,
+        93
+      ],
+      "polygon": [
+        [
+          113,
+          52
+        ],
+        [
+          330,
+          52
+        ],
+        [
+          330,
+          93
+        ],
+        [
+          113,
+          93
+        ]
+      ]
+    },
+    {
+      "text": "OJC MARKETING SDN BHD",
+      "confidence": 0.9999,
+      "box": [
+        60,
+        118,
+        300,
+        138
+      ],
+      "polygon": [
+        [
+          60,
+          118
+        ],
+        [
+          300,
+          118
+        ],
+        [
+          300,
+          138
+        ],
+        [
+          60,
+          138
+        ]
+      ]
+    },
+    {
+      "text": "ROC NO: 538358-H",
+      "confidence": 0.9968,
+      "box": [
+        101,
+        140,
+        261,
+        161
+      ],
+      "polygon": [
+        [
+          101,
+          140
+        ],
+        [
+          261,
+          140
+        ],
+        [
+          261,
+          161
+        ],
+        [
+          101,
+          161
+        ]
+      ]
+    },
+    {
+      "text": "NO 2 & 4, JALAN BAYU 4,",
+      "confidence": 0.9945,
+      "box": [
+        83,
+        164,
+        279,
+        184
+      ],
+      "polygon": [
+        [
+          83,
+          164
+        ],
+        [
+          279,
+          164
+        ],
+        [
+          279,
+          184
+        ],
+        [
+          83,
+          184
+        ]
+      ]
+    },
+    {
+      "text": "BANDAR SERI ALAM,",
+      "confidence": 0.9896,
+      "box": [
+        101,
+        186,
+        260,
+        203
+      ],
+      "polygon": [
+        [
+          101,
+          186
+        ],
+        [
+          260,
+          186
+        ],
+        [
+          260,
+          203
+        ],
+        [
+          101,
+          203
+        ]
+      ]
+    },
+    {
+      "text": "81750 MASAI, JOHOR",
+      "confidence": 0.9767,
+      "box": [
+        96,
+        208,
+        266,
+        225
+      ],
+      "polygon": [
+        [
+          96,
+          208
+        ],
+        [
+          266,
+          208
+        ],
+        [
+          266,
+          225
+        ],
+        [
+          96,
+          225
+        ]
+      ]
+    },
+    {
+      "text": "Tel:07-388 2218 Fax:07-388 8218",
+      "confidence": 0.995,
+      "box": [
+        49,
+        227,
+        312,
+        248
+      ],
+      "polygon": [
+        [
+          49,
+          227
+        ],
+        [
+          312,
+          227
+        ],
+        [
+          312,
+          248
+        ],
+        [
+          49,
+          248
+        ]
+      ]
+    },
+    {
+      "text": "Email: ng@ojcgroup.com",
+      "confidence": 0.9922,
+      "box": [
+        85,
+        248,
+        277,
+        270
+      ],
+      "polygon": [
+        [
+          85,
+          248
+        ],
+        [
+          277,
+          249
+        ],
+        [
+          277,
+          270
+        ],
+        [
+          85,
+          269
+        ]
+      ]
+    },
+    {
+      "text": "Cash Bill",
+      "confidence": 0.9579,
+      "box": [
+        143,
+        291,
+        221,
+        312
+      ],
+      "polygon": [
+        [
+          143,
+          291
+        ],
+        [
+          221,
+          291
+        ],
+        [
+          221,
+          312
+        ],
+        [
+          143,
+          312
+        ]
+      ]
+    },
+    {
+      "text": "Invoice No",
+      "confidence": 0.9996,
+      "box": [
+        26,
+        322,
+        102,
+        341
+      ],
+      "polygon": [
+        [
+          26,
+          322
+        ],
+        [
+          102,
+          322
+        ],
+        [
+          102,
+          341
+        ],
+        [
+          26,
+          341
+        ]
+      ]
+    },
+    {
+      "text": ":PEGIV-1030531",
+      "confidence": 0.9993,
+      "box": [
+        115,
+        324,
+        240,
+        342
+      ],
+      "polygon": [
+        [
+          115,
+          324
+        ],
+        [
+          240,
+          324
+        ],
+        [
+          240,
+          342
+        ],
+        [
+          115,
+          342
+        ]
+      ]
+    },
+    {
+      "text": "Date",
+      "confidence": 1.0,
+      "box": [
+        26,
+        346,
+        66,
+        365
+      ],
+      "polygon": [
+        [
+          26,
+          346
+        ],
+        [
+          66,
+          346
+        ],
+        [
+          66,
+          365
+        ],
+        [
+          26,
+          365
+        ]
+      ]
+    },
+    {
+      "text": "02/01/2019 2:47:14 PM",
+      "confidence": 0.9992,
+      "box": [
+        129,
+        344,
+        316,
+        364
+      ],
+      "polygon": [
+        [
+          129,
+          344
+        ],
+        [
+          316,
+          344
+        ],
+        [
+          316,
+          364
+        ],
+        [
+          129,
+          364
+        ]
+      ]
+    },
+    {
+      "text": "Cashier",
+      "confidence": 1.0,
+      "box": [
+        27,
+        367,
+        85,
+        385
+      ],
+      "polygon": [
+        [
+          27,
+          367
+        ],
+        [
+          85,
+          367
+        ],
+        [
+          85,
+          385
+        ],
+        [
+          27,
+          385
+        ]
+      ]
+    },
+    {
+      "text": ": RHYS TAN",
+      "confidence": 0.9908,
+      "box": [
+        121,
+        366,
+        212,
+        384
+      ],
+      "polygon": [
+        [
+          121,
+          366
+        ],
+        [
+          212,
+          366
+        ],
+        [
+          212,
+          384
+        ],
+        [
+          121,
+          384
+        ]
+      ]
+    },
+    {
+      "text": "Sales Persor : FATIN",
+      "confidence": 0.9872,
+      "box": [
+        27,
+        389,
+        181,
+        406
+      ],
+      "polygon": [
+        [
+          27,
+          389
+        ],
+        [
+          181,
+          389
+        ],
+        [
+          181,
+          406
+        ],
+        [
+          27,
+          406
+        ]
+      ]
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9997,
+      "box": [
+        25,
+        429,
+        102,
+        448
+      ],
+      "polygon": [
+        [
+          25,
+          429
+        ],
+        [
+          102,
+          429
+        ],
+        [
+          102,
+          448
+        ],
+        [
+          25,
+          448
+        ]
+      ]
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9991,
+      "box": [
+        153,
+        428,
+        181,
+        450
+      ],
+      "polygon": [
+        [
+          153,
+          428
+        ],
+        [
+          181,
+          428
+        ],
+        [
+          181,
+          450
+        ],
+        [
+          153,
+          450
+        ]
+      ]
+    },
+    {
+      "text": "Price",
+      "confidence": 1.0,
+      "box": [
+        207,
+        428,
+        244,
+        447
+      ],
+      "polygon": [
+        [
+          207,
+          428
+        ],
+        [
+          244,
+          428
+        ],
+        [
+          244,
+          447
+        ],
+        [
+          207,
+          447
+        ]
+      ]
+    },
+    {
+      "text": "Amount",
+      "confidence": 1.0,
+      "box": [
+        261,
+        429,
+        317,
+        448
+      ],
+      "polygon": [
+        [
+          261,
+          429
+        ],
+        [
+          317,
+          429
+        ],
+        [
+          317,
+          448
+        ],
+        [
+          261,
+          448
+        ]
+      ]
+    },
+    {
+      "text": "000000111",
+      "confidence": 0.9992,
+      "box": [
+        23,
+        451,
+        93,
+        468
+      ],
+      "polygon": [
+        [
+          23,
+          451
+        ],
+        [
+          93,
+          451
+        ],
+        [
+          93,
+          468
+        ],
+        [
+          23,
+          468
+        ]
+      ]
+    },
+    {
+      "text": "1 170.00",
+      "confidence": 0.9808,
+      "box": [
+        165,
+        448,
+        243,
+        469
+      ],
+      "polygon": [
+        [
+          165,
+          448
+        ],
+        [
+          243,
+          448
+        ],
+        [
+          243,
+          469
+        ],
+        [
+          165,
+          469
+        ]
+      ]
+    },
+    {
+      "text": "170.00",
+      "confidence": 1.0,
+      "box": [
+        267,
+        450,
+        315,
+        468
+      ],
+      "polygon": [
+        [
+          267,
+          450
+        ],
+        [
+          315,
+          450
+        ],
+        [
+          315,
+          468
+        ],
+        [
+          267,
+          468
+        ]
+      ]
+    },
+    {
+      "text": "KINGS SAFETY",
+      "confidence": 0.9999,
+      "box": [
+        24,
+        471,
+        119,
+        488
+      ],
+      "polygon": [
+        [
+          24,
+          471
+        ],
+        [
+          119,
+          471
+        ],
+        [
+          119,
+          488
+        ],
+        [
+          24,
+          488
+        ]
+      ]
+    },
+    {
+      "text": "P004",
+      "confidence": 0.9906,
+      "box": [
+        168,
+        469,
+        204,
+        488
+      ],
+      "polygon": [
+        [
+          168,
+          469
+        ],
+        [
+          204,
+          469
+        ],
+        [
+          204,
+          488
+        ],
+        [
+          168,
+          488
+        ]
+      ]
+    },
+    {
+      "text": "SHOES KWD 805",
+      "confidence": 0.9958,
+      "box": [
+        24,
+        488,
+        130,
+        505
+      ],
+      "polygon": [
+        [
+          24,
+          488
+        ],
+        [
+          130,
+          488
+        ],
+        [
+          130,
+          505
+        ],
+        [
+          24,
+          505
+        ]
+      ]
+    },
+    {
+      "text": "Qty: 1 Total Item Discount:",
+      "confidence": 0.9968,
+      "box": [
+        25,
+        517,
+        220,
+        538
+      ],
+      "polygon": [
+        [
+          25,
+          517
+        ],
+        [
+          220,
+          517
+        ],
+        [
+          220,
+          538
+        ],
+        [
+          25,
+          538
+        ]
+      ]
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999,
+      "box": [
+        282,
+        516,
+        316,
+        537
+      ],
+      "polygon": [
+        [
+          282,
+          516
+        ],
+        [
+          316,
+          516
+        ],
+        [
+          316,
+          537
+        ],
+        [
+          282,
+          537
+        ]
+      ]
+    },
+    {
+      "text": "Total Amount:",
+      "confidence": 0.9997,
+      "box": [
+        121,
+        539,
+        219,
+        557
+      ],
+      "polygon": [
+        [
+          121,
+          539
+        ],
+        [
+          219,
+          539
+        ],
+        [
+          219,
+          557
+        ],
+        [
+          121,
+          557
+        ]
+      ]
+    },
+    {
+      "text": "170.00",
+      "confidence": 1.0,
+      "box": [
+        268,
+        539,
+        315,
+        558
+      ],
+      "polygon": [
+        [
+          268,
+          539
+        ],
+        [
+          315,
+          539
+        ],
+        [
+          315,
+          558
+        ],
+        [
+          268,
+          558
+        ]
+      ]
+    },
+    {
+      "text": "Round Amt:",
+      "confidence": 0.9988,
+      "box": [
+        136,
+        561,
+        219,
+        579
+      ],
+      "polygon": [
+        [
+          136,
+          561
+        ],
+        [
+          219,
+          561
+        ],
+        [
+          219,
+          579
+        ],
+        [
+          136,
+          579
+        ]
+      ]
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0,
+      "box": [
+        281,
+        560,
+        316,
+        579
+      ],
+      "polygon": [
+        [
+          281,
+          560
+        ],
+        [
+          316,
+          560
+        ],
+        [
+          316,
+          579
+        ],
+        [
+          281,
+          579
+        ]
+      ]
+    },
+    {
+      "text": "TOTAL:",
+      "confidence": 1.0,
+      "box": [
+        157,
+        587,
+        221,
+        605
+      ],
+      "polygon": [
+        [
+          157,
+          587
+        ],
+        [
+          221,
+          587
+        ],
+        [
+          221,
+          605
+        ],
+        [
+          157,
+          605
+        ]
+      ]
+    },
+    {
+      "text": "170.00",
+      "confidence": 1.0,
+      "box": [
+        253,
+        587,
+        315,
+        605
+      ],
+      "polygon": [
+        [
+          253,
+          587
+        ],
+        [
+          315,
+          587
+        ],
+        [
+          315,
+          605
+        ],
+        [
+          253,
+          605
+        ]
+      ]
+    },
+    {
+      "text": "VISA CARD",
+      "confidence": 0.9998,
+      "box": [
+        125,
+        612,
+        200,
+        630
+      ],
+      "polygon": [
+        [
+          125,
+          612
+        ],
+        [
+          200,
+          612
+        ],
+        [
+          200,
+          630
+        ],
+        [
+          125,
+          630
+        ]
+      ]
+    },
+    {
+      "text": "170.00",
+      "confidence": 1.0,
+      "box": [
+        268,
+        612,
+        316,
+        632
+      ],
+      "polygon": [
+        [
+          268,
+          612
+        ],
+        [
+          316,
+          612
+        ],
+        [
+          316,
+          632
+        ],
+        [
+          268,
+          632
+        ]
+      ]
+    },
+    {
+      "text": "xxxxxxxxxxxx4318",
+      "confidence": 0.9796,
+      "box": [
+        75,
+        634,
+        199,
+        651
+      ],
+      "polygon": [
+        [
+          75,
+          634
+        ],
+        [
+          199,
+          634
+        ],
+        [
+          199,
+          651
+        ],
+        [
+          75,
+          651
+        ]
+      ]
+    },
+    {
+      "text": "Approval Code:123",
+      "confidence": 0.9999,
+      "box": [
+        72,
+        656,
+        202,
+        676
+      ],
+      "polygon": [
+        [
+          72,
+          656
+        ],
+        [
+          202,
+          656
+        ],
+        [
+          202,
+          676
+        ],
+        [
+          72,
+          676
+        ]
+      ]
+    },
+    {
+      "text": "170.00",
+      "confidence": 0.9953,
+      "box": [
+        303,
+        658,
+        401,
+        716
+      ],
+      "polygon": [
+        [
+          303,
+          658
+        ],
+        [
+          401,
+          658
+        ],
+        [
+          401,
+          716
+        ],
+        [
+          303,
+          716
+        ]
+      ]
+    },
+    {
+      "text": "Goods Sold Are Not Returnable & Refundable",
+      "confidence": 0.9975,
+      "box": [
+        33,
+        730,
+        330,
+        747
+      ],
+      "polygon": [
+        [
+          33,
+          730
+        ],
+        [
+          330,
+          730
+        ],
+        [
+          330,
+          747
+        ],
+        [
+          33,
+          747
+        ]
+      ]
+    },
+    {
+      "text": "****Thank You. Please Come Again.****",
+      "confidence": 0.9995,
+      "box": [
+        43,
+        747,
+        321,
+        767
+      ],
+      "polygon": [
+        [
+          43,
+          747
+        ],
+        [
+          321,
+          747
+        ],
+        [
+          321,
+          767
+        ],
+        [
+          43,
+          767
+        ]
+      ]
+    }
+  ],
+  "raw_text": "tan chay yee\nOJC MARKETING SDN BHD\nROC NO: 538358-H\nNO 2 & 4, JALAN BAYU 4,\nBANDAR SERI ALAM,\n81750 MASAI, JOHOR\nTel:07-388 2218 Fax:07-388 8218\nEmail: ng@ojcgroup.com\nCash Bill\nInvoice No\n:PEGIV-1030531\nDate\n02/01/2019 2:47:14 PM\nCashier\n: RHYS TAN\nSales Persor : FATIN\nDescription\nQty\nPrice\nAmount\n000000111\n1 170.00\n170.00\nKINGS SAFETY\nP004\nSHOES KWD 805\nQty: 1 Total Item Discount:\n0.00\nTotal Amount:\n170.00\nRound Amt:\n0.00\nTOTAL:\n170.00\nVISA CARD\n170.00\nxxxxxxxxxxxx4318\nApproval Code:123\n170.00\nGoods Sold Are Not Returnable & Refundable\n****Thank You. Please Come Again.****"
+}

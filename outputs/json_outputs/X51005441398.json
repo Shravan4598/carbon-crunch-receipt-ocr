@@ -1,0 +1,42 @@
+{
+  "merchant": "BREWERY TAP",
+  "receipt_date": "30/03/2018",
+  "receipt_number": "LOGIN",
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 95.0,
+      "total_price": 95.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 22.0,
+      "total_price": 22.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 12.0,
+      "total_price": 12.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    }
+  ],
+  "subtotal": 179.0,
+  "discount": null,
+  "tax": 10.74,
+  "total": 189.75,
+  "payment_method": null,
+  "extraction_confidence": 0.949,
+  "raw_text": "BREWERY TAP\nOwner by Castle Blue S/B\n(1035693-T)\nGST No : 002108047360\nAvtivo Plaza,Lot B-F-11, Block B\nNo1.Jalan PJU 9/1,D'sara Avevue\nBandar Sri D'sara, 52000 KL\nTEL: +603-62629219\nGUEST CHECK *\nTable No: D@6\nOrder No\n: 11649\nDate\n: 30/03/2018 # 8:13 PM\nCashier\n: ORDER LOGIN\nWaiter\n: Harry,Paing\nPRN ON\n: 30/03/2018 11:18 PM\nQTY ITEM\nRM\n米家米 Dine In 家米\n1 Tiger 2 Bucket - HH\n95.00 SR\n2 Tiger Bucket- HH\n1\nChicken wings\n22.00 SR\n1\nFrench Fries\n12.00 SR\nTiger Bucket- HH\n50.00 SR\n4\nSubTotal\n179.00\nGST 06%:\n10.74\nRounding Adj\n0.01\nNet Total\n189.75\n- *** 30/03/2018 11:11 PM *** --\nTax Summary\nAmount\nTax\nSR:GST 06%\n179.00\n10.74\nTHANK YOU, PLEASE COME AGAIN\nGoods Sold Are Non Refundable\nK",
+  "warnings": [],
+  "receipt_id": "X51005441398",
+  "source_image": "X51005441398.jpg",
+  "ocr_confidence": 0.975
+}

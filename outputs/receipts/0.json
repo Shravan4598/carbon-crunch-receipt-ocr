@@ -1,0 +1,68 @@
+{
+  "image": "0.jpg",
+  "image_path": "data\\raw\\0.jpg",
+  "status": "success",
+  "ocr": {
+    "engine": "tesseract",
+    "engine_version": "5.5.3.20260724",
+    "image_width": 612,
+    "image_height": 1023,
+    "line_count": 21,
+    "word_count": 77,
+    "average_confidence": 0.6605396825396825,
+    "processing_time_seconds": 0.3961479999125004,
+    "full_text": "WAL*MART\n°\nLOW PRICES. ALWAYS\nAlone\nSUPERCENTER\nHOURS OPEN 24\nTBA MANAGER .\n986 1783 ( 515 ) -\n5748 OP# 00000158 TE# 14 TR# ST# 03178\nBANANAS 1kKF 00000000401\n0.41 Ib @ 1 Ib /0.49 0.20 N\nFRAP 001200010451 F 5.48 N\nDISCOUNT GIVEN 0.57\nal\nCASH TEND 1\na CHANGE DUE ;\noe ITEMS # SOLD 2\nnti 8348 6485 7828 2003 7\nWIM ai ey\nat nop Walmart & Get\n{GISE For BAT Less."
+  },
+  "receipt": {
+    "merchant": "WAL*MART",
+    "receipt_date": null,
+    "receipt_number": "00000158",
+    "items": [
+      {
+        "name": "Ib Ib ",
+        "quantity": 1.0,
+        "unit_price": null,
+        "total_price": 0.2,
+        "confidence": 0.9450000000000001
+      }
+    ],
+    "subtotal": null,
+    "discount": 0.57,
+    "tax": null,
+    "total": null,
+    "payment_method": "CASH",
+    "currency": "USD",
+    "extraction_confidence": 0.76054,
+    "raw_text": "WAL*MART\n°\nLOW PRICES. ALWAYS\nAlone\nSUPERCENTER\nHOURS OPEN 24\nTBA MANAGER .\n986 1783 ( 515 ) -\n5748 OP# 00000158 TE# 14 TR# ST# 03178\nBANANAS 1kKF 00000000401\n0.41 Ib @ 1 Ib /0.49 0.20 N\nFRAP 001200010451 F 5.48 N\nDISCOUNT GIVEN 0.57\nal\nCASH TEND 1\na CHANGE DUE ;\noe ITEMS # SOLD 2\nnti 8348 6485 7828 2003 7\nWIM ai ey\nat nop Walmart & Get\n{GISE For BAT Less.",
+    "warnings": [
+      "Receipt total could not be confidently identified.",
+      "OCR confidence is moderate; extracted fields should be reviewed."
+    ]
+  },
+  "validation": {
+    "is_valid": true,
+    "error_count": 0,
+    "warning_count": 2,
+    "issues": [
+      {
+        "field": "receipt_date",
+        "message": "Receipt date could not be identified.",
+        "severity": "warning"
+      },
+      {
+        "field": "total",
+        "message": "Receipt total could not be identified.",
+        "severity": "warning"
+      }
+    ]
+  },
+  "conflicts": {
+    "count": 1,
+    "items": [
+      "Receipt indicates 2 items sold, but 1 items were extracted."
+    ]
+  },
+  "pipeline": {
+    "processing_time_seconds": 0.4173
+  }
+}

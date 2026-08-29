@@ -1,0 +1,19 @@
+{
+  "merchant": "Gerbang Alaf Restaurants Sdn Bhd",
+  "receipt_date": "19-18/03",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 13.1,
+  "total": 0.74,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.792,
+  "raw_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald'sRawang DT(#188)\nTel No. 03-6092-1968\nTAX INVOICE\nMFY Side 1\nINV# 001881904580783\nORD #70-REG #19-18/03/2018 23:02:16\nQTY ITEM\nTOTAL\n1 L McChicken\n11.10\n1 L Coke\n1 L Fries\n2 Small Cone\n2.00\nTakeOut Total (incl GST)\n13.10\nTotal Rounded\n13.10\nCash Tendered\n20.00\nChange\n6.90\nTOTAL INCLUDES 6% GST\n0.74\nink You and Please Come Again.\nGuest Relations Center : 1300-13-1300",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005712017",
+  "source_image": "X51005712017.jpg",
+  "ocr_confidence": 0.993
+}

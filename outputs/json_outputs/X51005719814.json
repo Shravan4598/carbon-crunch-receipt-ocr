@@ -1,0 +1,42 @@
+{
+  "merchant": "KIKU JAPANESE RESTAURANT",
+  "receipt_date": "17/1/2018",
+  "receipt_number": "9722",
+  "items": [
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 29.7,
+      "total_price": 29.7
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 0.0,
+      "total_price": 0.0
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 30.0,
+      "total_price": 30.0
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 0.3,
+      "total_price": 0.3
+    }
+  ],
+  "subtotal": 29.7,
+  "discount": 29.7,
+  "tax": null,
+  "total": 29.7,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.945,
+  "raw_text": "KIKU JAPANESE RESTAURANT\nTK DIVISION KITCHEN SDN BHD\n1202152-P\n19-1. JALAN MALINJA 2, TAMAN BUNGA RAYA,\n53100 SETAPAK, KUALA LUMPUR.\nTEL: 03-41618936\nINVOICE\nInvoice :9722\nCashier:admin\nPOS No:1\nTable\n: D3\nDate : 17/1/2018 12:12:21\nPax:0\nITEM\nQTY\nU/P(RM)\nDISC(%)\nAmt(RM)\nChicken Katsu Bento\nBENO2\n1\n12.90\n0.00\n12.90\nOmu Curry Fried Rice Set\nSet10\n1\n6.90\n0.00\n6.90\nKatsu Don (Fish)Set\nTS02 Kat\n1\n9.90\n0.00\n9.90\nSub Total Before Discount\nRM 29.70\nService Charge\nRM 0.00\nTotal Sales\nRM 29.70\nRounding Adjustment :\nRM 0.00\nTOTAL\nRM 29.70\nCASH\nRM 30.00\nCHANGE\nRM 0.30",
+  "warnings": [],
+  "receipt_id": "X51005719814",
+  "source_image": "X51005719814.jpg",
+  "ocr_confidence": 0.988
+}

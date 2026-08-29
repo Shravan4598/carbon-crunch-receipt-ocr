@@ -1,0 +1,24 @@
+{
+  "merchant": "RESTORAN HASSANBISTRO",
+  "receipt_date": "2-1-1",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "ZR",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    }
+  ],
+  "subtotal": 15.0,
+  "discount": 0.0,
+  "tax": 15.0,
+  "total": 15.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.931,
+  "raw_text": "RESTORAN HASSANBISTRO\nNO.2-1-1 JALAN FTIA PRIMA Q\nU 13/Q SET1. AL AM 40170\nSHAIN AI AM\nSELANGOR\n京本本水本京\nTAX INVOICE\nTERMINAL : C1\nCASHIER : HASSAN\nBILL NO : C1-0170778\nDATE\n:12/28/2017 10:17:32 PM\nTOKEN\n: CT1\nTABLE\n: CT1\nPrt\nQty\nU.Price\nGST\nTotal\nMAKANAN\n1\n15.00\n0\n15.00 ZR\nTotal Items\nx\n1.00\nTotal Qty\n二\n1.00\nSub Total\nRM\n15.00\nDiscount\nRM\n0.00\nTotal Excl.6% GST\nRM\n15.00\nGST 6%\nRM\n0.00\nTotal Incl.6% GST\nRM\n15.00\nRounding\nRM\n0.00\nCASH\nRM\n15.00\nCHANGE\nRM\n0.00\nThank You.Come Again\n2017-12-28 22:17PM",
+  "warnings": [],
+  "receipt_id": "X51005268400",
+  "source_image": "X51005268400.jpg",
+  "ocr_confidence": 0.957
+}

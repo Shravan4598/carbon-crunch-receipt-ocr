@@ -1,0 +1,1066 @@
+{
+  "receipt_id": "X51005757273",
+  "source_image": "X51005757273.jpg",
+  "ocr_confidence": 0.995,
+  "lines": [
+    {
+      "text": "31803033",
+      "confidence": 1.0
+    },
+    {
+      "text": "MR. D.I.Y. (KUCHAI) SDN BHD",
+      "confidence": 0.9895
+    },
+    {
+      "text": "(CO Reg :750441-W)",
+      "confidence": 0.9899
+    },
+    {
+      "text": "LOT 1851-A & 1851-B,JALAN KPB 6,",
+      "confidence": 0.9975
+    },
+    {
+      "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+      "confidence": 0.9999
+    },
+    {
+      "text": "43300 SERI KEMBANGAN, SELANGOR",
+      "confidence": 0.9956
+    },
+    {
+      "text": "(GST ID No :000473792512)",
+      "confidence": 0.9992
+    },
+    {
+      "text": "(STRAND MALL KOTA DAMANSARA)",
+      "confidence": 1.0
+    },
+    {
+      "text": "- TAX INVOICE -",
+      "confidence": 0.977
+    },
+    {
+      "text": "PYEDRAIN CLOG FREE CLDRO2 - 1000ML",
+      "confidence": 0.9814
+    },
+    {
+      "text": "*S",
+      "confidence": 0.9974
+    },
+    {
+      "text": "WA05 - 12",
+      "confidence": 0.9436
+    },
+    {
+      "text": "9556268000210",
+      "confidence": 1.0
+    },
+    {
+      "text": "3 X 15.00 45.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Item(s) : 1",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Qty(s) : 3",
+      "confidence": 0.9779
+    },
+    {
+      "text": "TOTAL INCL. GST@6%",
+      "confidence": 0.9978
+    },
+    {
+      "text": "RM 45.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "CARD",
+      "confidence": 1.0
+    },
+    {
+      "text": "RM 45.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 1.0
+    },
+    {
+      "text": "Amt(RM)",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 1.0
+    },
+    {
+      "text": "GST S@6%",
+      "confidence": 0.996
+    },
+    {
+      "text": "42.45",
+      "confidence": 1.0
+    },
+    {
+      "text": "2.55",
+      "confidence": 1.0
+    },
+    {
+      "text": "*",
+      "confidence": 0.997
+    },
+    {
+      "text": "12-03-18 14:37 SH02 B011",
+      "confidence": 0.9984
+    },
+    {
+      "text": "T1 R000183898",
+      "confidence": 0.9998
+    },
+    {
+      "text": "OPERATOR STMT - AZMIZAN",
+      "confidence": 0.9951
+    },
+    {
+      "text": "EXCHANGE ARE ALLOWED WITHIN",
+      "confidence": 1.0
+    },
+    {
+      "text": "7 DAYS WITH RECEIPT.",
+      "confidence": 0.9999
+    },
+    {
+      "text": "STRICTLY NO CASH REFUND.",
+      "confidence": 0.9973
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "31803033",
+      "confidence": 1.0,
+      "box": [
+        11,
+        6,
+        213,
+        66
+      ],
+      "polygon": [
+        [
+          12,
+          6
+        ],
+        [
+          213,
+          11
+        ],
+        [
+          212,
+          66
+        ],
+        [
+          11,
+          61
+        ]
+      ]
+    },
+    {
+      "text": "MR. D.I.Y. (KUCHAI) SDN BHD",
+      "confidence": 0.9895,
+      "box": [
+        117,
+        264,
+        568,
+        297
+      ],
+      "polygon": [
+        [
+          117,
+          264
+        ],
+        [
+          568,
+          264
+        ],
+        [
+          568,
+          297
+        ],
+        [
+          117,
+          297
+        ]
+      ]
+    },
+    {
+      "text": "(CO Reg :750441-W)",
+      "confidence": 0.9899,
+      "box": [
+        201,
+        298,
+        501,
+        331
+      ],
+      "polygon": [
+        [
+          201,
+          298
+        ],
+        [
+          501,
+          298
+        ],
+        [
+          501,
+          331
+        ],
+        [
+          201,
+          331
+        ]
+      ]
+    },
+    {
+      "text": "LOT 1851-A & 1851-B,JALAN KPB 6,",
+      "confidence": 0.9975,
+      "box": [
+        83,
+        331,
+        614,
+        364
+      ],
+      "polygon": [
+        [
+          83,
+          331
+        ],
+        [
+          614,
+          331
+        ],
+        [
+          614,
+          364
+        ],
+        [
+          83,
+          364
+        ]
+      ]
+    },
+    {
+      "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+      "confidence": 0.9999,
+      "box": [
+        83,
+        365,
+        599,
+        398
+      ],
+      "polygon": [
+        [
+          83,
+          365
+        ],
+        [
+          599,
+          365
+        ],
+        [
+          599,
+          398
+        ],
+        [
+          83,
+          398
+        ]
+      ]
+    },
+    {
+      "text": "43300 SERI KEMBANGAN, SELANGOR",
+      "confidence": 0.9956,
+      "box": [
+        103,
+        398,
+        601,
+        431
+      ],
+      "polygon": [
+        [
+          103,
+          398
+        ],
+        [
+          601,
+          398
+        ],
+        [
+          601,
+          431
+        ],
+        [
+          103,
+          431
+        ]
+      ]
+    },
+    {
+      "text": "(GST ID No :000473792512)",
+      "confidence": 0.9992,
+      "box": [
+        136,
+        432,
+        551,
+        465
+      ],
+      "polygon": [
+        [
+          136,
+          432
+        ],
+        [
+          551,
+          432
+        ],
+        [
+          551,
+          465
+        ],
+        [
+          136,
+          465
+        ]
+      ]
+    },
+    {
+      "text": "(STRAND MALL KOTA DAMANSARA)",
+      "confidence": 1.0,
+      "box": [
+        121,
+        466,
+        583,
+        499
+      ],
+      "polygon": [
+        [
+          121,
+          466
+        ],
+        [
+          583,
+          466
+        ],
+        [
+          583,
+          499
+        ],
+        [
+          121,
+          499
+        ]
+      ]
+    },
+    {
+      "text": "- TAX INVOICE -",
+      "confidence": 0.977,
+      "box": [
+        217,
+        498,
+        468,
+        531
+      ],
+      "polygon": [
+        [
+          217,
+          498
+        ],
+        [
+          468,
+          498
+        ],
+        [
+          468,
+          531
+        ],
+        [
+          217,
+          531
+        ]
+      ]
+    },
+    {
+      "text": "PYEDRAIN CLOG FREE CLDRO2 - 1000ML",
+      "confidence": 0.9814,
+      "box": [
+        18,
+        599,
+        583,
+        632
+      ],
+      "polygon": [
+        [
+          18,
+          599
+        ],
+        [
+          583,
+          599
+        ],
+        [
+          583,
+          632
+        ],
+        [
+          18,
+          632
+        ]
+      ]
+    },
+    {
+      "text": "*S",
+      "confidence": 0.9974,
+      "box": [
+        646,
+        598,
+        687,
+        633
+      ],
+      "polygon": [
+        [
+          646,
+          598
+        ],
+        [
+          687,
+          598
+        ],
+        [
+          687,
+          633
+        ],
+        [
+          646,
+          633
+        ]
+      ]
+    },
+    {
+      "text": "WA05 - 12",
+      "confidence": 0.9436,
+      "box": [
+        16,
+        630,
+        174,
+        668
+      ],
+      "polygon": [
+        [
+          16,
+          633
+        ],
+        [
+          173,
+          630
+        ],
+        [
+          174,
+          665
+        ],
+        [
+          17,
+          668
+        ]
+      ]
+    },
+    {
+      "text": "9556268000210",
+      "confidence": 1.0,
+      "box": [
+        18,
+        665,
+        240,
+        702
+      ],
+      "polygon": [
+        [
+          18,
+          665
+        ],
+        [
+          240,
+          665
+        ],
+        [
+          240,
+          702
+        ],
+        [
+          18,
+          702
+        ]
+      ]
+    },
+    {
+      "text": "3 X 15.00 45.00",
+      "confidence": 0.9983,
+      "box": [
+        382,
+        663,
+        654,
+        700
+      ],
+      "polygon": [
+        [
+          382,
+          663
+        ],
+        [
+          654,
+          663
+        ],
+        [
+          654,
+          700
+        ],
+        [
+          382,
+          700
+        ]
+      ]
+    },
+    {
+      "text": "Item(s) : 1",
+      "confidence": 0.9981,
+      "box": [
+        18,
+        733,
+        207,
+        771
+      ],
+      "polygon": [
+        [
+          18,
+          733
+        ],
+        [
+          207,
+          733
+        ],
+        [
+          207,
+          771
+        ],
+        [
+          18,
+          771
+        ]
+      ]
+    },
+    {
+      "text": "Qty(s) : 3",
+      "confidence": 0.9779,
+      "box": [
+        515,
+        732,
+        687,
+        770
+      ],
+      "polygon": [
+        [
+          515,
+          732
+        ],
+        [
+          687,
+          732
+        ],
+        [
+          687,
+          770
+        ],
+        [
+          515,
+          770
+        ]
+      ]
+    },
+    {
+      "text": "TOTAL INCL. GST@6%",
+      "confidence": 0.9978,
+      "box": [
+        21,
+        801,
+        321,
+        834
+      ],
+      "polygon": [
+        [
+          21,
+          801
+        ],
+        [
+          321,
+          801
+        ],
+        [
+          321,
+          834
+        ],
+        [
+          21,
+          834
+        ]
+      ]
+    },
+    {
+      "text": "RM 45.00",
+      "confidence": 0.9993,
+      "box": [
+        549,
+        800,
+        686,
+        834
+      ],
+      "polygon": [
+        [
+          549,
+          800
+        ],
+        [
+          686,
+          800
+        ],
+        [
+          686,
+          834
+        ],
+        [
+          549,
+          834
+        ]
+      ]
+    },
+    {
+      "text": "CARD",
+      "confidence": 1.0,
+      "box": [
+        17,
+        834,
+        92,
+        871
+      ],
+      "polygon": [
+        [
+          17,
+          834
+        ],
+        [
+          92,
+          834
+        ],
+        [
+          92,
+          871
+        ],
+        [
+          17,
+          871
+        ]
+      ]
+    },
+    {
+      "text": "RM 45.00",
+      "confidence": 0.9995,
+      "box": [
+        549,
+        833,
+        686,
+        867
+      ],
+      "polygon": [
+        [
+          549,
+          833
+        ],
+        [
+          686,
+          833
+        ],
+        [
+          686,
+          867
+        ],
+        [
+          549,
+          867
+        ]
+      ]
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 1.0,
+      "box": [
+        17,
+        901,
+        207,
+        940
+      ],
+      "polygon": [
+        [
+          17,
+          901
+        ],
+        [
+          207,
+          901
+        ],
+        [
+          207,
+          940
+        ],
+        [
+          17,
+          940
+        ]
+      ]
+    },
+    {
+      "text": "Amt(RM)",
+      "confidence": 0.9997,
+      "box": [
+        317,
+        900,
+        440,
+        938
+      ],
+      "polygon": [
+        [
+          317,
+          900
+        ],
+        [
+          440,
+          900
+        ],
+        [
+          440,
+          938
+        ],
+        [
+          317,
+          938
+        ]
+      ]
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 1.0,
+      "box": [
+        480,
+        900,
+        603,
+        938
+      ],
+      "polygon": [
+        [
+          480,
+          900
+        ],
+        [
+          603,
+          900
+        ],
+        [
+          603,
+          938
+        ],
+        [
+          480,
+          938
+        ]
+      ]
+    },
+    {
+      "text": "GST S@6%",
+      "confidence": 0.996,
+      "box": [
+        17,
+        934,
+        158,
+        972
+      ],
+      "polygon": [
+        [
+          17,
+          934
+        ],
+        [
+          158,
+          934
+        ],
+        [
+          158,
+          972
+        ],
+        [
+          17,
+          972
+        ]
+      ]
+    },
+    {
+      "text": "42.45",
+      "confidence": 1.0,
+      "box": [
+        383,
+        934,
+        472,
+        970
+      ],
+      "polygon": [
+        [
+          383,
+          934
+        ],
+        [
+          472,
+          934
+        ],
+        [
+          472,
+          970
+        ],
+        [
+          383,
+          970
+        ]
+      ]
+    },
+    {
+      "text": "2.55",
+      "confidence": 1.0,
+      "box": [
+        564,
+        934,
+        637,
+        971
+      ],
+      "polygon": [
+        [
+          564,
+          934
+        ],
+        [
+          637,
+          934
+        ],
+        [
+          637,
+          971
+        ],
+        [
+          564,
+          971
+        ]
+      ]
+    },
+    {
+      "text": "*",
+      "confidence": 0.997,
+      "box": [
+        665,
+        1008,
+        685,
+        1029
+      ],
+      "polygon": [
+        [
+          665,
+          1008
+        ],
+        [
+          685,
+          1008
+        ],
+        [
+          685,
+          1029
+        ],
+        [
+          665,
+          1029
+        ]
+      ]
+    },
+    {
+      "text": "12-03-18 14:37 SH02 B011",
+      "confidence": 0.9984,
+      "box": [
+        21,
+        1038,
+        418,
+        1071
+      ],
+      "polygon": [
+        [
+          21,
+          1038
+        ],
+        [
+          418,
+          1038
+        ],
+        [
+          418,
+          1071
+        ],
+        [
+          21,
+          1071
+        ]
+      ]
+    },
+    {
+      "text": "T1 R000183898",
+      "confidence": 0.9998,
+      "box": [
+        464,
+        1033,
+        686,
+        1070
+      ],
+      "polygon": [
+        [
+          464,
+          1033
+        ],
+        [
+          686,
+          1033
+        ],
+        [
+          686,
+          1070
+        ],
+        [
+          464,
+          1070
+        ]
+      ]
+    },
+    {
+      "text": "OPERATOR STMT - AZMIZAN",
+      "confidence": 0.9951,
+      "box": [
+        17,
+        1070,
+        407,
+        1106
+      ],
+      "polygon": [
+        [
+          17,
+          1070
+        ],
+        [
+          407,
+          1070
+        ],
+        [
+          407,
+          1106
+        ],
+        [
+          17,
+          1106
+        ]
+      ]
+    },
+    {
+      "text": "EXCHANGE ARE ALLOWED WITHIN",
+      "confidence": 1.0,
+      "box": [
+        117,
+        1135,
+        571,
+        1174
+      ],
+      "polygon": [
+        [
+          117,
+          1137
+        ],
+        [
+          571,
+          1135
+        ],
+        [
+          571,
+          1172
+        ],
+        [
+          117,
+          1174
+        ]
+      ]
+    },
+    {
+      "text": "7 DAYS WITH RECEIPT.",
+      "confidence": 0.9999,
+      "box": [
+        182,
+        1172,
+        514,
+        1205
+      ],
+      "polygon": [
+        [
+          182,
+          1172
+        ],
+        [
+          514,
+          1172
+        ],
+        [
+          514,
+          1205
+        ],
+        [
+          182,
+          1205
+        ]
+      ]
+    },
+    {
+      "text": "STRICTLY NO CASH REFUND.",
+      "confidence": 0.9973,
+      "box": [
+        153,
+        1206,
+        547,
+        1239
+      ],
+      "polygon": [
+        [
+          153,
+          1206
+        ],
+        [
+          547,
+          1206
+        ],
+        [
+          547,
+          1239
+        ],
+        [
+          153,
+          1239
+        ]
+      ]
+    }
+  ],
+  "raw_text": "31803033\nMR. D.I.Y. (KUCHAI) SDN BHD\n(CO Reg :750441-W)\nLOT 1851-A & 1851-B,JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(STRAND MALL KOTA DAMANSARA)\n- TAX INVOICE -\nPYEDRAIN CLOG FREE CLDRO2 - 1000ML\n*S\nWA05 - 12\n9556268000210\n3 X 15.00 45.00\nItem(s) : 1\nQty(s) : 3\nTOTAL INCL. GST@6%\nRM 45.00\nCARD\nRM 45.00\nGST Summary\nAmt(RM)\nTax(RM)\nGST S@6%\n42.45\n2.55\n*\n12-03-18 14:37 SH02 B011\nT1 R000183898\nOPERATOR STMT - AZMIZAN\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+}

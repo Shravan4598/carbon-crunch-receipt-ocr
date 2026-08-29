@@ -1,0 +1,19 @@
+{
+  "merchant": "B.I.G.",
+  "receipt_date": "12/03/18",
+  "receipt_number": "BAT02201803120255",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 77.2,
+  "total": 77.2,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.839,
+  "raw_text": "B.I.G.\nBer's Indepenelout Gracer\nBENS INDEPENDENT GROCER SDN. BHD\n(913144-A)\nLot 6, Jalan Batai,\nPlaza Batai, Damansara Heights\n50490, Kuala Lumpur\nT:03-20937358|F:03-20937359\n(GST REG NO 000243941376)\nTax Invoice : BAT02201803120255\n12/03/18\nCashier : Fatin Sy\n20:29:59\nDole Pineapple Pcs\n8809069300708\n7.90*3\n23.70Z\nEvian Mineral Water 6x1.25L\n3068320113784\n53.50*1\n53.50 S\nItem 2\nTotal with GST @ 6%\n77.20\nQty 4\nRounding\n0.00\nTotal Saving\n0.00\nTotal\n77.20\nTender\nCash\n100.00\nChange\n22.80\nGST Analysis\nGoods\nTax Amount\nS = 6%\n50.47\n3.03\nZ=-0%\n23.70\n0.00\nBIG.COM.MY\nFACEBOOK.COM/THEBIGGROUP\nEXCHANGE & REFUND MAY BE ALLOWED\nWITHIN 3 DAYS WITH ORIGINAL TAX INVOICE\nTHANK YOU, PLEASE COME AGAIN\nBAT02201803120255",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005444033",
+  "source_image": "X51005444033.jpg",
+  "ocr_confidence": 0.987
+}

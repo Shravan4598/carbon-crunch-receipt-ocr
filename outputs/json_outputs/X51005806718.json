@@ -1,0 +1,24 @@
+{
+  "merchant": "HUGO TRADING SDN BHD",
+  "receipt_date": "13/01/2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "13/01/2018 :30PM",
+      "quantity": 1.0,
+      "unit_price": 11.44,
+      "total_price": 11.44
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 1.25,
+  "total": 40.8,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.876,
+  "raw_text": "6\nHUGO TRADING SDN BHD\nTota\nBR No. 1160956-H\nD ARE\nLOT 8&9. KOMPLEKS PASAR BORONG\nSELANGOR,\n43300 SERI KEMBANGAN, SEL\n03-89442249.\nGST No.:001552822272\nTAX INVOICE\n13/01/2018 11.44:30PM\nTRN: C2050063\nCounter 2\nCASHIER 2\nQTY UOM\nUNITAmt Exc. Amt Inc GSTC\nPrice\nTax\nTaxode\nHD 32 X40 1kg\n2 PKT\n10.38\n20.75\n22.00\nSR\nGST @6% + 1.25\nGB3648-GARBAGE BAG 36x48 1X15\n2 PKT\n8.87\n17.74\n18.80\nSR\nGST @6% + 1.06\n*Total Qty. 4 00\n40.80\nTotal Includes GST 6%\nCustomer's Payment\n40.80\nCash\nChange\n51.00\nGST Summary\n10.20\nSR=6%\nAmount (RM)\nTax (RM)\n*Goods sold are not returnable\n38.49\n2.31\nThank you for shopping at HU'\nTRADING SDN BHD",
+  "warnings": [],
+  "receipt_id": "X51005806718",
+  "source_image": "X51005806718.jpg",
+  "ocr_confidence": 0.991
+}

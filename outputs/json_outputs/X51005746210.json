@@ -1,0 +1,19 @@
+{
+  "merchant": "Segi Cash & Carry Sdn. Bhd.(317041-W)",
+  "receipt_date": "12 Mar 2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": 145.09,
+  "discount": null,
+  "tax": 145.09,
+  "total": 145.1,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.853,
+  "raw_text": "Segi Cash & Carry Sdn. Bhd.(317041-W)\nPt17920 Sek U9, Shah Alam\nGST Reg No : 001951645696\nInvoice No\n:31911\n: 12 Mar 2018 08:51am\nDate\nCounter\n: 09\nKNIFE COOKING OIL 5KG\n1 × 25.80\n25.80 Z\nLKK HOI SIN SAUCE 240G\n1 × 7.69\n7.69 S\nSEVEN FRENCH FRIES S/S 2.5KG\n1 × 13.50\n13.50 5\nIQF SQUID TUBE 1KG+-\n1 × 10.90\n10.90 Z\nIQF SQUID TUBE 1KG+-\n1 × 10.90\n10.90 Z\nIQF SQUID TUBE 1KG+-\n1 × 10.90\n10.90 Z\nIQF SQUID TUBE 1KG+-\n1 × 10.90\n10.90 Z\nIQF SQUID TUBE 1KG+-\n1 × 10.90\n10.90 Z\nIQF SQUID TUBE 1KG+-\n1 × 10.90\n10.90 Z\nIQF SQUID TUBE 1KG+-\n1 × 10.90\n10.90 Z\nIQF SQUID TUBE 1KG+-\n1 × 10.90\n10.90 Z\nIQF SQUID TUBE 1KG+-\n1 × 10.90\n10.90 Z\nNo of items: 12\nSubtotal Incl. GST:RM\n145.09\nRounding:RM\n0.01\nTotal Incl. GST:RM\n145.10\nMaster xxxxxxxxxxxx0000:\n145.10\nChange:RM\n0.00\nNissed Point Today: 143\n145-10\nServed by MIRA SURBAKTI\n***** GT Sumary ********\nGST Code\nAmount(RM) Tax(RM)\nZ 00.0%\n123.90\n0.00\n19.99\n1.20\nS 06.0%\n本本本本本本本本本本本本本本本本本本本本本本本本本本本本本本本本\nRef No: 00600736645031911\nGoods Sold Are Not Returnable. TQ",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005746210",
+  "source_image": "X51005746210.jpg",
+  "ocr_confidence": 0.973
+}

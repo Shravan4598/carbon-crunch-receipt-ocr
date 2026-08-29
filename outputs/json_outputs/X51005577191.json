@@ -1,0 +1,19 @@
+{
+  "merchant": "FY EAGLE ENTERPRISE",
+  "receipt_date": "07/12/2017",
+  "receipt_number": "CS00031383",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 0.57,
+  "total": 0.57,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.837,
+  "raw_text": "A\nFY EAGLE ENTERPRISE\n002065464-X\nNO. 42, JALAN PBS 14/11.\nTAMAN PERINDUSTRIAN BUKIT SERDANG,\n43300 SERI KEMBANGAN,\nSELANGOR\nTEL: 03-09433143 FAX: 03-89433143\nGST NO: 001663156224\nTAX INVOICE\nRECEIPT #: CS00031383 DATE: 07/12/2017\nSALESPERSON :\nTIME: 16:18:00\nCASHIER : USER\nITEM\nQTY\nU/P\nAMOUNT\n(RM)\n(RH)\n13451\n1\n10.00\n10.00\nSR:50OML PAINT REMOVER(M.TE)-KTH\nTOTAL QUANTITY\n1\nSUB-TOTAL\n9.43\nDISC\n0.00\nGST\n0.57\nROUNDING\n0.00\nTOTAL\n10.00\nCASH\n10.00\nCHANGE\n0.00\nGST SUMMARY\nCODE\nAMOUNT\n%\nTAX/AMT\nSR\n9.43\n6\n0.57\nTAX TOTAL:\n0.57\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005577191",
+  "source_image": "X51005577191.jpg",
+  "ocr_confidence": 0.983
+}

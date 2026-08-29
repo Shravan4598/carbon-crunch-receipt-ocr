@@ -1,0 +1,19 @@
+{
+  "merchant": "SWC ENTERPRISE SDN BHD",
+  "receipt_date": "02/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 0.24,
+  "total": 4.2,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.781,
+  "raw_text": "SWC ENTERPRISE SDN BHD\n(1125830-V)\n8 & 10, Jalan Ijok Permai 1,\nPusat Niaga Ijok Permai,\n48000 Ijok, Selangor.\nTAX INVOICE\n(GST ID No. : 002017B08384)\n02/01/2018\nCashier: 123\n10:46:55\nNo:0100036262\nItem/Desc.\nQty\nPrice\nAmt.\n5X8 5006 (1X60)\n5XB 500G\n1\n4.20\n4.20\nTotal Qty :\nà\nTOTAL AMOUNT\n4.20\nCASH\n50.20\nCHANGE\n46.00\nGST @6% Included In Totat\n0.24\nThank You ! Please Come Again !\nGoods Sold Only Exchangable\nWithin 3 Days !",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005361923",
+  "source_image": "X51005361923.jpg",
+  "ocr_confidence": 0.969
+}

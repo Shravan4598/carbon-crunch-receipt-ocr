@@ -1,0 +1,19 @@
+{
+  "merchant": "tan woon yann",
+  "receipt_date": "25/12/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": null,
+  "total": 9.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.729,
+  "raw_text": "tan woon yann\nBOOK TA .K (TAMAN DAYA) SDN BHD\n789417-W\nNO.5E 55,57 & 59, JALAN SAGU 18,\nTAMAN DAYA.\n81100 JOHOR BAHRU\nJOHOR.\nDocument No : TD01167104\nDate :\n25/12/2018 8:13:39 PM\nCashier\nMANIS\nMember :\nCASH BILL\nCODE/DESC\nPRICE\nDisc\nAMOUNT\nQTY\nRM\nRM\n9556939040116\nKF MODELLING CLAY KIDDY FISH\n1 PC\n*\n9.000\n0.00\n9.00\nTotal :\n9.00\nRour ding Adjustment:\n0.00\nRound d Total (RM):\n9.00\nCash\n10.00\nCHANGE\n9.00\n100\nGOODS SOLD ARE NOT RETURNABLE OR\nEXCHANGEABLE\n物出， 不退还或更换\n如育不便，敬请原谅。谢谢！\nTHANK YOU\nPLEASE COME AGAIN!",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X00016469612",
+  "source_image": "X00016469612.jpg",
+  "ocr_confidence": 0.965
+}

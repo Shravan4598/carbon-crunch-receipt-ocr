@@ -1,0 +1,24 @@
+{
+  "merchant": "DOLLAR TREE",
+  "receipt_date": "9/17/22",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SPEED STCK A/P ULT SPRT",
+      "quantity": 1.0,
+      "unit_price": 1.82,
+      "total_price": 1.82
+    }
+  ],
+  "subtotal": 24.0,
+  "discount": null,
+  "tax": 1.44,
+  "total": 25.44,
+  "payment_method": "DEBIT CARD",
+  "extraction_confidence": 0.944,
+  "raw_text": "DOLLAR TREE\nStore# 156\n(517) 993-0356\n1941 W Grand River Ave.\nSuite 101\nOkemos MI 56252-5601\nDESCRIPTION\nQTY\nPRICE\nTOTAL\nBAMBOO CHARCOAL TOOTHBRUSH\n1\n1.00\n1.00T\nCOLGATE TOTAL WHTNING TPST 1.4\n1\n1.00\n1.00T\nCOLGATE TOTAL WHTNING TPST 1.4\n1\n1.00\n1.00T\nCOLGATE TOTAL WHTNING TPST 1.4\n1\n1.00\n1.00T\nCOLGATE TOTAL WHTNING TPST 1.4\n1\n1.00\n1.00T\nCOLGATE TOTAL WHTNING TPST 1.4\n1\n1.00\n1.00T\nCOLGATE TOTAL WHTNING TPST 1.4\n1\n1.00\n1.00T\nCOLGATE TOTAL WHTNING TPST 1.4\n1\n1.00\n1.00T\nSP STICK ACTIVE DEO 1.8Z\n1\n1.00\n1.00T\nSP STICK ACTIVE DEO 1.8Z\n1\n1.00\n1.00T\nSP STICK ACTIVE DEO 1.8Z\n1\n1.00\n1.00T\nSP STICK ACTIVE DEO 1.8Z\n1\n1.00\n1.00T\nSP STICK ACTIVE DEO 1.8Z\n1\n1.00\n1.00T\nSPEED STCK A/P ULT SPRT 1.82\n1\n1.00\n1.00T\nSPEED STCK A/P ULT SPRT 1.82\n1\n1.00\n1.00T\nSPEED STCK A/P ULT SPRT 1.82\n1\n1.00\n1.00T\nBAMBOO CHARCOAL TOOTHBRUSH\n1\n1.00\n1.00T\nBAMBOO CHARCOAL TOOTHBRUSH\n1\n1.00\n1.00T\nBAMBOO CHARCOAL TOOTHBRUSH\n1\n1.00\n1.00T\nBAMBOO CHARCOAL TOOTHBRUSH\n1\n1.00\n1.00T\nBAMBOO CHARCOAL TOOTHBRUSH\n1\n1.00\n1.00T\nBAMBOO CHARCOAL TOOTHBRUSH\n1\n1.00\n1.00T\nBAMBOO CHARCOAL TOOTHBRUSH\n1\n1.00\n1.00T\nSub Total\n$24.00\nSALES TAX\n$1.44\nTotal\n$25.44\nFIFTHTHIRD DEBIT\n$25.44\n************2074\nApproved\nPurchase\nChip\nAuth/Trace Number: 503800/049059\nChip Card AID: A00000020\nNOW SHOP ON-LINE AT DOLLARTREE.COM\n串串串串串串串串串串\n*\nWe will gladly exchange any unopened item\n*\n*\nwith original receipt. We do not offer refunds. *\n*串串********************\n7534 00185 04 004 21435062\n9/17/22 17:08\nSales Associate:Tommya",
+  "warnings": [],
+  "receipt_id": "20",
+  "source_image": "20.png",
+  "ocr_confidence": 0.988
+}

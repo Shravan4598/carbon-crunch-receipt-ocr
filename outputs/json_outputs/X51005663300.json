@@ -1,0 +1,26 @@
+{
+  "merchant": "LIM SENG THO HARDWARE TRADING",
+  "receipt_date": null,
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "NOS",
+      "quantity": 1.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    }
+  ],
+  "subtotal": 7.0,
+  "discount": null,
+  "tax": 7.0,
+  "total": 7.0,
+  "payment_method": null,
+  "extraction_confidence": 0.788,
+  "raw_text": "31802.013.\nLIM SENG THO HARDWARE TRADING\nNo 7. Simpang Off Batu Village,\nJalan Ipoh Batu 5, 51200 Kuala Lumpur\nMALAYSIA\nTel & Fax No:03-6258 7191\n03-6258 7191\nCompan, Reg No. (002231061-T)\nGSTReg No..001269675968\nTAX INVOICE\nInvoice No\nCS24146\nDate:\n02/02/201810:06\nCashier #\nLST\nRM\nCode\nBEG GUNI\n10.00 NOS\nX\n0.70\n7.00\nSR\nSubtotal:\n7.00\nTotal Incl. of GST\n7.00\nPayment:\n700\nChange Due :\n0.00\nTotal Item(s) : 10\nGSTSummary\nAmount(RM)\nTax(RM)\nSR\n@6%\n6.60\n401\n*********THANK YOU\n六氏六有食内有商\n*****PLEASE COME AGAIN\n***A\n*GOODS SOLD ARE NOT RETURNABLE",
+  "warnings": [
+    "Receipt date could not be identified."
+  ],
+  "receipt_id": "X51005663300",
+  "source_image": "X51005663300.jpg",
+  "ocr_confidence": 0.962
+}

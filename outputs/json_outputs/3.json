@@ -1,0 +1,30 @@
+{
+  "merchant": "See back of receipt for your chance",
+  "receipt_date": "5.88-0",
+  "receipt_number": "for",
+  "items": [
+    {
+      "name": "WAS",
+      "quantity": 1.0,
+      "unit_price": 4.54,
+      "total_price": 4.54
+    },
+    {
+      "name": "YOU SAVED",
+      "quantity": 1.0,
+      "unit_price": 0.64,
+      "total_price": 0.64
+    }
+  ],
+  "subtotal": 139.44,
+  "discount": null,
+  "tax": 4.58,
+  "total": 144.02,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.992,
+  "raw_text": "See back of receipt for your chance\nto win $1000 ID #:7N5N1V1XCQDQ\nWalmart\n317-851-1102 Mgr:JAMIE BROOKSHIRE\n882 S. STATE ROAD 135\nGREENWOOD IN 46143\nTATER TOTS\n06976\nHARD/PROV/DC\n001312000026 F\n2.96 0\nSNACK BARS\n007874219410 F\n2.680\nHRI CL CHS\n002190848816 F\n4.98 T\nHRI CL CHS\n003120506000 F\n5.88 0\n** VOIDED\n003120506000\nF\n6.880\nHRI CL CHS\nENTRY *\nHRI 12 U SG\n003120506000\nF\n5.88-0\nHRI CL PEP\n003120535000\nF\n5.88 0\nEARBUDS\n003120507000\nF\n5.880\nSC BCN CHDDR\n068113100946\n4.88 X\nABF THINBRST\n007874202906\n6.98 0\n022451710972\nHARD/PROV/DC\n9.72\n0\nDV RSE OIL M\n007874219410\n2.68\n0\n001111101220\nAPPLE 3 BAG\n5.94\nXNTO\n084747300184\nSTOK LT SWT\nF\n6.47\nPEANUT BUTTR\n004127102774\nF\n4.42\nAVO VERDE\n005150025499\n5.44\n061611206143\nROLLS\nF\n2.98\nzo\n007874219415\nBTS DRY BLON\n501072452746\nF\n1.28\nGALE\n000000000003K\n6.58\nTR HS FRM 4\n32.00\n002240062190\nBAGELS\n2.74 X\n001376402801\nGV SLIDERS\nF\n4.56 0\n007874201525\n2.98 X\nACCESSORY\n007515161216\n0.97 X\nCHEEZE IT\n002410053523 F\n4.000\nWAS 4.54\nYOU SAVED 0.64\nRITZ\n004400088210F\n2.78 N\nRUFFLES\n002840020942 F\nGV HNY GRMS\n2.50 N\n007874207253F\n1.28 N\nSUBTOTAL\n139.44\nTAX 1\n7.000 %\n4.58\nTOTAL\n144.02\nCASH TEND\n150.02\nCHANGE DUE\n6.00\n# ITEMS SOLD 26\nTC# 0783 5080 4072 3416 2495 5\n04/27/19\n12:59:46\nScan with Walmart app to save receipts",
+  "warnings": [],
+  "receipt_id": "3",
+  "source_image": "3.jpg",
+  "ocr_confidence": 0.981
+}

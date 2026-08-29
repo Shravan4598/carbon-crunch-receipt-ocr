@@ -1,0 +1,19 @@
+{
+  "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+  "receipt_date": "15/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 10.5,
+  "total": 10.5,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.791,
+  "raw_text": "31801017\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS.\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL:03-40210276\nGST ID:000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No.\nCS00012751\nDate: 15/01/2018\nCashier\nUSER\nTime: 14:24:00\nSalesperson\nRef.:\nItem\nQty\nS/Price\nAmount\nTax\n2876\n3\n1.06\n3.18\nSR\nHOES PIN\n1937\n1\n7.95\n7.95\nSR\n4' HOES HANDLE\nTotal Qty\n4\n11.13\nTotai Sales (Excluding GST)\n10.50\nDiscount\n0.00\nTotal GST\n0.63\nRounding\n0.00\nTotal Sales (Inclusive of GST) :\n11.13\nCASH :\n11.13\nChange :\n0.00\nGST SUMMARY\nTax Code\n%\nAmt (RM)\nTax(RM)\nSR\n6\n10.50\n0.63\nTotal :\n10.50\n0.63\nGOODS SOLD ARE NOTRETURNABLE, THANK YOU",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005676548",
+  "source_image": "X51005676548.jpg",
+  "ocr_confidence": 0.991
+}

@@ -1,0 +1,1930 @@
+{
+  "receipt_id": "1",
+  "source_image": "1.jpg",
+  "ocr_confidence": 0.998,
+  "lines": [
+    {
+      "text": "TRADER JOE'S",
+      "confidence": 0.9772
+    },
+    {
+      "text": "2001 Greenville Ave",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Dallas TX 75206",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Store #403 - (469) 334-0614",
+      "confidence": 0.9957
+    },
+    {
+      "text": "OPEN 8:00AM TO 9:00PM DAILY",
+      "confidence": 0.9816
+    },
+    {
+      "text": "1.29",
+      "confidence": 1.0
+    },
+    {
+      "text": "R-CARROTS SHREDDED 10 OZ",
+      "confidence": 0.9996
+    },
+    {
+      "text": "1.99",
+      "confidence": 0.9997
+    },
+    {
+      "text": "R-CUCUMBERS PERSIAN 1 LB",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1.59",
+      "confidence": 0.9999
+    },
+    {
+      "text": "TOMATOES CRUSHED NO SALT",
+      "confidence": 0.999
+    },
+    {
+      "text": "1.59",
+      "confidence": 0.9999
+    },
+    {
+      "text": "TOMATOES WHOLE NO SALT W/BASIL",
+      "confidence": 0.9982
+    },
+    {
+      "text": "2.69",
+      "confidence": 1.0
+    },
+    {
+      "text": "ORGANIC OLD FASHIONED OATMEAL",
+      "confidence": 0.9954
+    },
+    {
+      "text": "2.49",
+      "confidence": 0.9999
+    },
+    {
+      "text": "MINI-PEARL TOMATOES.",
+      "confidence": 0.9989
+    },
+    {
+      "text": "3.99",
+      "confidence": 0.9999
+    },
+    {
+      "text": "PKG SHREDDED MOZZARELLA LITE T",
+      "confidence": 0.9997
+    },
+    {
+      "text": "3.79",
+      "confidence": 1.0
+    },
+    {
+      "text": "EGGS 1 DOZ ORGANIC BROWN.",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.89",
+      "confidence": 1.0
+    },
+    {
+      "text": "BEANS GARBANZO",
+      "confidence": 0.9998
+    },
+    {
+      "text": "2.99",
+      "confidence": 0.9999
+    },
+    {
+      "text": "SPROUTED CA STYLE",
+      "confidence": 1.0
+    },
+    {
+      "text": "3.99",
+      "confidence": 0.9999
+    },
+    {
+      "text": "A-AVOCADOS HASS BAG 4CT",
+      "confidence": 0.9995
+    },
+    {
+      "text": "2.99",
+      "confidence": 0.9999
+    },
+    {
+      "text": "A-APPLE BAG JAZZ 2 LB",
+      "confidence": 0.9945
+    },
+    {
+      "text": "0.99",
+      "confidence": 0.9999
+    },
+    {
+      "text": "A-PEPPER BELL EACH XL RED",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.98",
+      "confidence": 1.0
+    },
+    {
+      "text": "GROCERY NON TAXABLE",
+      "confidence": 1.0
+    },
+    {
+      "text": "2@0.49",
+      "confidence": 0.9988
+    },
+    {
+      "text": "0.87",
+      "confidence": 1.0
+    },
+    {
+      "text": "BANANAS ORGANIC",
+      "confidence": 0.9983
+    },
+    {
+      "text": "3EA",
+      "confidence": 1.0
+    },
+    {
+      "text": "@ 0.29/EA",
+      "confidence": 0.9861
+    },
+    {
+      "text": "2.49",
+      "confidence": 1.0
+    },
+    {
+      "text": "CREAMY SALTED PEANUT BUTTER",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1.69",
+      "confidence": 0.9998
+    },
+    {
+      "text": "WHL WHT PITA BREAD",
+      "confidence": 1.0
+    },
+    {
+      "text": "1.38",
+      "confidence": 0.9991
+    },
+    {
+      "text": "GROCERY NON TAXABLE",
+      "confidence": 0.9999
+    },
+    {
+      "text": "2@0.69",
+      "confidence": 0.9992
+    },
+    {
+      "text": "$38.68",
+      "confidence": 1.0
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 1.0
+    },
+    {
+      "text": "$38.68",
+      "confidence": 0.9999
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 1.0
+    },
+    {
+      "text": "$40.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9996
+    },
+    {
+      "text": "$1.32",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Higgins, Ryan",
+      "confidence": 0.9843
+    },
+    {
+      "text": "ITEMS 22",
+      "confidence": 1.0
+    },
+    {
+      "text": "06-28-2014",
+      "confidence": 1.0
+    },
+    {
+      "text": "12:34PM 0403 04 1346 4683",
+      "confidence": 0.9989
+    },
+    {
+      "text": "THANK YOU FOR SHOPPING AT",
+      "confidence": 0.9804
+    },
+    {
+      "text": "TRADER JOE'S",
+      "confidence": 0.9997
+    },
+    {
+      "text": "www.traderjoes.com",
+      "confidence": 1.0
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "TRADER JOE'S",
+      "confidence": 0.9772,
+      "box": [
+        187,
+        128,
+        498,
+        174
+      ],
+      "polygon": [
+        [
+          187,
+          138
+        ],
+        [
+          497,
+          128
+        ],
+        [
+          498,
+          164
+        ],
+        [
+          188,
+          174
+        ]
+      ]
+    },
+    {
+      "text": "2001 Greenville Ave",
+      "confidence": 0.9999,
+      "box": [
+        215,
+        197,
+        396,
+        227
+      ],
+      "polygon": [
+        [
+          215,
+          204
+        ],
+        [
+          395,
+          197
+        ],
+        [
+          396,
+          221
+        ],
+        [
+          216,
+          227
+        ]
+      ]
+    },
+    {
+      "text": "Dallas TX 75206",
+      "confidence": 0.9988,
+      "box": [
+        223,
+        217,
+        388,
+        247
+      ],
+      "polygon": [
+        [
+          223,
+          224
+        ],
+        [
+          387,
+          217
+        ],
+        [
+          388,
+          240
+        ],
+        [
+          224,
+          247
+        ]
+      ]
+    },
+    {
+      "text": "Store #403 - (469) 334-0614",
+      "confidence": 0.9957,
+      "box": [
+        179,
+        233,
+        437,
+        270
+      ],
+      "polygon": [
+        [
+          179,
+          245
+        ],
+        [
+          436,
+          233
+        ],
+        [
+          437,
+          259
+        ],
+        [
+          180,
+          270
+        ]
+      ]
+    },
+    {
+      "text": "OPEN 8:00AM TO 9:00PM DAILY",
+      "confidence": 0.9816,
+      "box": [
+        182,
+        277,
+        438,
+        313
+      ],
+      "polygon": [
+        [
+          182,
+          288
+        ],
+        [
+          437,
+          277
+        ],
+        [
+          438,
+          302
+        ],
+        [
+          183,
+          313
+        ]
+      ]
+    },
+    {
+      "text": "1.29",
+      "confidence": 1.0,
+      "box": [
+        426,
+        320,
+        468,
+        345
+      ],
+      "polygon": [
+        [
+          426,
+          320
+        ],
+        [
+          468,
+          320
+        ],
+        [
+          468,
+          345
+        ],
+        [
+          426,
+          345
+        ]
+      ]
+    },
+    {
+      "text": "R-CARROTS SHREDDED 10 OZ",
+      "confidence": 0.9996,
+      "box": [
+        120,
+        325,
+        345,
+        358
+      ],
+      "polygon": [
+        [
+          120,
+          335
+        ],
+        [
+          344,
+          325
+        ],
+        [
+          345,
+          347
+        ],
+        [
+          121,
+          358
+        ]
+      ]
+    },
+    {
+      "text": "1.99",
+      "confidence": 0.9997,
+      "box": [
+        424,
+        338,
+        469,
+        365
+      ],
+      "polygon": [
+        [
+          424,
+          341
+        ],
+        [
+          467,
+          338
+        ],
+        [
+          469,
+          362
+        ],
+        [
+          426,
+          365
+        ]
+      ]
+    },
+    {
+      "text": "R-CUCUMBERS PERSIAN 1 LB",
+      "confidence": 0.9999,
+      "box": [
+        121,
+        345,
+        346,
+        377
+      ],
+      "polygon": [
+        [
+          121,
+          354
+        ],
+        [
+          346,
+          345
+        ],
+        [
+          346,
+          368
+        ],
+        [
+          122,
+          377
+        ]
+      ]
+    },
+    {
+      "text": "1.59",
+      "confidence": 0.9999,
+      "box": [
+        426,
+        358,
+        470,
+        386
+      ],
+      "polygon": [
+        [
+          426,
+          361
+        ],
+        [
+          468,
+          358
+        ],
+        [
+          470,
+          382
+        ],
+        [
+          428,
+          386
+        ]
+      ]
+    },
+    {
+      "text": "TOMATOES CRUSHED NO SALT",
+      "confidence": 0.999,
+      "box": [
+        123,
+        364,
+        349,
+        397
+      ],
+      "polygon": [
+        [
+          123,
+          375
+        ],
+        [
+          348,
+          364
+        ],
+        [
+          349,
+          387
+        ],
+        [
+          124,
+          397
+        ]
+      ]
+    },
+    {
+      "text": "1.59",
+      "confidence": 0.9999,
+      "box": [
+        427,
+        379,
+        469,
+        404
+      ],
+      "polygon": [
+        [
+          427,
+          382
+        ],
+        [
+          468,
+          379
+        ],
+        [
+          469,
+          401
+        ],
+        [
+          429,
+          404
+        ]
+      ]
+    },
+    {
+      "text": "TOMATOES WHOLE NO SALT W/BASIL",
+      "confidence": 0.9982,
+      "box": [
+        124,
+        382,
+        402,
+        416
+      ],
+      "polygon": [
+        [
+          124,
+          394
+        ],
+        [
+          401,
+          382
+        ],
+        [
+          402,
+          404
+        ],
+        [
+          125,
+          416
+        ]
+      ]
+    },
+    {
+      "text": "2.69",
+      "confidence": 1.0,
+      "box": [
+        429,
+        400,
+        469,
+        421
+      ],
+      "polygon": [
+        [
+          429,
+          400
+        ],
+        [
+          469,
+          400
+        ],
+        [
+          469,
+          421
+        ],
+        [
+          429,
+          421
+        ]
+      ]
+    },
+    {
+      "text": "ORGANIC OLD FASHIONED OATMEAL",
+      "confidence": 0.9954,
+      "box": [
+        127,
+        402,
+        394,
+        434
+      ],
+      "polygon": [
+        [
+          127,
+          413
+        ],
+        [
+          393,
+          402
+        ],
+        [
+          394,
+          423
+        ],
+        [
+          127,
+          434
+        ]
+      ]
+    },
+    {
+      "text": "2.49",
+      "confidence": 0.9999,
+      "box": [
+        428,
+        417,
+        471,
+        441
+      ],
+      "polygon": [
+        [
+          428,
+          417
+        ],
+        [
+          471,
+          417
+        ],
+        [
+          471,
+          441
+        ],
+        [
+          428,
+          441
+        ]
+      ]
+    },
+    {
+      "text": "MINI-PEARL TOMATOES.",
+      "confidence": 0.9989,
+      "box": [
+        127,
+        424,
+        311,
+        454
+      ],
+      "polygon": [
+        [
+          127,
+          432
+        ],
+        [
+          310,
+          424
+        ],
+        [
+          311,
+          446
+        ],
+        [
+          127,
+          454
+        ]
+      ]
+    },
+    {
+      "text": "3.99",
+      "confidence": 0.9999,
+      "box": [
+        428,
+        435,
+        471,
+        459
+      ],
+      "polygon": [
+        [
+          428,
+          435
+        ],
+        [
+          471,
+          435
+        ],
+        [
+          471,
+          459
+        ],
+        [
+          428,
+          459
+        ]
+      ]
+    },
+    {
+      "text": "PKG SHREDDED MOZZARELLA LITE T",
+      "confidence": 0.9997,
+      "box": [
+        129,
+        438,
+        407,
+        473
+      ],
+      "polygon": [
+        [
+          129,
+          450
+        ],
+        [
+          406,
+          438
+        ],
+        [
+          407,
+          460
+        ],
+        [
+          130,
+          473
+        ]
+      ]
+    },
+    {
+      "text": "3.79",
+      "confidence": 1.0,
+      "box": [
+        427,
+        453,
+        470,
+        478
+      ],
+      "polygon": [
+        [
+          427,
+          456
+        ],
+        [
+          469,
+          453
+        ],
+        [
+          470,
+          475
+        ],
+        [
+          429,
+          478
+        ]
+      ]
+    },
+    {
+      "text": "EGGS 1 DOZ ORGANIC BROWN.",
+      "confidence": 0.9999,
+      "box": [
+        130,
+        458,
+        359,
+        491
+      ],
+      "polygon": [
+        [
+          130,
+          469
+        ],
+        [
+          358,
+          458
+        ],
+        [
+          359,
+          481
+        ],
+        [
+          131,
+          491
+        ]
+      ]
+    },
+    {
+      "text": "0.89",
+      "confidence": 1.0,
+      "box": [
+        429,
+        471,
+        472,
+        495
+      ],
+      "polygon": [
+        [
+          429,
+          471
+        ],
+        [
+          472,
+          471
+        ],
+        [
+          472,
+          495
+        ],
+        [
+          429,
+          495
+        ]
+      ]
+    },
+    {
+      "text": "BEANS GARBANZO",
+      "confidence": 0.9998,
+      "box": [
+        130,
+        481,
+        265,
+        508
+      ],
+      "polygon": [
+        [
+          130,
+          487
+        ],
+        [
+          264,
+          481
+        ],
+        [
+          265,
+          502
+        ],
+        [
+          131,
+          508
+        ]
+      ]
+    },
+    {
+      "text": "2.99",
+      "confidence": 0.9999,
+      "box": [
+        430,
+        491,
+        473,
+        514
+      ],
+      "polygon": [
+        [
+          430,
+          491
+        ],
+        [
+          473,
+          491
+        ],
+        [
+          473,
+          514
+        ],
+        [
+          430,
+          514
+        ]
+      ]
+    },
+    {
+      "text": "SPROUTED CA STYLE",
+      "confidence": 1.0,
+      "box": [
+        131,
+        497,
+        293,
+        524
+      ],
+      "polygon": [
+        [
+          131,
+          503
+        ],
+        [
+          292,
+          497
+        ],
+        [
+          293,
+          518
+        ],
+        [
+          132,
+          524
+        ]
+      ]
+    },
+    {
+      "text": "3.99",
+      "confidence": 0.9999,
+      "box": [
+        431,
+        509,
+        474,
+        532
+      ],
+      "polygon": [
+        [
+          431,
+          509
+        ],
+        [
+          474,
+          509
+        ],
+        [
+          474,
+          532
+        ],
+        [
+          431,
+          532
+        ]
+      ]
+    },
+    {
+      "text": "A-AVOCADOS HASS BAG 4CT",
+      "confidence": 0.9995,
+      "box": [
+        131,
+        513,
+        346,
+        542
+      ],
+      "polygon": [
+        [
+          131,
+          521
+        ],
+        [
+          346,
+          513
+        ],
+        [
+          346,
+          534
+        ],
+        [
+          132,
+          542
+        ]
+      ]
+    },
+    {
+      "text": "2.99",
+      "confidence": 0.9999,
+      "box": [
+        433,
+        527,
+        476,
+        550
+      ],
+      "polygon": [
+        [
+          433,
+          527
+        ],
+        [
+          476,
+          527
+        ],
+        [
+          476,
+          550
+        ],
+        [
+          433,
+          550
+        ]
+      ]
+    },
+    {
+      "text": "A-APPLE BAG JAZZ 2 LB",
+      "confidence": 0.9945,
+      "box": [
+        131,
+        532,
+        331,
+        560
+      ],
+      "polygon": [
+        [
+          131,
+          539
+        ],
+        [
+          331,
+          532
+        ],
+        [
+          331,
+          553
+        ],
+        [
+          132,
+          560
+        ]
+      ]
+    },
+    {
+      "text": "0.99",
+      "confidence": 0.9999,
+      "box": [
+        433,
+        542,
+        478,
+        570
+      ],
+      "polygon": [
+        [
+          433,
+          546
+        ],
+        [
+          476,
+          542
+        ],
+        [
+          478,
+          567
+        ],
+        [
+          434,
+          570
+        ]
+      ]
+    },
+    {
+      "text": "A-PEPPER BELL EACH XL RED",
+      "confidence": 1.0,
+      "box": [
+        132,
+        548,
+        368,
+        579
+      ],
+      "polygon": [
+        [
+          132,
+          557
+        ],
+        [
+          367,
+          548
+        ],
+        [
+          368,
+          570
+        ],
+        [
+          133,
+          579
+        ]
+      ]
+    },
+    {
+      "text": "0.98",
+      "confidence": 1.0,
+      "box": [
+        436,
+        564,
+        479,
+        588
+      ],
+      "polygon": [
+        [
+          436,
+          564
+        ],
+        [
+          479,
+          564
+        ],
+        [
+          479,
+          588
+        ],
+        [
+          436,
+          588
+        ]
+      ]
+    },
+    {
+      "text": "GROCERY NON TAXABLE",
+      "confidence": 1.0,
+      "box": [
+        132,
+        568,
+        314,
+        599
+      ],
+      "polygon": [
+        [
+          132,
+          576
+        ],
+        [
+          313,
+          568
+        ],
+        [
+          314,
+          591
+        ],
+        [
+          133,
+          599
+        ]
+      ]
+    },
+    {
+      "text": "2@0.49",
+      "confidence": 0.9988,
+      "box": [
+        149,
+        591,
+        234,
+        618
+      ],
+      "polygon": [
+        [
+          149,
+          594
+        ],
+        [
+          233,
+          591
+        ],
+        [
+          234,
+          614
+        ],
+        [
+          150,
+          618
+        ]
+      ]
+    },
+    {
+      "text": "0.87",
+      "confidence": 1.0,
+      "box": [
+        440,
+        602,
+        482,
+        626
+      ],
+      "polygon": [
+        [
+          440,
+          602
+        ],
+        [
+          482,
+          602
+        ],
+        [
+          482,
+          626
+        ],
+        [
+          440,
+          626
+        ]
+      ]
+    },
+    {
+      "text": "BANANAS ORGANIC",
+      "confidence": 0.9983,
+      "box": [
+        132,
+        607,
+        281,
+        639
+      ],
+      "polygon": [
+        [
+          132,
+          614
+        ],
+        [
+          280,
+          607
+        ],
+        [
+          281,
+          632
+        ],
+        [
+          133,
+          639
+        ]
+      ]
+    },
+    {
+      "text": "3EA",
+      "confidence": 1.0,
+      "box": [
+        154,
+        635,
+        188,
+        656
+      ],
+      "polygon": [
+        [
+          154,
+          635
+        ],
+        [
+          188,
+          635
+        ],
+        [
+          188,
+          656
+        ],
+        [
+          154,
+          656
+        ]
+      ]
+    },
+    {
+      "text": "@ 0.29/EA",
+      "confidence": 0.9861,
+      "box": [
+        217,
+        627,
+        309,
+        654
+      ],
+      "polygon": [
+        [
+          217,
+          631
+        ],
+        [
+          308,
+          627
+        ],
+        [
+          309,
+          650
+        ],
+        [
+          218,
+          654
+        ]
+      ]
+    },
+    {
+      "text": "2.49",
+      "confidence": 1.0,
+      "box": [
+        441,
+        637,
+        486,
+        665
+      ],
+      "polygon": [
+        [
+          441,
+          640
+        ],
+        [
+          485,
+          637
+        ],
+        [
+          486,
+          662
+        ],
+        [
+          443,
+          665
+        ]
+      ]
+    },
+    {
+      "text": "CREAMY SALTED PEANUT BUTTER",
+      "confidence": 0.9999,
+      "box": [
+        134,
+        642,
+        394,
+        679
+      ],
+      "polygon": [
+        [
+          134,
+          653
+        ],
+        [
+          393,
+          642
+        ],
+        [
+          394,
+          667
+        ],
+        [
+          135,
+          679
+        ]
+      ]
+    },
+    {
+      "text": "1.69",
+      "confidence": 0.9998,
+      "box": [
+        445,
+        659,
+        488,
+        683
+      ],
+      "polygon": [
+        [
+          445,
+          659
+        ],
+        [
+          488,
+          659
+        ],
+        [
+          488,
+          683
+        ],
+        [
+          445,
+          683
+        ]
+      ]
+    },
+    {
+      "text": "WHL WHT PITA BREAD",
+      "confidence": 1.0,
+      "box": [
+        136,
+        667,
+        311,
+        697
+      ],
+      "polygon": [
+        [
+          136,
+          674
+        ],
+        [
+          310,
+          667
+        ],
+        [
+          311,
+          690
+        ],
+        [
+          137,
+          697
+        ]
+      ]
+    },
+    {
+      "text": "1.38",
+      "confidence": 0.9991,
+      "box": [
+        446,
+        677,
+        490,
+        706
+      ],
+      "polygon": [
+        [
+          446,
+          680
+        ],
+        [
+          488,
+          677
+        ],
+        [
+          490,
+          702
+        ],
+        [
+          448,
+          706
+        ]
+      ]
+    },
+    {
+      "text": "GROCERY NON TAXABLE",
+      "confidence": 0.9999,
+      "box": [
+        135,
+        686,
+        322,
+        719
+      ],
+      "polygon": [
+        [
+          135,
+          694
+        ],
+        [
+          321,
+          686
+        ],
+        [
+          322,
+          711
+        ],
+        [
+          136,
+          719
+        ]
+      ]
+    },
+    {
+      "text": "2@0.69",
+      "confidence": 0.9992,
+      "box": [
+        154,
+        711,
+        238,
+        738
+      ],
+      "polygon": [
+        [
+          154,
+          715
+        ],
+        [
+          237,
+          711
+        ],
+        [
+          238,
+          735
+        ],
+        [
+          156,
+          738
+        ]
+      ]
+    },
+    {
+      "text": "$38.68",
+      "confidence": 1.0,
+      "box": [
+        468,
+        738,
+        530,
+        766
+      ],
+      "polygon": [
+        [
+          468,
+          742
+        ],
+        [
+          529,
+          738
+        ],
+        [
+          530,
+          762
+        ],
+        [
+          470,
+          766
+        ]
+      ]
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 1.0,
+      "box": [
+        138,
+        755,
+        219,
+        782
+      ],
+      "polygon": [
+        [
+          138,
+          759
+        ],
+        [
+          217,
+          755
+        ],
+        [
+          219,
+          778
+        ],
+        [
+          139,
+          782
+        ]
+      ]
+    },
+    {
+      "text": "$38.68",
+      "confidence": 0.9999,
+      "box": [
+        469,
+        759,
+        532,
+        786
+      ],
+      "polygon": [
+        [
+          469,
+          762
+        ],
+        [
+          531,
+          759
+        ],
+        [
+          532,
+          784
+        ],
+        [
+          471,
+          786
+        ]
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 1.0,
+      "box": [
+        139,
+        774,
+        238,
+        804
+      ],
+      "polygon": [
+        [
+          139,
+          778
+        ],
+        [
+          237,
+          774
+        ],
+        [
+          238,
+          800
+        ],
+        [
+          140,
+          804
+        ]
+      ]
+    },
+    {
+      "text": "$40.00",
+      "confidence": 0.9999,
+      "box": [
+        471,
+        779,
+        534,
+        806
+      ],
+      "polygon": [
+        [
+          471,
+          782
+        ],
+        [
+          532,
+          779
+        ],
+        [
+          534,
+          803
+        ],
+        [
+          472,
+          806
+        ]
+      ]
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9996,
+      "box": [
+        140,
+        795,
+        223,
+        823
+      ],
+      "polygon": [
+        [
+          140,
+          799
+        ],
+        [
+          222,
+          795
+        ],
+        [
+          223,
+          819
+        ],
+        [
+          142,
+          823
+        ]
+      ]
+    },
+    {
+      "text": "$1.32",
+      "confidence": 0.9999,
+      "box": [
+        480,
+        800,
+        535,
+        827
+      ],
+      "polygon": [
+        [
+          480,
+          802
+        ],
+        [
+          533,
+          800
+        ],
+        [
+          535,
+          824
+        ],
+        [
+          481,
+          827
+        ]
+      ]
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9999,
+      "box": [
+        140,
+        816,
+        205,
+        844
+      ],
+      "polygon": [
+        [
+          140,
+          820
+        ],
+        [
+          203,
+          816
+        ],
+        [
+          205,
+          840
+        ],
+        [
+          142,
+          844
+        ]
+      ]
+    },
+    {
+      "text": "Higgins, Ryan",
+      "confidence": 0.9843,
+      "box": [
+        416,
+        842,
+        544,
+        871
+      ],
+      "polygon": [
+        [
+          416,
+          848
+        ],
+        [
+          543,
+          842
+        ],
+        [
+          544,
+          865
+        ],
+        [
+          417,
+          871
+        ]
+      ]
+    },
+    {
+      "text": "ITEMS 22",
+      "confidence": 1.0,
+      "box": [
+        145,
+        857,
+        227,
+        882
+      ],
+      "polygon": [
+        [
+          145,
+          860
+        ],
+        [
+          226,
+          857
+        ],
+        [
+          227,
+          880
+        ],
+        [
+          146,
+          882
+        ]
+      ]
+    },
+    {
+      "text": "06-28-2014",
+      "confidence": 1.0,
+      "box": [
+        147,
+        874,
+        249,
+        901
+      ],
+      "polygon": [
+        [
+          147,
+          879
+        ],
+        [
+          248,
+          874
+        ],
+        [
+          249,
+          896
+        ],
+        [
+          148,
+          901
+        ]
+      ]
+    },
+    {
+      "text": "12:34PM 0403 04 1346 4683",
+      "confidence": 0.9989,
+      "box": [
+        246,
+        862,
+        508,
+        896
+      ],
+      "polygon": [
+        [
+          246,
+          874
+        ],
+        [
+          507,
+          862
+        ],
+        [
+          508,
+          884
+        ],
+        [
+          247,
+          896
+        ]
+      ]
+    },
+    {
+      "text": "THANK YOU FOR SHOPPING AT",
+      "confidence": 0.9804,
+      "box": [
+        224,
+        903,
+        460,
+        936
+      ],
+      "polygon": [
+        [
+          224,
+          914
+        ],
+        [
+          459,
+          903
+        ],
+        [
+          460,
+          924
+        ],
+        [
+          225,
+          936
+        ]
+      ]
+    },
+    {
+      "text": "TRADER JOE'S",
+      "confidence": 0.9997,
+      "box": [
+        291,
+        923,
+        407,
+        949
+      ],
+      "polygon": [
+        [
+          291,
+          929
+        ],
+        [
+          406,
+          923
+        ],
+        [
+          407,
+          943
+        ],
+        [
+          292,
+          949
+        ]
+      ]
+    },
+    {
+      "text": "www.traderjoes.com",
+      "confidence": 1.0,
+      "box": [
+        263,
+        939,
+        435,
+        966
+      ],
+      "polygon": [
+        [
+          263,
+          947
+        ],
+        [
+          434,
+          939
+        ],
+        [
+          435,
+          958
+        ],
+        [
+          264,
+          966
+        ]
+      ]
+    }
+  ],
+  "raw_text": "TRADER JOE'S\n2001 Greenville Ave\nDallas TX 75206\nStore #403 - (469) 334-0614\nOPEN 8:00AM TO 9:00PM DAILY\n1.29\nR-CARROTS SHREDDED 10 OZ\n1.99\nR-CUCUMBERS PERSIAN 1 LB\n1.59\nTOMATOES CRUSHED NO SALT\n1.59\nTOMATOES WHOLE NO SALT W/BASIL\n2.69\nORGANIC OLD FASHIONED OATMEAL\n2.49\nMINI-PEARL TOMATOES.\n3.99\nPKG SHREDDED MOZZARELLA LITE T\n3.79\nEGGS 1 DOZ ORGANIC BROWN.\n0.89\nBEANS GARBANZO\n2.99\nSPROUTED CA STYLE\n3.99\nA-AVOCADOS HASS BAG 4CT\n2.99\nA-APPLE BAG JAZZ 2 LB\n0.99\nA-PEPPER BELL EACH XL RED\n0.98\nGROCERY NON TAXABLE\n2@0.49\n0.87\nBANANAS ORGANIC\n3EA\n@ 0.29/EA\n2.49\nCREAMY SALTED PEANUT BUTTER\n1.69\nWHL WHT PITA BREAD\n1.38\nGROCERY NON TAXABLE\n2@0.69\n$38.68\nSUBTOTAL\n$38.68\nTOTAL\n$40.00\nCASH\n$1.32\nCHANGE\nHiggins, Ryan\nITEMS 22\n06-28-2014\n12:34PM 0403 04 1346 4683\nTHANK YOU FOR SHOPPING AT\nTRADER JOE'S\nwww.traderjoes.com"
+}

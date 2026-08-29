@@ -1,0 +1,842 @@
+{
+  "receipt_id": "X51005719883",
+  "source_image": "X51005719883.jpg",
+  "ocr_confidence": 0.99,
+  "lines": [
+    {
+      "text": "99 SPEED MART S/B (519537-X)",
+      "confidence": 0.999
+    },
+    {
+      "text": "LOT P.T. 2811, JALAN ANGSA,",
+      "confidence": 0.9946
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 1.0
+    },
+    {
+      "text": "41150 KLANG, SELANGOR",
+      "confidence": 0.9925
+    },
+    {
+      "text": "1362-JLN DEVELOPMENT",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST ID. NO : 000181747712",
+      "confidence": 0.9883
+    },
+    {
+      "text": "INVOICE NO : 18311/102/T0395",
+      "confidence": 0.9875
+    },
+    {
+      "text": "07:44PM",
+      "confidence": 0.9996
+    },
+    {
+      "text": "566890",
+      "confidence": 0.9999
+    },
+    {
+      "text": "17-02-18",
+      "confidence": 1.0
+    },
+    {
+      "text": "489 TIGER BEER CAN 4*6*320M",
+      "confidence": 0.9984
+    },
+    {
+      "text": "RM108.50 s",
+      "confidence": 0.9767
+    },
+    {
+      "text": "Total Sales (Inclusive GST) RM",
+      "confidence": 0.9844
+    },
+    {
+      "text": "108.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9995
+    },
+    {
+      "text": "150.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9999
+    },
+    {
+      "text": "41.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.993
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9977
+    },
+    {
+      "text": "ε = 6%",
+      "confidence": 0.8461
+    },
+    {
+      "text": "102.36",
+      "confidence": 1.0
+    },
+    {
+      "text": "6.14",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.991
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9996
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "99 SPEED MART S/B (519537-X)",
+      "confidence": 0.999,
+      "box": [
+        162,
+        331,
+        665,
+        388
+      ],
+      "polygon": [
+        [
+          162,
+          338
+        ],
+        [
+          664,
+          331
+        ],
+        [
+          665,
+          381
+        ],
+        [
+          163,
+          388
+        ]
+      ]
+    },
+    {
+      "text": "LOT P.T. 2811, JALAN ANGSA,",
+      "confidence": 0.9946,
+      "box": [
+        180,
+        384,
+        665,
+        434
+      ],
+      "polygon": [
+        [
+          180,
+          384
+        ],
+        [
+          665,
+          384
+        ],
+        [
+          665,
+          434
+        ],
+        [
+          180,
+          434
+        ]
+      ]
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 1.0,
+      "box": [
+        292,
+        432,
+        546,
+        483
+      ],
+      "polygon": [
+        [
+          292,
+          436
+        ],
+        [
+          546,
+          432
+        ],
+        [
+          546,
+          479
+        ],
+        [
+          293,
+          483
+        ]
+      ]
+    },
+    {
+      "text": "41150 KLANG, SELANGOR",
+      "confidence": 0.9925,
+      "box": [
+        240,
+        484,
+        619,
+        532
+      ],
+      "polygon": [
+        [
+          240,
+          488
+        ],
+        [
+          619,
+          484
+        ],
+        [
+          619,
+          529
+        ],
+        [
+          241,
+          532
+        ]
+      ]
+    },
+    {
+      "text": "1362-JLN DEVELOPMENT",
+      "confidence": 0.9999,
+      "box": [
+        242,
+        534,
+        600,
+        582
+      ],
+      "polygon": [
+        [
+          242,
+          537
+        ],
+        [
+          599,
+          534
+        ],
+        [
+          600,
+          579
+        ],
+        [
+          242,
+          582
+        ]
+      ]
+    },
+    {
+      "text": "GST ID. NO : 000181747712",
+      "confidence": 0.9883,
+      "box": [
+        206,
+        584,
+        657,
+        634
+      ],
+      "polygon": [
+        [
+          206,
+          587
+        ],
+        [
+          656,
+          584
+        ],
+        [
+          657,
+          630
+        ],
+        [
+          207,
+          634
+        ]
+      ]
+    },
+    {
+      "text": "INVOICE NO : 18311/102/T0395",
+      "confidence": 0.9875,
+      "box": [
+        190,
+        687,
+        692,
+        734
+      ],
+      "polygon": [
+        [
+          190,
+          689
+        ],
+        [
+          692,
+          687
+        ],
+        [
+          692,
+          732
+        ],
+        [
+          190,
+          734
+        ]
+      ]
+    },
+    {
+      "text": "07:44PM",
+      "confidence": 0.9996,
+      "box": [
+        84,
+        792,
+        218,
+        833
+      ],
+      "polygon": [
+        [
+          84,
+          792
+        ],
+        [
+          218,
+          792
+        ],
+        [
+          218,
+          833
+        ],
+        [
+          84,
+          833
+        ]
+      ]
+    },
+    {
+      "text": "566890",
+      "confidence": 0.9999,
+      "box": [
+        387,
+        790,
+        500,
+        833
+      ],
+      "polygon": [
+        [
+          387,
+          790
+        ],
+        [
+          500,
+          790
+        ],
+        [
+          500,
+          833
+        ],
+        [
+          387,
+          833
+        ]
+      ]
+    },
+    {
+      "text": "17-02-18",
+      "confidence": 1.0,
+      "box": [
+        653,
+        787,
+        804,
+        833
+      ],
+      "polygon": [
+        [
+          653,
+          787
+        ],
+        [
+          804,
+          787
+        ],
+        [
+          804,
+          833
+        ],
+        [
+          653,
+          833
+        ]
+      ]
+    },
+    {
+      "text": "489 TIGER BEER CAN 4*6*320M",
+      "confidence": 0.9984,
+      "box": [
+        89,
+        892,
+        572,
+        930
+      ],
+      "polygon": [
+        [
+          89,
+          892
+        ],
+        [
+          572,
+          892
+        ],
+        [
+          572,
+          930
+        ],
+        [
+          89,
+          930
+        ]
+      ]
+    },
+    {
+      "text": "RM108.50 s",
+      "confidence": 0.9767,
+      "box": [
+        619,
+        888,
+        804,
+        930
+      ],
+      "polygon": [
+        [
+          619,
+          888
+        ],
+        [
+          804,
+          888
+        ],
+        [
+          804,
+          930
+        ],
+        [
+          619,
+          930
+        ]
+      ]
+    },
+    {
+      "text": "Total Sales (Inclusive GST) RM",
+      "confidence": 0.9844,
+      "box": [
+        89,
+        991,
+        627,
+        1031
+      ],
+      "polygon": [
+        [
+          89,
+          991
+        ],
+        [
+          627,
+          991
+        ],
+        [
+          627,
+          1031
+        ],
+        [
+          89,
+          1031
+        ]
+      ]
+    },
+    {
+      "text": "108.50",
+      "confidence": 0.9999,
+      "box": [
+        652,
+        990,
+        767,
+        1031
+      ],
+      "polygon": [
+        [
+          652,
+          990
+        ],
+        [
+          767,
+          990
+        ],
+        [
+          767,
+          1031
+        ],
+        [
+          652,
+          1031
+        ]
+      ]
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9995,
+      "box": [
+        492,
+        1038,
+        627,
+        1085
+      ],
+      "polygon": [
+        [
+          492,
+          1038
+        ],
+        [
+          627,
+          1038
+        ],
+        [
+          627,
+          1085
+        ],
+        [
+          492,
+          1085
+        ]
+      ]
+    },
+    {
+      "text": "150.00",
+      "confidence": 1.0,
+      "box": [
+        653,
+        1040,
+        769,
+        1081
+      ],
+      "polygon": [
+        [
+          653,
+          1040
+        ],
+        [
+          769,
+          1040
+        ],
+        [
+          769,
+          1081
+        ],
+        [
+          653,
+          1081
+        ]
+      ]
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9999,
+      "box": [
+        460,
+        1088,
+        627,
+        1135
+      ],
+      "polygon": [
+        [
+          460,
+          1088
+        ],
+        [
+          627,
+          1088
+        ],
+        [
+          627,
+          1135
+        ],
+        [
+          460,
+          1135
+        ]
+      ]
+    },
+    {
+      "text": "41.50",
+      "confidence": 0.9999,
+      "box": [
+        671,
+        1091,
+        770,
+        1135
+      ],
+      "polygon": [
+        [
+          671,
+          1091
+        ],
+        [
+          770,
+          1091
+        ],
+        [
+          770,
+          1135
+        ],
+        [
+          671,
+          1135
+        ]
+      ]
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.993,
+      "box": [
+        84,
+        1186,
+        291,
+        1238
+      ],
+      "polygon": [
+        [
+          84,
+          1186
+        ],
+        [
+          291,
+          1186
+        ],
+        [
+          291,
+          1238
+        ],
+        [
+          84,
+          1238
+        ]
+      ]
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9997,
+      "box": [
+        372,
+        1191,
+        551,
+        1233
+      ],
+      "polygon": [
+        [
+          372,
+          1191
+        ],
+        [
+          551,
+          1191
+        ],
+        [
+          551,
+          1233
+        ],
+        [
+          372,
+          1233
+        ]
+      ]
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9977,
+      "box": [
+        653,
+        1189,
+        785,
+        1236
+      ],
+      "polygon": [
+        [
+          653,
+          1189
+        ],
+        [
+          785,
+          1189
+        ],
+        [
+          785,
+          1236
+        ],
+        [
+          653,
+          1236
+        ]
+      ]
+    },
+    {
+      "text": "ε = 6%",
+      "confidence": 0.8461,
+      "box": [
+        83,
+        1239,
+        205,
+        1284
+      ],
+      "polygon": [
+        [
+          83,
+          1239
+        ],
+        [
+          205,
+          1239
+        ],
+        [
+          205,
+          1284
+        ],
+        [
+          83,
+          1284
+        ]
+      ]
+    },
+    {
+      "text": "102.36",
+      "confidence": 1.0,
+      "box": [
+        440,
+        1238,
+        556,
+        1286
+      ],
+      "polygon": [
+        [
+          440,
+          1238
+        ],
+        [
+          556,
+          1238
+        ],
+        [
+          556,
+          1286
+        ],
+        [
+          440,
+          1286
+        ]
+      ]
+    },
+    {
+      "text": "6.14",
+      "confidence": 0.9994,
+      "box": [
+        707,
+        1241,
+        786,
+        1286
+      ],
+      "polygon": [
+        [
+          707,
+          1241
+        ],
+        [
+          786,
+          1241
+        ],
+        [
+          786,
+          1286
+        ],
+        [
+          707,
+          1286
+        ]
+      ]
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.991,
+      "box": [
+        177,
+        1389,
+        678,
+        1437
+      ],
+      "polygon": [
+        [
+          177,
+          1389
+        ],
+        [
+          678,
+          1392
+        ],
+        [
+          677,
+          1437
+        ],
+        [
+          177,
+          1434
+        ]
+      ]
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9996,
+      "box": [
+        84,
+        1439,
+        783,
+        1489
+      ],
+      "polygon": [
+        [
+          85,
+          1439
+        ],
+        [
+          783,
+          1442
+        ],
+        [
+          783,
+          1489
+        ],
+        [
+          84,
+          1485
+        ]
+      ]
+    }
+  ],
+  "raw_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1362-JLN DEVELOPMENT\nGST ID. NO : 000181747712\nINVOICE NO : 18311/102/T0395\n07:44PM\n566890\n17-02-18\n489 TIGER BEER CAN 4*6*320M\nRM108.50 s\nTotal Sales (Inclusive GST) RM\n108.50\nCASH RM\n150.00\nCHANGE RM\n41.50\nGST Summary\nAmount(RM)\nTax(RM)\nε = 6%\n102.36\n6.14\nThank You. Please come again\nKeep the invoice for applicable returns"
+}

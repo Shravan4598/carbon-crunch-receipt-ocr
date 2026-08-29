@@ -1,0 +1,19 @@
+{
+  "merchant": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "receipt_date": "14 Mar 2018",
+  "receipt_number": "OR18031402160311",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 0.46,
+  "total": 8.2,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.84,
+  "raw_text": "A03050\nUNIHAKKA INTERNATIONAL SDN BHD\n14 Mar 2018 18:40\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru, Johor\nTAX INVOICE\nInvoice #: OR18031402160311\nItem\nQty\nTotal\nSR I00100000060- 4 Vege\n$5.50\nS5.50\nSR 100100000006- Pork\n$2.70\n$2.70\nTotal Amount: $8.20\nGST @6%: $0.46\nNett Total: $8.20\nPayment Mode\nAmount\nCASH\n$8.20\nChange\n$0.00\nGST Summary\nAmount($)\nTax($)\nSR= GST@6%\n7.74\n0.46\nGST REG #0D0656195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005433541",
+  "source_image": "X51005433541.jpg",
+  "ocr_confidence": 0.989
+}

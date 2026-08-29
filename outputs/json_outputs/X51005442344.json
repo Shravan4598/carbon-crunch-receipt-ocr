@@ -1,0 +1,30 @@
+{
+  "merchant": "YONG TAT HARDWARE TRADING",
+  "receipt_date": "13/03/2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "PCS",
+      "quantity": 1.0,
+      "unit_price": 1.0,
+      "total_price": 1.0
+    },
+    {
+      "name": "SET",
+      "quantity": 1.0,
+      "unit_price": 1.0,
+      "total_price": 1.0
+    }
+  ],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 95.17,
+  "total": 101.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.869,
+  "raw_text": "A03078\nYONG TAT HARDWARE TRADING\n(JM0292487-D)\nNO 4,JALAN PERJIRANAN 10,\nTAMAN AIR BIRU.\n81700 PASIR GUDANG,\nJOHOR.\nTEL:07-2614733 FAX:07-2514733\nYONGTAT99@YAHOO.COM.MY\nGSTID:001570349056\nTAX INVOICE\nDoc No.\nCS00035863\nDate: 13/03/2018\nUSER\nTime:\n12:49:00\nCashier\nRef.:\nSalesperson\n(GST)\n(GST)\nS/Price\nS/Price\nAmaunt\nTax\nItern\nQty\n1.00 PCS\n48.00\n50.88\n50.88\nSR\n2597\n10° WING COMPASS\nG131801\n47.17\n50.00\n50.00\n5736\n1.00 SET\nSR\n6B1801\n1/8°-3/4\" 12PCS HOLLOW PUNCH SET\nTotal Qty:\n100.88\nTotal Sales (Excluding GST) :\n95.17\nDiscount :\n0.00\nTotal GST\n5.71\nRounding:\n0.02\n100.90\nTotal Sales (Inclusive of GST) :\nCASH\n101.00\nChange\n0.10\nGST SUMMARY\n96\nAmt(RM)\nTax(RM)\nTax Coda\n95.17\n5.71\nSR\n95.17\n5.71\nTotal:\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU",
+  "warnings": [],
+  "receipt_id": "X51005442344",
+  "source_image": "X51005442344.jpg",
+  "ocr_confidence": 0.976
+}

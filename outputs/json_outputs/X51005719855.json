@@ -1,0 +1,20 @@
+{
+  "merchant": "ROCKU YAKINIKU",
+  "receipt_date": null,
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 10.28,
+  "total": 181.55,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.686,
+  "raw_text": "ROCKU YAKINIKU\nCPI ROCKU SDN. BHD. (1096317-P)\nGST NO.: 000446271488\nLOT F355/356/357,FIRST FL00R,\nRAINFOREST,1 UTAMA SHOPPING CENTRE,\nLEBUH BANDAR UTAMA,\n47800 PETALING JAYA\n19/02/201817:43 T001\nA063975\nCsh: CASHIER\nSvr: BISWASH(ip\nTable: A9\nPax: 3\nBILL: 063975\nRM\nGREEN TEA\n1\n3.00\n3.00 T\nGREEN TEA\n1\n3.00\n3.00 T\nBUFFET DINNER (ADULT)\n3\n49.90\n149.70 T\nSUBTTL\n155.70\n10% SVC CHG\n15.57\n6% GST\n10.28\nTOTAL\n181.55\nCASH\n201.55\nCHANGE\n20.00\nGST Summary\nAmount\nTax\nT:6% GST\n171.27\n10.28\nZ:Zero Rated\n0.00\n0.00\nSignature:\nThank you. Please come again\nBill Close: 19:08:04",
+  "warnings": [
+    "Receipt date could not be identified.",
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719855",
+  "source_image": "X51005719855.jpg",
+  "ocr_confidence": 0.991
+}

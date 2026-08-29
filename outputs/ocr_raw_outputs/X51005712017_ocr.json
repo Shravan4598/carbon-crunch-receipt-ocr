@@ -1,0 +1,1066 @@
+{
+  "receipt_id": "X51005712017",
+  "source_image": "X51005712017.jpg",
+  "ocr_confidence": 0.993,
+  "lines": [
+    {
+      "text": "Gerbang Alaf Restaurants Sdn Bhd",
+      "confidence": 0.9991
+    },
+    {
+      "text": "(65351-M)",
+      "confidence": 1.0
+    },
+    {
+      "text": "Licensee of McDonald's",
+      "confidence": 0.9885
+    },
+    {
+      "text": "Level 6, Bangunan TH, Damansara Uptown3",
+      "confidence": 0.9861
+    },
+    {
+      "text": "No.3, Jalan SS21/39,47400 Petaling Jaya",
+      "confidence": 0.9871
+    },
+    {
+      "text": "Selangor",
+      "confidence": 1.0
+    },
+    {
+      "text": "(GST ID No: 000504664064)",
+      "confidence": 0.975
+    },
+    {
+      "text": "McDonald'sRawang DT(#188)",
+      "confidence": 0.9899
+    },
+    {
+      "text": "Tel No. 03-6092-1968",
+      "confidence": 0.9978
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 1.0
+    },
+    {
+      "text": "MFY Side 1",
+      "confidence": 0.9999
+    },
+    {
+      "text": "INV# 001881904580783",
+      "confidence": 0.9979
+    },
+    {
+      "text": "ORD #70-REG #19-18/03/2018 23:02:16",
+      "confidence": 0.9627
+    },
+    {
+      "text": "QTY ITEM",
+      "confidence": 0.9999
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 1.0
+    },
+    {
+      "text": "1 L McChicken",
+      "confidence": 0.9893
+    },
+    {
+      "text": "11.10",
+      "confidence": 1.0
+    },
+    {
+      "text": "1 L Coke",
+      "confidence": 0.9947
+    },
+    {
+      "text": "1 L Fries",
+      "confidence": 0.9586
+    },
+    {
+      "text": "2 Small Cone",
+      "confidence": 0.9921
+    },
+    {
+      "text": "2.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "TakeOut Total (incl GST)",
+      "confidence": 0.986
+    },
+    {
+      "text": "13.10",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total Rounded",
+      "confidence": 0.9991
+    },
+    {
+      "text": "13.10",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cash Tendered",
+      "confidence": 1.0
+    },
+    {
+      "text": "20.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Change",
+      "confidence": 1.0
+    },
+    {
+      "text": "6.90",
+      "confidence": 1.0
+    },
+    {
+      "text": "TOTAL INCLUDES 6% GST",
+      "confidence": 0.98
+    },
+    {
+      "text": "0.74",
+      "confidence": 1.0
+    },
+    {
+      "text": "ink You and Please Come Again.",
+      "confidence": 0.9937
+    },
+    {
+      "text": "Guest Relations Center : 1300-13-1300",
+      "confidence": 0.9894
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "Gerbang Alaf Restaurants Sdn Bhd",
+      "confidence": 0.9991,
+      "box": [
+        71,
+        77,
+        500,
+        107
+      ],
+      "polygon": [
+        [
+          71,
+          77
+        ],
+        [
+          500,
+          77
+        ],
+        [
+          500,
+          107
+        ],
+        [
+          71,
+          107
+        ]
+      ]
+    },
+    {
+      "text": "(65351-M)",
+      "confidence": 1.0,
+      "box": [
+        232,
+        106,
+        353,
+        142
+      ],
+      "polygon": [
+        [
+          232,
+          106
+        ],
+        [
+          353,
+          106
+        ],
+        [
+          353,
+          142
+        ],
+        [
+          232,
+          142
+        ]
+      ]
+    },
+    {
+      "text": "Licensee of McDonald's",
+      "confidence": 0.9885,
+      "box": [
+        137,
+        143,
+        433,
+        173
+      ],
+      "polygon": [
+        [
+          137,
+          143
+        ],
+        [
+          433,
+          143
+        ],
+        [
+          433,
+          173
+        ],
+        [
+          137,
+          173
+        ]
+      ]
+    },
+    {
+      "text": "Level 6, Bangunan TH, Damansara Uptown3",
+      "confidence": 0.9861,
+      "box": [
+        30,
+        173,
+        555,
+        207
+      ],
+      "polygon": [
+        [
+          30,
+          173
+        ],
+        [
+          555,
+          173
+        ],
+        [
+          555,
+          207
+        ],
+        [
+          30,
+          207
+        ]
+      ]
+    },
+    {
+      "text": "No.3, Jalan SS21/39,47400 Petaling Jaya",
+      "confidence": 0.9871,
+      "box": [
+        29,
+        205,
+        554,
+        240
+      ],
+      "polygon": [
+        [
+          29,
+          206
+        ],
+        [
+          553,
+          205
+        ],
+        [
+          554,
+          239
+        ],
+        [
+          29,
+          240
+        ]
+      ]
+    },
+    {
+      "text": "Selangor",
+      "confidence": 1.0,
+      "box": [
+        229,
+        240,
+        341,
+        272
+      ],
+      "polygon": [
+        [
+          229,
+          240
+        ],
+        [
+          341,
+          240
+        ],
+        [
+          341,
+          272
+        ],
+        [
+          229,
+          272
+        ]
+      ]
+    },
+    {
+      "text": "(GST ID No: 000504664064)",
+      "confidence": 0.975,
+      "box": [
+        127,
+        273,
+        456,
+        304
+      ],
+      "polygon": [
+        [
+          127,
+          273
+        ],
+        [
+          456,
+          273
+        ],
+        [
+          456,
+          304
+        ],
+        [
+          127,
+          304
+        ]
+      ]
+    },
+    {
+      "text": "McDonald'sRawang DT(#188)",
+      "confidence": 0.9899,
+      "box": [
+        110,
+        306,
+        457,
+        336
+      ],
+      "polygon": [
+        [
+          110,
+          306
+        ],
+        [
+          457,
+          306
+        ],
+        [
+          457,
+          336
+        ],
+        [
+          110,
+          336
+        ]
+      ]
+    },
+    {
+      "text": "Tel No. 03-6092-1968",
+      "confidence": 0.9978,
+      "box": [
+        151,
+        338,
+        433,
+        368
+      ],
+      "polygon": [
+        [
+          151,
+          338
+        ],
+        [
+          433,
+          338
+        ],
+        [
+          433,
+          368
+        ],
+        [
+          151,
+          368
+        ]
+      ]
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 1.0,
+      "box": [
+        217,
+        369,
+        367,
+        401
+      ],
+      "polygon": [
+        [
+          217,
+          369
+        ],
+        [
+          367,
+          369
+        ],
+        [
+          367,
+          401
+        ],
+        [
+          217,
+          401
+        ]
+      ]
+    },
+    {
+      "text": "MFY Side 1",
+      "confidence": 0.9999,
+      "box": [
+        228,
+        432,
+        367,
+        464
+      ],
+      "polygon": [
+        [
+          228,
+          432
+        ],
+        [
+          367,
+          432
+        ],
+        [
+          367,
+          464
+        ],
+        [
+          228,
+          464
+        ]
+      ]
+    },
+    {
+      "text": "INV# 001881904580783",
+      "confidence": 0.9979,
+      "box": [
+        33,
+        502,
+        299,
+        529
+      ],
+      "polygon": [
+        [
+          33,
+          502
+        ],
+        [
+          299,
+          502
+        ],
+        [
+          299,
+          529
+        ],
+        [
+          33,
+          529
+        ]
+      ]
+    },
+    {
+      "text": "ORD #70-REG #19-18/03/2018 23:02:16",
+      "confidence": 0.9627,
+      "box": [
+        30,
+        534,
+        526,
+        564
+      ],
+      "polygon": [
+        [
+          30,
+          534
+        ],
+        [
+          526,
+          534
+        ],
+        [
+          526,
+          564
+        ],
+        [
+          30,
+          564
+        ]
+      ]
+    },
+    {
+      "text": "QTY ITEM",
+      "confidence": 0.9999,
+      "box": [
+        29,
+        565,
+        142,
+        597
+      ],
+      "polygon": [
+        [
+          29,
+          565
+        ],
+        [
+          142,
+          565
+        ],
+        [
+          142,
+          597
+        ],
+        [
+          29,
+          597
+        ]
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 1.0,
+      "box": [
+        483,
+        564,
+        552,
+        597
+      ],
+      "polygon": [
+        [
+          483,
+          564
+        ],
+        [
+          552,
+          564
+        ],
+        [
+          552,
+          597
+        ],
+        [
+          483,
+          597
+        ]
+      ]
+    },
+    {
+      "text": "1 L McChicken",
+      "confidence": 0.9893,
+      "box": [
+        54,
+        597,
+        234,
+        631
+      ],
+      "polygon": [
+        [
+          54,
+          597
+        ],
+        [
+          234,
+          597
+        ],
+        [
+          234,
+          631
+        ],
+        [
+          54,
+          631
+        ]
+      ]
+    },
+    {
+      "text": "11.10",
+      "confidence": 1.0,
+      "box": [
+        481,
+        596,
+        555,
+        628
+      ],
+      "polygon": [
+        [
+          481,
+          596
+        ],
+        [
+          555,
+          596
+        ],
+        [
+          555,
+          628
+        ],
+        [
+          481,
+          628
+        ]
+      ]
+    },
+    {
+      "text": "1 L Coke",
+      "confidence": 0.9947,
+      "box": [
+        82,
+        631,
+        195,
+        663
+      ],
+      "polygon": [
+        [
+          82,
+          631
+        ],
+        [
+          195,
+          631
+        ],
+        [
+          195,
+          663
+        ],
+        [
+          82,
+          663
+        ]
+      ]
+    },
+    {
+      "text": "1 L Fries",
+      "confidence": 0.9586,
+      "box": [
+        82,
+        664,
+        208,
+        696
+      ],
+      "polygon": [
+        [
+          82,
+          664
+        ],
+        [
+          208,
+          664
+        ],
+        [
+          208,
+          696
+        ],
+        [
+          82,
+          696
+        ]
+      ]
+    },
+    {
+      "text": "2 Small Cone",
+      "confidence": 0.9921,
+      "box": [
+        53,
+        696,
+        222,
+        730
+      ],
+      "polygon": [
+        [
+          53,
+          696
+        ],
+        [
+          222,
+          696
+        ],
+        [
+          222,
+          730
+        ],
+        [
+          53,
+          730
+        ]
+      ]
+    },
+    {
+      "text": "2.00",
+      "confidence": 1.0,
+      "box": [
+        494,
+        694,
+        556,
+        728
+      ],
+      "polygon": [
+        [
+          494,
+          694
+        ],
+        [
+          556,
+          694
+        ],
+        [
+          556,
+          728
+        ],
+        [
+          494,
+          728
+        ]
+      ]
+    },
+    {
+      "text": "TakeOut Total (incl GST)",
+      "confidence": 0.986,
+      "box": [
+        29,
+        761,
+        352,
+        795
+      ],
+      "polygon": [
+        [
+          29,
+          761
+        ],
+        [
+          352,
+          761
+        ],
+        [
+          352,
+          795
+        ],
+        [
+          29,
+          795
+        ]
+      ]
+    },
+    {
+      "text": "13.10",
+      "confidence": 0.9998,
+      "box": [
+        483,
+        759,
+        554,
+        792
+      ],
+      "polygon": [
+        [
+          483,
+          759
+        ],
+        [
+          554,
+          759
+        ],
+        [
+          554,
+          792
+        ],
+        [
+          483,
+          792
+        ]
+      ]
+    },
+    {
+      "text": "Total Rounded",
+      "confidence": 0.9991,
+      "box": [
+        30,
+        795,
+        208,
+        826
+      ],
+      "polygon": [
+        [
+          30,
+          795
+        ],
+        [
+          208,
+          795
+        ],
+        [
+          208,
+          826
+        ],
+        [
+          30,
+          826
+        ]
+      ]
+    },
+    {
+      "text": "13.10",
+      "confidence": 1.0,
+      "box": [
+        483,
+        794,
+        554,
+        826
+      ],
+      "polygon": [
+        [
+          483,
+          794
+        ],
+        [
+          554,
+          794
+        ],
+        [
+          554,
+          826
+        ],
+        [
+          483,
+          826
+        ]
+      ]
+    },
+    {
+      "text": "Cash Tendered",
+      "confidence": 1.0,
+      "box": [
+        30,
+        828,
+        208,
+        859
+      ],
+      "polygon": [
+        [
+          30,
+          828
+        ],
+        [
+          208,
+          828
+        ],
+        [
+          208,
+          859
+        ],
+        [
+          30,
+          859
+        ]
+      ]
+    },
+    {
+      "text": "20.00",
+      "confidence": 1.0,
+      "box": [
+        480,
+        827,
+        554,
+        860
+      ],
+      "polygon": [
+        [
+          480,
+          827
+        ],
+        [
+          554,
+          827
+        ],
+        [
+          554,
+          860
+        ],
+        [
+          480,
+          860
+        ]
+      ]
+    },
+    {
+      "text": "Change",
+      "confidence": 1.0,
+      "box": [
+        28,
+        859,
+        115,
+        895
+      ],
+      "polygon": [
+        [
+          28,
+          859
+        ],
+        [
+          115,
+          859
+        ],
+        [
+          115,
+          895
+        ],
+        [
+          28,
+          895
+        ]
+      ]
+    },
+    {
+      "text": "6.90",
+      "confidence": 1.0,
+      "box": [
+        493,
+        859,
+        555,
+        893
+      ],
+      "polygon": [
+        [
+          493,
+          859
+        ],
+        [
+          555,
+          859
+        ],
+        [
+          555,
+          893
+        ],
+        [
+          493,
+          893
+        ]
+      ]
+    },
+    {
+      "text": "TOTAL INCLUDES 6% GST",
+      "confidence": 0.98,
+      "box": [
+        30,
+        927,
+        312,
+        957
+      ],
+      "polygon": [
+        [
+          30,
+          927
+        ],
+        [
+          312,
+          927
+        ],
+        [
+          312,
+          957
+        ],
+        [
+          30,
+          957
+        ]
+      ]
+    },
+    {
+      "text": "0.74",
+      "confidence": 1.0,
+      "box": [
+        493,
+        924,
+        556,
+        959
+      ],
+      "polygon": [
+        [
+          493,
+          924
+        ],
+        [
+          556,
+          924
+        ],
+        [
+          556,
+          959
+        ],
+        [
+          493,
+          959
+        ]
+      ]
+    },
+    {
+      "text": "ink You and Please Come Again.",
+      "confidence": 0.9937,
+      "box": [
+        105,
+        1026,
+        493,
+        1056
+      ],
+      "polygon": [
+        [
+          105,
+          1026
+        ],
+        [
+          493,
+          1026
+        ],
+        [
+          493,
+          1056
+        ],
+        [
+          105,
+          1056
+        ]
+      ]
+    },
+    {
+      "text": "Guest Relations Center : 1300-13-1300",
+      "confidence": 0.9894,
+      "box": [
+        43,
+        1060,
+        536,
+        1089
+      ],
+      "polygon": [
+        [
+          43,
+          1060
+        ],
+        [
+          536,
+          1060
+        ],
+        [
+          536,
+          1089
+        ],
+        [
+          43,
+          1089
+        ]
+      ]
+    }
+  ],
+  "raw_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald'sRawang DT(#188)\nTel No. 03-6092-1968\nTAX INVOICE\nMFY Side 1\nINV# 001881904580783\nORD #70-REG #19-18/03/2018 23:02:16\nQTY ITEM\nTOTAL\n1 L McChicken\n11.10\n1 L Coke\n1 L Fries\n2 Small Cone\n2.00\nTakeOut Total (incl GST)\n13.10\nTotal Rounded\n13.10\nCash Tendered\n20.00\nChange\n6.90\nTOTAL INCLUDES 6% GST\n0.74\nink You and Please Come Again.\nGuest Relations Center : 1300-13-1300"
+}

@@ -1,0 +1,19 @@
+{
+  "merchant": "RESTORAN WAN SHENG",
+  "receipt_date": "21-03-2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 4.54,
+  "total": 4.8,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.792,
+  "raw_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No.: 1054250 Cashier: Thandar\nDate\n:21-03-2018 11:42:20\nDescription\nQty\nU.price\nTotal TAX\nCham (B)\n2 x\n2.20\n4.40\nSR\nTake Away\n2 x\n0.20\n0.40\nSR\nTotal QTY: 4\nTotal (Excluding GST):\n4.54\nGST payable (6%):\n0.26\nTotal (Inclusive of GST):\n4.80\nTOTAL:\n4.80\nCASH :\n4.80\nGST Summary\nAmount(RM)\nTax(RM)\nSR\n(@ 6%)\n4.54\n0.26",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005711444",
+  "source_image": "X51005711444.jpg",
+  "ocr_confidence": 0.993
+}

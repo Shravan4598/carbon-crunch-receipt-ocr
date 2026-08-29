@@ -1,0 +1,36 @@
+{
+  "merchant": "IMAGE PRINTEC (M) SDN BHD",
+  "receipt_date": "23/02/2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 2.0,
+      "total_price": 2.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 0.2,
+      "total_price": 0.2
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 5.0,
+      "total_price": 5.0
+    }
+  ],
+  "subtotal": 7.2,
+  "discount": null,
+  "tax": 0.43,
+  "total": 7.65,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.948,
+  "raw_text": "IMAGE PRINTEC (M) SDN BHD\nReg No: 416123-U\nGST: 001241862144\nNo. 12A-G, Jalan Wangsa Delima 11.\nD'wangsa Wangsa Maju,\n53300 Kuala Lumpur.\nT: +(603) 4141 9822 F.+(603) 4141 9722\nTAX INVOICE\nCB#:61967\n23/02/2018 7:44:16\nSalesperson :\nQty\nDesc\nPrice\nTotal\n2 COLOR COPY A4\n1.00\n2.00 SR\n2 PHOTOCOPY A4\n0.10\n0.20 SR\n2 LAMINATE A4\n2.50\n5.00 SR\n6\nType:\n3\nSubTotal:\n7.20\nGST 6%\n0.43\nRounding Adj :\n0.02\nNET TOTAL:\n7.65\nCASH\n10.00\nChange:\n2.35\nThank you.\nPlease come again.",
+  "warnings": [],
+  "receipt_id": "X51005806696",
+  "source_image": "X51005806696.jpg",
+  "ocr_confidence": 0.995
+}

@@ -1,0 +1,19 @@
+{
+  "merchant": "Save money. Live better.",
+  "receipt_date": "12/08/15",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": 6.94,
+  "discount": null,
+  "tax": 6.94,
+  "total": 0.49,
+  "payment_method": "DEBIT CARD",
+  "extraction_confidence": 0.855,
+  "raw_text": "Walmart\nSave money. Live better.\n(712 )366-3326\nMANAGER DONALD MONEYMAKER\n3201 MANAWA CENTRE DR\nCOUNCIL BLUFFS IA 51501\nST# 01965 0P# 002031 TE# 20 TR# 05145\nSW HRO FGHTR 063050940732\nSUBTOTAL\n6.94 T\nTAX 1\n7.000%\n6.94\nTOTAL\n0.49\nDEBIT TEND\n7.43\nCHANGE DUE\n7.43\n0.00\nEFT DEBIT\nPAY FROM PRIMARY\n7.43\nTOTAL\nPURCHASE\nACCOUNT #\nREF # 534200381755\n*水* **\n***\nS\nNETWÖRK ID. 0056 APPR CODE 087193\nTERMINAL # MX995026\n12/08/15\n12:39:24\n# ITEMS SOLD 1\nTC# 3261 4114 0323 3051 6498\nNEW STORE HOURS\nOpen 6am to midnight 7 days a week.\n12/08/15\n12:39:26\nSavings Catcher! Scan with Walmart app",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "4",
+  "source_image": "4.jpg",
+  "ocr_confidence": 0.978
+}

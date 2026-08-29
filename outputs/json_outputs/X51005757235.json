@@ -1,0 +1,19 @@
+{
+  "merchant": "AEON CO. (M) BHD (126926-H)",
+  "receipt_date": "09/03/2018",
+  "receipt_number": "2018030910080010555",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 31.0,
+  "total": 29.24,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.843,
+  "raw_text": "31803017\nAEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\nVALUED CUSTOMER: 1370001392\n1x 000002781709\n15.50SR\nBIO ZIP POWDER\n1x 000002781709\n15.50SR\nBIO ZIP POWDER\nSub-total\n31.00\nTotal Sales Incl GST\n31.00\nTotal After Adj Incl GST\n31.00\nCASH\n50.00\nItem Count 2\nChange Amt\n19.00\nInvoice No: 2018030910080010555\nGST Summary\nAmount\nTax\nSR @ 6%\n29.24\n1.76\nTotal\n29.24\n1.76\n09/03/2018 18:54\n1008 001 0010555\n0305101 HALINA\nAEON BANDAR PUCHONG\nTEL 1-300-80-AE0N (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005757235",
+  "source_image": "X51005757235.jpg",
+  "ocr_confidence": 0.996
+}

@@ -1,0 +1,19 @@
+{
+  "merchant": "TED HENG STATIONERY & BOOKS",
+  "receipt_date": "15/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 3.12,
+  "total": 52.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.792,
+  "raw_text": "TED HENG STATIONERY & BOOKS\n(001451637-M)\nNO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI\nSELANGOR DARUL EHSAN\nTEL:03-3271 9872 FAX:03-3271 9481\nGST No.: 000689913856\nSIMPLIFIED TAX INVOICE\nCASH\nReceipt No.: CS1801/26717 Date: 15/01/2018\nITEM\nQTY U/P DISC%\nAMOUNT\n(RM)\n9556655864036\n1\n26.42\n9.14\n24.00*\n- CBE BADGE CLIP 100PCS\n9555535000663\n1 28.00 0.00\n28.00*\n– NISO A4 LAMINATING FILM\nTotal Qty. :\n2\n52.00\nSUB-TOTAL (EX)\n52.00\nTOTAL TAX\n3.12\nROUNDING\n-0.02\nTOTAL\n55.10\nCASH\n55.10\n17 JAN 2018\nCHANGE\nGST SUMMARY\nAMOUNT\nTAX\nTAX CODE\n%\n(RM)\n(RM)\nSR\n6.00\n52.00\n3.12\nTOTAL :\n52.00\n3.12\nNote: (*) Indicated The Item Sold Has Been Related\nTo GST (Goods & Services Tax).\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005361898",
+  "source_image": "X51005361898.jpg",
+  "ocr_confidence": 0.993
+}

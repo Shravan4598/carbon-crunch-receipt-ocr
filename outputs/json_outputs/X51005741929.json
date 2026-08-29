@@ -1,0 +1,19 @@
+{
+  "merchant": "MyMydin Subang Bestari 2300",
+  "receipt_date": "15/01/2018",
+  "receipt_number": "1670327566",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 5.19,
+  "total": 5.5,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.838,
+  "raw_text": "MyMydin Subang Bestari 2300\nMY MYDIN SDN BHD (257229-K)\nNo 13, 15, 17 & 19 Jalan Nova Q U5/0,\nSeksyen U5,Subang Bestari 40150 Shah Ala\nSelangor Darul Ehsan\nTel: 03-78322935\nGST ID : 001400971264\nRECEIPT\nTERMINAL\n:1670\nINVOICE NO.\n:1670327566\nDATE\n: 15/01/2018 10:59:13\nCASHIER\n: Azhar - 928374\n.S\nEVEREADY BAT S/H/D 1212BP4 AAAEA\n1 * 5.50\n5.50\n9556500903668\nItem Count\n5.50K\nTotal\nRounding Adjustment\n0.00\nTotal After Rounding\n5.50\nCASH\n100.00\n94.50\nChange CASH\nGST Rate\nAmt Excl GST(RM)\nTax(RIM)\nS = 6%\n5.19\n0.31\nPoints earned in this trans. : 0\nReceipt No: 1670327566\nPriot Date: 15/01/2018 10:59:23\nThhank You\nPlease Come Again",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005741929",
+  "source_image": "X51005741929.jpg",
+  "ocr_confidence": 0.984
+}

@@ -1,0 +1,19 @@
+{
+  "merchant": "B.I.G.",
+  "receipt_date": "09/03/18",
+  "receipt_number": "BAT01201803090220",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 133.7,
+  "total": 133.7,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.839,
+  "raw_text": "B.I.G.\nBer's Indepevdent Grozer\nBENS INDEPENDENT GROCER SDN. BHD\n(913144-A)\nLot 6, Jalan Batai,\nPlaza Batai, Damansara Heights\n50490, Kuala Lumpur\nT:03-2093 7358 |F:03-2093 7359\n(GST REGNO 000243941376)\nTax Invoice : BAT01201803090220\n09/03/18\nCashier : Jorvilyn\n18:08:53\nEvian Mineral Water 6x1.25L\n3068320113784\n53.50*2\n107.00S\nFresh Cut Honey Jackfruit Peeled 400g\n1430018201\n8.90*3\n26.70Z\nIte'm 2\nTotal with GST @6%\n133.70\nQty 5\nRounding\n0.00\nTotai Saving\n0.00\nTotal\n133.70\nTender\nCash\n140.00\nChange\n6.30\nGST Analysis\nGoods\nTax Amount\nS = 6%\n100.94\n6.06\nz = 0%\n26.70\n0.00\nBIG.COM.MY\nFACEBOOK.COM/THEBIGGROUP\nEXCHANGE & REFUND MAY BE ALLOWED\nWITHIN 3 DAYS WITH ORIGINAL TAX INVOICE\nTHANK YOU,PLEASE COME AGAIN\nBAT01201803090220",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005444040",
+  "source_image": "X51005444040.jpg",
+  "ocr_confidence": 0.986
+}

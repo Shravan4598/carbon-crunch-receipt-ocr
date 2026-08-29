@@ -1,0 +1,36 @@
+{
+  "merchant": "POTTERS GARDEN SDN BHD",
+  "receipt_date": "04/01/2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 1.0,
+      "total_price": 1.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 16.0,
+      "total_price": 16.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 7.0,
+      "total_price": 7.0
+    }
+  ],
+  "subtotal": 39.8,
+  "discount": null,
+  "tax": 37.54,
+  "total": 40.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.947,
+  "raw_text": "POTTERS GARDEN SDN BHD\n(1153774-D)\nBatu 11. Sg Buloh, 47000 Selangor.\nTel: 016-6670982, 016-333 3812\nGST Reg No: 000392024064\nTAX INVOICE\nTABLE : 01\nPOS ID : G\nINVNO:G/00002268\nCASHIER: Administrator\nINV DT: 04/01/2018 12:29:18 PM\nRM\nITEM\nAMOUNT\nAA00007 PLASTICPLATE\n1.00 SR\nAA00022 CHINA POT\n2@7.90\n15.80SR\nAA00016 PLANT\n16.00 SR\nAA00016 PLANT\n7.00 SR\n5\nSUB TOTAL\n39.80\n39.80\nNET TOTAL\nCash\n40.00\n0.20\nCHANGE\nTax Summary\nAmount\nTax\nSR Inclusive GST 6%\n37.54\n2.26\n*** Thank you Please Come Again ***\nItem Sold are Not Refundable & Exchangeable",
+  "warnings": [],
+  "receipt_id": "X51005719888",
+  "source_image": "X51005719888.jpg",
+  "ocr_confidence": 0.993
+}

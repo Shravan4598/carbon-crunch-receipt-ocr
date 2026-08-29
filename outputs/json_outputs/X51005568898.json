@@ -1,0 +1,36 @@
+{
+  "merchant": "VIVOPAC MARKETING SDN BHD (1070687-M)",
+  "receipt_date": "30/05/2017",
+  "receipt_number": "must",
+  "items": [
+    {
+      "name": "PKT",
+      "quantity": 1.0,
+      "unit_price": 1.0,
+      "total_price": 1.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 6.0,
+      "total_price": 6.0
+    },
+    {
+      "name": "ROLL *",
+      "quantity": 1.0,
+      "unit_price": 2.0,
+      "total_price": 2.0
+    }
+  ],
+  "subtotal": 17.75,
+  "discount": null,
+  "tax": 17.75,
+  "total": 18.8,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.995,
+  "raw_text": "VIVOPAC MARKETING SDN BHD (1070687-M)\n14 JALAN MANIS 4 TAMAN SEGAR 56100 KL\nTEL: 03-91334364FAX: 03-91310522\nwww.vivopac.com\nGST REG: 000565805056\nTAX INVOICE\nDoc # :\nCS21539777\nDate :\n30/05/2017 10:18:02 AM\nPromoter :\nTerminal :\nT02\nCashier :\nME\nDESCRIPTION\nPRICE Disc\nAMOUNTTAX\nQTY\nRM\nRM CODE\n9x13(10A)\n1.00 PKT\n0.7500\n0.75\n26 x 33 (85HT) Red\n1.00 PKT\n8.0000\n8.00\nSR\n24 x 28 (75HT) Red\n1.00 PKT\n6.0000\n6.00 SR\nPrice Label (PLAIN)\n2.00 ROLL *\n1.5000\n3.00\nSR\nItem Count: 4\nItem Qty: 5.00\nSub Total (Exclusive GST) :\n17.75\nGST 6% :\n1.07\nRounding Adj. :\n-0.02\nRounded Total (RM):\n18.80\nCash\n20.00\nCash Change\n1.20\nGST Summary\nAmount(RM)\nTax(RM)\nSR @ 6 %\n17.75\n1.07\nTerms & Conditions\nGoods sold are not refundable withcash.\nFor exchange of goods sold the following apply:\n1. The original receipt must be presented\n2. Exchange is done within 7 days from date of receipt\n2. In good conditionand in it's original pakcing",
+  "warnings": [],
+  "receipt_id": "X51005568898",
+  "source_image": "X51005568898.jpg",
+  "ocr_confidence": 0.99
+}

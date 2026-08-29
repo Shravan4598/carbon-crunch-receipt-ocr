@@ -1,0 +1,19 @@
+{
+  "merchant": "BEYOND BROTHERS HARDWARE",
+  "receipt_date": "1-0-2",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 3.84,
+  "total": 64.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.785,
+  "raw_text": "31811010\n.2\nBEYOND BROTHERS HARDWARE\n(872981-V)\nLOT 1-0-2, JLN 1/50.\nDIAMOND SQUARE.\nOFF JLN GOMBAK\n53000 KUALA LUMPUR\nTEL.:03-40211233 FAX:03-40223233\nIVAN_KONG12@HOTMAIL COM\nGST ID: 001921974272\nTAX INVOICE\nDoc No.\nCS00059502\nDate 10/1*/2017\nCashier\nUSER\nTime: 15:43:00\nSalesperson\nRef.\n(GST)\n(GST)\nItem\nGity\nS/Price\nS/Price\nAmouni\nTax\n1765\n1\n5.00\n5.30\n5.30\nSR\nPENTENS PUTTY FILLER 500G\n1914\n1\n2.00\n2.12\n2.12\nSR\nPAPAN CAT\n3801\n1\n8.00\n8.48\n8.4€\nSR\nTUPAI ROLLER 7\"· SET)\n4184\n1\n37.00\n39 22\n39.22\nSR\nMAXILITE 7L 14139\n4630\n1\n8.00\n848\n8.46\nSR\nARROW TALI TAPE 7 5M (OFFER)\n4485\n1\n4.00\n4.24\n4.24\nSR\nSCAFPER BIASA 3'\nTotal Q:y.\n6\n67.94\nTotal Sales (Excluding CST)\n64.00\nDiscount\n0.00\nTotal GST\n3.84\nRounding\n0.01\nTotal Sales (Inclusive of GST) :\n67.85\nCASH :\n70.00\nChange :\n2.15\nGST SUMMARY\nTax Code\no\nAmt (RM)\nTax(RM)\nSR\n6\n64.00\n384\nTotal:\n64.00\n3.84\n3.84\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005675914",
+  "source_image": "X51005675914.jpg",
+  "ocr_confidence": 0.978
+}

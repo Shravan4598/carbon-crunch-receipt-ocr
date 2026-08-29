@@ -1,0 +1,19 @@
+{
+  "merchant": "KOH SENG HARDWARE",
+  "receipt_date": "01/02/2018",
+  "receipt_number": "CS00044964",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 0.3,
+  "total": 0.3,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.844,
+  "raw_text": "31802013\nKOH SENG HARDWARE\n1502665-P\nNO. 939, BATU LIMA,\nJALAN IPOH\n51200 KUALA LUMPUR.\nTEL: 03-62504769 FAX: 03-62504769\nGST NO: 001117650944\nTAX INVOICE\nCASH\nRECEIPT #: CS00044964 DATE: 01/02/2018\nCASHIER : USER\nITEM\nQTY\nU/P\nAMOUNT\n3674\n10\n0.53\n5.30 S\nSR:SUGA BAG\nTOTAL QUANTITY\n10\nDISC\n0.00\nGST\n0.30\nROUNDING\n0.00\nTOTAL\n5.30\nCASH\n20.50\nCHANGE\n15.20\nGST SUMMARY\nCODE\nAMOUNT\n%\nTAX/AMT\nSR\n5.00\n6\n0.30\nTAX TOTAL:\n0.30\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005663309",
+  "source_image": "X51005663309.jpg",
+  "ocr_confidence": 0.997
+}

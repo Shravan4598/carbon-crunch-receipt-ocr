@@ -1,0 +1,84 @@
+{
+  "merchant": "Tax Invoice",
+  "receipt_date": "18/02/2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 3.3,
+      "total_price": 3.3
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 3.6,
+      "total_price": 3.6
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 2.5,
+      "total_price": 2.5
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 1.6,
+      "total_price": 1.6
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 8.6,
+      "total_price": 8.6
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 49.9,
+      "total_price": 49.9
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 218.0,
+      "total_price": 218.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 1.0,
+      "total_price": 1.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 22.9,
+      "total_price": 22.9
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 36.0,
+      "total_price": 36.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 19.9,
+      "total_price": 19.9
+    }
+  ],
+  "subtotal": 346.51,
+  "discount": null,
+  "tax": 346.51,
+  "total": 367.3,
+  "payment_method": "CREDIT CARD",
+  "extraction_confidence": 0.94,
+  "raw_text": "Tax Invoice\nGREAT ZONE HOUSEHOLD CENTRE SDN BHD\n(801049-U)\n60 & 62. Jalan Ciku,\n86000,KLUANG\nGST Reg.: 001833082880\nDocument No. : KLG0201130227\nDate :\n18/02/2018 06:08:59 PM\nDebtor :\nMember :\nTerminal :\nKLG0201\nCashier :\nKLG2\nDESC\nU. PRICE\nDisc\nAMOUNT TAX\nQTY\nRM\nRM CODE\n200SHEET COMPACT SERVIETTES (NTE)\n1 PC\nx\n3.30\n0.00\n3.30 SR\n1.5\" RUBBER BAND\n1 200G *\n3.60\n0.00\n3.60 SR\nPP 3X5 04\n1 200G *\n2.50\n0.00\n2.50 SR\n18MMX90Y OPP TAPE\n1 PC\n1.60\n0.00\n1.60 SR\n911 TAPE DISPENSER\n1 PC\n*\n8.60\n0.00\n8.60 SR\nPSI-890 PENSONIC DRY IRON WITH SPRAY\n1 PC\n*\n49.90\n0.00\n49.90 SR\nAP-17 APRON PLAIN CLOTH\n20 PC\n10.90\n0.00\n218.00 SR\nTALI UKURAN\n1 PC\n1.00\n0.00\n1.00 SR\nCC-100 100PC CITE CANDLE\n1 PC\n*\n22.90\n0.00\n22.90 SR\nF1502 SCISSOR 08C (CH) (TLC)\n6 PC\n水\n6.00\n0.00\n36.00 SR\n2KG HC KITCHEN SCALE\n1 PC\n*\n19.90\n0.00\n19.90 SR\nSub Total (Exclusive GST) :\n346.51\nGST 6% :\n20.79\nService Charge :\n0.00\nRounding Adjustment :\n0.00\nRounded Total(RM):\n367.30\nCredIt Card\n367.30\nGST Summary\nAmount(RM)\nTax(RM)\nSR @ 6%\n346.51\n20.79",
+  "warnings": [],
+  "receipt_id": "X51005806692",
+  "source_image": "X51005806692.jpg",
+  "ocr_confidence": 0.979
+}

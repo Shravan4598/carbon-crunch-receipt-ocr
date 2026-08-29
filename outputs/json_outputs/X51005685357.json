@@ -1,0 +1,30 @@
+{
+  "merchant": "For staff:Lleong Sang Fodle",
+  "receipt_date": "02/03/18",
+  "receipt_number": "71857936",
+  "items": [
+    {
+      "name": "ZRL @%",
+      "quantity": 1.0,
+      "unit_price": 0.0,
+      "total_price": 0.0
+    },
+    {
+      "name": "SR @%",
+      "quantity": 1.0,
+      "unit_price": 6.0,
+      "total_price": 6.0
+    }
+  ],
+  "subtotal": 111.3,
+  "discount": null,
+  "tax": 79.35,
+  "total": 79.35,
+  "payment_method": null,
+  "extraction_confidence": 0.954,
+  "raw_text": "3180301\nFor staff:Lleong Sang Fodle\nFarmasi Maluri S/B(587969-U)\nGST NO: 000342237184 (ID:5033)\n23, J1n Burung Jentayu, Tmn Bukit\nMaluri, Kepong, 52100 KL.\nTAX INVOICE\nCashier : pos1N\nM/c.ID : POS7\nReceipt : 71857936\n02/03/18 05:16 PM\nDescription\nDisc.\nSubtotal\n061558 - **BMS MILK THISTLE\n1 X 111.30\n36.75\n72.35 S\n910845 - TRILON-E CRM\n1 X7.00\n7.00 Z\nTOTAL (Including GST)\n79.35\nROUNDING\n0.00\nNET\n79.35\nTENDER\n100.00\nCHANGE/BALANCE\n20.65\nGST Summary Amt(Excl.Gst)\nTax(RM)\nZRL @0.00%\n7.00\n0.00\nSR @6.00%\n68.25\n4.-10\nGOODS SOLD ARE NON-REFUNDABLE BUT\nEXCHANGEABLE WITHIN 7 DAYS WITH\nRECEIPT PLUS GOODS ARE IN\nRESALEABLE CONDITION.\nAll face mask & injectable are\nnon-returnable & non -exchangeable\n**special promotion",
+  "warnings": [],
+  "receipt_id": "X51005685357",
+  "source_image": "X51005685357.jpg",
+  "ocr_confidence": 0.986
+}

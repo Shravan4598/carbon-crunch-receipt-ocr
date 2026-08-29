@@ -1,0 +1,19 @@
+{
+  "merchant": "TEO HENG STATIONERY S BOOKS",
+  "receipt_date": "27/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 0.0,
+  "total": 25.8,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.791,
+  "raw_text": "TEO HENG STATIONERY S BOOKS\n(001451437-M)\nNO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI\nSELANGOR DARULEHSAN\nTEL:03.3271 9872 FAX:08-32719481\nGST No. : 000689913856\nSIMPLIFIED TAX INVOICE\nCASH\nReceipt No. : CS1801/27175\nDate: 27/01/2018\nAMOUNT\nITEM\nQTY\nU/P\nDISC%\n(RM)\n1355\n3.96\n4.09\n3.80*\n- DOUBLE SIDE FOAM TAPE 18MM\n9557950605126\n5\n2.74\n4.96\n13.00*\n- CAMIS SQ BOOK 200\n5.47\n4.96\n5.20*\n9557369315029\n- EAGLE F4 200 FOOLSCAP BOOK\n3.96\n4.09\n3.80*\n9557369305006\n- EAGLE F4 120 NUMBERING FOOLSCAP\nBOOK\nTotal Qty. :\n8\n25.80\nSUB-TOTAL (EX)\n25.80\n1.55\nTOTAL TAX\nROUNDING\n0.00\nTOTAL\n27.35\nCASH\n27.35\nCHANGE\n0.00\nGST SUMMARY\nAMOUNT\nTAX\nTAX CODE\n%\n(RMD)\n(RM)\nSR\n6.00\n25.80\n1.55\nTOTAL:\n25.80\n1.55\nNote: (*) Indicated The Item Sold Has Been Related\nTo GST (Goods & Services Tax).\nGOODS SOLD ARE NOT RETURNABLE\nTHANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005361906",
+  "source_image": "X51005361906.jpg",
+  "ocr_confidence": 0.992
+}

@@ -1,0 +1,1290 @@
+{
+  "receipt_id": "X51005745249",
+  "source_image": "X51005745249.jpg",
+  "ocr_confidence": 0.99,
+  "lines": [
+    {
+      "text": "Subway#42210-0 Phone 03-78870693",
+      "confidence": 0.9987
+    },
+    {
+      "text": "URBAN 1DEA SDN BHD (417940-M),",
+      "confidence": 0.9993
+    },
+    {
+      "text": "A-G-06, DATARAN GLOMAC,",
+      "confidence": 0.9908
+    },
+    {
+      "text": "JALAN SS6/5A, PUSAT BANDAR KELANA JAYA,",
+      "confidence": 0.992
+    },
+    {
+      "text": "47301 PETALING JAYA, SELANGOR, Malaysia",
+      "confidence": 0.9911
+    },
+    {
+      "text": "Served by: rojan 27/02/2018 15:32:47",
+      "confidence": 0.9929
+    },
+    {
+      "text": "Tax Invoice# 1/A-42210-140220",
+      "confidence": 0.9979
+    },
+    {
+      "text": "GST ID: 000220499968",
+      "confidence": 0.9976
+    },
+    {
+      "text": "Qty Size Item",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Price",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bag Fee",
+      "confidence": 0.9992
+    },
+    {
+      "text": "RMO.20",
+      "confidence": 0.9273
+    },
+    {
+      "text": "(MY) EDV Meal",
+      "confidence": 0.993
+    },
+    {
+      "text": "RM11.90",
+      "confidence": 0.9999
+    },
+    {
+      "text": "6\" -Meatball Sub",
+      "confidence": 0.9706
+    },
+    {
+      "text": "-16oz Fountain Drink",
+      "confidence": 0.9983
+    },
+    {
+      "text": "-1 Cookies",
+      "confidence": 0.9994
+    },
+    {
+      "text": "(MY) EDV Meal",
+      "confidence": 0.9956
+    },
+    {
+      "text": "RM11.90",
+      "confidence": 0.9999
+    },
+    {
+      "text": "6\" -BBQ Chicken Strips Sub",
+      "confidence": 0.979
+    },
+    {
+      "text": "-16oz Fountain Drink",
+      "confidence": 0.9988
+    },
+    {
+      "text": "-1 Cookies",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Cash Rounding",
+      "confidence": 0.9873
+    },
+    {
+      "text": "-RM0.01",
+      "confidence": 0.9297
+    },
+    {
+      "text": "Total (Eat In)",
+      "confidence": 0.9979
+    },
+    {
+      "text": "RM24.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "人",
+      "confidence": 0.969
+    },
+    {
+      "text": "Cash",
+      "confidence": 1.0
+    },
+    {
+      "text": "RM30.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Change",
+      "confidence": 1.0
+    },
+    {
+      "text": "RM6.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Tax Info:",
+      "confidence": 0.9998
+    },
+    {
+      "text": "GST 6% (6%)",
+      "confidence": 0.9784
+    },
+    {
+      "text": "RM1.36",
+      "confidence": 0.9129
+    },
+    {
+      "text": "Total-Excl-GST",
+      "confidence": 0.9929
+    },
+    {
+      "text": "RM22.65",
+      "confidence": 1.0
+    },
+    {
+      "text": "Take our 1 Minute Survey at",
+      "confidence": 0.9999
+    },
+    {
+      "text": "www.tellsubway.my and get a FREE COOKIE",
+      "confidence": 0.9938
+    },
+    {
+      "text": "with next purchase.Redemption of 1",
+      "confidence": 0.9994
+    },
+    {
+      "text": "cookie per transaction",
+      "confidence": 0.9992
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "Subway#42210-0 Phone 03-78870693",
+      "confidence": 0.9987,
+      "box": [
+        96,
+        237,
+        617,
+        281
+      ],
+      "polygon": [
+        [
+          96,
+          237
+        ],
+        [
+          617,
+          237
+        ],
+        [
+          617,
+          281
+        ],
+        [
+          96,
+          281
+        ]
+      ]
+    },
+    {
+      "text": "URBAN 1DEA SDN BHD (417940-M),",
+      "confidence": 0.9993,
+      "box": [
+        112,
+        279,
+        592,
+        318
+      ],
+      "polygon": [
+        [
+          112,
+          279
+        ],
+        [
+          592,
+          279
+        ],
+        [
+          592,
+          318
+        ],
+        [
+          112,
+          318
+        ]
+      ]
+    },
+    {
+      "text": "A-G-06, DATARAN GLOMAC,",
+      "confidence": 0.9908,
+      "box": [
+        168,
+        322,
+        538,
+        361
+      ],
+      "polygon": [
+        [
+          168,
+          322
+        ],
+        [
+          538,
+          322
+        ],
+        [
+          538,
+          361
+        ],
+        [
+          168,
+          361
+        ]
+      ]
+    },
+    {
+      "text": "JALAN SS6/5A, PUSAT BANDAR KELANA JAYA,",
+      "confidence": 0.992,
+      "box": [
+        40,
+        361,
+        667,
+        400
+      ],
+      "polygon": [
+        [
+          40,
+          361
+        ],
+        [
+          667,
+          361
+        ],
+        [
+          667,
+          400
+        ],
+        [
+          40,
+          400
+        ]
+      ]
+    },
+    {
+      "text": "47301 PETALING JAYA, SELANGOR, Malaysia",
+      "confidence": 0.9911,
+      "box": [
+        40,
+        400,
+        671,
+        439
+      ],
+      "polygon": [
+        [
+          40,
+          400
+        ],
+        [
+          671,
+          400
+        ],
+        [
+          671,
+          439
+        ],
+        [
+          40,
+          439
+        ]
+      ]
+    },
+    {
+      "text": "Served by: rojan 27/02/2018 15:32:47",
+      "confidence": 0.9929,
+      "box": [
+        62,
+        437,
+        646,
+        479
+      ],
+      "polygon": [
+        [
+          62,
+          439
+        ],
+        [
+          645,
+          437
+        ],
+        [
+          646,
+          477
+        ],
+        [
+          62,
+          479
+        ]
+      ]
+    },
+    {
+      "text": "Tax Invoice# 1/A-42210-140220",
+      "confidence": 0.9979,
+      "box": [
+        119,
+        475,
+        592,
+        518
+      ],
+      "polygon": [
+        [
+          119,
+          477
+        ],
+        [
+          592,
+          475
+        ],
+        [
+          592,
+          516
+        ],
+        [
+          120,
+          518
+        ]
+      ]
+    },
+    {
+      "text": "GST ID: 000220499968",
+      "confidence": 0.9976,
+      "box": [
+        193,
+        553,
+        516,
+        592
+      ],
+      "polygon": [
+        [
+          193,
+          553
+        ],
+        [
+          516,
+          553
+        ],
+        [
+          516,
+          592
+        ],
+        [
+          193,
+          592
+        ]
+      ]
+    },
+    {
+      "text": "Qty Size Item",
+      "confidence": 0.9999,
+      "box": [
+        10,
+        633,
+        224,
+        673
+      ],
+      "polygon": [
+        [
+          10,
+          633
+        ],
+        [
+          224,
+          633
+        ],
+        [
+          224,
+          673
+        ],
+        [
+          10,
+          673
+        ]
+      ]
+    },
+    {
+      "text": "Price",
+      "confidence": 1.0,
+      "box": [
+        568,
+        635,
+        657,
+        671
+      ],
+      "polygon": [
+        [
+          568,
+          635
+        ],
+        [
+          657,
+          635
+        ],
+        [
+          657,
+          671
+        ],
+        [
+          568,
+          671
+        ]
+      ]
+    },
+    {
+      "text": "Bag Fee",
+      "confidence": 0.9992,
+      "box": [
+        152,
+        714,
+        274,
+        755
+      ],
+      "polygon": [
+        [
+          152,
+          714
+        ],
+        [
+          274,
+          714
+        ],
+        [
+          274,
+          755
+        ],
+        [
+          152,
+          755
+        ]
+      ]
+    },
+    {
+      "text": "RMO.20",
+      "confidence": 0.9273,
+      "box": [
+        551,
+        708,
+        657,
+        749
+      ],
+      "polygon": [
+        [
+          551,
+          708
+        ],
+        [
+          657,
+          708
+        ],
+        [
+          657,
+          749
+        ],
+        [
+          551,
+          749
+        ]
+      ]
+    },
+    {
+      "text": "(MY) EDV Meal",
+      "confidence": 0.993,
+      "box": [
+        156,
+        751,
+        366,
+        792
+      ],
+      "polygon": [
+        [
+          156,
+          751
+        ],
+        [
+          366,
+          751
+        ],
+        [
+          366,
+          792
+        ],
+        [
+          156,
+          792
+        ]
+      ]
+    },
+    {
+      "text": "RM11.90",
+      "confidence": 0.9999,
+      "box": [
+        538,
+        749,
+        659,
+        790
+      ],
+      "polygon": [
+        [
+          538,
+          749
+        ],
+        [
+          659,
+          749
+        ],
+        [
+          659,
+          790
+        ],
+        [
+          538,
+          790
+        ]
+      ]
+    },
+    {
+      "text": "6\" -Meatball Sub",
+      "confidence": 0.9706,
+      "box": [
+        106,
+        790,
+        368,
+        831
+      ],
+      "polygon": [
+        [
+          106,
+          790
+        ],
+        [
+          368,
+          790
+        ],
+        [
+          368,
+          831
+        ],
+        [
+          106,
+          831
+        ]
+      ]
+    },
+    {
+      "text": "-16oz Fountain Drink",
+      "confidence": 0.9983,
+      "box": [
+        172,
+        829,
+        497,
+        867
+      ],
+      "polygon": [
+        [
+          172,
+          829
+        ],
+        [
+          497,
+          829
+        ],
+        [
+          497,
+          867
+        ],
+        [
+          172,
+          867
+        ]
+      ]
+    },
+    {
+      "text": "-1 Cookies",
+      "confidence": 0.9994,
+      "box": [
+        172,
+        871,
+        337,
+        906
+      ],
+      "polygon": [
+        [
+          172,
+          871
+        ],
+        [
+          337,
+          871
+        ],
+        [
+          337,
+          906
+        ],
+        [
+          172,
+          906
+        ]
+      ]
+    },
+    {
+      "text": "(MY) EDV Meal",
+      "confidence": 0.9956,
+      "box": [
+        156,
+        908,
+        368,
+        949
+      ],
+      "polygon": [
+        [
+          156,
+          908
+        ],
+        [
+          368,
+          908
+        ],
+        [
+          368,
+          949
+        ],
+        [
+          156,
+          949
+        ]
+      ]
+    },
+    {
+      "text": "RM11.90",
+      "confidence": 0.9999,
+      "box": [
+        536,
+        904,
+        659,
+        947
+      ],
+      "polygon": [
+        [
+          536,
+          904
+        ],
+        [
+          659,
+          904
+        ],
+        [
+          659,
+          947
+        ],
+        [
+          536,
+          947
+        ]
+      ]
+    },
+    {
+      "text": "6\" -BBQ Chicken Strips Sub",
+      "confidence": 0.979,
+      "box": [
+        106,
+        947,
+        528,
+        986
+      ],
+      "polygon": [
+        [
+          106,
+          947
+        ],
+        [
+          528,
+          947
+        ],
+        [
+          528,
+          986
+        ],
+        [
+          106,
+          986
+        ]
+      ]
+    },
+    {
+      "text": "-16oz Fountain Drink",
+      "confidence": 0.9988,
+      "box": [
+        173,
+        990,
+        495,
+        1023
+      ],
+      "polygon": [
+        [
+          173,
+          990
+        ],
+        [
+          495,
+          990
+        ],
+        [
+          495,
+          1023
+        ],
+        [
+          173,
+          1023
+        ]
+      ]
+    },
+    {
+      "text": "-1 Cookies",
+      "confidence": 0.9988,
+      "box": [
+        173,
+        1029,
+        335,
+        1063
+      ],
+      "polygon": [
+        [
+          173,
+          1029
+        ],
+        [
+          335,
+          1029
+        ],
+        [
+          335,
+          1063
+        ],
+        [
+          173,
+          1063
+        ]
+      ]
+    },
+    {
+      "text": "Cash Rounding",
+      "confidence": 0.9873,
+      "box": [
+        8,
+        1104,
+        225,
+        1143
+      ],
+      "polygon": [
+        [
+          8,
+          1104
+        ],
+        [
+          225,
+          1104
+        ],
+        [
+          225,
+          1143
+        ],
+        [
+          8,
+          1143
+        ]
+      ]
+    },
+    {
+      "text": "-RM0.01",
+      "confidence": 0.9297,
+      "box": [
+        538,
+        1098,
+        655,
+        1139
+      ],
+      "polygon": [
+        [
+          538,
+          1098
+        ],
+        [
+          655,
+          1098
+        ],
+        [
+          655,
+          1139
+        ],
+        [
+          538,
+          1139
+        ]
+      ]
+    },
+    {
+      "text": "Total (Eat In)",
+      "confidence": 0.9979,
+      "box": [
+        10,
+        1143,
+        237,
+        1184
+      ],
+      "polygon": [
+        [
+          10,
+          1143
+        ],
+        [
+          237,
+          1143
+        ],
+        [
+          237,
+          1184
+        ],
+        [
+          10,
+          1184
+        ]
+      ]
+    },
+    {
+      "text": "RM24.00",
+      "confidence": 1.0,
+      "box": [
+        536,
+        1139,
+        661,
+        1180
+      ],
+      "polygon": [
+        [
+          536,
+          1139
+        ],
+        [
+          661,
+          1139
+        ],
+        [
+          661,
+          1180
+        ],
+        [
+          536,
+          1180
+        ]
+      ]
+    },
+    {
+      "text": "人",
+      "confidence": 0.969,
+      "box": [
+        671,
+        1141,
+        707,
+        1174
+      ],
+      "polygon": [
+        [
+          671,
+          1141
+        ],
+        [
+          707,
+          1141
+        ],
+        [
+          707,
+          1174
+        ],
+        [
+          671,
+          1174
+        ]
+      ]
+    },
+    {
+      "text": "Cash",
+      "confidence": 1.0,
+      "box": [
+        6,
+        1180,
+        85,
+        1223
+      ],
+      "polygon": [
+        [
+          6,
+          1180
+        ],
+        [
+          85,
+          1180
+        ],
+        [
+          85,
+          1223
+        ],
+        [
+          6,
+          1223
+        ]
+      ]
+    },
+    {
+      "text": "RM30.00",
+      "confidence": 1.0,
+      "box": [
+        538,
+        1182,
+        657,
+        1217
+      ],
+      "polygon": [
+        [
+          538,
+          1182
+        ],
+        [
+          657,
+          1182
+        ],
+        [
+          657,
+          1217
+        ],
+        [
+          538,
+          1217
+        ]
+      ]
+    },
+    {
+      "text": "Change",
+      "confidence": 1.0,
+      "box": [
+        8,
+        1219,
+        112,
+        1261
+      ],
+      "polygon": [
+        [
+          8,
+          1219
+        ],
+        [
+          112,
+          1219
+        ],
+        [
+          112,
+          1261
+        ],
+        [
+          8,
+          1261
+        ]
+      ]
+    },
+    {
+      "text": "RM6.00",
+      "confidence": 0.9999,
+      "box": [
+        551,
+        1219,
+        659,
+        1259
+      ],
+      "polygon": [
+        [
+          551,
+          1219
+        ],
+        [
+          659,
+          1219
+        ],
+        [
+          659,
+          1259
+        ],
+        [
+          551,
+          1259
+        ]
+      ]
+    },
+    {
+      "text": "Tax Info:",
+      "confidence": 0.9998,
+      "box": [
+        10,
+        1337,
+        160,
+        1382
+      ],
+      "polygon": [
+        [
+          10,
+          1337
+        ],
+        [
+          160,
+          1337
+        ],
+        [
+          160,
+          1382
+        ],
+        [
+          10,
+          1382
+        ]
+      ]
+    },
+    {
+      "text": "GST 6% (6%)",
+      "confidence": 0.9784,
+      "box": [
+        12,
+        1419,
+        189,
+        1454
+      ],
+      "polygon": [
+        [
+          12,
+          1419
+        ],
+        [
+          189,
+          1419
+        ],
+        [
+          189,
+          1454
+        ],
+        [
+          12,
+          1454
+        ]
+      ]
+    },
+    {
+      "text": "RM1.36",
+      "confidence": 0.9129,
+      "box": [
+        551,
+        1413,
+        659,
+        1455
+      ],
+      "polygon": [
+        [
+          551,
+          1413
+        ],
+        [
+          659,
+          1413
+        ],
+        [
+          659,
+          1455
+        ],
+        [
+          551,
+          1455
+        ]
+      ]
+    },
+    {
+      "text": "Total-Excl-GST",
+      "confidence": 0.9929,
+      "box": [
+        12,
+        1455,
+        239,
+        1494
+      ],
+      "polygon": [
+        [
+          12,
+          1455
+        ],
+        [
+          239,
+          1455
+        ],
+        [
+          239,
+          1494
+        ],
+        [
+          12,
+          1494
+        ]
+      ]
+    },
+    {
+      "text": "RM22.65",
+      "confidence": 1.0,
+      "box": [
+        536,
+        1454,
+        659,
+        1494
+      ],
+      "polygon": [
+        [
+          536,
+          1454
+        ],
+        [
+          659,
+          1454
+        ],
+        [
+          659,
+          1494
+        ],
+        [
+          536,
+          1494
+        ]
+      ]
+    },
+    {
+      "text": "Take our 1 Minute Survey at",
+      "confidence": 0.9999,
+      "box": [
+        11,
+        1531,
+        449,
+        1574
+      ],
+      "polygon": [
+        [
+          11,
+          1533
+        ],
+        [
+          449,
+          1531
+        ],
+        [
+          449,
+          1572
+        ],
+        [
+          12,
+          1574
+        ]
+      ]
+    },
+    {
+      "text": "www.tellsubway.my and get a FREE COOKIE",
+      "confidence": 0.9938,
+      "box": [
+        10,
+        1570,
+        642,
+        1613
+      ],
+      "polygon": [
+        [
+          10,
+          1572
+        ],
+        [
+          642,
+          1570
+        ],
+        [
+          642,
+          1611
+        ],
+        [
+          10,
+          1613
+        ]
+      ]
+    },
+    {
+      "text": "with next purchase.Redemption of 1",
+      "confidence": 0.9994,
+      "box": [
+        12,
+        1613,
+        563,
+        1651
+      ],
+      "polygon": [
+        [
+          12,
+          1613
+        ],
+        [
+          563,
+          1613
+        ],
+        [
+          563,
+          1651
+        ],
+        [
+          12,
+          1651
+        ]
+      ]
+    },
+    {
+      "text": "cookie per transaction",
+      "confidence": 0.9992,
+      "box": [
+        12,
+        1651,
+        372,
+        1692
+      ],
+      "polygon": [
+        [
+          12,
+          1651
+        ],
+        [
+          372,
+          1651
+        ],
+        [
+          372,
+          1692
+        ],
+        [
+          12,
+          1692
+        ]
+      ]
+    }
+  ],
+  "raw_text": "Subway#42210-0 Phone 03-78870693\nURBAN 1DEA SDN BHD (417940-M),\nA-G-06, DATARAN GLOMAC,\nJALAN SS6/5A, PUSAT BANDAR KELANA JAYA,\n47301 PETALING JAYA, SELANGOR, Malaysia\nServed by: rojan 27/02/2018 15:32:47\nTax Invoice# 1/A-42210-140220\nGST ID: 000220499968\nQty Size Item\nPrice\nBag Fee\nRMO.20\n(MY) EDV Meal\nRM11.90\n6\" -Meatball Sub\n-16oz Fountain Drink\n-1 Cookies\n(MY) EDV Meal\nRM11.90\n6\" -BBQ Chicken Strips Sub\n-16oz Fountain Drink\n-1 Cookies\nCash Rounding\n-RM0.01\nTotal (Eat In)\nRM24.00\n人\nCash\nRM30.00\nChange\nRM6.00\nTax Info:\nGST 6% (6%)\nRM1.36\nTotal-Excl-GST\nRM22.65\nTake our 1 Minute Survey at\nwww.tellsubway.my and get a FREE COOKIE\nwith next purchase.Redemption of 1\ncookie per transaction"
+}

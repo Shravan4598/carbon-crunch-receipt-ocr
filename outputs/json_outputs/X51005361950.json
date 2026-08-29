@@ -1,0 +1,19 @@
+{
+  "merchant": "PAID",
+  "receipt_date": "24-01-18",
+  "receipt_number": "18287/102/T0049",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 2.5,
+  "total": 2.5,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.838,
+  "raw_text": "PAID\n99 SPEED MART S/B 0519537-X)\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1076-IJOK\nGST ID. NO : 000181747712\nINVOICE NO : 18287/102/T0049\n10:43AM\n568582\n24-01-18\n1973 GARBAGE BAG (BLUE) 74C\nRM1.25 s\n1974 GARBAGE BAG (GREEN) 74\nRM1.25 s\nTotal Sales (Inclusive GST) RM\n2.50\nCASH RM\n5.00\nCHANGE RM\n2.50\nGST Summary\nAmount(RM)\nTax(RM)\ns = 6%\n2.36\n.14\nThank You. Please come again\nKeep the invoice for applicable returns",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005361950",
+  "source_image": "X51005361950.jpg",
+  "ocr_confidence": 0.984
+}

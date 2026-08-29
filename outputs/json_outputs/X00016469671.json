@@ -1,0 +1,19 @@
+{
+  "merchant": "tan chay yee",
+  "receipt_date": "02/01/2019",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": null,
+  "total": 170.0,
+  "payment_method": "VISA",
+  "extraction_confidence": 0.743,
+  "raw_text": "tan chay yee\nOJC MARKETING SDN BHD\nROC NO: 538358-H\nNO 2 & 4, JALAN BAYU 4,\nBANDAR SERI ALAM,\n81750 MASAI, JOHOR\nTel:07-388 2218 Fax:07-388 8218\nEmail: ng@ojcgroup.com\nCash Bill\nInvoice No\n:PEGIV-1030531\nDate\n02/01/2019 2:47:14 PM\nCashier\n: RHYS TAN\nSales Persor : FATIN\nDescription\nQty\nPrice\nAmount\n000000111\n1 170.00\n170.00\nKINGS SAFETY\nP004\nSHOES KWD 805\nQty: 1 Total Item Discount:\n0.00\nTotal Amount:\n170.00\nRound Amt:\n0.00\nTOTAL:\n170.00\nVISA CARD\n170.00\nxxxxxxxxxxxx4318\nApproval Code:123\n170.00\nGoods Sold Are Not Returnable & Refundable\n****Thank You. Please Come Again.****",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X00016469671",
+  "source_image": "X00016469671.jpg",
+  "ocr_confidence": 0.995
+}

@@ -1,0 +1,54 @@
+{
+  "merchant": "KAISON FURNISHING SDN BHD",
+  "receipt_date": "29-01-18",
+  "receipt_number": "1603029175",
+  "items": [
+    {
+      "name": "122 pcs @",
+      "quantity": 1.0,
+      "unit_price": 18.9,
+      "total_price": 18.9
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 2305.8,
+      "total_price": 2305.8
+    },
+    {
+      "name": "240 pcs @",
+      "quantity": 1.0,
+      "unit_price": 13.9,
+      "total_price": 13.9
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 3336.0,
+      "total_price": 3336.0
+    },
+    {
+      "name": "130 pcs @",
+      "quantity": 1.0,
+      "unit_price": 16.9,
+      "total_price": 16.9
+    },
+    {
+      "name": "SF",
+      "quantity": 1.0,
+      "unit_price": 2197.0,
+      "total_price": 2197.0
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": null,
+  "total": 7395.09,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.877,
+  "raw_text": "KAISON FURNISHING SDN BHD\nL4-17 (B), Level 4,\nUP2-01, Melawati Mall,\n355, Jalan Bandar Melawati,\nPusat Bandar Melawati,\n53100 Kuala Lumpur.\nCo. Reg No. (761834-D)\nGST Reg No. 001813975040\nTel: 03 - 41019864\nSlip\n0000MLW-P3000024348\nStaff: 1799 Siti Izza Trans: 1603029175\nDate: 29-01-18 20:38\nDescription\nAmount(RM)\nBarcode:\n10182079\nFLOWER BUNCH - ROSE\n122 pcs @ 18.90\n2,305.80 SR\nItem No.:\n30001640\nFLOWER BUNCH - CRYST\n240 pcs @ 13.90\n3,336.00 SR\nItem No.: 30001635\nFLOWER BUNCH - 7HO P\n130 pcs @ 16.90\n2,197.00 SF\nTotal RM\n7,838.80\nCASH (MYR)\n7,840.00\nChange\n1.20\nGST%\nAmt(RM)\nGST(RM)\nTotal(RM)\nSR\n7,395.09\n6\n443.71\n7,838.80\nGOODS SOLD ARE NON-CASH REFUNDABLE.\nEXCHANGE OF GOODS WITHIN 14 DAYS\nACCOMPANIED BY ORIGINAL RECEIPT.",
+  "warnings": [],
+  "receipt_id": "X51005806678",
+  "source_image": "X51005806678.jpg",
+  "ocr_confidence": 0.992
+}

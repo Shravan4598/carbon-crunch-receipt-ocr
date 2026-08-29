@@ -1,0 +1,20 @@
+{
+  "merchant": "GOLDEN KEY MAKER",
+  "receipt_date": null,
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": null,
+  "total": 21.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.639,
+  "raw_text": "31803053\nGOLDEN KEY MAKER\n(000760274-K)\nNo 5, Jalan Kenari 2,\nBandar Puchong Jaya,\n47100 Puchong, Selangor\nTEL:03-58919941\nFAX:03-58919941\nE-Mail: goldenkeymaker@gmail.com\nWebsite: www.goldenkeymaker.com\nS/P : HOE\nInv No : CS-0014134\n24-Mar-2018 03:44:22 PM\nINVOICE\nNo.Desc/Code\nQty\nPrice Disc%\nAmount\n1 NORMAL KEY\n33100\n4\n4.00\n0.00\n16.00\n2 NORMAL KEY LONG\n33101\n1\n5.00\n0.00\n5.00\nTotal Qty : 5\nSub-Total :\n21.00\nDiscount :\n0.00\nNet Total :\n21.00\nCash Received :\n50.00\nChange :\n29.00\nGOODS SOLD ARE NOT RETURNABLE/REFUNDABLE",
+  "warnings": [
+    "Receipt date could not be identified.",
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005757349",
+  "source_image": "X51005757349.jpg",
+  "ocr_confidence": 0.997
+}

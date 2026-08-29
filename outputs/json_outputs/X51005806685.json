@@ -1,0 +1,19 @@
+{
+  "merchant": "ADVANCO COMPANY",
+  "receipt_date": "17/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 29.0,
+  "total": 27.36,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.788,
+  "raw_text": "ADVANCO COMPANY\nCompany Reg. No. : 725186-V\nNO 1&3, Jalan Wangsa Delima 12,\nWangsa Link, Wangsa Maju,\n53300 Kuala Lumpur\n03-41318972\nGST Reg: 001658445824\nTAX INVOICE\nCB#:389772\n17/01/2018 8.08:53\nM#: M1-0\nCashier: c1000-\nQty Description\nPrice\nTotai\nCANON PG-47BK E400 BLACK FINE( SR\n1 27736\n29.00\n29.00\nType:\n1\nTotal\n29.00\nRounding Adj\n0.00\nTotal Inclusive GST:\n29.00\nCASH\n50.00\nChange\n21.00\nGST Summary\nCode\n0%\nNet Amt\nGST\nTotal\nSR\n6%\n27.36\n1.64\n29.00\nTotal\n27.36\n1.64\n29.00\nThank you & Please come again.\nGoods soid are not returnable for refund or\nexchange !!",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005806685",
+  "source_image": "X51005806685.jpg",
+  "ocr_confidence": 0.984
+}

@@ -1,0 +1,24 @@
+{
+  "merchant": "SUN WONG KUT SDN BHD",
+  "receipt_date": "21/02/18",
+  "receipt_number": "60000483942",
+  "items": [
+    {
+      "name": "litre Pump # 07",
+      "quantity": 1.0,
+      "unit_price": 39.54,
+      "total_price": 39.54
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 39.54,
+  "total": 88.17,
+  "payment_method": "VISA",
+  "extraction_confidence": 0.922,
+  "raw_text": "SUN WONG KUT SDN BHD\nCompany No: 20965-W\nSite: 1046\n176 JLN SUNGEIBESI\n57100 KUALA LUMPUR\nTelephone: 03-9221345\nGST No: 001580630016\nInvoice number: 60000483942\n39.54 litre Pump # 07\nFuelSave 95\nRM\n88.17 C\n2.230 RM\n/litre\nTotal\nRM\n88.17\nVisa\nRM\n88.17\nRelief GST\nC RM\n0.00\nTotal Gross\nCRM\n88.17\nShell Loyalty Card\n6018840059147765\nPoints Awarded: 39\nDate\nTime Num\nOPT\n21/02/18 11:19 40278 07\nDiesel & Petrol RON95\ngiven Relief under Section\n56 (3) (b) GST Act 2014\nThank you\nPleasecome again",
+  "warnings": [],
+  "receipt_id": "X51005447833",
+  "source_image": "X51005447833.jpg",
+  "ocr_confidence": 0.982
+}

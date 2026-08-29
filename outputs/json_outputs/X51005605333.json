@@ -1,0 +1,24 @@
+{
+  "merchant": "POPULAR BOOK",
+  "receipt_date": "07/01/18",
+  "receipt_number": "364810",
+  "items": [
+    {
+      "name": "3pc @",
+      "quantity": 1.0,
+      "unit_price": 13.69,
+      "total_price": 13.69
+    }
+  ],
+  "subtotal": null,
+  "discount": 9.6,
+  "tax": 31.47,
+  "total": 9.6,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.927,
+  "raw_text": "POPULAR BOOK\nCO. (M) SDN BHD\n(Company No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/1188, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nKL FESTIVAL CITY MALL\nTel : 03-41424540/20\n07/01/18 14:41\nSlip No.: 7010385084\nNorhasmida\nTrans: 364810\nDescription\nAmount\n70g P.Copy 450'S\n3pc @ 13.69\n41.07 T\nStat-Great Saving\n-9.60\nTotal RM Incl. of GST\n31.47\nRounding Adj\n-0.02\nTotal RM\n31.45\nCash\n-50.00\nCHANGE\n18.55\nItem Count\n3\nGST\nmary Amount (RM)\nTax (RH)\nT 0 6%\n29.69\n1.78\nTotal Savings\n-9.60\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my",
+  "warnings": [],
+  "receipt_id": "X51005605333",
+  "source_image": "X51005605333.jpg",
+  "ocr_confidence": 0.993
+}

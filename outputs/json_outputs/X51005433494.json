@@ -1,0 +1,19 @@
+{
+  "merchant": "AEON CO. (M) BHD (126926-H)",
+  "receipt_date": "06/03/2018",
+  "receipt_number": "2018030610100080498",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 75.0,
+  "total": 70.75,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.839,
+  "raw_text": "A03066\nAEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2230 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n1x 000007996511\n75.00SR\nAMBROSIAL GREEK\nSub-total\n75.00\nTotal Sales Incì GST\n75.00\nTotal After Adj Incl GST\n75.00\nCASH\n100.00\nItem Count 1\nChange Ant\n25.00\nInvoice No: 2018030610100080498\nGST Summary\nAmount\nTax\n5R 6 5%\n70.75\n4.25\nTotal\n70.75\n4.25\n06/03/2018 20:01\n1010 008 0080498\n0305582 PJ PIRYALATHA\nAEON PERMAS JAYA\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005433494",
+  "source_image": "X51005433494.jpg",
+  "ocr_confidence": 0.986
+}

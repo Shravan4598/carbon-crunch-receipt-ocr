@@ -1,0 +1,19 @@
+{
+  "merchant": "per",
+  "receipt_date": "18/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 26.6,
+  "total": 1.51,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.788,
+  "raw_text": "1kL\nper\n1950\n0598\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nformerly known as\nGolden Arches Restaurants Sdn Bhd\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's BHP Taman Melawati(#328)\nTel No. 03-4162-2318\nTAX INVOICE\nMFY Side 1\nINV#003281900229170\nORD #50-REG #19- 18/01/2018 10:27:03\nQTY ITEM\nTOTAL\n2ChicMcMuffin\n11.00\n1 M Porridge\n5.60\n1 BM 2HotCakes\n10.00\n1 L Coke\nTakeOut Total (incl GST)\n26.60\nTotal Rounded\n26.60\nCash Tendered\n100.00\nChange\n73.40\nTOTAL INCLUDES 6% GST\n1.51\nWe'd love to hear your feedback!\nsit www.mcdfeedback.com.my\nOR\nDownload My McD Feedback from\nGoogle Play/App Store\nto share your experience\nThank You and Please Come Again.\nCustomer Service Hotline : 03-2726-5600",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005230617",
+  "source_image": "X51005230617.jpg",
+  "ocr_confidence": 0.984
+}

@@ -1,0 +1,48 @@
+{
+  "merchant": "tan woon yann",
+  "receipt_date": "18-11-18",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 30.91,
+      "total_price": 30.91
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 0.01,
+      "total_price": 0.01
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 30.9,
+      "total_price": 30.9
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 51.0,
+      "total_price": 51.0
+    },
+    {
+      "name": "RM",
+      "quantity": 1.0,
+      "unit_price": 20.1,
+      "total_price": 20.1
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": null,
+  "total": 30.9,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.815,
+  "raw_text": "tan woon yann\nMR D.I.Y. (M) SDN BHD\n(CO.REG: 860671-D)\n10T 1851-A & 1851-B. JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(TESCO PUTRA NILAI)\n-INVOICE-\nKILAT'AUTO ECO WASH & SHINE ES1000 1L\nWA45-/2A - 12\n9555916500133\n1 X 3.11\n3.11\nKILAT' ECO AUTO WASH &WAX EW-1000-1L\nWA44-A - 12\n9555916500126\n1 X 4.62\n4.62\nWD40 277ml M00 2572\nWA43-A - 24\n079567600084\n1 X 11.23\n11.23\nKLEENSO AJAIB 99 SERAI WANYI 900G\nWD00- 15\n9555651400385\n1 X 7.45\n7.45\nHANDKERCHIEF 71386#2PCS\nPI12PJ11-4 - 6/300\n9090822\n1 X 4.50\n4.50\nItem(s) : 5\nQty(s) : 5\nTotal\nRM 30.91\nROUNDING ADJUSTMENT\n-RM 0.01\nTOTAL ROUNDED\nRM 30.90\nCASH\n30.90\nRM 51.00\nCHANGE\nRM 20.10\n+\n-*\n18-11-18 13:58 SH01 ZI53\nT2 R000002902\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND.",
+  "warnings": [],
+  "receipt_id": "X00016469623",
+  "source_image": "X00016469623.jpg",
+  "ocr_confidence": 0.966
+}

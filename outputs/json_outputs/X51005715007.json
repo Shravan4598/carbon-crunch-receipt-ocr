@@ -1,0 +1,36 @@
+{
+  "merchant": "KAISON FURNISHING SDN BHD",
+  "receipt_date": "25-03-18",
+  "receipt_number": "1502102697",
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 8.9,
+      "total_price": 8.9
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 5.9,
+      "total_price": 5.9
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 3.9,
+      "total_price": 3.9
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": null,
+  "total": 18.7,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.877,
+  "raw_text": "3-1708032\nKAISON FURNISHING SDN BHD\nLot No. L3-012, Leve1 3,\nMyTOWN Shopping Centre,\nNo. 6, Jalan Cochrane,\nSeksyen 90\n55100 Kuala Lumpur.\nCo. Reg No. (761834-D)\nGST Reg No. 001813975040\nTel: 03 - 92017701\nSlip\n0000MTW-P2000086706\nStaff: 1710 Athirah\nTrans: 1502102697\nDate: 25-03-18 18:34\nDescription\nAmount(RM)\nItem No.:30000545\nPLASTIC TRAY-GLOSS R pcs\n8.90 SR\nItem No.: 30001916\nKEYCHAIN - SCARF STA pCs\n5.90 SR\nItem No.: 30001918\nKEYCHAIN - KNIT SCAR pCS\n3.90 SR\nTotal RM\n18.70\nCASH (MYR)\n-20.00\nChange\n1.30\nGST%\nAmt(RM)\nGST(RM)\nTotal(RM)\nSR\n6\n17.64\n1.06\n18.70\nGOODS SOLD ARE NON-CASH REFUNDABLE.\nEXCHANGE OF GOODS WITHIN 14 DAYS\nACCOMPANIED BY ORIGINAL RECEIPT.",
+  "warnings": [],
+  "receipt_id": "X51005715007",
+  "source_image": "X51005715007.jpg",
+  "ocr_confidence": 0.994
+}

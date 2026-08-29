@@ -1,0 +1,19 @@
+{
+  "merchant": "Gerbang Alaf Restaurants Sdn Bhd",
+  "receipt_date": "11/03/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 8.5,
+  "total": 0.48,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.792,
+  "raw_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nformerly known as\nGolden Arches Restaurants Sdn Bhd\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's MRR2 Kepong DT(#251)\nTel No. 03-6259-6498\nTAX INVOICE\nINV#002511900167877\n0RD #41 -REG #19- 11/03/2018 14:31\nQTY ITEM\nTOTAL\n2 ChocTop\n4.00\n1 McFlurryOreos\n4.50\nTakeOut Total (incl GST)\n8.50\nTotal Rounded\n8.50\nCash Tendered\n10.00\nChange\n1.50\nTOTAL INCLUDES 6% GST\n0.48\nThank You and Please Come Again.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719903",
+  "source_image": "X51005719903.jpg",
+  "ocr_confidence": 0.994
+}

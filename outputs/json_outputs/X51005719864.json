@@ -1,0 +1,19 @@
+{
+  "merchant": "FUN N CHEER (MALURI)",
+  "receipt_date": "05/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 1.69,
+  "total": 1.69,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.792,
+  "raw_text": "FUN N CHEER (MALURI)\nLOT 37636,JALAN 6/37A,\nTAMAN BUKIT MALURI,\n52100 KUALA LUMPUR\nTe1:03-62612536\nTAX INVOICE\n(GST ID No. : 001439154176)\n05/01/2018\nCashier: CSO1\n11:44:44 S/P:MAL\nNo:0200419363\nItem/Desc.\nQty\nPrice\nAmt.\nKAIN BEBOLA(S)SHA\nBU\nSR\n0412638\n2\n14.90\n29.80\nTotal Qty\n2\n28.11\nTOTAL EXCL.GST\nADD : GST @6% On\n1.69\n29.80\nCASH\n50.00\nCHANGE\n20.20\nGST summary\nAmount RM\nTax RM\nSR =\n6%\n28.11\n1.69\n0.00\n0.00\nGOODS SOLD ARE NOT RETURNABLE\nTHANK YOU! PLEASE COME AGAIN!",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719864",
+  "source_image": "X51005719864.jpg",
+  "ocr_confidence": 0.994
+}

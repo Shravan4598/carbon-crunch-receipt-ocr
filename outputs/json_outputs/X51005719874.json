@@ -1,0 +1,20 @@
+{
+  "merchant": "NADEJE PRESTIGE SDN BHD",
+  "receipt_date": "2018/02/22",
+  "receipt_number": "000-074020",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": null,
+  "total": null,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.668,
+  "raw_text": "NADEJE PRESTIGE SDN BHD\nLOT NO.:G1.116A,GROUND FL00R,\nSUNWAY PYRAMID,NO.3,JALAN PJS 11/15,\nBANDAR SUNWAY,47500 PETALING JAYA.\n(1198447-X)\nGST ID:000182431744\nTAX INVOICE\nInvoice: 000-074020\nTake Out\nDate: 2018/02/22 13:34:14\nOriginal Slice\n2\nRM26.00\nDoubleChoc Slice\n1\nRM13.00\nGrand Total RM39.00\n(Bill Inclusive of 6% GST : RM2.21)\nCash\nRM50.00\nChange\nRM11.00\n001-2018/02/22 13:34:27 Myo Tun(1) 000-074020 [1]",
+  "warnings": [
+    "Receipt total could not be confidently identified.",
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719874",
+  "source_image": "X51005719874.jpg",
+  "ocr_confidence": 0.995
+}

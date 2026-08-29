@@ -1,0 +1,19 @@
+{
+  "merchant": "SIMPLIFIED TAX INVOICE",
+  "receipt_date": "29/01/2018",
+  "receipt_number": "CS00123688",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 1.26,
+  "total": 1.26,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.839,
+  "raw_text": "SIMPLIFIED TAX INVOICE\nAA PHARMACY\n1188096-W\nGST NO: 001930047488\nNO.47, JALAN 3/36,\nBUKIT SRI BINTANG\nKEPONG 52100, KUALA LUMPUR\nTEL: 03-6263~8480 FAX: 03-6263 8480\nCASH\nRECEIPT #: CS00123688 DATE: 29/01/2018\nSALESPERSON :C2\nTIME:12:09:00\nCASHIER : C2\nITEM\nQTY\nU/P\nAMOUNT\n930602\n4\n3.00\n12.00 Z\nIBUPROFEN FILM COATED TAB\n9556492002837\n4\n3.00\n12.00 Z\nFEBRICOL - RX 10X10'5\n940152\n6\n3.49\n20.94 S\nNOFLUX TABLET\nTOTAL QUANTITY\n14\nSUB-TOTAL\n44.94\nDISC\n0.00\nGST\n1.26\nROUNDING\n0.00\nTOTAL\n46-20\nMASTER\n46.20\nCHANGE\n0-00\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.\nS=STANDARD RATED, Z=ZERO RATED\nGST SUMMARY\nCODE\nAMOUNT\n%\nTAX/AMT\nSR\n20.94\n6\n1.26\nZRL\n24.00\n0\n0.00\nTAX TOTAL:\n1.26",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719823",
+  "source_image": "X51005719823.jpg",
+  "ocr_confidence": 0.987
+}

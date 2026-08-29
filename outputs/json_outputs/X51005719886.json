@@ -1,0 +1,20 @@
+{
+  "merchant": "SUNFISH",
+  "receipt_date": "05/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": 28.7,
+  "discount": null,
+  "tax": 1.62,
+  "total": null,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.739,
+  "raw_text": "SUNFISH\n<484297-M>\n22 LRG PERUSAHAAN 4\nKIMPAL INDS.PARK B.CAVES\nTEL : 03-61855688\nNO\n10256\nTABLE\n12\nSALTED F.RICE\n8.50\nêFRIED EGG\n1.80\nNASI LEMAK DRUMSTICK\n9.80\nSOYA CINCAU\n4.30\nLARGE / ICE TEA\n4.30\nSUBTOTAL\n28.70\nRM CASH\n100.00\nCHANGE\n71.30\nINC 6% GST\n1.62\nTAX INVOICE\n#001-001-0934-0001 05/01/2018 13:30-R\nGST : 002008047616\nTHANKYOU",
+  "warnings": [
+    "Receipt total could not be confidently identified.",
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719886",
+  "source_image": "X51005719886.jpg",
+  "ocr_confidence": 0.997
+}

@@ -1,0 +1,19 @@
+{
+  "merchant": "Salon Du Chocolat",
+  "receipt_date": "19-02-2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 20.4,
+  "total": 23.8,
+  "payment_method": null,
+  "extraction_confidence": 0.749,
+  "raw_text": "Salon Du Chocolat\nALI BABA INTERNATIONAL SDN BHD(955950-H)\nPublika Shopping Gallery\nLot 26-27,Level G2,Jln Dutamas 1,\nSolarisDutamas,50480 KL.\nTel: +603 6211 2300\n(GST Reg, No : 000895864832)\nGUEST CHECK\nTable 11\nCheck #: 186242\nPax(s): 3\nDate:19-02-201814:19:38\nCashier: CASHIER\nDescription\nQty\nU.price\nTotal TAX\nMineral Water\n1 x\n2.50\n2.50\nSR\nChocolate Waffle-Half Moon\n1 x\n17.90\n17.90\nSR\nTotal (Excluding GST):\n20.40\nServ. Charge (10%):\n2.04\nGST Payable:\n1.35\nTotal (Inclusive of GST):\n23.79\nRounding Adj:\n0.01\nTOTAL:\n23.80\nClosed:\n19-02-2018\nServer: CASHIER\nGST Summary\nAmount(RM)\nTax(RM)\n**** Thank You ****\nPlease Come Again",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719857",
+  "source_image": "X51005719857.jpg",
+  "ocr_confidence": 0.987
+}

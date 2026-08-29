@@ -1,0 +1,50 @@
+{
+  "merchant": "SUPER SEVEN CASH & CARRY SDN BHD",
+  "receipt_date": "01-02-2018",
+  "receipt_number": "192636",
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 35.5,
+      "total_price": 35.5
+    },
+    {
+      "name": "ZR",
+      "quantity": 1.0,
+      "unit_price": 2.0,
+      "total_price": 2.0
+    },
+    {
+      "name": "ZR",
+      "quantity": 1.0,
+      "unit_price": 3.0,
+      "total_price": 3.0
+    },
+    {
+      "name": "KOBIS MERAH @",
+      "quantity": 1.0,
+      "unit_price": 1.6,
+      "total_price": 1.6
+    },
+    {
+      "name": "ZR",
+      "quantity": 1.0,
+      "unit_price": 1.6,
+      "total_price": 1.6
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": null,
+  "total": null,
+  "payment_method": "VISA",
+  "extraction_confidence": 0.752,
+  "raw_text": "SUPER SEVEN CASH & CARRY SDN BHD\n(590150-A)\nFASARAYA BORONG SUPER SEVEN\nNO. 1 Jalan Euro 1\nOff Jalan Batu Tiga\nSungai Buloh Seksyen U3 Shah Alam,40150\nhttp://www.super7.com.my\nTEL : 03-78590861\nFAX : 03-78590864\nGST ID : 000639090688\nTAX INVOICE\nCustomer : [77853745]\nMrs. ONG GUAT CHYE\nTAX INVOICE NO : 192636\nCOUNTER :002\nOPERATOR :[SYED AHMAD FALLAH BI-CUSTOMER SERVICE\nCLERK]\n01-02-2018\n09:52:50 AM\n(RM)\nLADY CHOICE 3L TARTAR SAUC\n@35.50\n9556024001383\n*1\n35.50 SR\nSAYUR RM1.00\n@1.00\nFM420000000\n*2\n2.00 ZR\nSAYUR RM1.00\n@1.00\nFM420000000\n*3\n3.00 ZR\nKOBIS MERAH @1.60\n42129\n*1\n1.60 ZR\nQUANTITY : 7 Units\nTotal Sales (Incl. GST @6%)\nRM42.10\nRounding Adjustment\nRM0.00\nNet Total\n42-10\nRM42.10\nPayment Method\nVISA CARD\nGST Summary\nSales Amt\nTax Amt\n(RM)\n(RM)\nSR (6%)\n33.49\n2.01~\nZR (0%)\n6.60\n0.00\nPLEASE VERIFY YOUR RECEIPT\nBEFORE LEAVING THE COUNTER.\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU",
+  "warnings": [
+    "Receipt total could not be confidently identified."
+  ],
+  "receipt_id": "X51005764031",
+  "source_image": "X51005764031.jpg",
+  "ocr_confidence": 0.993
+}

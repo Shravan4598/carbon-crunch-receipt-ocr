@@ -1,0 +1,1066 @@
+{
+  "receipt_id": "X51005745298",
+  "source_image": "X51005745298.jpg",
+  "ocr_confidence": 0.968,
+  "lines": [
+    {
+      "text": "99 SPEED MART S/B (519537-X)",
+      "confidence": 0.9802
+    },
+    {
+      "text": "LOT P.T. 2811, JALAN ANGSA,",
+      "confidence": 0.9967
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9995
+    },
+    {
+      "text": "41150 KLANG, SELANGOR",
+      "confidence": 0.9917
+    },
+    {
+      "text": "1317-TRILLIUMSGBESI",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST ID. NO : 000181747712",
+      "confidence": 0.9425
+    },
+    {
+      "text": "INVOICE NO : 18353/102/T0311",
+      "confidence": 0.9465
+    },
+    {
+      "text": "04:06PM",
+      "confidence": 0.9997
+    },
+    {
+      "text": "570842",
+      "confidence": 1.0
+    },
+    {
+      "text": "31-03-18",
+      "confidence": 1.0
+    },
+    {
+      "text": "503 100 PLUS CAN 325ML (ICE",
+      "confidence": 0.9685
+    },
+    {
+      "text": "RM1.49 s",
+      "confidence": 0.9894
+    },
+    {
+      "text": "501 MALTA CAN 320ML (ICE)",
+      "confidence": 0.9863
+    },
+    {
+      "text": "RM2.50 s",
+      "confidence": 0.9574
+    },
+    {
+      "text": "Total Sales (Inclusive GST) RM",
+      "confidence": 0.9939
+    },
+    {
+      "text": "3.99",
+      "confidence": 1.0
+    },
+    {
+      "text": "Rounding Adjustment RM",
+      "confidence": 0.9638
+    },
+    {
+      "text": ".01",
+      "confidence": 0.9105
+    },
+    {
+      "text": "RoundingRM",
+      "confidence": 0.9963
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9946
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9922
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9984
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9962
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9978
+    },
+    {
+      "text": "s = 6%",
+      "confidence": 0.8207
+    },
+    {
+      "text": "3.77",
+      "confidence": 0.9999
+    },
+    {
+      "text": ".22",
+      "confidence": 0.8741
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9841
+    },
+    {
+      "text": "0ers",
+      "confidence": 0.6497
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "99 SPEED MART S/B (519537-X)",
+      "confidence": 0.9802,
+      "box": [
+        143,
+        285,
+        568,
+        330
+      ],
+      "polygon": [
+        [
+          143,
+          290
+        ],
+        [
+          567,
+          285
+        ],
+        [
+          568,
+          325
+        ],
+        [
+          144,
+          330
+        ]
+      ]
+    },
+    {
+      "text": "LOT P.T. 2811, JALAN ANGSA,",
+      "confidence": 0.9967,
+      "box": [
+        159,
+        328,
+        568,
+        369
+      ],
+      "polygon": [
+        [
+          159,
+          328
+        ],
+        [
+          568,
+          328
+        ],
+        [
+          568,
+          369
+        ],
+        [
+          159,
+          369
+        ]
+      ]
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9995,
+      "box": [
+        252,
+        372,
+        468,
+        408
+      ],
+      "polygon": [
+        [
+          252,
+          372
+        ],
+        [
+          468,
+          372
+        ],
+        [
+          468,
+          408
+        ],
+        [
+          252,
+          408
+        ]
+      ]
+    },
+    {
+      "text": "41150 KLANG, SELANGOR",
+      "confidence": 0.9917,
+      "box": [
+        206,
+        409,
+        530,
+        452
+      ],
+      "polygon": [
+        [
+          206,
+          412
+        ],
+        [
+          529,
+          409
+        ],
+        [
+          530,
+          449
+        ],
+        [
+          207,
+          452
+        ]
+      ]
+    },
+    {
+      "text": "1317-TRILLIUMSGBESI",
+      "confidence": 0.9999,
+      "box": [
+        209,
+        457,
+        528,
+        493
+      ],
+      "polygon": [
+        [
+          209,
+          457
+        ],
+        [
+          528,
+          457
+        ],
+        [
+          528,
+          493
+        ],
+        [
+          209,
+          493
+        ]
+      ]
+    },
+    {
+      "text": "GST ID. NO : 000181747712",
+      "confidence": 0.9425,
+      "box": [
+        181,
+        497,
+        559,
+        533
+      ],
+      "polygon": [
+        [
+          181,
+          497
+        ],
+        [
+          559,
+          497
+        ],
+        [
+          559,
+          533
+        ],
+        [
+          181,
+          533
+        ]
+      ]
+    },
+    {
+      "text": "INVOICE NO : 18353/102/T0311",
+      "confidence": 0.9465,
+      "box": [
+        167,
+        581,
+        587,
+        616
+      ],
+      "polygon": [
+        [
+          167,
+          581
+        ],
+        [
+          587,
+          581
+        ],
+        [
+          587,
+          616
+        ],
+        [
+          167,
+          616
+        ]
+      ]
+    },
+    {
+      "text": "04:06PM",
+      "confidence": 0.9997,
+      "box": [
+        73,
+        663,
+        186,
+        700
+      ],
+      "polygon": [
+        [
+          73,
+          663
+        ],
+        [
+          186,
+          663
+        ],
+        [
+          186,
+          700
+        ],
+        [
+          73,
+          700
+        ]
+      ]
+    },
+    {
+      "text": "570842",
+      "confidence": 1.0,
+      "box": [
+        329,
+        663,
+        427,
+        702
+      ],
+      "polygon": [
+        [
+          329,
+          663
+        ],
+        [
+          427,
+          663
+        ],
+        [
+          427,
+          702
+        ],
+        [
+          329,
+          702
+        ]
+      ]
+    },
+    {
+      "text": "31-03-18",
+      "confidence": 1.0,
+      "box": [
+        554,
+        663,
+        682,
+        700
+      ],
+      "polygon": [
+        [
+          554,
+          663
+        ],
+        [
+          682,
+          663
+        ],
+        [
+          682,
+          700
+        ],
+        [
+          554,
+          700
+        ]
+      ]
+    },
+    {
+      "text": "503 100 PLUS CAN 325ML (ICE",
+      "confidence": 0.9685,
+      "box": [
+        76,
+        748,
+        487,
+        782
+      ],
+      "polygon": [
+        [
+          76,
+          748
+        ],
+        [
+          487,
+          748
+        ],
+        [
+          487,
+          782
+        ],
+        [
+          76,
+          782
+        ]
+      ]
+    },
+    {
+      "text": "RM1.49 s",
+      "confidence": 0.9894,
+      "box": [
+        554,
+        746,
+        683,
+        784
+      ],
+      "polygon": [
+        [
+          554,
+          746
+        ],
+        [
+          683,
+          746
+        ],
+        [
+          683,
+          784
+        ],
+        [
+          554,
+          784
+        ]
+      ]
+    },
+    {
+      "text": "501 MALTA CAN 320ML (ICE)",
+      "confidence": 0.9863,
+      "box": [
+        75,
+        787,
+        449,
+        821
+      ],
+      "polygon": [
+        [
+          75,
+          787
+        ],
+        [
+          449,
+          787
+        ],
+        [
+          449,
+          821
+        ],
+        [
+          75,
+          821
+        ]
+      ]
+    },
+    {
+      "text": "RM2.50 s",
+      "confidence": 0.9574,
+      "box": [
+        553,
+        788,
+        682,
+        825
+      ],
+      "polygon": [
+        [
+          553,
+          788
+        ],
+        [
+          682,
+          788
+        ],
+        [
+          682,
+          825
+        ],
+        [
+          553,
+          825
+        ]
+      ]
+    },
+    {
+      "text": "Total Sales (Inclusive GST) RM",
+      "confidence": 0.9939,
+      "box": [
+        73,
+        867,
+        531,
+        908
+      ],
+      "polygon": [
+        [
+          73,
+          867
+        ],
+        [
+          531,
+          867
+        ],
+        [
+          531,
+          908
+        ],
+        [
+          73,
+          908
+        ]
+      ]
+    },
+    {
+      "text": "3.99",
+      "confidence": 1.0,
+      "box": [
+        581,
+        867,
+        650,
+        908
+      ],
+      "polygon": [
+        [
+          581,
+          867
+        ],
+        [
+          650,
+          867
+        ],
+        [
+          650,
+          908
+        ],
+        [
+          581,
+          908
+        ]
+      ]
+    },
+    {
+      "text": "Rounding Adjustment RM",
+      "confidence": 0.9638,
+      "box": [
+        195,
+        912,
+        530,
+        948
+      ],
+      "polygon": [
+        [
+          195,
+          912
+        ],
+        [
+          530,
+          912
+        ],
+        [
+          530,
+          948
+        ],
+        [
+          195,
+          948
+        ]
+      ]
+    },
+    {
+      "text": ".01",
+      "confidence": 0.9105,
+      "box": [
+        598,
+        911,
+        650,
+        948
+      ],
+      "polygon": [
+        [
+          598,
+          911
+        ],
+        [
+          650,
+          911
+        ],
+        [
+          650,
+          948
+        ],
+        [
+          598,
+          948
+        ]
+      ]
+    },
+    {
+      "text": "RoundingRM",
+      "confidence": 0.9963,
+      "box": [
+        357,
+        952,
+        530,
+        990
+      ],
+      "polygon": [
+        [
+          357,
+          952
+        ],
+        [
+          530,
+          952
+        ],
+        [
+          530,
+          990
+        ],
+        [
+          357,
+          990
+        ]
+      ]
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9946,
+      "box": [
+        582,
+        952,
+        648,
+        987
+      ],
+      "polygon": [
+        [
+          582,
+          952
+        ],
+        [
+          648,
+          952
+        ],
+        [
+          648,
+          987
+        ],
+        [
+          582,
+          987
+        ]
+      ]
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9922,
+      "box": [
+        418,
+        993,
+        531,
+        1030
+      ],
+      "polygon": [
+        [
+          418,
+          993
+        ],
+        [
+          531,
+          993
+        ],
+        [
+          531,
+          1030
+        ],
+        [
+          418,
+          1030
+        ]
+      ]
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9998,
+      "box": [
+        569,
+        993,
+        651,
+        1030
+      ],
+      "polygon": [
+        [
+          569,
+          993
+        ],
+        [
+          651,
+          993
+        ],
+        [
+          651,
+          1030
+        ],
+        [
+          569,
+          1030
+        ]
+      ]
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9984,
+      "box": [
+        388,
+        1033,
+        531,
+        1070
+      ],
+      "polygon": [
+        [
+          388,
+          1033
+        ],
+        [
+          531,
+          1033
+        ],
+        [
+          531,
+          1070
+        ],
+        [
+          388,
+          1070
+        ]
+      ]
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9999,
+      "box": [
+        582,
+        1033,
+        650,
+        1072
+      ],
+      "polygon": [
+        [
+          582,
+          1033
+        ],
+        [
+          650,
+          1033
+        ],
+        [
+          650,
+          1072
+        ],
+        [
+          582,
+          1072
+        ]
+      ]
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9962,
+      "box": [
+        72,
+        1114,
+        246,
+        1155
+      ],
+      "polygon": [
+        [
+          72,
+          1114
+        ],
+        [
+          246,
+          1114
+        ],
+        [
+          246,
+          1155
+        ],
+        [
+          72,
+          1155
+        ]
+      ]
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9995,
+      "box": [
+        312,
+        1115,
+        467,
+        1151
+      ],
+      "polygon": [
+        [
+          312,
+          1115
+        ],
+        [
+          467,
+          1115
+        ],
+        [
+          467,
+          1151
+        ],
+        [
+          312,
+          1151
+        ]
+      ]
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9978,
+      "box": [
+        552,
+        1115,
+        661,
+        1152
+      ],
+      "polygon": [
+        [
+          552,
+          1115
+        ],
+        [
+          661,
+          1115
+        ],
+        [
+          661,
+          1152
+        ],
+        [
+          552,
+          1152
+        ]
+      ]
+    },
+    {
+      "text": "s = 6%",
+      "confidence": 0.8207,
+      "box": [
+        72,
+        1155,
+        173,
+        1193
+      ],
+      "polygon": [
+        [
+          72,
+          1155
+        ],
+        [
+          173,
+          1155
+        ],
+        [
+          173,
+          1193
+        ],
+        [
+          72,
+          1193
+        ]
+      ]
+    },
+    {
+      "text": "3.77",
+      "confidence": 0.9999,
+      "box": [
+        402,
+        1154,
+        473,
+        1194
+      ],
+      "polygon": [
+        [
+          402,
+          1154
+        ],
+        [
+          473,
+          1154
+        ],
+        [
+          473,
+          1194
+        ],
+        [
+          402,
+          1194
+        ]
+      ]
+    },
+    {
+      "text": ".22",
+      "confidence": 0.8741,
+      "box": [
+        611,
+        1154,
+        667,
+        1196
+      ],
+      "polygon": [
+        [
+          611,
+          1154
+        ],
+        [
+          667,
+          1154
+        ],
+        [
+          667,
+          1196
+        ],
+        [
+          611,
+          1196
+        ]
+      ]
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9982,
+      "box": [
+        149,
+        1279,
+        573,
+        1315
+      ],
+      "polygon": [
+        [
+          149,
+          1279
+        ],
+        [
+          573,
+          1279
+        ],
+        [
+          573,
+          1315
+        ],
+        [
+          149,
+          1315
+        ]
+      ]
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9841,
+      "box": [
+        75,
+        1321,
+        664,
+        1357
+      ],
+      "polygon": [
+        [
+          75,
+          1321
+        ],
+        [
+          664,
+          1321
+        ],
+        [
+          664,
+          1357
+        ],
+        [
+          75,
+          1357
+        ]
+      ]
+    },
+    {
+      "text": "0ers",
+      "confidence": 0.6497,
+      "box": [
+        23,
+        1348,
+        76,
+        1415
+      ],
+      "polygon": [
+        [
+          45,
+          1348
+        ],
+        [
+          76,
+          1403
+        ],
+        [
+          55,
+          1415
+        ],
+        [
+          23,
+          1360
+        ]
+      ]
+    }
+  ],
+  "raw_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1317-TRILLIUMSGBESI\nGST ID. NO : 000181747712\nINVOICE NO : 18353/102/T0311\n04:06PM\n570842\n31-03-18\n503 100 PLUS CAN 325ML (ICE\nRM1.49 s\n501 MALTA CAN 320ML (ICE)\nRM2.50 s\nTotal Sales (Inclusive GST) RM\n3.99\nRounding Adjustment RM\n.01\nRoundingRM\n4.00\nCASH RM\n10.00\nCHANGE RM\n6.00\nGST Summary\nAmount(RM)\nTax(RM)\ns = 6%\n3.77\n.22\nThank You. Please come again\nKeep the invoice for applicable returns\n0ers"
+}

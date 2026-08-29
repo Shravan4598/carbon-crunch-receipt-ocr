@@ -1,0 +1,19 @@
+{
+  "merchant": "WAL*MART",
+  "receipt_date": "10/20/07",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": 7.59,
+  "discount": null,
+  "tax": 0.76,
+  "total": 18.75,
+  "payment_method": null,
+  "extraction_confidence": 0.82,
+  "raw_text": "WAL*MART\nSave money. Live better.\nWE SELL FOR LESS\nALWAYS\nMANAGER DAPHNE SESSION\n( 636 ) 536 - 4601\nCHESTERFIELD,MO 63005\nST# 2600 0P# 00001855 TE# 17 TR# 03359\nSW FIGURES\n065356920144\n6.63 X\nTOOTHBRUSH\n003500055500\n0.96 X\nSUBTOTAL\n7.59\nWOMEN SLIPPE 009725614790\n9.86 X\nSUBTOTAL\n17.45\nTAX\n1\n3.100 %\n0.54\nTAX 3\n4.350 %\n0.76\nTOTAL\n18.75\nMCARD TEND\n18.75\nACCOUNT #3546\nAPPROVAL #007190\nTRANS ID -\nVALIDATION\nPAYMENT SERVICE - A\nCHANGE DUE\n0.00\n# ITEMS SOLD 3\nTC# 9489 7094 6487 3073 3651\nWal-Mart exclusive Eagles CD\navailable October 30th!\n10/20/07\n13:48:43\n***CUSTOMER COPY***",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "12",
+  "source_image": "12.jpg",
+  "ocr_confidence": 0.99
+}

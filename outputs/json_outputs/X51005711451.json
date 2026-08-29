@@ -1,0 +1,26 @@
+{
+  "merchant": "RESTORAN WAN SHENG",
+  "receipt_date": null,
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 5.6,
+      "total_price": 5.6
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 5.66,
+  "total": 6.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.767,
+  "raw_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No.: 1030720 Cashier: Nicole\nDate\n:05-03-201819:02:50\nDescription\nQty\nU.price\nTotal TAX\nMilo (B)\n2 x\n2.80\n5.60 SR\nTake Away\n2 x\n0.20\nU.40 SR\nTotal QTY: 4\nTotal (Excluding GST):\n5.66\nGST payable (6%):\n0.34\nTotal (Inclusive of GST):\n6.00\nTOTAL :\n6.00\nCASH :\n6.00\nGST Summary\nAmount(RM)\nTax(RM)\nSR\n(@ 6%)\n5.66\n0.34",
+  "warnings": [
+    "Receipt date could not be identified."
+  ],
+  "receipt_id": "X51005711451",
+  "source_image": "X51005711451.jpg",
+  "ocr_confidence": 0.983
+}

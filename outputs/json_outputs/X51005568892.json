@@ -1,0 +1,19 @@
+{
+  "merchant": "EVERGREEN LIGHT SDN BHD",
+  "receipt_date": "18/09/2017",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 1.47,
+  "total": 26.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.786,
+  "raw_text": "EVERGREEN LIGHT SDN BHD\n(827859-U)\nNO.7-1, JALAN PUTERI 7/11.\nBANDAR PUTERI,\n47100 PUCHONG,EELANGOR\nTEL/FAX: 03-80609719\n( NO. ID GBT: 000389353472 )\nTAX INVOICE\nNO.: 142507\nEDDIE\n#01-01\n18/09/2017\n17:21\nB.CODE\nQTY\nU/PRICE\nAMT\n11598\n2\n12.26\n24.525\nPROEMK 10W LED ETICK\nSUB-TOTAL\n24.52\nTotel GST(E)\n1.47\n8UB-TOTAL\n25.99\nROUNDING ADJUET\n0.01\nTOTAL ITEM(8): 1\nTOTAL QUANTITY : 2\nRM\nTotal Incl GST\n26.00\nPay Cash\n26.00\nChange\n0.00\nGET\nTexable Amt GET Amt\n5-8R(E)-6%\n24.52\n147\nTHANK YOU\nGOODE BOLD ARE NOT REFUNDABLE FOR CAEH.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005568892",
+  "source_image": "X51005568892.jpg",
+  "ocr_confidence": 0.98
+}

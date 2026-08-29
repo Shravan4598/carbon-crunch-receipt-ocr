@@ -1,0 +1,26 @@
+{
+  "merchant": "PASARAYA BORONG PINTAR",
+  "receipt_date": null,
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "ZRL",
+      "quantity": 1.0,
+      "unit_price": 1.45,
+      "total_price": 1.45
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 1.45,
+  "total": 1.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.771,
+  "raw_text": "PASARAYA BORONG PINTAR\nSDN BHD\nBR No.:(124525-H)\nNO 19-G& 19-1&19-2 JALAN TASIK UTAMA 4,\nMEDAN NIAGA TASIK DAMAI\n016-5498845,\nGST No. :\n14/02/20185:37:44PM\nTAX INVOICE\nTRN: CR0005140\nCOUNTER 4\nCASHIER: 2\nQTY UOM\nUNITAmt Exc. Amt Inc. GST\nPrice\nTax\nTax Code\n100PLUS LIME325ML\n1\nWALK\n1.45\n1.45\n1.45 ZRL\n*Total Qty: 1.00\n1.45\nTotal Includes GST 0%\n1.45\nCustomer's Payment\nCash\n10.00\nChange\n8.55\nGST Summary\nAmount (RM)\nTax (RM)\nZRL=0%\n1.45\n0.00\n*Goods sold are not returnable\nThank you for shopping at PASARAYA\nBORONG PINTAR SDN BHD",
+  "warnings": [
+    "Receipt date could not be identified."
+  ],
+  "receipt_id": "X51005447859",
+  "source_image": "X51005447859.jpg",
+  "ocr_confidence": 0.991
+}

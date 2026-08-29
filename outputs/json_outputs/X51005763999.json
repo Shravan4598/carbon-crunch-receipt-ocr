@@ -1,0 +1,24 @@
+{
+  "merchant": "Segi Cash & Carry Sdn. Bhd (317041-W)",
+  "receipt_date": "06 Jan 2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "(Disc: )",
+      "quantity": 1.0,
+      "unit_price": 1.6,
+      "total_price": 1.6
+    }
+  ],
+  "subtotal": 673.99,
+  "discount": 1.6,
+  "tax": 673.99,
+  "total": 674.0,
+  "payment_method": "VISA",
+  "extraction_confidence": 0.939,
+  "raw_text": "Segi Cash & Carry Sdn. Bhd (317041-W)\nPt17920 Sek U9, Shah Alam\nGST Reg No : 001951645696\nInvoice No\n:62513\nDate\n: 06 Jan 2018 05:21pm\nCounter\n:02\nMIGHTY MARK DISHWASH 11L\n2 × 9.90\n19.80 S\nCROWN'S POWER PWD DETERGENT SKG\n1 × 11.50 (Disc: 1.60)\n9.90 S\nUDANG XL\n3.18 × 39.90\n126.88 Z\nUDANG XL\n3.15 × 39.90\n125.69 Z\nWIN CENDOL (GROSS 1.5KG, NET 1KG)\n2 × 4.51\n9.02 S\nIKAN BILIS C TIMBANG\n1.36 × 55.00\n74.80 Z\nAJINOMOTO 20X1KG\n1 × 210.00\n210.00 S\nSEGI/LEMBU EMAS OIL 17KG+-\n1 × 69.90\n69.90 Z\nABC TEPUNG UBI 10x1KG\n1 × 28.00\n28.00 Z\nNo of items: 11\nSubtotal Incl. GST:RM\n673.99\nRounding:RM\n0.01\nTotal Incl. GST:RM\n674.00\nVISA XxxxxxxXxxxx7118:\n674.00\nChange:RM\n0.00\nSavings:RM\n1.60\nMissed Point Today: 659\n** ST Summary **\nGST Code\nAmount(RM) Tax(RM)\nS 06.0%\n234.63\n14.09\nZ 00.0%\n425.27\n0.00\n水水水水水水水水水水水水水冰水水水水水水水水冰\nRef No: 00600666580062513\nGoods Sold Are Not Returnable. TQ",
+  "warnings": [],
+  "receipt_id": "X51005763999",
+  "source_image": "X51005763999.jpg",
+  "ocr_confidence": 0.976
+}

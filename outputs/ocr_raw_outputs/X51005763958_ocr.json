@@ -1,0 +1,1578 @@
+{
+  "receipt_id": "X51005763958",
+  "source_image": "X51005763958.jpg",
+  "ocr_confidence": 0.988,
+  "lines": [
+    {
+      "text": "SUPER SEVEN CASH & CARRY ŚDN BHD",
+      "confidence": 0.9796
+    },
+    {
+      "text": "(590150-A)",
+      "confidence": 0.9995
+    },
+    {
+      "text": "PASARAYA EORONG SUPER SEVEN",
+      "confidence": 0.9801
+    },
+    {
+      "text": "NO. 1 Jalan Euro 1",
+      "confidence": 0.9876
+    },
+    {
+      "text": "Off Jalan Batu Tiga",
+      "confidence": 0.9722
+    },
+    {
+      "text": "Sungai Buloh Seksyen U3 Shah Alam,40150",
+      "confidence": 0.9997
+    },
+    {
+      "text": "http://www.sucer7.com.my",
+      "confidence": 0.9646
+    },
+    {
+      "text": "TEL : 03-78590861",
+      "confidence": 0.9733
+    },
+    {
+      "text": "FAX : 03-78590864",
+      "confidence": 0.9847
+    },
+    {
+      "text": "GST ID : 000639090688",
+      "confidence": 0.9655
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Customer : [77853745]",
+      "confidence": 0.9727
+    },
+    {
+      "text": "Mrs. ONG GUAT CHYE",
+      "confidence": 0.9693
+    },
+    {
+      "text": "TAX INVOICE NJ : 152164",
+      "confidence": 0.9961
+    },
+    {
+      "text": "COUNTER :006",
+      "confidence": 0.9919
+    },
+    {
+      "text": "OPERATOR : [NURUL FATEHA BT MOHD-ASST SUPERVISOR]",
+      "confidence": 0.9858
+    },
+    {
+      "text": "27-01-2018",
+      "confidence": 0.9999
+    },
+    {
+      "text": "04:32:13 PM",
+      "confidence": 0.997
+    },
+    {
+      "text": "(RM)",
+      "confidence": 1.0
+    },
+    {
+      "text": "KK KACANGGORENG 300G",
+      "confidence": 0.9935
+    },
+    {
+      "text": "@5.90",
+      "confidence": 0.9988
+    },
+    {
+      "text": "9556624001400",
+      "confidence": 0.9993
+    },
+    {
+      "text": "*10",
+      "confidence": 1.0
+    },
+    {
+      "text": "59.00 SR",
+      "confidence": 0.9999
+    },
+    {
+      "text": "QUANTITY : 10 Units",
+      "confidence": 0.997
+    },
+    {
+      "text": "Total Sales (Incl. GST @6%)",
+      "confidence": 0.9713
+    },
+    {
+      "text": "RM59.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Rounding Adjustment",
+      "confidence": 0.9998
+    },
+    {
+      "text": "RMO.00",
+      "confidence": 0.9189
+    },
+    {
+      "text": "Net Total",
+      "confidence": 0.9996
+    },
+    {
+      "text": "RM59.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Payment Method",
+      "confidence": 0.9998
+    },
+    {
+      "text": "VISA CARD",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summa.ry",
+      "confidence": 0.9075
+    },
+    {
+      "text": "Sales Amt",
+      "confidence": 0.9456
+    },
+    {
+      "text": "Tax Amt",
+      "confidence": 0.9996
+    },
+    {
+      "text": "(RM)",
+      "confidence": 1.0
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9999
+    },
+    {
+      "text": "SR (6%)",
+      "confidence": 0.993
+    },
+    {
+      "text": "55.66",
+      "confidence": 1.0
+    },
+    {
+      "text": "3.34",
+      "confidence": 1.0
+    },
+    {
+      "text": "ZR (0%)",
+      "confidence": 0.994
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "59",
+      "confidence": 0.9999
+    },
+    {
+      "text": "PLEASE VERIFY YOUR RECEIPT",
+      "confidence": 0.9981
+    },
+    {
+      "text": "BEFORE LEAVING THE COUNTER.",
+      "confidence": 0.9997
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE.",
+      "confidence": 0.9983
+    },
+    {
+      "text": "THANK YOU",
+      "confidence": 0.9999
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "SUPER SEVEN CASH & CARRY ŚDN BHD",
+      "confidence": 0.9796,
+      "box": [
+        12,
+        125,
+        474,
+        173
+      ],
+      "polygon": [
+        [
+          12,
+          125
+        ],
+        [
+          474,
+          127
+        ],
+        [
+          474,
+          173
+        ],
+        [
+          12,
+          171
+        ]
+      ]
+    },
+    {
+      "text": "(590150-A)",
+      "confidence": 0.9995,
+      "box": [
+        13,
+        162,
+        161,
+        209
+      ],
+      "polygon": [
+        [
+          14,
+          162
+        ],
+        [
+          161,
+          166
+        ],
+        [
+          160,
+          209
+        ],
+        [
+          13,
+          204
+        ]
+      ]
+    },
+    {
+      "text": "PASARAYA EORONG SUPER SEVEN",
+      "confidence": 0.9801,
+      "box": [
+        10,
+        201,
+        404,
+        244
+      ],
+      "polygon": [
+        [
+          10,
+          201
+        ],
+        [
+          404,
+          203
+        ],
+        [
+          404,
+          244
+        ],
+        [
+          10,
+          242
+        ]
+      ]
+    },
+    {
+      "text": "NO. 1 Jalan Euro 1",
+      "confidence": 0.9876,
+      "box": [
+        15,
+        242,
+        277,
+        278
+      ],
+      "polygon": [
+        [
+          15,
+          242
+        ],
+        [
+          277,
+          242
+        ],
+        [
+          277,
+          278
+        ],
+        [
+          15,
+          278
+        ]
+      ]
+    },
+    {
+      "text": "Off Jalan Batu Tiga",
+      "confidence": 0.9722,
+      "box": [
+        13,
+        274,
+        290,
+        315
+      ],
+      "polygon": [
+        [
+          13,
+          274
+        ],
+        [
+          290,
+          274
+        ],
+        [
+          290,
+          315
+        ],
+        [
+          13,
+          315
+        ]
+      ]
+    },
+    {
+      "text": "Sungai Buloh Seksyen U3 Shah Alam,40150",
+      "confidence": 0.9997,
+      "box": [
+        12,
+        308,
+        573,
+        350
+      ],
+      "polygon": [
+        [
+          12,
+          310
+        ],
+        [
+          573,
+          308
+        ],
+        [
+          573,
+          349
+        ],
+        [
+          12,
+          350
+        ]
+      ]
+    },
+    {
+      "text": "http://www.sucer7.com.my",
+      "confidence": 0.9646,
+      "box": [
+        10,
+        345,
+        361,
+        388
+      ],
+      "polygon": [
+        [
+          10,
+          345
+        ],
+        [
+          361,
+          349
+        ],
+        [
+          361,
+          388
+        ],
+        [
+          10,
+          384
+        ]
+      ]
+    },
+    {
+      "text": "TEL : 03-78590861",
+      "confidence": 0.9733,
+      "box": [
+        15,
+        384,
+        258,
+        418
+      ],
+      "polygon": [
+        [
+          15,
+          384
+        ],
+        [
+          258,
+          384
+        ],
+        [
+          258,
+          418
+        ],
+        [
+          15,
+          418
+        ]
+      ]
+    },
+    {
+      "text": "FAX : 03-78590864",
+      "confidence": 0.9847,
+      "box": [
+        13,
+        418,
+        262,
+        454
+      ],
+      "polygon": [
+        [
+          13,
+          418
+        ],
+        [
+          262,
+          418
+        ],
+        [
+          262,
+          454
+        ],
+        [
+          13,
+          454
+        ]
+      ]
+    },
+    {
+      "text": "GST ID : 000639090688",
+      "confidence": 0.9655,
+      "box": [
+        13,
+        489,
+        315,
+        525
+      ],
+      "polygon": [
+        [
+          13,
+          489
+        ],
+        [
+          315,
+          489
+        ],
+        [
+          315,
+          525
+        ],
+        [
+          13,
+          525
+        ]
+      ]
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9999,
+      "box": [
+        224,
+        557,
+        388,
+        598
+      ],
+      "polygon": [
+        [
+          224,
+          557
+        ],
+        [
+          388,
+          557
+        ],
+        [
+          388,
+          598
+        ],
+        [
+          224,
+          598
+        ]
+      ]
+    },
+    {
+      "text": "Customer : [77853745]",
+      "confidence": 0.9727,
+      "box": [
+        12,
+        630,
+        311,
+        665
+      ],
+      "polygon": [
+        [
+          12,
+          630
+        ],
+        [
+          311,
+          630
+        ],
+        [
+          311,
+          665
+        ],
+        [
+          12,
+          665
+        ]
+      ]
+    },
+    {
+      "text": "Mrs. ONG GUAT CHYE",
+      "confidence": 0.9693,
+      "box": [
+        10,
+        662,
+        272,
+        701
+      ],
+      "polygon": [
+        [
+          10,
+          662
+        ],
+        [
+          272,
+          665
+        ],
+        [
+          271,
+          701
+        ],
+        [
+          10,
+          697
+        ]
+      ]
+    },
+    {
+      "text": "TAX INVOICE NJ : 152164",
+      "confidence": 0.9961,
+      "box": [
+        12,
+        735,
+        343,
+        770
+      ],
+      "polygon": [
+        [
+          12,
+          735
+        ],
+        [
+          343,
+          735
+        ],
+        [
+          343,
+          770
+        ],
+        [
+          12,
+          770
+        ]
+      ]
+    },
+    {
+      "text": "COUNTER :006",
+      "confidence": 0.9919,
+      "box": [
+        407,
+        733,
+        583,
+        768
+      ],
+      "polygon": [
+        [
+          407,
+          733
+        ],
+        [
+          583,
+          733
+        ],
+        [
+          583,
+          768
+        ],
+        [
+          407,
+          768
+        ]
+      ]
+    },
+    {
+      "text": "OPERATOR : [NURUL FATEHA BT MOHD-ASST SUPERVISOR]",
+      "confidence": 0.9858,
+      "box": [
+        10,
+        767,
+        694,
+        804
+      ],
+      "polygon": [
+        [
+          10,
+          770
+        ],
+        [
+          694,
+          767
+        ],
+        [
+          694,
+          801
+        ],
+        [
+          10,
+          804
+        ]
+      ]
+    },
+    {
+      "text": "27-01-2018",
+      "confidence": 0.9999,
+      "box": [
+        10,
+        806,
+        159,
+        841
+      ],
+      "polygon": [
+        [
+          10,
+          806
+        ],
+        [
+          159,
+          806
+        ],
+        [
+          159,
+          841
+        ],
+        [
+          10,
+          841
+        ]
+      ]
+    },
+    {
+      "text": "04:32:13 PM",
+      "confidence": 0.997,
+      "box": [
+        421,
+        804,
+        583,
+        840
+      ],
+      "polygon": [
+        [
+          421,
+          804
+        ],
+        [
+          583,
+          804
+        ],
+        [
+          583,
+          840
+        ],
+        [
+          421,
+          840
+        ]
+      ]
+    },
+    {
+      "text": "(RM)",
+      "confidence": 1.0,
+      "box": [
+        492,
+        836,
+        556,
+        880
+      ],
+      "polygon": [
+        [
+          492,
+          836
+        ],
+        [
+          556,
+          836
+        ],
+        [
+          556,
+          880
+        ],
+        [
+          492,
+          880
+        ]
+      ]
+    },
+    {
+      "text": "KK KACANGGORENG 300G",
+      "confidence": 0.9935,
+      "box": [
+        10,
+        909,
+        301,
+        945
+      ],
+      "polygon": [
+        [
+          10,
+          909
+        ],
+        [
+          301,
+          909
+        ],
+        [
+          301,
+          945
+        ],
+        [
+          10,
+          945
+        ]
+      ]
+    },
+    {
+      "text": "@5.90",
+      "confidence": 0.9988,
+      "box": [
+        320,
+        911,
+        398,
+        943
+      ],
+      "polygon": [
+        [
+          320,
+          911
+        ],
+        [
+          398,
+          911
+        ],
+        [
+          398,
+          943
+        ],
+        [
+          320,
+          943
+        ]
+      ]
+    },
+    {
+      "text": "9556624001400",
+      "confidence": 0.9993,
+      "box": [
+        23,
+        945,
+        214,
+        980
+      ],
+      "polygon": [
+        [
+          23,
+          945
+        ],
+        [
+          214,
+          945
+        ],
+        [
+          214,
+          980
+        ],
+        [
+          23,
+          980
+        ]
+      ]
+    },
+    {
+      "text": "*10",
+      "confidence": 1.0,
+      "box": [
+        248,
+        945,
+        300,
+        978
+      ],
+      "polygon": [
+        [
+          248,
+          945
+        ],
+        [
+          300,
+          945
+        ],
+        [
+          300,
+          978
+        ],
+        [
+          248,
+          978
+        ]
+      ]
+    },
+    {
+      "text": "59.00 SR",
+      "confidence": 0.9999,
+      "box": [
+        462,
+        941,
+        585,
+        978
+      ],
+      "polygon": [
+        [
+          462,
+          941
+        ],
+        [
+          585,
+          941
+        ],
+        [
+          585,
+          978
+        ],
+        [
+          462,
+          978
+        ]
+      ]
+    },
+    {
+      "text": "QUANTITY : 10 Units",
+      "confidence": 0.997,
+      "box": [
+        8,
+        1016,
+        283,
+        1049
+      ],
+      "polygon": [
+        [
+          8,
+          1016
+        ],
+        [
+          283,
+          1016
+        ],
+        [
+          283,
+          1049
+        ],
+        [
+          8,
+          1049
+        ]
+      ]
+    },
+    {
+      "text": "Total Sales (Incl. GST @6%)",
+      "confidence": 0.9713,
+      "box": [
+        10,
+        1085,
+        391,
+        1121
+      ],
+      "polygon": [
+        [
+          10,
+          1085
+        ],
+        [
+          391,
+          1085
+        ],
+        [
+          391,
+          1121
+        ],
+        [
+          10,
+          1121
+        ]
+      ]
+    },
+    {
+      "text": "RM59.00",
+      "confidence": 1.0,
+      "box": [
+        475,
+        1083,
+        581,
+        1119
+      ],
+      "polygon": [
+        [
+          475,
+          1083
+        ],
+        [
+          581,
+          1083
+        ],
+        [
+          581,
+          1119
+        ],
+        [
+          475,
+          1119
+        ]
+      ]
+    },
+    {
+      "text": "Rounding Adjustment",
+      "confidence": 0.9998,
+      "box": [
+        8,
+        1122,
+        282,
+        1156
+      ],
+      "polygon": [
+        [
+          8,
+          1122
+        ],
+        [
+          282,
+          1122
+        ],
+        [
+          282,
+          1156
+        ],
+        [
+          8,
+          1156
+        ]
+      ]
+    },
+    {
+      "text": "RMO.00",
+      "confidence": 0.9189,
+      "box": [
+        489,
+        1119,
+        583,
+        1154
+      ],
+      "polygon": [
+        [
+          489,
+          1119
+        ],
+        [
+          583,
+          1119
+        ],
+        [
+          583,
+          1154
+        ],
+        [
+          489,
+          1154
+        ]
+      ]
+    },
+    {
+      "text": "Net Total",
+      "confidence": 0.9996,
+      "box": [
+        7,
+        1154,
+        141,
+        1190
+      ],
+      "polygon": [
+        [
+          7,
+          1154
+        ],
+        [
+          141,
+          1154
+        ],
+        [
+          141,
+          1190
+        ],
+        [
+          7,
+          1190
+        ]
+      ]
+    },
+    {
+      "text": "RM59.00",
+      "confidence": 0.9999,
+      "box": [
+        475,
+        1151,
+        626,
+        1192
+      ],
+      "polygon": [
+        [
+          475,
+          1151
+        ],
+        [
+          626,
+          1151
+        ],
+        [
+          626,
+          1192
+        ],
+        [
+          475,
+          1192
+        ]
+      ]
+    },
+    {
+      "text": "Payment Method",
+      "confidence": 0.9998,
+      "box": [
+        7,
+        1188,
+        210,
+        1224
+      ],
+      "polygon": [
+        [
+          7,
+          1188
+        ],
+        [
+          210,
+          1188
+        ],
+        [
+          210,
+          1224
+        ],
+        [
+          7,
+          1224
+        ]
+      ]
+    },
+    {
+      "text": "VISA CARD",
+      "confidence": 0.9999,
+      "box": [
+        447,
+        1188,
+        581,
+        1224
+      ],
+      "polygon": [
+        [
+          447,
+          1188
+        ],
+        [
+          581,
+          1188
+        ],
+        [
+          581,
+          1224
+        ],
+        [
+          447,
+          1224
+        ]
+      ]
+    },
+    {
+      "text": "GST Summa.ry",
+      "confidence": 0.9075,
+      "box": [
+        20,
+        1256,
+        182,
+        1297
+      ],
+      "polygon": [
+        [
+          20,
+          1256
+        ],
+        [
+          182,
+          1256
+        ],
+        [
+          182,
+          1297
+        ],
+        [
+          20,
+          1297
+        ]
+      ]
+    },
+    {
+      "text": "Sales Amt",
+      "confidence": 0.9456,
+      "box": [
+        290,
+        1259,
+        424,
+        1295
+      ],
+      "polygon": [
+        [
+          290,
+          1259
+        ],
+        [
+          424,
+          1259
+        ],
+        [
+          424,
+          1295
+        ],
+        [
+          290,
+          1295
+        ]
+      ]
+    },
+    {
+      "text": "Tax Amt",
+      "confidence": 0.9996,
+      "box": [
+        477,
+        1259,
+        580,
+        1295
+      ],
+      "polygon": [
+        [
+          477,
+          1259
+        ],
+        [
+          580,
+          1259
+        ],
+        [
+          580,
+          1295
+        ],
+        [
+          477,
+          1295
+        ]
+      ]
+    },
+    {
+      "text": "(RM)",
+      "confidence": 1.0,
+      "box": [
+        363,
+        1293,
+        424,
+        1334
+      ],
+      "polygon": [
+        [
+          363,
+          1293
+        ],
+        [
+          424,
+          1293
+        ],
+        [
+          424,
+          1334
+        ],
+        [
+          363,
+          1334
+        ]
+      ]
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9999,
+      "box": [
+        504,
+        1293,
+        566,
+        1332
+      ],
+      "polygon": [
+        [
+          504,
+          1293
+        ],
+        [
+          566,
+          1293
+        ],
+        [
+          566,
+          1332
+        ],
+        [
+          504,
+          1332
+        ]
+      ]
+    },
+    {
+      "text": "SR (6%)",
+      "confidence": 0.993,
+      "box": [
+        20,
+        1327,
+        126,
+        1369
+      ],
+      "polygon": [
+        [
+          20,
+          1327
+        ],
+        [
+          126,
+          1327
+        ],
+        [
+          126,
+          1369
+        ],
+        [
+          20,
+          1369
+        ]
+      ]
+    },
+    {
+      "text": "55.66",
+      "confidence": 1.0,
+      "box": [
+        346,
+        1329,
+        426,
+        1366
+      ],
+      "polygon": [
+        [
+          346,
+          1329
+        ],
+        [
+          426,
+          1329
+        ],
+        [
+          426,
+          1366
+        ],
+        [
+          346,
+          1366
+        ]
+      ]
+    },
+    {
+      "text": "3.34",
+      "confidence": 1.0,
+      "box": [
+        515,
+        1329,
+        586,
+        1366
+      ],
+      "polygon": [
+        [
+          515,
+          1329
+        ],
+        [
+          586,
+          1329
+        ],
+        [
+          586,
+          1366
+        ],
+        [
+          515,
+          1366
+        ]
+      ]
+    },
+    {
+      "text": "ZR (0%)",
+      "confidence": 0.994,
+      "box": [
+        22,
+        1366,
+        124,
+        1403
+      ],
+      "polygon": [
+        [
+          22,
+          1366
+        ],
+        [
+          124,
+          1366
+        ],
+        [
+          124,
+          1403
+        ],
+        [
+          22,
+          1403
+        ]
+      ]
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0,
+      "box": [
+        359,
+        1364,
+        426,
+        1402
+      ],
+      "polygon": [
+        [
+          359,
+          1364
+        ],
+        [
+          426,
+          1364
+        ],
+        [
+          426,
+          1402
+        ],
+        [
+          359,
+          1402
+        ]
+      ]
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0,
+      "box": [
+        515,
+        1363,
+        583,
+        1402
+      ],
+      "polygon": [
+        [
+          515,
+          1363
+        ],
+        [
+          583,
+          1363
+        ],
+        [
+          583,
+          1402
+        ],
+        [
+          515,
+          1402
+        ]
+      ]
+    },
+    {
+      "text": "59",
+      "confidence": 0.9999,
+      "box": [
+        499,
+        1424,
+        590,
+        1491
+      ],
+      "polygon": [
+        [
+          499,
+          1424
+        ],
+        [
+          590,
+          1424
+        ],
+        [
+          590,
+          1491
+        ],
+        [
+          499,
+          1491
+        ]
+      ]
+    },
+    {
+      "text": "PLEASE VERIFY YOUR RECEIPT",
+      "confidence": 0.9981,
+      "box": [
+        8,
+        1437,
+        379,
+        1471
+      ],
+      "polygon": [
+        [
+          8,
+          1437
+        ],
+        [
+          379,
+          1437
+        ],
+        [
+          379,
+          1471
+        ],
+        [
+          8,
+          1471
+        ]
+      ]
+    },
+    {
+      "text": "BEFORE LEAVING THE COUNTER.",
+      "confidence": 0.9997,
+      "box": [
+        10,
+        1473,
+        389,
+        1507
+      ],
+      "polygon": [
+        [
+          10,
+          1473
+        ],
+        [
+          389,
+          1473
+        ],
+        [
+          389,
+          1507
+        ],
+        [
+          10,
+          1507
+        ]
+      ]
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE.",
+      "confidence": 0.9983,
+      "box": [
+        10,
+        1508,
+        432,
+        1542
+      ],
+      "polygon": [
+        [
+          10,
+          1508
+        ],
+        [
+          432,
+          1508
+        ],
+        [
+          432,
+          1542
+        ],
+        [
+          10,
+          1542
+        ]
+      ]
+    },
+    {
+      "text": "THANK YOU",
+      "confidence": 0.9999,
+      "box": [
+        8,
+        1576,
+        142,
+        1611
+      ],
+      "polygon": [
+        [
+          8,
+          1576
+        ],
+        [
+          142,
+          1576
+        ],
+        [
+          142,
+          1611
+        ],
+        [
+          8,
+          1611
+        ]
+      ]
+    }
+  ],
+  "raw_text": "SUPER SEVEN CASH & CARRY ŚDN BHD\n(590150-A)\nPASARAYA EORONG SUPER SEVEN\nNO. 1 Jalan Euro 1\nOff Jalan Batu Tiga\nSungai Buloh Seksyen U3 Shah Alam,40150\nhttp://www.sucer7.com.my\nTEL : 03-78590861\nFAX : 03-78590864\nGST ID : 000639090688\nTAX INVOICE\nCustomer : [77853745]\nMrs. ONG GUAT CHYE\nTAX INVOICE NJ : 152164\nCOUNTER :006\nOPERATOR : [NURUL FATEHA BT MOHD-ASST SUPERVISOR]\n27-01-2018\n04:32:13 PM\n(RM)\nKK KACANGGORENG 300G\n@5.90\n9556624001400\n*10\n59.00 SR\nQUANTITY : 10 Units\nTotal Sales (Incl. GST @6%)\nRM59.00\nRounding Adjustment\nRMO.00\nNet Total\nRM59.00\nPayment Method\nVISA CARD\nGST Summa.ry\nSales Amt\nTax Amt\n(RM)\n(RM)\nSR (6%)\n55.66\n3.34\nZR (0%)\n0.00\n0.00\n59\nPLEASE VERIFY YOUR RECEIPT\nBEFORE LEAVING THE COUNTER.\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU"
+}

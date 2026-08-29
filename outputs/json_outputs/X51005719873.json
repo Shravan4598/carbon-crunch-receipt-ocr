@@ -1,0 +1,20 @@
+{
+  "merchant": "Your order number is",
+  "receipt_date": "21/01/2018",
+  "receipt_number": "number",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 8.12,
+  "total": null,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.717,
+  "raw_text": "Your order number is\n7290\ntealive\nCT281 - Tealive Shell Kepong\nOttogo Enterprise\n002570632-X\nGST ID:001018802176\nSHELL STATION PT15944, Mukim\nBatu,\nJln Besar Kepong\nTAX INVOICE\nCounter: 7290\nTake Away\nBill No:\n394024495\nCOMPLETED\nDate:\n21/01/2018\n15.4609\nSales Remarks.\nItem Name\nQty Price(RM)\nHazelnut Coco -L\n1\n7 50 SR\n:Pearl\n1\n1.10\nSub Total\nRM8.60\nRounding\nRM0.00\nTotal Sales Incl GST @ 6%\nRM8.60\nCash\n8.60\nTendered\n9.00\nChange\n0.40\nCode\nAmount\nTax\nSR @ 6%\n8.12\n0.48\nYou have just missed out 8 points\nSign up for a Tealive UniTea Card\ntoday to enjoy exclusive member\npromotions and collect BPoints to\nredeem on future purchases\nThank You Please Come Again\nPrinted at:21/01/2018 15:46:09",
+  "warnings": [
+    "Receipt total could not be confidently identified.",
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719873",
+  "source_image": "X51005719873.jpg",
+  "ocr_confidence": 0.993
+}

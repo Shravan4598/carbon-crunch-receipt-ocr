@@ -1,0 +1,19 @@
+{
+  "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+  "receipt_date": "02/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 12.5,
+  "total": 12.5,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.792,
+  "raw_text": "31801017\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO290, JALAN AIR PANAS,\nSETAPAK,\n53200. KUALA LUMPUR.\nTEL:03-40210276\nGST ID :000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No.\nCS00012493\nDate: 02/01/2018\nCashier\nUSER\nTime: 09:28:00\nRef.:\nSalesperson\nItem\nQty\nS/Price\nAmount\nTax\n1720\n1\n3.18\n3.18\nSR\nSPONGE SCRUB W-PLASTIC HANDLE\n1604\n1\n10.07\n10.07\nSR\n4 1/2\" PLASTERING TROWEL\nTotal Qty:\n2\n13.25\nTotal Sales (Excluding GST)\n12.50\nDiscount\n0.00\nTotal GST\n0.75\nRounding\n0.00\nTotal Sales (Inclusive of GST)\n13.25\nCASH :\n13.25\nChange :\n0.00\nGST SUMMARY\nTax Code\n%\nAmt (RM)\nTax(RM)\nSR\n6\n12.50\n0.75\nTotal :\n12.50\n0.75\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005676543",
+  "source_image": "X51005676543.jpg",
+  "ocr_confidence": 0.993
+}

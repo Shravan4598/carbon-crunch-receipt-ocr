@@ -1,0 +1,19 @@
+{
+  "merchant": "TEO HENG STATIONERY & BOOKS",
+  "receipt_date": "17/01/2018",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 1.56,
+  "total": 26.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.792,
+  "raw_text": "TEO HENG STATIONERY & BOOKS\n(001451637-M)\nNO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI\nSELANGOR DARUL EHSAN\nTEL:03-3271 9872 FAX:03-3271 9481\nGST No.: 000689913856\nSIMPLIFIEDTAXINVOICE\nCASH\nReceipt No.: CS1801/26821 Date : 17/01/2018\nAMOUNT\nITEM\nQTY U/P\nDISC%\n(RM)\n9555017370017\n28.00\n7.14\n26.00*\n1\n- LION FILE 220*307 LAMINATING FILM\nTotal Qty. :\n1\n26.00\nSUB-TOTAL (EX)\n26.00\nTOTAL TAX\n1.56\nROUNDING\n-0.01\nTOTAL\n27.55\nAI\n27.55\nCASH\nCHANGE\n0.00\n117JAN 2018\nGST SUMMARY\nAMOUNT\nTAX\nTAX CODE\n%\n(RM)\n(RM)\nSR\n6.00\n26.00\n1.56\nTOTAL :\n26.00\n1.56\nNote: (*) Indicated The Item Sold Has Been Related\nTo GST (Goods & Services Tax).\nGOODS SOLD ARE NOT RETURNABLE\nTHANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005361897",
+  "source_image": "X51005361897.jpg",
+  "ocr_confidence": 0.994
+}

@@ -1,0 +1,19 @@
+{
+  "merchant": "Cele",
+  "receipt_date": "17/03/2018",
+  "receipt_number": "PORT",
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 165.0,
+  "total": 165.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.841,
+  "raw_text": "Cele\nR\nMBB\n264100\nKEDAI PAPAN YEW CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL:03-87686092\nFAX : 03-87686092\nGST ID : 000781500416\nTAX INVOICE\nBill To :\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No\nCS00010930\nDate: 17/03/2018\nCashier\nUSER\nTime: 15:02:00\nSalesperson\nRef.:\n(GST)\n(GST)\nItem\nQty\nS/Price\nS/Price\nAmount\nTax\n100088\n3\n55.00\n58.30\n174.90\nSR\nB.R.C A10 1.7X4M\nTotal Qty:\n3\n174.90\nTotal Sales (Excluding GST)\n165.00\nDiscount\n0.00\nTotal GST\n9.90\nRounding\n0.00\nTotal Sales (Inclusive of GST):\n174.90\nCASH :\n200.00\nChange :\n25.10\nGST SUMMARY\nTax Code\n%\nAmt (RM)\nTax(RM)\nSR\n6\n165.00\n9.90\nTotal :\n165.00\n9.90\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005724629",
+  "source_image": "X51005724629.jpg",
+  "ocr_confidence": 0.992
+}

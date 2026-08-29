@@ -1,0 +1,19 @@
+{
+  "merchant": "Guardian HealthAnd Beauty Sdn Bhd",
+  "receipt_date": "04/03/18",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": 12.0,
+  "discount": 11.6,
+  "tax": 12.0,
+  "total": 12.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.855,
+  "raw_text": "Guardian HealthAnd Beauty Sdn Bhd\nGuardian Gianf Brem Mall\nG-19 Level G\nBrem Mall\nTel:03-62584088\nCompany Reg#1101083-T\nGST Reg #000899874816\nRM\n121095079 GDN MC H/W ENC ROM\n5.90 S\n121095079 GDN MC H/W ENC ROM\n5.90 S\n121095081 GDN MC H/W N/DREAM\n5.90 8\n121095081 GDN MC H/W N/DREAM\n5.90 8\nP3 KDP G HW 4012\n11.60-\nSUBTOTAL\n12.00\nTOTAL (GST INCL)\n12.00\nCASH\n12.00\nYOUR SAVINGS FOR TODAY\n11.60\nGST - Rate\n——GST Exc1 —GST Amt\nS\n6%\n11.32\n0.68\nThank You For Shopping\nAt Guardian\nAll Amounts Are in RM\nGoods sold are non-refundable.\nDispensed medicines sold are\nnot returnable.\nAll exchanges and returns including\nGuardian brand products must be made\nwithin 7days with original receipts and\nproduct in original condition.\nSt:0 Ctr1 ID:9658 TaxInv:41336\n16:14\n04/03/18",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005719912",
+  "source_image": "X51005719912.jpg",
+  "ocr_confidence": 0.978
+}

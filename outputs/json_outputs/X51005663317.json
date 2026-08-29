@@ -1,0 +1,21 @@
+{
+  "merchant": "LIM SENG THO HARDWARÉ TRADING",
+  "receipt_date": null,
+  "receipt_number": null,
+  "items": [],
+  "subtotal": 6.0,
+  "discount": null,
+  "tax": null,
+  "total": null,
+  "payment_method": null,
+  "extraction_confidence": 0.537,
+  "raw_text": "31812012\nLIM SENG THO HARDWARÉ TRADING\nNo 7. Simpang Off Batu Village.\nJalan Ipoh Batu 5. 51200 Kuala Lumpur\nMALAYSIA\nTel & Fax No: 03-6258 7191\n03-62587191\nCompany Reg No.:(002231061-T)\nGSTRegNo:001269075968\nTAX INVOICE\nInvoice No.:\nCS 23304\nDate\n29/12/201711:41\nCashier #\nLST\nRM\nCode\nSIMEN(S)\n3.00\nX\n2.00\n6.00\nSR\nSubtotal\n6.00\nTotal In of GST\n600\nPayment:\n6.00\nChange Due\n0.00\nTotal Item(s): 3\nGST Summary\nAmount(RM)\nTax(RM)\nSR\n@ 6%\n5.66\n034\n0.34\nTHANK YOU\n***PLEASE COME AGAIN****\n*GOODS SOLD ARE NOT RETURNABLE",
+  "warnings": [
+    "Receipt date could not be identified.",
+    "Receipt total could not be confidently identified.",
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005663317",
+  "source_image": "X51005663317.jpg",
+  "ocr_confidence": 0.983
+}

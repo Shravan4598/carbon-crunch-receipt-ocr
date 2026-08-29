@@ -1,0 +1,24 @@
+{
+  "merchant": "99 SPEED MAPT S/B (519537-X)",
+  "receipt_date": "26-03-18",
+  "receipt_number": "18348/102/T0058",
+  "items": [
+    {
+      "name": "02 X PA",
+      "quantity": 1.0,
+      "unit_price": 5.3,
+      "total_price": 5.3
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 10.6,
+  "total": 10.6,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.913,
+  "raw_text": "3-1708032\n99 SPEED MAPT S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERVELEY\n41150 KLANG, SELANGOR\n1330-JLN KENANGA\nGST ID. NO : 000181747712\nINVOICE NO : 18348/102/T0058\n10r 22AM\n569234\n26-03-18\n2146 TLC GLA55 CLEANER (PIN\nRM10.60 ≤\n02 X PA 5.30\nTotal Sales (Inclusive GST) RM\n10.60\nCASH RM\n20.00\nCHANGE RM\n9.40\nGET Sumeary\nAmount(RK)\nTax(RM)\n5 = 61\n10.00\n60\nTrank You. Please come again\nKeeo the invsice for abplicable returns",
+  "warnings": [],
+  "receipt_id": "X51005715455",
+  "source_image": "X51005715455.jpg",
+  "ocr_confidence": 0.962
+}

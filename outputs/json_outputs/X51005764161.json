@@ -1,0 +1,24 @@
+{
+  "merchant": "99 SPEED MART S/B (519537-X)",
+  "receipt_date": "28-01-18",
+  "receipt_number": "for",
+  "items": [
+    {
+      "name": "011 X RM",
+      "quantity": 1.0,
+      "unit_price": 8.99,
+      "total_price": 8.99
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 98.89,
+  "total": 98.89,
+  "payment_method": "CREDIT CARD",
+  "extraction_confidence": 0.913,
+  "raw_text": "(N) 201/(08\n99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1313-SUBANG BESTARI\nGST ID, NO : 000181747712\nINV0ICE NO : 18291/102/T0380\n06:04PM\n569004\n28-01-18\n5593 LEA & PERRINS SOS WORC\nRM98.89 ≤\n011 X RM 8.99\nTotal Sales (Inclusive GST) RN\n98.89\nRounding Adjustment RM\n.01\nRounding Rn\n98.90\nCREDIT RM\n98.90\nCHANGE RM\n.00\nGST Summary\nAcount(RH)\nTax(RM)\n5 = 6%\n93.28\n5.61\n98.90\nThank You. Please come again\nKeep the invoice for applicable returns",
+  "warnings": [],
+  "receipt_id": "X51005764161",
+  "source_image": "X51005764161.jpg",
+  "ocr_confidence": 0.963
+}

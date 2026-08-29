@@ -1,0 +1,42 @@
+{
+  "merchant": "Heo",
+  "receipt_date": "12/09/2017",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR*",
+      "quantity": 1.0,
+      "unit_price": 6.0,
+      "total_price": 6.0
+    },
+    {
+      "name": "SR*",
+      "quantity": 1.0,
+      "unit_price": 18.0,
+      "total_price": 18.0
+    },
+    {
+      "name": "SR*",
+      "quantity": 1.0,
+      "unit_price": 0.5,
+      "total_price": 0.5
+    },
+    {
+      "name": "SR=%",
+      "quantity": 1.0,
+      "unit_price": 6.0,
+      "total_price": 6.0
+    }
+  ],
+  "subtotal": 0.5,
+  "discount": null,
+  "tax": 6.0,
+  "total": 24.5,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.938,
+  "raw_text": "31803037\nHeo\npuctiang\nTSH POWER HARDWARE\nTRADING\n002458685-T\n13-1, Jalan PJU 5/10,\nDataran Sunway, Kota Damansara,\n47810, Petaling Jaya, Selangor\nTel:012-373 2096\nTAX INVOICE\nGST Reg No: 000460664832\noice No : 01-144366\n:e\n:12/09/2017 4:42:33 PM\nDescription\nQty\nPrice\nAmount\n308# DRAWER\n1\n6.00\n6.00 SR*\n.OCK C 2 - HL500 /\nHL502\n=AXON GARDEN\n1\n18.00\n18.00 SR*\n[AP 1/2 X 3/4 FX-\n'105B\n.OCAL SEAL WHITE\n1\n0.50\n0.50 SR*\n「APE\nSub Total:\n0.50\nRound Amt:\n0.00\nNET TOTAL :\n24.50\nCash Received :\n50.00\nChange :\n25.50\nGST Summary\nAmount(RM)__Tax(RM)\nSR=6.00%\n23.11\n1.39\n****Thank You.****\nPlease Come Again.",
+  "warnings": [],
+  "receipt_id": "X51005757282",
+  "source_image": "X51005757282.jpg",
+  "ocr_confidence": 0.974
+}

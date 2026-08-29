@@ -1,0 +1,24 @@
+{
+  "merchant": "32 PUB & BISTRO own by CNU TRADING",
+  "receipt_date": "10-03-2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 190.0,
+      "total_price": 190.0
+    }
+  ],
+  "subtotal": null,
+  "discount": null,
+  "tax": 179.25,
+  "total": 190.0,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.873,
+  "raw_text": "32 PUB & BISTRO own by CNU TRADING\n78G, JALAN SS21/62,\nDAMANSARA UTAMA,\n47400 PETALING JAYA.\n(GST Reg. No : 000416321536)\nTax Invoice\nTable 5\nINV No. 504233\nPax(s): 0\nDate\n:10-03-2018 23:03:06\nCashier: CHEN\nDescription\nQty\nU.price\nTotal TAX\nHEINEKEN (5 BTL)\n2 ×\n95.00\n190.00 SR\nTotal (Excluding GST):\n179.25\nGST Payable:\n10.75\nTotal (Inclusive of GST):\n190.00\nTOTAL:\n190.00\nClosed: 32\n11-03-2018\n00:32:02\nServer: CHEN\nCASH :\n200.00\nCHANGE :\n10.00\nGST Summary\nAmount(RM)\nTax(RM)\nSR\n(@ 6%)\n179.25\n10.75\nK\n**** Thank You ****\nDleace Come Aaain",
+  "warnings": [],
+  "receipt_id": "X51005441408",
+  "source_image": "X51005441408.jpg",
+  "ocr_confidence": 0.985
+}

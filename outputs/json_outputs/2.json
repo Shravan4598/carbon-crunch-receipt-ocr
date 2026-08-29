@@ -1,0 +1,19 @@
+{
+  "merchant": "949-498-6669 Mgr:MICHAEL",
+  "receipt_date": "10/18/20",
+  "receipt_number": null,
+  "items": [],
+  "subtotal": 46.44,
+  "discount": null,
+  "tax": 3.46,
+  "total": 49.9,
+  "payment_method": "DEBIT CARD",
+  "extraction_confidence": 0.856,
+  "raw_text": "Give us feedback @ survey.walmart.com\nThank you! ID #:7PB65JWCFZ2\nWalmart\n949-498-6669 Mgr:MICHAEL\n951 AVENIDA PICO\nSAN CLEMENTE CA 92673\nST# 02527 0P# 009045 TE# 45 TR# 06193\nGV OATMEAL\n007874243408 F\n1.76 0\nOT 200Z TUM\n081236803115\n6.74 X\nM ATHLETICS\n019104567781\n24.97 X\nDEXAS 15X20\n008429710921\n12.97 X\nSUBTOTAL\n46.44\nTAX 1\n7.750 %\n3.46\nTOTAL\n49.90\nDEBIT TEND\n49.90\nCHANGE DUE\n0.00\nEFT DEBIT\nPAY FROM PRIMARY\n49.90\nTOTAL PURCHASE\nUS DEBIT\n文宾宾宾\n宾宾宾文\n9689 I 0\nREF # 029200639128\nNETWORK ID. 0056 APPR C0DE 461500\nUS DEBIT\nAID A0000000980840\nAAC 7756F4EB82B54EED\nTERMINAL # SC011004\n10/18/20\n11:30:42\n# ITEMS SOLD 4\nTC# 2400 4776 4305 8847 1471\nW+\nIntroducing Walmart+\nJoin today at walmarl.com/plus\nLow Prices You Can Trust. Every Day.\n10/18/20\n11:30:46",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "2",
+  "source_image": "2.jpg",
+  "ocr_confidence": 0.98
+}

@@ -1,0 +1,1546 @@
+{
+  "receipt_id": "X51005568827",
+  "source_image": "X51005568827.jpg",
+  "ocr_confidence": 0.996,
+  "lines": [
+    {
+      "text": "Banh Mi CafE",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Dimiliki: banh mi cafe sdn bhd 1110644-W",
+      "confidence": 0.9994
+    },
+    {
+      "text": "No. 1 Jalan Puteri 7/10",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Bandar Puteri, 47100 Puchong",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Selangor, Malaysia",
+      "confidence": 0.9872
+    },
+    {
+      "text": "(GST Reg. No : 000306700288)",
+      "confidence": 0.9879
+    },
+    {
+      "text": "GUEST CHECK",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Table A",
+      "confidence": 0.9828
+    },
+    {
+      "text": "INV No.: 153887",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Pax(s): 2",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Date : 29-10-2017 18:31:45",
+      "confidence": 0.9824
+    },
+    {
+      "text": "Cashier: Cashier A",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Total TAX",
+      "confidence": 0.9998
+    },
+    {
+      "text": "1",
+      "confidence": 0.9992
+    },
+    {
+      "text": "205 SUONG NON RAM CHUA",
+      "confidence": 0.9998
+    },
+    {
+      "text": "9.90 SR.",
+      "confidence": 0.996
+    },
+    {
+      "text": "205 Sweet &Sour Pork Ribs",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1",
+      "confidence": 0.9995
+    },
+    {
+      "text": "217 Tau Hu Don Thit Chi",
+      "confidence": 0.9913
+    },
+    {
+      "text": "9.90",
+      "confidence": 0.9989
+    },
+    {
+      "text": "SR",
+      "confidence": 1.0
+    },
+    {
+      "text": "217 Stuff Meat Tau Fu",
+      "confidence": 0.9997
+    },
+    {
+      "text": "1",
+      "confidence": 0.9998
+    },
+    {
+      "text": "605 TRA DA",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1.50 SR",
+      "confidence": 0.9995
+    },
+    {
+      "text": "605 Vietnamese Iced Tea",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Total (Excluding GST):",
+      "confidence": 0.9995
+    },
+    {
+      "text": "21.30",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Serv. Charge (3%):",
+      "confidence": 0.9911
+    },
+    {
+      "text": "0.65",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST payable (6%):",
+      "confidence": 0.9993
+    },
+    {
+      "text": "1.31",
+      "confidence": 0.9975
+    },
+    {
+      "text": "Total (Inclusive of GST):",
+      "confidence": 0.9973
+    },
+    {
+      "text": "23.26",
+      "confidence": 1.0
+    },
+    {
+      "text": "Rounding Adj:",
+      "confidence": 0.9791
+    },
+    {
+      "text": "-0.01",
+      "confidence": 0.9994
+    },
+    {
+      "text": "TOTAL:",
+      "confidence": 0.9998
+    },
+    {
+      "text": "23.25",
+      "confidence": 1.0
+    },
+    {
+      "text": "Closed:",
+      "confidence": 0.9989
+    },
+    {
+      "text": "29-10-2017",
+      "confidence": 1.0
+    },
+    {
+      "text": "Server: Cashier A",
+      "confidence": 0.9994
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Amount(RM) Tax(RM)",
+      "confidence": 0.9781
+    },
+    {
+      "text": "Inquries: 012-3225548",
+      "confidence": 0.9881
+    },
+    {
+      "text": "Like us @ Facebook: banhmik1",
+      "confidence": 0.9755
+    },
+    {
+      "text": "Email : banhmicafe1@gmail.com",
+      "confidence": 0.9825
+    }
+  ],
+  "ocr_details": [
+    {
+      "text": "Banh Mi CafE",
+      "confidence": 0.9997,
+      "box": [
+        366,
+        391,
+        588,
+        434
+      ],
+      "polygon": [
+        [
+          366,
+          391
+        ],
+        [
+          588,
+          391
+        ],
+        [
+          588,
+          434
+        ],
+        [
+          366,
+          434
+        ]
+      ]
+    },
+    {
+      "text": "Dimiliki: banh mi cafe sdn bhd 1110644-W",
+      "confidence": 0.9994,
+      "box": [
+        115,
+        432,
+        841,
+        485
+      ],
+      "polygon": [
+        [
+          116,
+          432
+        ],
+        [
+          841,
+          435
+        ],
+        [
+          841,
+          485
+        ],
+        [
+          115,
+          483
+        ]
+      ]
+    },
+    {
+      "text": "No. 1 Jalan Puteri 7/10",
+      "confidence": 0.9997,
+      "box": [
+        261,
+        485,
+        678,
+        528
+      ],
+      "polygon": [
+        [
+          261,
+          485
+        ],
+        [
+          678,
+          485
+        ],
+        [
+          678,
+          528
+        ],
+        [
+          261,
+          528
+        ]
+      ]
+    },
+    {
+      "text": "Bandar Puteri, 47100 Puchong",
+      "confidence": 0.9997,
+      "box": [
+        224,
+        531,
+        733,
+        582
+      ],
+      "polygon": [
+        [
+          224,
+          531
+        ],
+        [
+          733,
+          531
+        ],
+        [
+          733,
+          582
+        ],
+        [
+          224,
+          582
+        ]
+      ]
+    },
+    {
+      "text": "Selangor, Malaysia",
+      "confidence": 0.9872,
+      "box": [
+        312,
+        582,
+        639,
+        625
+      ],
+      "polygon": [
+        [
+          312,
+          582
+        ],
+        [
+          639,
+          582
+        ],
+        [
+          639,
+          625
+        ],
+        [
+          312,
+          625
+        ]
+      ]
+    },
+    {
+      "text": "(GST Reg. No : 000306700288)",
+      "confidence": 0.9879,
+      "box": [
+        229,
+        628,
+        728,
+        671
+      ],
+      "polygon": [
+        [
+          229,
+          628
+        ],
+        [
+          728,
+          628
+        ],
+        [
+          728,
+          671
+        ],
+        [
+          229,
+          671
+        ]
+      ]
+    },
+    {
+      "text": "GUEST CHECK",
+      "confidence": 0.9981,
+      "box": [
+        261,
+        671,
+        659,
+        722
+      ],
+      "polygon": [
+        [
+          261,
+          671
+        ],
+        [
+          659,
+          671
+        ],
+        [
+          659,
+          722
+        ],
+        [
+          261,
+          722
+        ]
+      ]
+    },
+    {
+      "text": "Table A",
+      "confidence": 0.9828,
+      "box": [
+        120,
+        722,
+        374,
+        765
+      ],
+      "polygon": [
+        [
+          120,
+          722
+        ],
+        [
+          374,
+          722
+        ],
+        [
+          374,
+          765
+        ],
+        [
+          120,
+          765
+        ]
+      ]
+    },
+    {
+      "text": "INV No.: 153887",
+      "confidence": 0.9994,
+      "box": [
+        120,
+        767,
+        391,
+        810
+      ],
+      "polygon": [
+        [
+          120,
+          767
+        ],
+        [
+          391,
+          767
+        ],
+        [
+          391,
+          810
+        ],
+        [
+          120,
+          810
+        ]
+      ]
+    },
+    {
+      "text": "Pax(s): 2",
+      "confidence": 0.9979,
+      "box": [
+        575,
+        767,
+        750,
+        813
+      ],
+      "polygon": [
+        [
+          575,
+          767
+        ],
+        [
+          750,
+          767
+        ],
+        [
+          750,
+          813
+        ],
+        [
+          575,
+          813
+        ]
+      ]
+    },
+    {
+      "text": "Date : 29-10-2017 18:31:45",
+      "confidence": 0.9824,
+      "box": [
+        118,
+        816,
+        622,
+        859
+      ],
+      "polygon": [
+        [
+          118,
+          816
+        ],
+        [
+          622,
+          816
+        ],
+        [
+          622,
+          859
+        ],
+        [
+          118,
+          859
+        ]
+      ]
+    },
+    {
+      "text": "Cashier: Cashier A",
+      "confidence": 0.9995,
+      "box": [
+        116,
+        856,
+        447,
+        907
+      ],
+      "polygon": [
+        [
+          116,
+          856
+        ],
+        [
+          447,
+          856
+        ],
+        [
+          447,
+          907
+        ],
+        [
+          116,
+          907
+        ]
+      ]
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9998,
+      "box": [
+        116,
+        953,
+        182,
+        1004
+      ],
+      "polygon": [
+        [
+          116,
+          953
+        ],
+        [
+          182,
+          953
+        ],
+        [
+          182,
+          1004
+        ],
+        [
+          116,
+          1004
+        ]
+      ]
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9994,
+      "box": [
+        224,
+        955,
+        430,
+        1001
+      ],
+      "polygon": [
+        [
+          224,
+          955
+        ],
+        [
+          430,
+          955
+        ],
+        [
+          430,
+          1001
+        ],
+        [
+          224,
+          1001
+        ]
+      ]
+    },
+    {
+      "text": "Total TAX",
+      "confidence": 0.9998,
+      "box": [
+        671,
+        955,
+        838,
+        1001
+      ],
+      "polygon": [
+        [
+          671,
+          955
+        ],
+        [
+          838,
+          955
+        ],
+        [
+          838,
+          1001
+        ],
+        [
+          671,
+          1001
+        ]
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.9992,
+      "box": [
+        120,
+        1052,
+        150,
+        1092
+      ],
+      "polygon": [
+        [
+          120,
+          1052
+        ],
+        [
+          150,
+          1052
+        ],
+        [
+          150,
+          1092
+        ],
+        [
+          120,
+          1092
+        ]
+      ]
+    },
+    {
+      "text": "205 SUONG NON RAM CHUA",
+      "confidence": 0.9998,
+      "box": [
+        192,
+        1052,
+        588,
+        1095
+      ],
+      "polygon": [
+        [
+          192,
+          1052
+        ],
+        [
+          588,
+          1052
+        ],
+        [
+          588,
+          1095
+        ],
+        [
+          192,
+          1095
+        ]
+      ]
+    },
+    {
+      "text": "9.90 SR.",
+      "confidence": 0.996,
+      "box": [
+        683,
+        1047,
+        851,
+        1100
+      ],
+      "polygon": [
+        [
+          683,
+          1047
+        ],
+        [
+          851,
+          1047
+        ],
+        [
+          851,
+          1100
+        ],
+        [
+          683,
+          1100
+        ]
+      ]
+    },
+    {
+      "text": "205 Sweet &Sour Pork Ribs",
+      "confidence": 0.9999,
+      "box": [
+        189,
+        1095,
+        639,
+        1143
+      ],
+      "polygon": [
+        [
+          189,
+          1095
+        ],
+        [
+          639,
+          1098
+        ],
+        [
+          639,
+          1143
+        ],
+        [
+          189,
+          1141
+        ]
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.9995,
+      "box": [
+        118,
+        1146,
+        152,
+        1184
+      ],
+      "polygon": [
+        [
+          118,
+          1146
+        ],
+        [
+          152,
+          1146
+        ],
+        [
+          152,
+          1184
+        ],
+        [
+          118,
+          1184
+        ]
+      ]
+    },
+    {
+      "text": "217 Tau Hu Don Thit Chi",
+      "confidence": 0.9913,
+      "box": [
+        189,
+        1146,
+        600,
+        1189
+      ],
+      "polygon": [
+        [
+          189,
+          1146
+        ],
+        [
+          600,
+          1146
+        ],
+        [
+          600,
+          1189
+        ],
+        [
+          189,
+          1189
+        ]
+      ]
+    },
+    {
+      "text": "9.90",
+      "confidence": 0.9989,
+      "box": [
+        683,
+        1143,
+        769,
+        1192
+      ],
+      "polygon": [
+        [
+          683,
+          1143
+        ],
+        [
+          769,
+          1143
+        ],
+        [
+          769,
+          1192
+        ],
+        [
+          683,
+          1192
+        ]
+      ]
+    },
+    {
+      "text": "SR",
+      "confidence": 1.0,
+      "box": [
+        784,
+        1146,
+        838,
+        1189
+      ],
+      "polygon": [
+        [
+          784,
+          1146
+        ],
+        [
+          838,
+          1146
+        ],
+        [
+          838,
+          1189
+        ],
+        [
+          784,
+          1189
+        ]
+      ]
+    },
+    {
+      "text": "217 Stuff Meat Tau Fu",
+      "confidence": 0.9997,
+      "box": [
+        189,
+        1192,
+        570,
+        1235
+      ],
+      "polygon": [
+        [
+          189,
+          1192
+        ],
+        [
+          570,
+          1192
+        ],
+        [
+          570,
+          1235
+        ],
+        [
+          189,
+          1235
+        ]
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.9998,
+      "box": [
+        120,
+        1242,
+        150,
+        1278
+      ],
+      "polygon": [
+        [
+          120,
+          1242
+        ],
+        [
+          150,
+          1242
+        ],
+        [
+          150,
+          1278
+        ],
+        [
+          120,
+          1278
+        ]
+      ]
+    },
+    {
+      "text": "605 TRA DA",
+      "confidence": 0.9999,
+      "box": [
+        187,
+        1237,
+        376,
+        1283
+      ],
+      "polygon": [
+        [
+          187,
+          1237
+        ],
+        [
+          376,
+          1237
+        ],
+        [
+          376,
+          1283
+        ],
+        [
+          187,
+          1283
+        ]
+      ]
+    },
+    {
+      "text": "1.50 SR",
+      "confidence": 0.9995,
+      "box": [
+        686,
+        1235,
+        841,
+        1288
+      ],
+      "polygon": [
+        [
+          686,
+          1235
+        ],
+        [
+          841,
+          1235
+        ],
+        [
+          841,
+          1288
+        ],
+        [
+          686,
+          1288
+        ]
+      ]
+    },
+    {
+      "text": "605 Vietnamese Iced Tea",
+      "confidence": 0.9996,
+      "box": [
+        187,
+        1283,
+        605,
+        1331
+      ],
+      "polygon": [
+        [
+          187,
+          1283
+        ],
+        [
+          605,
+          1286
+        ],
+        [
+          605,
+          1331
+        ],
+        [
+          187,
+          1329
+        ]
+      ]
+    },
+    {
+      "text": "Total (Excluding GST):",
+      "confidence": 0.9995,
+      "box": [
+        118,
+        1377,
+        514,
+        1428
+      ],
+      "polygon": [
+        [
+          118,
+          1377
+        ],
+        [
+          514,
+          1377
+        ],
+        [
+          514,
+          1428
+        ],
+        [
+          118,
+          1428
+        ]
+      ]
+    },
+    {
+      "text": "21.30",
+      "confidence": 0.9981,
+      "box": [
+        738,
+        1380,
+        838,
+        1428
+      ],
+      "polygon": [
+        [
+          738,
+          1380
+        ],
+        [
+          838,
+          1380
+        ],
+        [
+          838,
+          1428
+        ],
+        [
+          738,
+          1428
+        ]
+      ]
+    },
+    {
+      "text": "Serv. Charge (3%):",
+      "confidence": 0.9911,
+      "box": [
+        116,
+        1425,
+        442,
+        1476
+      ],
+      "polygon": [
+        [
+          116,
+          1425
+        ],
+        [
+          442,
+          1425
+        ],
+        [
+          442,
+          1476
+        ],
+        [
+          116,
+          1476
+        ]
+      ]
+    },
+    {
+      "text": "0.65",
+      "confidence": 0.9999,
+      "box": [
+        752,
+        1428,
+        838,
+        1476
+      ],
+      "polygon": [
+        [
+          752,
+          1428
+        ],
+        [
+          838,
+          1428
+        ],
+        [
+          838,
+          1476
+        ],
+        [
+          752,
+          1476
+        ]
+      ]
+    },
+    {
+      "text": "GST payable (6%):",
+      "confidence": 0.9993,
+      "box": [
+        116,
+        1471,
+        428,
+        1522
+      ],
+      "polygon": [
+        [
+          116,
+          1471
+        ],
+        [
+          428,
+          1471
+        ],
+        [
+          428,
+          1522
+        ],
+        [
+          116,
+          1522
+        ]
+      ]
+    },
+    {
+      "text": "1.31",
+      "confidence": 0.9975,
+      "box": [
+        757,
+        1474,
+        836,
+        1522
+      ],
+      "polygon": [
+        [
+          757,
+          1474
+        ],
+        [
+          836,
+          1474
+        ],
+        [
+          836,
+          1522
+        ],
+        [
+          757,
+          1522
+        ]
+      ]
+    },
+    {
+      "text": "Total (Inclusive of GST):",
+      "confidence": 0.9973,
+      "box": [
+        118,
+        1522,
+        565,
+        1565
+      ],
+      "polygon": [
+        [
+          118,
+          1522
+        ],
+        [
+          565,
+          1522
+        ],
+        [
+          565,
+          1565
+        ],
+        [
+          118,
+          1565
+        ]
+      ]
+    },
+    {
+      "text": "23.26",
+      "confidence": 1.0,
+      "box": [
+        738,
+        1519,
+        838,
+        1568
+      ],
+      "polygon": [
+        [
+          738,
+          1519
+        ],
+        [
+          838,
+          1519
+        ],
+        [
+          838,
+          1568
+        ],
+        [
+          738,
+          1568
+        ]
+      ]
+    },
+    {
+      "text": "Rounding Adj:",
+      "confidence": 0.9791,
+      "box": [
+        118,
+        1570,
+        352,
+        1613
+      ],
+      "polygon": [
+        [
+          118,
+          1570
+        ],
+        [
+          352,
+          1570
+        ],
+        [
+          352,
+          1613
+        ],
+        [
+          118,
+          1613
+        ]
+      ]
+    },
+    {
+      "text": "-0.01",
+      "confidence": 0.9994,
+      "box": [
+        740,
+        1568,
+        836,
+        1616
+      ],
+      "polygon": [
+        [
+          740,
+          1568
+        ],
+        [
+          836,
+          1568
+        ],
+        [
+          836,
+          1616
+        ],
+        [
+          740,
+          1616
+        ]
+      ]
+    },
+    {
+      "text": "TOTAL:",
+      "confidence": 0.9998,
+      "box": [
+        116,
+        1611,
+        334,
+        1695
+      ],
+      "polygon": [
+        [
+          116,
+          1611
+        ],
+        [
+          334,
+          1611
+        ],
+        [
+          334,
+          1695
+        ],
+        [
+          116,
+          1695
+        ]
+      ]
+    },
+    {
+      "text": "23.25",
+      "confidence": 1.0,
+      "box": [
+        647,
+        1611,
+        838,
+        1697
+      ],
+      "polygon": [
+        [
+          647,
+          1611
+        ],
+        [
+          838,
+          1611
+        ],
+        [
+          838,
+          1697
+        ],
+        [
+          647,
+          1697
+        ]
+      ]
+    },
+    {
+      "text": "Closed:",
+      "confidence": 0.9989,
+      "box": [
+        116,
+        1730,
+        248,
+        1776
+      ],
+      "polygon": [
+        [
+          116,
+          1730
+        ],
+        [
+          248,
+          1730
+        ],
+        [
+          248,
+          1776
+        ],
+        [
+          116,
+          1776
+        ]
+      ]
+    },
+    {
+      "text": "29-10-2017",
+      "confidence": 1.0,
+      "box": [
+        455,
+        1730,
+        639,
+        1776
+      ],
+      "polygon": [
+        [
+          455,
+          1730
+        ],
+        [
+          639,
+          1730
+        ],
+        [
+          639,
+          1776
+        ],
+        [
+          455,
+          1776
+        ]
+      ]
+    },
+    {
+      "text": "Server: Cashier A",
+      "confidence": 0.9994,
+      "box": [
+        113,
+        1773,
+        428,
+        1824
+      ],
+      "polygon": [
+        [
+          114,
+          1773
+        ],
+        [
+          428,
+          1779
+        ],
+        [
+          427,
+          1824
+        ],
+        [
+          113,
+          1819
+        ]
+      ]
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9999,
+      "box": [
+        116,
+        1961,
+        322,
+        2015
+      ],
+      "polygon": [
+        [
+          116,
+          1961
+        ],
+        [
+          322,
+          1961
+        ],
+        [
+          322,
+          2015
+        ],
+        [
+          116,
+          2015
+        ]
+      ]
+    },
+    {
+      "text": "Amount(RM) Tax(RM)",
+      "confidence": 0.9781,
+      "box": [
+        470,
+        1964,
+        833,
+        2015
+      ],
+      "polygon": [
+        [
+          470,
+          1964
+        ],
+        [
+          833,
+          1964
+        ],
+        [
+          833,
+          2015
+        ],
+        [
+          470,
+          2015
+        ]
+      ]
+    },
+    {
+      "text": "Inquries: 012-3225548",
+      "confidence": 0.9881,
+      "box": [
+        295,
+        2200,
+        674,
+        2243
+      ],
+      "polygon": [
+        [
+          295,
+          2200
+        ],
+        [
+          674,
+          2200
+        ],
+        [
+          674,
+          2243
+        ],
+        [
+          295,
+          2243
+        ]
+      ]
+    },
+    {
+      "text": "Like us @ Facebook: banhmik1",
+      "confidence": 0.9755,
+      "box": [
+        224,
+        2251,
+        720,
+        2287
+      ],
+      "polygon": [
+        [
+          224,
+          2251
+        ],
+        [
+          720,
+          2251
+        ],
+        [
+          720,
+          2287
+        ],
+        [
+          224,
+          2287
+        ]
+      ]
+    },
+    {
+      "text": "Email : banhmicafe1@gmail.com",
+      "confidence": 0.9825,
+      "box": [
+        224,
+        2294,
+        745,
+        2337
+      ],
+      "polygon": [
+        [
+          224,
+          2294
+        ],
+        [
+          745,
+          2294
+        ],
+        [
+          745,
+          2337
+        ],
+        [
+          224,
+          2337
+        ]
+      ]
+    }
+  ],
+  "raw_text": "Banh Mi CafE\nDimiliki: banh mi cafe sdn bhd 1110644-W\nNo. 1 Jalan Puteri 7/10\nBandar Puteri, 47100 Puchong\nSelangor, Malaysia\n(GST Reg. No : 000306700288)\nGUEST CHECK\nTable A\nINV No.: 153887\nPax(s): 2\nDate : 29-10-2017 18:31:45\nCashier: Cashier A\nQty\nDescription\nTotal TAX\n1\n205 SUONG NON RAM CHUA\n9.90 SR.\n205 Sweet &Sour Pork Ribs\n1\n217 Tau Hu Don Thit Chi\n9.90\nSR\n217 Stuff Meat Tau Fu\n1\n605 TRA DA\n1.50 SR\n605 Vietnamese Iced Tea\nTotal (Excluding GST):\n21.30\nServ. Charge (3%):\n0.65\nGST payable (6%):\n1.31\nTotal (Inclusive of GST):\n23.26\nRounding Adj:\n-0.01\nTOTAL:\n23.25\nClosed:\n29-10-2017\nServer: Cashier A\nGST Summary\nAmount(RM) Tax(RM)\nInquries: 012-3225548\nLike us @ Facebook: banhmik1\nEmail : banhmicafe1@gmail.com"
+}

@@ -1,0 +1,66 @@
+{
+  "merchant": "7e4f P",
+  "receipt_date": "20/03/2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 24.0,
+      "total_price": 24.0
+    },
+    {
+      "name": "UDON @",
+      "quantity": 1.0,
+      "unit_price": 24.0,
+      "total_price": 24.0
+    },
+    {
+      "name": "1 GREEN TEA @",
+      "quantity": 1.0,
+      "unit_price": 1.0,
+      "total_price": 1.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 1.0,
+      "total_price": 1.0
+    },
+    {
+      "name": "1 GYOZA 5pcs @",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 6.0,
+      "total_price": 6.0
+    },
+    {
+      "name": "ervice Chg % ",
+      "quantity": 1.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    }
+  ],
+  "subtotal": null,
+  "discount": 10.0,
+  "tax": 3.0,
+  "total": 53.0,
+  "payment_method": null,
+  "extraction_confidence": 0.835,
+  "raw_text": "7e4f P\n2pars.\nUROKO JAPANESE CUISINE SDN BHD\n22A-1, JALAN 17/54,\nSECTION 17,\n46400 PETALING JAYA,\nSELANGOR.\n03-7932 1023/0191\nGST Reg No: 001126838272\nBill No\n01H-25029\nDate\n20/03/2018 6:41:02 PM\nCashier\nRESAN\nTable No\nS09\nQty Description\nAmount\n1 KO NABE INANIWA\n24.00 SR\nUDON @ 24.00\n1 GREEN TEA @ 1.00\n1.00 SR\n1 GYOZA 5pcs @ 15.00\n15.00 SR\n1 GARLIC CHAHAN @\n[T\n6.00 SR\nA]\n4\nTotal :\n46.00\nDiscount :\n(.00)\nervice Chg 10.00% :\n4.00\nGST :\n3.00\nGrand Total :\n53.00\nNet Total :\n53.00\nGST Summary\n%\nAmount(RM\nTax(RM)\nM\nSR\n6.00\n50.00\n3.00",
+  "warnings": [],
+  "receipt_id": "X51005337877",
+  "source_image": "X51005337877.jpg",
+  "ocr_confidence": 0.989
+}

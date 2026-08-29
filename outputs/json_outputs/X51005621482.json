@@ -1,0 +1,19 @@
+{
+  "merchant": "PREMIO",
+  "receipt_date": "20/03/2018",
+  "receipt_number": "SS3-154439",
+  "items": [],
+  "subtotal": null,
+  "discount": 0.0,
+  "tax": 6.0,
+  "total": 6.0,
+  "payment_method": "CREDIT CARD",
+  "extraction_confidence": 0.841,
+  "raw_text": "PREMIO\nPREMIO STATIONERY SDN BHD\n(Co. No.: 123769-W)\nGST Reg. No.: 001032994816\nNo 57, Jalan SS 3/29,\n47300 Petaling Jaya, Selangor.\n03-7874 8605\nTAX INVOICE\nInvoice No : SS3-154439\nDate\n:20/03/2018 3:20:16 PM\nCashier\n: IVY\nDescription\nQty\nPrice\nAmount\n1 SR ENERGIZER\n13.40\n13.40\nBATTERYAA4'S\nTotal :\n13.40\nDiscount:\n0.00\nTotal Sales Inclusive GST @6.00%:\n13.40\nCash Received :\n20.00\nChange:\n6.60\nStarting 1st April, we will no longer be issuing handwritten\ninvoices. Your service jobs such as photocopy and printing are\nreplaced by the order form along with a copy of this receipt.\nAll goods and services are subjected to the 6% GST during checkout.\nAll goods sold are not returnable/refundable. Exchanges are only\nacceptable within 3 days with a proof of receipt.\nAll cartridge & toner sales are final and non-refundable.\nNo cash refunds for credit card purchases.\nNo refunds or exchanges will be entertained without proof of receipt.\nTerms and conditions appplied.\nGST Summary\n%\nAmount(RM)\nTax(RM)\nSR\n6.00\n12.64\n0.76\nThank you for Shopping at PREMIO\nHave a Nice Day!\nFor the latest news and updates\nlike us on facebook.com/premiostationery",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005621482",
+  "source_image": "X51005621482.jpg",
+  "ocr_confidence": 0.992
+}

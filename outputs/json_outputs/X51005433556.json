@@ -1,0 +1,48 @@
+{
+  "merchant": "YHM Aeon Tebrau City",
+  "receipt_date": "11/03/2018",
+  "receipt_number": null,
+  "items": [
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 1.5,
+      "total_price": 1.5
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 12.8,
+      "total_price": 12.8
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 31.6,
+      "total_price": 31.6
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 3.8,
+      "total_price": 3.8
+    },
+    {
+      "name": "SR",
+      "quantity": 1.0,
+      "unit_price": 0.0,
+      "total_price": 0.0
+    }
+  ],
+  "subtotal": 49.7,
+  "discount": null,
+  "tax": 46.9,
+  "total": 46.9,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.945,
+  "raw_text": "A03064\nYHM Aeon Tebrau City\nS117, Second Floor,\nAeon Tebrau City,\n1, Jalan Desa Tebrau,\nTaman Desa Tebrau,\n81100 Johor Bahru, Johor.\n002105827328\n* TAX INVOICE *\nOrder No. 1000249 11/03/2018 07:09 PM\nReceipt No.:003-1220845\nPax:\nCashier\n:Cashiar\nEat In\nIteni\nQty\nU.Price\nAnount Tax\nFG-A00019\n1.50\n1.50 SR\nGreen Tea\nFG-Y00030\n12.80\n12.80 SR\nYakiniku Bowl R\nFG-Y00183\n2\n15:80\n31.60 SR\nNegi Tama Beef Bowl R\nFG-Y00102\n3.60\n3.80 SR\nMiso/Wakame+Green Tea\nFG-Y00264\n0.00\n0.00 SR\nMiso Soup\nSubTotal\n49.70\nTotal\n49.70\nTOTAL:MYR\n49.70\nTotal Exoluded Tax\n46.90\n2.80\nPayment Details\nCash\n50.00\nCash Change\n0.30\nTax Summary\nTax Code %\nAmount(MYR)\nTax(MYR)\nSR\n6\n46.90\n2.80\n**** Thank You ****\nPlease Come Again.",
+  "warnings": [],
+  "receipt_id": "X51005433556",
+  "source_image": "X51005433556.jpg",
+  "ocr_confidence": 0.988
+}

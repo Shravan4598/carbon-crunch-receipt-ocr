@@ -1,0 +1,19 @@
+{
+  "merchant": "YONG CEN ENTERPRISE",
+  "receipt_date": "02/03/2018",
+  "receipt_number": "CS00677115",
+  "items": [],
+  "subtotal": null,
+  "discount": null,
+  "tax": 3.36,
+  "total": 63.35,
+  "payment_method": "CASH",
+  "extraction_confidence": 0.843,
+  "raw_text": "(P)\nYONG CEN ENTERPRISE\n9, JALAN SUBANG JASA 3,\n40150 SHAH ALAM, SELANGOR.\nTEL: 012-9719498\nGST NO: 001147981824\nCASH\nRECEIPT #: CS00677115 DATE: 02/03/2018\nSALESPERSON :\nTIME: 09:43:00\nCOUNTER :\nITEM\nQTY\nU/P AMOUNT\n9555223500307\n24\n2.33 55.99\nSR:FEI YAN BRAND YOUNG CORN 425G (2.333X\n9557166110018\n2\n2.00\n4.00\nZRL:ASAM BOI 65G\nTOTAL QUANTITY\n26\nSUB-TOTAL\n59.99\nDISC\n0.00\nGST\n3.36\n63.35\nTAX\n0.00\nROUNDING\n0.00\nTOTAL\n63.35\nCASH\n63.35\nCHANGE\n0.00\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.",
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ],
+  "receipt_id": "X51005746140",
+  "source_image": "X51005746140.jpg",
+  "ocr_confidence": 0.996
+}

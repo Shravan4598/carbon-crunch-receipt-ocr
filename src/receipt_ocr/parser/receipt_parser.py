@@ -1,8 +1,4 @@
-"""Rule-based receipt information parser.
-
-The parser is designed for OCR engines that may split a single receipt
-item across multiple OCR lines.
-"""
+"""Robust rule-based receipt parser for PaddleOCR output."""
 
 from __future__ import annotations
 
@@ -19,44 +15,84 @@ logger = logging.getLogger(__name__)
 class ReceiptParser:
     """Extract structured receipt information from OCR output."""
 
-    TOTAL_PATTERNS = (
-        r"\bgrand\s*total\b",
-        r"\btotal\s*(?:due|amount)?\b",
-        r"\bamount\s*due\b",
-        r"\bbalance\s*due\b",
-        r"\bnet\s*total\b",
+    # ------------------------------------------------------------------
+    # Patterns
+    # ------------------------------------------------------------------
+
+    TOTAL_LABEL_RE = re.compile(
+        r"\b(?:"
+        r"grand\s*total|"
+        r"total\s*(?:due|amount|purchase|sale)?|"
+        r"amount\s*due|"
+        r"balance\s*due|"
+        r"net\s*total|"
+        r"order\s*total|"
+        r"invoice\s*total|"
+        r"payable|"
+        r"amount\s*payable"
+        r")\b",
+        re.IGNORECASE,
     )
 
-    SUBTOTAL_PATTERNS = (
-        r"\bsubtotal\b",
-        r"\bsub\s*total\b",
+    SUBTOTAL_LABEL_RE = re.compile(
+        r"\b(?:sub\s*total|subtotal|"
+        r"merchandise\s*subtotal|"
+        r"items?\s*subtotal)\b",
+        re.IGNORECASE,
     )
 
-    DISCOUNT_PATTERNS = (
-        r"\bdiscount\s*given\b",
-        r"\bdiscount\b",
-        r"\bsavings\b",
+    DISCOUNT_LABEL_RE = re.compile(
+        r"\b(?:discount|discounts|"
+        r"savings|save|coupon|promotion|promo)\b",
+        re.IGNORECASE,
     )
 
-    TAX_PATTERNS = (
-        r"\bsales\s*tax\b",
-        r"\btax\b",
-        r"\bgst\b",
-        r"\bvat\b",
+    TAX_LABEL_RE = re.compile(
+        r"\b(?:sales\s*tax|tax|gst|cgst|sgst|igst|vat|"
+        r"service\s*tax|taxes)\b",
+        re.IGNORECASE,
+    )
+
+    RECEIPT_NUMBER_PATTERNS = (
+        r"\b(?:receipt|receipt\s*no|receipt\s*number)"
+        r"\s*(?:no|number|#)?\s*[:#\-]?\s*([A-Z0-9][A-Z0-9\-\/]{2,})",
+
+        r"\b(?:transaction|transaction\s*no|transaction\s*number|"
+        r"trans|txn|txn\s*no)\s*(?:#|no|number)?\s*[:\-]?\s*"
+        r"([A-Z0-9][A-Z0-9\-\/]{2,})",
+
+        r"\b(?:order|order\s*no|order\s*number)"
+        r"\s*(?:#|no|number)?\s*[:\-]?\s*"
+        r"([A-Z0-9][A-Z0-9\-\/]{2,})",
+
+        r"\b(?:invoice|invoice\s*no|invoice\s*number)"
+        r"\s*(?:#|no|number)?\s*[:\-]?\s*"
+        r"([A-Z0-9][A-Z0-9\-\/]{2,})",
+
+        r"\b(?:ref|reference|reference\s*no)"
+        r"\s*(?:#|no|number)?\s*[:\-]?\s*"
+        r"([A-Z0-9][A-Z0-9\-\/]{2,})",
+
+        r"\b(?:op|op#)\s*[:#\-]?\s*"
+        r"([A-Z0-9][A-Z0-9\-\/]{2,})",
+
+        r"\b(?:tr|st|te)\s*#?\s*[:\-]?\s*"
+        r"([A-Z0-9][A-Z0-9\-\/]{2,})",
     )
 
     PAYMENT_PATTERNS = (
-        "google pay",
-        "phonepe",
-        "paytm",
-        "mastercard",
-        "visa",
-        "amex",
-        "credit",
-        "debit",
-        "upi",
-        "cash",
-        "card",
+        ("GOOGLE PAY", r"\bgoogle\s*pay\b"),
+        ("PHONEPE", r"\bphone\s*pe\b"),
+        ("PAYTM", r"\bpaytm\b"),
+        ("BHIM UPI", r"\bbhim\b"),
+        ("UPI", r"\bupi\b"),
+        ("MASTERCARD", r"\bmaster\s*card\b|\bmastercard\b"),
+        ("VISA", r"\bvisa\b"),
+        ("AMEX", r"\bamerican\s*express\b|\bamex\b"),
+        ("CREDIT CARD", r"\bcredit\s*card\b|\bcredit\b"),
+        ("DEBIT CARD", r"\bdebit\s*card\b|\bdebit\b"),
+        ("CASH", r"\bcash\b"),
+        ("CARD", r"\bcard\b"),
     )
 
     DATE_PATTERN = re.compile(
@@ -66,6 +102,9 @@ class ReceiptParser:
         r"\d{1,2}\s+"
         r"(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)"
         r"(?:\s+\d{2,4})?"
+        r"|"
+        r"(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)"
+        r"\s+\d{1,2}(?:\s+\d{2,4})?"
         r")\b",
         re.IGNORECASE,
     )
@@ -73,8 +112,10 @@ class ReceiptParser:
     MONEY_PATTERN = re.compile(
         r"(?<![\w.])"
         r"(?:[$€£₹]\s*)?"
-        r"\d{1,3}(?:,\d{3})*\.\d{2}"
+        r"\d{1,3}(?:,\d{3})+\.\d{2}"
+        r"(?!\w)"
         r"|"
+        r"(?<![\w.])"
         r"(?:[$€£₹]\s*)?"
         r"\d+\.\d{2}"
         r"(?!\w)",
@@ -82,20 +123,12 @@ class ReceiptParser:
     )
 
     WEIGHT_PATTERN = re.compile(
-        r"\b"
-        r"(\d+(?:\.\d+)?)"
-        r"\s*"
-        r"(lb|lbs|kg|g|oz)"
-        r"\b",
+        r"\b(\d+(?:\.\d+)?)\s*(lb|lbs|kg|g|oz)\b",
         re.IGNORECASE,
     )
 
     QUANTITY_PATTERN = re.compile(
-        r"\b"
-        r"(?:qty|quantity)"
-        r"\s*[:=]?\s*"
-        r"(\d+(?:\.\d+)?)"
-        r"\b",
+        r"\b(?:qty|quantity)\s*[:=]?\s*(\d+(?:\.\d+)?)\b",
         re.IGNORECASE,
     )
 
@@ -105,33 +138,47 @@ class ReceiptParser:
         r"\s*[x×]"
         r"\s*"
         r"(?:[$€£₹]\s*)?"
-        r"(\d+(?:\.\d+)?)"
+        r"(\d+(?:,\d{3})*\.\d{2})"
         r"\b",
         re.IGNORECASE,
     )
 
-    ITEM_SECTION_END_MARKERS = (
-        "subtotal",
-        "sub total",
-        "discount",
-        "discount given",
-        "savings",
-        "tax",
-        "sales tax",
-        "gst",
-        "vat",
-        "total",
-        "amount due",
-        "balance due",
-        "cash tend",
-        "change due",
-        "items sold",
-        "thank you",
+    ITEM_END_RE = re.compile(
+        r"^(?:"
+        r"sub\s*total|subtotal|"
+        r"discount|discounts|savings|coupon|"
+        r"tax|sales\s*tax|gst|cgst|sgst|igst|vat|"
+        r"grand\s*total|total|amount\s*due|balance\s*due|"
+        r"cash\s*tend|cash\s*given|change\s*due|"
+        r"payment|tender|"
+        r"items?\s*sold|"
+        r"thank\s*you|"
+        r"visit\s*again"
+        r")\b",
+        re.IGNORECASE,
     )
 
-    def parse(self, ocr_result: OCRResult) -> ReceiptData:
-        """Parse OCR output into structured receipt information."""
+    METADATA_WORDS = (
+        "wal-mart",
+        "walmart",
+        "supercenter",
+        "manager",
+        "hours",
+        "phone",
+        "telephone",
+        "address",
+        "thank you",
+        "shop at",
+        "customer",
+        "www.",
+        "http",
+    )
 
+    # ------------------------------------------------------------------
+    # Main parse
+    # ------------------------------------------------------------------
+
+    def parse(self, ocr_result: OCRResult) -> ReceiptData:
         lines = list(ocr_result.lines)
 
         if not lines:
@@ -140,29 +187,24 @@ class ReceiptParser:
                 warnings=["No OCR lines were detected."],
             )
 
-        logger.info(
-            "Parsing receipt | lines=%d | OCR confidence=%.3f",
-            len(lines),
-            ocr_result.average_confidence,
-        )
-
         merchant = self._extract_merchant(lines)
         receipt_date = self._extract_date(lines)
         receipt_number = self._extract_receipt_number(lines)
 
-        subtotal = self._extract_amount_by_patterns(
+        subtotal = self._extract_financial_field(
             lines,
-            self.SUBTOTAL_PATTERNS,
+            self.SUBTOTAL_LABEL_RE,
         )
 
-        discount = self._extract_amount_by_patterns(
+        discount = self._extract_financial_field(
             lines,
-            self.DISCOUNT_PATTERNS,
+            self.DISCOUNT_LABEL_RE,
+            prefer_positive=True,
         )
 
-        tax = self._extract_amount_by_patterns(
+        tax = self._extract_financial_field(
             lines,
-            self.TAX_PATTERNS,
+            self.TAX_LABEL_RE,
         )
 
         total = self._extract_total(lines)
@@ -179,6 +221,10 @@ class ReceiptParser:
 
         warnings = self._build_warnings(
             merchant=merchant,
+            receipt_date=receipt_date,
+            receipt_number=receipt_number,
+            subtotal=subtotal,
+            tax=tax,
             total=total,
             items=items,
             ocr_confidence=ocr_result.average_confidence,
@@ -197,7 +243,12 @@ class ReceiptParser:
         confidence = self._calculate_confidence(
             ocr_confidence=ocr_result.average_confidence,
             merchant=merchant,
+            receipt_date=receipt_date,
+            receipt_number=receipt_number,
+            subtotal=subtotal,
+            tax=tax,
             total=total,
+            payment_method=payment_method,
             items=items,
             warnings=warnings,
         )
@@ -221,66 +272,33 @@ class ReceiptParser:
     # Merchant
     # ------------------------------------------------------------------
 
-    @staticmethod
-    def _extract_merchant(
-        lines: list[OCRLine],
-    ) -> str | None:
-        """Extract likely merchant from the upper receipt area."""
+    def _extract_merchant(self, lines: list[OCRLine]) -> str | None:
+        """Find the most likely merchant from the receipt header."""
 
-        for line in lines[:10]:
-            text = line.text.strip()
+        candidates: list[tuple[float, str]] = []
+
+        for index, line in enumerate(lines[:15]):
+            text = self._normalize_text(line.text)
 
             if not text:
                 continue
 
-            normalized = re.sub(
-                r"[^a-zA-Z0-9\s*&'./-]",
-                "",
-                text,
-            )
+            lower = text.lower()
 
-            normalized = re.sub(
-                r"\s+",
-                " ",
-                normalized,
-            ).strip()
-
-            lower = normalized.lower()
-
-            if not normalized:
+            if self._is_metadata_line(lower):
                 continue
 
-            if lower in {
-                "low prices always",
-                "always low prices",
-                "supercenter",
-                "hours open",
-                "hours open 24",
-                "thank you",
-            }:
+            if self.DATE_PATTERN.search(text):
                 continue
 
-            if any(
-                word in lower
-                for word in (
-                    "hours",
-                    "manager",
-                    "phone",
-                    "tel",
-                    "address",
-                )
-            ):
+            if self._looks_like_identifier(text):
                 continue
 
-            alpha_count = sum(
-                char.isalpha()
-                for char in normalized
-            )
+            if self.MONEY_PATTERN.search(text):
+                continue
 
-            digit_count = sum(
-                char.isdigit()
-                for char in normalized
-            )
+            alpha_count = sum(c.isalpha() for c in text)
+            digit_count = sum(c.isdigit() for c in text)
 
             if alpha_count < 3:
                 continue
@@ -288,62 +306,146 @@ class ReceiptParser:
             if digit_count > alpha_count:
                 continue
 
-            if len(normalized) > 35:
+            if len(text) > 60:
                 continue
 
-            return normalized
+            score = float(line.confidence)
 
-        return None
+            # Strong preference for upper receipt lines.
+            score += max(0.0, 0.20 - index * 0.015)
+
+            # Merchant names are often uppercase.
+            if line.text.strip().isupper():
+                score += 0.08
+
+            if len(text.split()) >= 2:
+                score += 0.04
+
+            candidates.append((score, text))
+
+        if not candidates:
+            return None
+
+        candidates.sort(key=lambda x: x[0], reverse=True)
+        return candidates[0][1]
 
     # ------------------------------------------------------------------
     # Date
     # ------------------------------------------------------------------
 
-    def _extract_date(
-        self,
-        lines: Iterable[OCRLine],
-    ) -> str | None:
-        """Extract first date-like value."""
+    def _extract_date(self, lines: Iterable[OCRLine]) -> str | None:
+        """Extract the most likely receipt date."""
 
-        for line in lines:
+        candidates: list[tuple[int, float, str]] = []
+
+        for index, line in enumerate(lines):
             match = self.DATE_PATTERN.search(line.text)
 
-            if match:
-                return match.group(1)
+            if not match:
+                continue
 
-        return None
+            value = match.group(1).strip()
+
+            # Prefer dates near the top/middle receipt metadata area.
+            priority = 0
+
+            if index < 15:
+                priority += 3
+
+            lower = line.text.lower()
+
+            if any(
+                word in lower
+                for word in ("date", "invoice", "receipt", "transaction")
+            ):
+                priority += 2
+
+            candidates.append(
+                (
+                    priority,
+                    line.confidence,
+                    value,
+                )
+            )
+
+        if not candidates:
+            return None
+
+        candidates.sort(
+            key=lambda item: (item[0], item[1]),
+            reverse=True,
+        )
+
+        return candidates[0][2]
 
     # ------------------------------------------------------------------
     # Receipt number
     # ------------------------------------------------------------------
 
-    @staticmethod
     def _extract_receipt_number(
+        self,
         lines: Iterable[OCRLine],
     ) -> str | None:
-        """Extract receipt / transaction identifier."""
-
-        patterns = (
-            r"\b(?:receipt|transaction|trans|txn|order)"
-            r"\s*#?\s*[:\-]?\s*([A-Z0-9-]+)",
-
-            r"\bop#\s*([A-Z0-9-]+)",
-
-            r"\b(?:tr#|st#|te#)\s*([A-Z0-9-]+)",
-        )
+        """Extract receipt/transaction/order/invoice identifier."""
 
         for line in lines:
-            for pattern in patterns:
+            text = line.text.strip()
+
+            for pattern in self.RECEIPT_NUMBER_PATTERNS:
                 match = re.search(
                     pattern,
-                    line.text,
+                    text,
                     re.IGNORECASE,
                 )
 
-                if match:
-                    return match.group(1)
+                if not match:
+                    continue
+
+                value = match.group(1).strip(" :-#")
+
+                if self._valid_identifier(value):
+                    return value
+
+        # Handle split OCR:
+        #
+        # Receipt No
+        # 123456
+        #
+        lines_list = list(lines)
+
+        for index, line in enumerate(lines_list[:-1]):
+            label = line.text.strip().lower()
+
+            if not re.search(
+                r"\b(receipt|transaction|txn|order|invoice|reference|ref)\b",
+                label,
+            ):
+                continue
+
+            next_text = lines_list[index + 1].text.strip()
+
+            cleaned = next_text.strip(" :#-")
+
+            if self._valid_identifier(cleaned):
+                return cleaned
 
         return None
+
+    @staticmethod
+    def _valid_identifier(value: str) -> bool:
+        if not value:
+            return False
+
+        if len(value) < 3 or len(value) > 40:
+            return False
+
+        if not re.fullmatch(
+            r"[A-Za-z0-9][A-Za-z0-9\-\/]*",
+            value,
+        ):
+            return False
+
+        return True
 
     # ------------------------------------------------------------------
     # Financial fields
@@ -353,10 +455,13 @@ class ReceiptParser:
         self,
         lines: list[OCRLine],
     ) -> float | None:
-        """Extract the final receipt total."""
+        """Extract the most likely final total."""
 
-        for line in reversed(lines):
-            lower = line.text.lower()
+        candidates: list[tuple[int, int, float]] = []
+
+        for index, line in enumerate(lines):
+            text = line.text.strip()
+            lower = text.lower()
 
             if "cash tend" in lower:
                 continue
@@ -364,25 +469,56 @@ class ReceiptParser:
             if "change due" in lower:
                 continue
 
-            if any(
-                re.search(pattern, lower)
-                for pattern in self.TOTAL_PATTERNS
-            ):
-                amount = self._last_money_value(line.text)
+            if not self.TOTAL_LABEL_RE.search(lower):
+                continue
 
-                if amount is not None:
-                    return amount
+            values = self._money_values(text)
 
-        # Handle OCR splitting:
-        #
-        # TOTAL
-        # 5.11
-        #
+            if values:
+                candidates.append(
+                    (
+                        3,
+                        index,
+                        values[-1],
+                    )
+                )
+                continue
+
+            nearby = self._find_amount_nearby(
+                lines,
+                index,
+                window=2,
+            )
+
+            if nearby is not None:
+                candidates.append(
+                    (
+                        2,
+                        index,
+                        nearby,
+                    )
+                )
+
+        if candidates:
+            # Prefer the candidate closest to the bottom of the receipt.
+            candidates.sort(
+                key=lambda item: (item[0], item[1]),
+                reverse=True,
+            )
+
+            return candidates[0][2]
+
+        # Final fallback: a line containing only "TOTAL".
         for index, line in enumerate(lines):
-            if line.text.strip().lower() == "total":
+            if re.fullmatch(
+                r"\s*(?:grand\s*)?total\s*:?\s*",
+                line.text,
+                re.IGNORECASE,
+            ):
                 amount = self._find_amount_nearby(
                     lines,
                     index,
+                    window=3,
                 )
 
                 if amount is not None:
@@ -390,47 +526,89 @@ class ReceiptParser:
 
         return None
 
-    def _extract_amount_by_patterns(
+    def _extract_financial_field(
         self,
         lines: Iterable[OCRLine],
-        patterns: tuple[str, ...],
+        label_pattern: re.Pattern[str],
+        *,
+        prefer_positive: bool = False,
     ) -> float | None:
-        """Extract an amount from a matching financial line."""
+        """Extract amount associated with a financial label."""
 
         lines_list = list(lines)
 
+        candidates: list[tuple[int, int, float]] = []
+
         for index, line in enumerate(lines_list):
-            lower = line.text.lower()
+            text = line.text.strip()
 
-            if any(
-                re.search(pattern, lower)
-                for pattern in patterns
-            ):
-                amount = self._last_money_value(
-                    line.text
+            if not label_pattern.search(text):
+                continue
+
+            values = self._money_values(text)
+
+            if values:
+                value = values[-1]
+
+                if prefer_positive:
+                    value = abs(value)
+
+                candidates.append(
+                    (
+                        3,
+                        index,
+                        value,
+                    )
                 )
 
-                if amount is not None:
-                    return amount
+                continue
 
-                amount = self._find_amount_nearby(
-                    lines_list,
-                    index,
-                )
+            # Search up to two lines after label.
+            for offset in (1, 2):
+                next_index = index + offset
 
-                if amount is not None:
-                    return amount
+                if next_index >= len(lines_list):
+                    break
 
-        return None
+                next_text = lines_list[next_index].text.strip()
 
-    @staticmethod
+                if self._is_financial_label(next_text):
+                    break
+
+                next_values = self._money_values(next_text)
+
+                if next_values:
+                    value = next_values[-1]
+
+                    if prefer_positive:
+                        value = abs(value)
+
+                    candidates.append(
+                        (
+                            2 if offset == 1 else 1,
+                            index,
+                            value,
+                        )
+                    )
+
+                    break
+
+        if not candidates:
+            return None
+
+        candidates.sort(
+            key=lambda item: (item[0], -item[1]),
+            reverse=True,
+        )
+
+        return candidates[0][2]
+
     def _find_amount_nearby(
+        self,
         lines: list[OCRLine],
         index: int,
         window: int = 2,
     ) -> float | None:
-        """Find a money value immediately after a label."""
-
         for offset in range(1, window + 1):
             next_index = index + offset
 
@@ -439,20 +617,23 @@ class ReceiptParser:
 
             text = lines[next_index].text.strip()
 
-            values = ReceiptParser._money_values(text)
+            values = self._money_values(text)
 
             if values:
                 return values[-1]
 
-            lower = text.lower()
-
-            if any(
-                marker in lower
-                for marker in ReceiptParser.ITEM_SECTION_END_MARKERS
-            ):
+            if self._is_financial_label(text):
                 break
 
         return None
+
+    def _is_financial_label(self, text: str) -> bool:
+        return bool(
+            self.SUBTOTAL_LABEL_RE.search(text)
+            or self.DISCOUNT_LABEL_RE.search(text)
+            or self.TAX_LABEL_RE.search(text)
+            or self.TOTAL_LABEL_RE.search(text)
+        )
 
     # ------------------------------------------------------------------
     # Payment
@@ -462,19 +643,14 @@ class ReceiptParser:
         self,
         lines: Iterable[OCRLine],
     ) -> str | None:
-        """Detect payment method."""
-
         text = "\n".join(
             line.text.lower()
             for line in lines
         )
 
-        for payment in self.PAYMENT_PATTERNS:
-            if re.search(
-                rf"\b{re.escape(payment)}\b",
-                text,
-            ):
-                return payment.upper()
+        for name, pattern in self.PAYMENT_PATTERNS:
+            if re.search(pattern, text, re.IGNORECASE):
+                return name
 
         return None
 
@@ -491,28 +667,27 @@ class ReceiptParser:
         tax: float | None,
         total: float | None,
     ) -> list[ReceiptItem]:
-        """Extract items from multi-line OCR receipt blocks."""
 
+        # First attempt: structured/multiline parsing.
         items = self._extract_multiline_items(lines)
 
         if items:
             return items
 
+        # Second attempt: conventional single-line receipts.
         return self._extract_single_line_items(lines)
 
     def _extract_multiline_items(
         self,
         lines: list[OCRLine],
     ) -> list[ReceiptItem]:
-        """Parse receipt products whose information spans multiple lines."""
-
-        items: list[ReceiptItem] = []
 
         start_index = self._find_item_section_start(lines)
 
         if start_index is None:
             return []
 
+        items: list[ReceiptItem] = []
         block: list[OCRLine] = []
 
         for line in lines[start_index:]:
@@ -527,7 +702,7 @@ class ReceiptParser:
                 if block:
                     item = self._parse_item_block(block)
 
-                    if item is not None:
+                    if item:
                         items.append(item)
 
                     block = []
@@ -538,11 +713,10 @@ class ReceiptParser:
                 if block:
                     item = self._parse_item_block(block)
 
-                    if item is not None:
+                    if item:
                         items.append(item)
 
                 block = [line]
-
             else:
                 if block:
                     block.append(line)
@@ -550,7 +724,7 @@ class ReceiptParser:
         if block:
             item = self._parse_item_block(block)
 
-            if item is not None:
+            if item:
                 items.append(item)
 
         return self._deduplicate_items(items)
@@ -559,14 +733,27 @@ class ReceiptParser:
         self,
         lines: list[OCRLine],
     ) -> int | None:
-        """Find the first plausible product line."""
 
+        # Look for explicit item headers first.
         for index, line in enumerate(lines):
-            text = line.text.strip()
+            lower = line.text.lower().strip()
 
-            if self._looks_like_item_name(text):
-                if index >= 4:
-                    return index
+            if re.search(
+                r"\b(item|items|description|product|products|"
+                r"qty|quantity|price)\b",
+                lower,
+            ):
+                # Start after header.
+                if index + 1 < len(lines):
+                    return index + 1
+
+        # General fallback.
+        for index, line in enumerate(lines):
+            if index < 3:
+                continue
+
+            if self._looks_like_item_name(line.text):
+                return index
 
         return None
 
@@ -574,22 +761,18 @@ class ReceiptParser:
         self,
         text: str,
     ) -> bool:
-        """Return True when receipt product section has ended."""
-
-        normalized = text.lower().strip()
-
-        return any(
-            normalized.startswith(marker)
-            for marker in self.ITEM_SECTION_END_MARKERS
+        return bool(
+            self.ITEM_END_RE.search(
+                text.strip()
+            )
         )
 
     def _looks_like_item_name(
         self,
         text: str,
     ) -> bool:
-        """Determine whether an OCR line resembles a product name."""
 
-        normalized = text.strip()
+        normalized = self._normalize_text(text)
 
         if not normalized:
             return False
@@ -602,6 +785,10 @@ class ReceiptParser:
         if self._looks_like_identifier(normalized):
             return False
 
+        if self.DATE_PATTERN.search(normalized):
+            return False
+
+        # Pure monetary line.
         if self.MONEY_PATTERN.fullmatch(normalized):
             return False
 
@@ -609,15 +796,14 @@ class ReceiptParser:
             return False
 
         if re.fullmatch(
-            r"[\d\s./#*_-]+",
+            r"[\d\s./#*_\-:+]+",
             normalized,
         ):
             return False
 
-        if re.fullmatch(
-            r"[A-Z0-9-]{8,}",
-            normalized,
-            re.IGNORECASE,
+        if any(
+            word in lower
+            for word in self.METADATA_WORDS
         ):
             return False
 
@@ -634,29 +820,14 @@ class ReceiptParser:
         if alpha_count < 2:
             return False
 
-        if digit_count > alpha_count * 2:
+        if digit_count > alpha_count * 3:
             return False
 
-        metadata_words = (
-            "wal-mart",
-            "walmart",
-            "supercenter",
-            "manager",
-            "hours",
-            "open",
-            "phone",
-            "thank you",
-            "shop at",
-            "backtoschool",
-        )
-
-        if any(
-            word in lower
-            for word in metadata_words
-        ):
+        if len(normalized) > 70:
             return False
 
-        if len(normalized) > 35:
+        # Don't treat obvious financial lines as products.
+        if self._is_financial_label(normalized):
             return False
 
         return True
@@ -669,7 +840,6 @@ class ReceiptParser:
         self,
         block: list[OCRLine],
     ) -> ReceiptItem | None:
-        """Parse one multi-line receipt item."""
 
         if not block:
             return None
@@ -683,50 +853,26 @@ class ReceiptParser:
         if not texts:
             return None
 
-        # The first textual line is normally the product name.
-        name = self._clean_product_name(texts[0])
+        # Find the best textual line for product name.
+        name = ""
+
+        for text in texts:
+            candidate = self._clean_product_name(text)
+
+            if candidate:
+                name = candidate
+                break
 
         if not name:
             return None
 
-        # Keep OCR lines joined because quantity, unit price,
-        # and total may appear on separate lines.
         full_block = " ".join(texts)
 
-        # ----------------------------------------------------------
-        # Quantity / weight
-        # ----------------------------------------------------------
-
-        quantity: float | None = None
+        quantity = self._extract_quantity(full_block)
 
         weight_match = self.WEIGHT_PATTERN.search(
             full_block
         )
-
-        if weight_match:
-            try:
-                quantity = float(
-                    weight_match.group(1)
-                )
-            except ValueError:
-                quantity = None
-
-        if quantity is None:
-            quantity_match = self.QUANTITY_PATTERN.search(
-                full_block
-            )
-
-            if quantity_match:
-                try:
-                    quantity = float(
-                        quantity_match.group(1)
-                    )
-                except ValueError:
-                    quantity = None
-
-        # ----------------------------------------------------------
-        # Money values
-        # ----------------------------------------------------------
 
         money_values = self._money_values(
             full_block
@@ -744,123 +890,67 @@ class ReceiptParser:
         unit_price: float | None = None
         total_price: float | None = None
 
-        # ----------------------------------------------------------
-        # Weighted item
-        # ----------------------------------------------------------
+        multiplication = self.MULTIPLICATION_PATTERN.search(
+            full_block
+        )
 
-        if weight_match:
+        if multiplication:
+            try:
+                quantity = float(
+                    multiplication.group(1)
+                )
 
-            # Example:
-            #
-            # BANANAS
-            # 0.41 lb
-            # 0.20 N
-            # 1 lb / 0.49
-            #
-            # quantity   = 0.41
-            # unit_price = 0.49
-            # total      = 0.20
+                unit_price = self._parse_money(
+                    multiplication.group(2)
+                )
+
+            except (TypeError, ValueError):
+                pass
+
+            total_price = money_values[-1]
+
+        elif weight_match:
+            quantity = float(
+                weight_match.group(1)
+            )
 
             unit_price = self._extract_weight_unit_price(
                 full_block
             )
 
             if unit_price is not None:
+                # Usually final monetary value is extended total.
+                different_values = [
+                    value
+                    for value in money_values
+                    if abs(value - unit_price) > 0.001
+                ]
 
-                # Prefer the money value that occurs BEFORE
-                # the "1 lb / 0.49" unit-price expression.
-                unit_price_match = self._find_weight_price_match(
-                    full_block
-                )
+                if different_values:
+                    total_price = different_values[-1]
 
-                if unit_price_match:
-                    before_unit_price = full_block[
-                        :unit_price_match.start()
-                    ]
-
-                    previous_values = self._money_values(
-                        before_unit_price
-                    )
-
-                    if previous_values:
-                        total_price = previous_values[-1]
-
-                # If the layout places the actual charge after
-                # the unit price, use the nearest non-unit amount.
-                if total_price is None:
-                    candidates = [
-                        value
-                        for value in money_values
-                        if abs(value - unit_price) > 0.001
-                    ]
-
-                    if candidates:
-                        total_price = candidates[-1]
-
-            # No explicit price-per-unit was found.
             if total_price is None:
                 total_price = money_values[-1]
 
-            # Infer price-per-unit when necessary.
-            if (
-                unit_price is None
-                and quantity is not None
-                and quantity > 0
-            ):
-                unit_price = round(
-                    total_price / quantity,
-                    2,
-                )
-
         else:
-
-            # ------------------------------------------------------
-            # Normal product
-            # ------------------------------------------------------
-
-            multiplication = (
-                self.MULTIPLICATION_PATTERN.search(
-                    full_block
-                )
-            )
-
-            if multiplication:
-
-                quantity = float(
-                    multiplication.group(1)
-                )
-
-                unit_price = float(
-                    multiplication.group(2)
-                )
-
-                total_price = money_values[-1]
-
-            else:
-
-                total_price = money_values[-1]
-
-                if quantity is None:
-                    quantity = 1.0
-
-                if quantity > 0:
-                    unit_price = round(
-                        total_price / quantity,
-                        2,
-                    )
-
-        # ----------------------------------------------------------
-        # Defaults
-        # ----------------------------------------------------------
-
-        if quantity is None:
-            quantity = 1.0
-
-        if unit_price is None and total_price is not None:
-            unit_price = total_price
+            # Most conventional receipt layouts:
+            #
+            # PRODUCT       12.99
+            # PRODUCT   2 x 4.99
+            #
+            total_price = money_values[-1]
 
         if total_price is None:
             return None
+
+        if quantity is None or quantity <= 0:
+            quantity = 1.0
+
+        if unit_price is None:
+            unit_price = round(
+                total_price / quantity,
+                2,
+            )
 
         confidence = self._block_confidence(
             block=block,
@@ -878,110 +968,12 @@ class ReceiptParser:
             confidence=confidence,
         )
 
-    def _find_weight_price_match(
-        self,
-        text: str,
-    ) -> re.Match[str] | None:
-        """Find the price-per-unit expression in a weighted item."""
-
-        patterns = (
-            r"(?:1\s*)?"
-            r"(?:lb|lbs|kg|g|oz)"
-            r"\s*/\s*"
-            r"(?:[$€£₹]\s*)?"
-            r"\d+(?:,\d{3})*\.\d{2}",
-
-            r"@\s*"
-            r"(?:1\s*)?"
-            r"(?:lb|lbs|kg|g|oz)?"
-            r"\s*/?\s*"
-            r"(?:[$€£₹]\s*)?"
-            r"\d+(?:,\d{3})*\.\d{2}",
-        )
-
-        for pattern in patterns:
-            match = re.search(
-                pattern,
-                text,
-                re.IGNORECASE,
-            )
-
-            if match:
-                return match
-
-        return None
-
-    def _extract_weight_unit_price(
-        self,
-        text: str,
-    ) -> float | None:
-        """Extract price-per-unit from a weighted item."""
-
-        patterns = (
-            # 1 lb / 0.49
-            r"(?:1\s*)?"
-            r"(?:lb|lbs|kg|g|oz)"
-            r"\s*/\s*"
-            r"(?:[$€£₹]\s*)?"
-            r"(\d+(?:,\d{3})*\.\d{2})",
-
-            # @ 1 lb / 0.49
-            r"@\s*"
-            r"(?:1\s*)?"
-            r"(?:lb|lbs|kg|g|oz)?"
-            r"\s*/?\s*"
-            r"(?:[$€£₹]\s*)?"
-            r"(\d+(?:,\d{3})*\.\d{2})",
-        )
-
-        for pattern in patterns:
-            match = re.search(
-                pattern,
-                text,
-                re.IGNORECASE,
-            )
-
-            if match:
-                try:
-                    return self._parse_money(
-                        match.group(1)
-                    )
-                except (TypeError, ValueError):
-                    return None
-
-        return None
-
     def _extract_single_line_items(
         self,
         lines: list[OCRLine],
     ) -> list[ReceiptItem]:
-        """Fallback parser for conventional one-line item receipts."""
 
         items: list[ReceiptItem] = []
-
-        excluded_keywords = (
-            "subtotal",
-            "sub total",
-            "discount",
-            "savings",
-            "tax",
-            "sales tax",
-            "gst",
-            "vat",
-            "total",
-            "amount due",
-            "balance due",
-            "cash",
-            "change",
-            "items",
-            "manager",
-            "hours",
-            "supercenter",
-            "receipt",
-            "transaction",
-            "payment",
-            "tend",
-        )
 
         for index, line in enumerate(lines):
             text = line.text.strip()
@@ -989,23 +981,19 @@ class ReceiptParser:
             if not text:
                 continue
 
-            lower = text.lower()
-
-            if any(
-                keyword in lower
-                for keyword in excluded_keywords
-            ):
+            if index < 3:
                 continue
 
-            if index < 5:
+            if self._is_item_section_end(text.lower()):
+                continue
+
+            if self._is_financial_label(text):
                 continue
 
             if self._looks_like_identifier(text):
                 continue
 
-            money_values = self._money_values(text)
-
-            if not money_values:
+            if not self.MONEY_PATTERN.search(text):
                 continue
 
             name = self._clean_product_name(text)
@@ -1013,20 +1001,22 @@ class ReceiptParser:
             if not name:
                 continue
 
-            total_price = money_values[-1]
+            values = self._money_values(text)
+
+            if not values:
+                continue
+
+            total_price = values[-1]
 
             quantity = self._extract_quantity(text)
 
-            if quantity is None:
+            if quantity is None or quantity <= 0:
                 quantity = 1.0
 
-            unit_price = total_price
-
-            if quantity > 0:
-                unit_price = round(
-                    total_price / quantity,
-                    2,
-                )
+            unit_price = round(
+                total_price / quantity,
+                2,
+            )
 
             items.append(
                 ReceiptItem(
@@ -1048,11 +1038,11 @@ class ReceiptParser:
         self,
         text: str,
     ) -> str:
-        """Clean OCR product name."""
 
         cleaned = text.strip()
 
-        cleaned = self.WEIGHT_PATTERN.sub(
+        # Remove quantity/multiplication expressions.
+        cleaned = self.MULTIPLICATION_PATTERN.sub(
             "",
             cleaned,
         )
@@ -1062,14 +1052,24 @@ class ReceiptParser:
             cleaned,
         )
 
-        cleaned = self.MULTIPLICATION_PATTERN.sub(
+        # Remove weight.
+        cleaned = self.WEIGHT_PATTERN.sub(
             "",
             cleaned,
         )
 
+        # Remove money.
         cleaned = self.MONEY_PATTERN.sub(
             "",
             cleaned,
+        )
+
+        # Common receipt markers.
+        cleaned = re.sub(
+            r"\b(?:sku|item|upc)\s*[:#-]?\s*",
+            "",
+            cleaned,
+            flags=re.IGNORECASE,
         )
 
         cleaned = re.sub(
@@ -1089,6 +1089,9 @@ class ReceiptParser:
             "-:;,./"
         )
 
+        if not cleaned:
+            return ""
+
         if self._looks_like_identifier(cleaned):
             return ""
 
@@ -1102,46 +1105,34 @@ class ReceiptParser:
 
         return cleaned
 
-    @staticmethod
     def _extract_quantity(
+        self,
         text: str,
     ) -> float | None:
-        """Extract quantity from an item line."""
 
-        patterns = (
-            r"\bqty\s*[:=]?\s*(\d+(?:\.\d+)?)",
-            r"\bquantity\s*[:=]?\s*(\d+(?:\.\d+)?)",
-        )
+        match = self.QUANTITY_PATTERN.search(text)
 
-        for pattern in patterns:
-            match = re.search(
-                pattern,
-                text,
-                re.IGNORECASE,
-            )
-
-            if match:
-                try:
-                    return float(
-                        match.group(1)
-                    )
-                except ValueError:
-                    return None
-
-        weight_match = re.search(
-            r"\b(\d+(?:\.\d+)?)"
-            r"\s*(?:lb|lbs|kg|g|oz)\b",
-            text,
-            re.IGNORECASE,
-        )
-
-        if weight_match:
+        if match:
             try:
-                return float(
-                    weight_match.group(1)
-                )
+                return float(match.group(1))
             except ValueError:
-                return None
+                pass
+
+        match = self.WEIGHT_PATTERN.search(text)
+
+        if match:
+            try:
+                return float(match.group(1))
+            except ValueError:
+                pass
+
+        match = self.MULTIPLICATION_PATTERN.search(text)
+
+        if match:
+            try:
+                return float(match.group(1))
+            except ValueError:
+                pass
 
         return None
 
@@ -1149,7 +1140,6 @@ class ReceiptParser:
     def _looks_like_identifier(
         text: str,
     ) -> bool:
-        """Detect barcode/SKU/receipt identifier strings."""
 
         normalized = re.sub(
             r"\s+",
@@ -1158,7 +1148,7 @@ class ReceiptParser:
         )
 
         if len(normalized) >= 8 and re.fullmatch(
-            r"[A-Z0-9-]+",
+            r"[A-Z0-9\-\/]+",
             normalized,
             re.IGNORECASE,
         ):
@@ -1178,12 +1168,15 @@ class ReceiptParser:
 
         return False
 
+    # ------------------------------------------------------------------
+    # Money
+    # ------------------------------------------------------------------
+
     @classmethod
     def _money_values(
         cls,
         text: str,
     ) -> list[float]:
-        """Extract all money values from text."""
 
         values: list[float] = []
 
@@ -1198,24 +1191,10 @@ class ReceiptParser:
         return values
 
     @classmethod
-    def _last_money_value(
-        cls,
-        text: str,
-    ) -> float | None:
-        """Return the last money value in text."""
-
-        values = cls._money_values(text)
-
-        if not values:
-            return None
-
-        return values[-1]
-
-    @staticmethod
     def _parse_money(
+        cls,
         raw: str,
     ) -> float | None:
-        """Convert money text into float."""
 
         cleaned = raw.strip()
 
@@ -1225,17 +1204,59 @@ class ReceiptParser:
             cleaned,
         )
 
+        cleaned = cleaned.replace(
+            ",",
+            "",
+        )
+
         try:
-            if "," in cleaned:
-                cleaned = cleaned.replace(
-                    ",",
-                    "",
-                )
-
-            return float(cleaned)
-
+            return round(
+                float(cleaned),
+                2,
+            )
         except ValueError:
             return None
+
+    # ------------------------------------------------------------------
+    # Weighted products
+    # ------------------------------------------------------------------
+
+    def _extract_weight_unit_price(
+        self,
+        text: str,
+    ) -> float | None:
+
+        patterns = (
+            r"(?:1\s*)?(?:lb|lbs|kg|g|oz)"
+            r"\s*/\s*"
+            r"(?:[$€£₹]\s*)?"
+            r"(\d+(?:,\d{3})*\.\d{2})",
+
+            r"@\s*"
+            r"(?:1\s*)?"
+            r"(?:lb|lbs|kg|g|oz)?"
+            r"\s*/?\s*"
+            r"(?:[$€£₹]\s*)?"
+            r"(\d+(?:,\d{3})*\.\d{2})",
+        )
+
+        for pattern in patterns:
+            match = re.search(
+                pattern,
+                text,
+                re.IGNORECASE,
+            )
+
+            if match:
+                return self._parse_money(
+                    match.group(1)
+                )
+
+        return None
+
+    # ------------------------------------------------------------------
+    # Confidence
+    # ------------------------------------------------------------------
 
     @staticmethod
     def _block_confidence(
@@ -1246,29 +1267,36 @@ class ReceiptParser:
         unit_price: float | None,
         total_price: float | None,
     ) -> float:
-        """Calculate confidence for a multi-line item."""
 
         if not block:
             return 0.0
 
-        line_confidence = sum(
-            line.confidence
-            for line in block
-        ) / len(block)
+        line_confidence = (
+            sum(
+                max(
+                    0.0,
+                    min(1.0, line.confidence),
+                )
+                for line in block
+            )
+            / len(block)
+        )
 
-        score = line_confidence
+        score = (
+            line_confidence * 0.70
+        )
 
         if len(name) >= 3:
-            score += 0.04
+            score += 0.08
 
         if quantity is not None:
-            score += 0.03
+            score += 0.06
 
         if unit_price is not None:
-            score += 0.04
+            score += 0.05
 
         if total_price is not None:
-            score += 0.04
+            score += 0.06
 
         return max(
             0.0,
@@ -1276,39 +1304,116 @@ class ReceiptParser:
         )
 
     @staticmethod
-    def _deduplicate_items(
+    def _calculate_confidence(
+        *,
+        ocr_confidence: float,
+        merchant: str | None,
+        receipt_date: str | None,
+        receipt_number: str | None,
+        subtotal: float | None,
+        tax: float | None,
+        total: float | None,
+        payment_method: str | None,
         items: list[ReceiptItem],
-    ) -> list[ReceiptItem]:
-        """Remove duplicate item detections."""
+        warnings: list[str],
+    ) -> float:
 
-        result: list[ReceiptItem] = []
+        # Do NOT allow the score to automatically become 1.0.
+        score = (
+            max(
+                0.0,
+                min(1.0, ocr_confidence),
+            )
+            * 0.45
+        )
 
-        seen: set[
-            tuple[
-                str,
-                float | None,
-                float | None,
-            ]
-        ] = set()
+        if merchant:
+            score += 0.10
 
-        for item in items:
-            key = (
-                item.name.lower().strip(),
-                item.quantity,
-                item.total_price,
+        if receipt_date:
+            score += 0.08
+
+        if receipt_number:
+            score += 0.05
+
+        if subtotal is not None:
+            score += 0.07
+
+        if tax is not None:
+            score += 0.05
+
+        if total is not None:
+            score += 0.10
+
+        if payment_method:
+            score += 0.04
+
+        if items:
+            score += 0.06
+
+        # Penalize warnings, but don't destroy confidence.
+        score -= min(
+            0.25,
+            len(warnings) * 0.025,
+        )
+
+        return round(
+            max(
+                0.0,
+                min(1.0, score),
+            ),
+            3,
+        )
+
+    # ------------------------------------------------------------------
+    # Warnings
+    # ------------------------------------------------------------------
+
+    @staticmethod
+    def _build_warnings(
+        *,
+        merchant: str | None,
+        receipt_date: str | None,
+        receipt_number: str | None,
+        subtotal: float | None,
+        tax: float | None,
+        total: float | None,
+        items: list[ReceiptItem],
+        ocr_confidence: float,
+    ) -> list[str]:
+
+        warnings: list[str] = []
+
+        if merchant is None:
+            warnings.append(
+                "Merchant could not be confidently identified."
             )
 
-            if key in seen:
-                continue
+        if receipt_date is None:
+            warnings.append(
+                "Receipt date could not be identified."
+            )
 
-            seen.add(key)
-            result.append(item)
+        if total is None:
+            warnings.append(
+                "Receipt total could not be confidently identified."
+            )
 
-        return result
+        if not items:
+            warnings.append(
+                "No purchasable items could be confidently extracted."
+            )
 
-    # ------------------------------------------------------------------
-    # Validation
-    # ------------------------------------------------------------------
+        if ocr_confidence < 0.50:
+            warnings.append(
+                "Overall OCR confidence is low; manual review recommended."
+            )
+        elif ocr_confidence < 0.70:
+            warnings.append(
+                "OCR confidence is moderate; extracted fields should be reviewed."
+            )
+
+        return warnings
 
     @staticmethod
     def _build_reconciliation_warnings(
@@ -1319,7 +1424,6 @@ class ReceiptParser:
         tax: float | None,
         total: float | None,
     ) -> list[str]:
-        """Check financial reconciliation."""
 
         warnings: list[str] = []
 
@@ -1335,50 +1439,30 @@ class ReceiptParser:
             2,
         )
 
-        # ----------------------------------------------------------
-        # Items -> subtotal
-        # ----------------------------------------------------------
-        #
-        # A receipt may apply a discount between item total
-        # and subtotal:
-        #
-        # item_sum - discount = subtotal
-        #
-        # Example:
-        # 5.68 - 0.57 = 5.11
-        #
-
         if subtotal is not None:
 
-            direct_difference = abs(
-                item_sum - subtotal
-            )
-
-            discounted_difference = float("inf")
+            possibilities = [
+                abs(item_sum - subtotal)
+            ]
 
             if discount is not None:
-                discounted_difference = abs(
-                    (item_sum - discount) - subtotal
+                possibilities.append(
+                    abs(
+                        item_sum
+                        - abs(discount)
+                        - subtotal
+                    )
                 )
 
-            if min(
-                direct_difference,
-                discounted_difference,
-            ) > 0.05:
-
+            if min(possibilities) > 0.10:
                 warnings.append(
-                    "Extracted item totals do not reconcile "
-                    "with the detected subtotal."
+                    "Extracted item totals do not reconcile with the detected subtotal."
                 )
 
-        # ----------------------------------------------------------
-        # Subtotal -> total
-        # ----------------------------------------------------------
-
-        if total is not None and subtotal is not None:
+        if subtotal is not None and total is not None:
 
             candidates = [
-                subtotal,
+                subtotal
             ]
 
             if tax is not None:
@@ -1388,12 +1472,14 @@ class ReceiptParser:
 
             if discount is not None:
                 candidates.append(
-                    subtotal - discount
+                    subtotal - abs(discount)
                 )
 
                 if tax is not None:
                     candidates.append(
-                        subtotal - discount + tax
+                        subtotal
+                        - abs(discount)
+                        + tax
                     )
 
             closest = min(
@@ -1403,88 +1489,74 @@ class ReceiptParser:
                 ),
             )
 
-            if abs(closest - total) > 0.10:
+            if abs(closest - total) > 0.15:
                 warnings.append(
-                    "Subtotal, discount, tax and total "
-                    "do not reconcile."
+                    "Subtotal, discount, tax and total do not reconcile."
                 )
 
         return warnings
 
     # ------------------------------------------------------------------
-    # Warnings
+    # Utilities
     # ------------------------------------------------------------------
 
     @staticmethod
-    def _build_warnings(
-        *,
-        merchant: str | None,
-        total: float | None,
-        items: list[ReceiptItem],
-        ocr_confidence: float,
-    ) -> list[str]:
-        """Generate extraction warnings."""
+    def _normalize_text(
+        text: str,
+    ) -> str:
 
-        warnings: list[str] = []
-
-        if merchant is None:
-            warnings.append(
-                "Merchant could not be confidently identified."
-            )
-
-        if total is None:
-            warnings.append(
-                "Receipt total could not be confidently identified."
-            )
-
-        if not items:
-            warnings.append(
-                "No purchasable items could be confidently extracted."
-            )
-
-        if ocr_confidence < 0.50:
-            warnings.append(
-                "Overall OCR confidence is low; "
-                "manual review recommended."
-            )
-
-        elif ocr_confidence < 0.70:
-            warnings.append(
-                "OCR confidence is moderate; "
-                "extracted fields should be reviewed."
-            )
-
-        return warnings
-
-    # ------------------------------------------------------------------
-    # Overall confidence
-    # ------------------------------------------------------------------
-
-    @staticmethod
-    def _calculate_confidence(
-        *,
-        ocr_confidence: float,
-        merchant: str | None,
-        total: float | None,
-        items: list[ReceiptItem],
-        warnings: list[str],
-    ) -> float:
-        """Calculate overall extraction confidence."""
-
-        score = ocr_confidence
-
-        if merchant is not None:
-            score += 0.08
-
-        if total is not None:
-            score += 0.12
-
-        if items:
-            score += 0.08
-
-        score -= 0.03 * len(warnings)
-
-        return max(
-            0.0,
-            min(1.0, score),
+        normalized = re.sub(
+            r"[^a-zA-Z0-9\s&'./#:@$€£₹x×\-]",
+            "",
+            text,
         )
+
+        normalized = re.sub(
+            r"\s+",
+            " ",
+            normalized,
+        )
+
+        return normalized.strip()
+
+    @classmethod
+    def _is_metadata_line(
+        cls,
+        lower: str,
+    ) -> bool:
+
+        return any(
+            word in lower
+            for word in cls.METADATA_WORDS
+        )
+
+    @staticmethod
+    def _deduplicate_items(
+        items: list[ReceiptItem],
+    ) -> list[ReceiptItem]:
+
+        result: list[ReceiptItem] = []
+
+        seen: set[
+            tuple[
+                str,
+                float | None,
+                float | None,
+            ]
+        ] = set()
+
+        for item in items:
+
+            key = (
+                item.name.lower().strip(),
+                item.quantity,
+                item.total_price,
+            )
+
+            if key in seen:
+                continue
+
+            seen.add(key)
+            result.append(item)
+
+        return result

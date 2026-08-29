@@ -2,28 +2,30 @@
 
 A production-oriented OCR and structured expense extraction pipeline developed for the **Carbon Crunch ML Ops Internship Assignment**.
 
-The system processes receipt images using **PaddleOCR**, extracts structured financial and receipt information using a rule-based parser, assigns confidence scores, generates per-receipt JSON outputs, and produces consolidated expense summaries.
+The system processes receipt images using **PaddleOCR**, extracts structured receipt and financial information using a rule-based parser, calculates OCR and extraction confidence, detects potential ambiguities, and generates machine-readable JSON and consolidated financial summaries.
 
 ---
 
 ## Project Status
 
-**Status:** Completed
+**Status: Completed**
 
-| Metric                   |            Result |
-| ------------------------ | ----------------: |
-| Receipt images processed |               371 |
-| Successfully processed   |               371 |
-| Failed                   |                 0 |
-| Processing success rate  |              100% |
-| OCR engine               |         PaddleOCR |
-| Inference backend        |      ONNX Runtime |
-| Language                 |           English |
-| Execution environment    |        Kaggle CPU |
-| Output format            | JSON + CSV + XLSX |
-| Per-receipt JSON files   |               371 |
+| Metric                        |                Result |
+| ----------------------------- | --------------------: |
+| Receipt images processed      |               **371** |
+| Successfully processed        |               **371** |
+| Failed                        |                 **0** |
+| Processing success rate       |              **100%** |
+| Receipts with extracted total |               **348** |
+| Total expense extracted       |         **28,154.92** |
+| Average receipt total         |             **80.90** |
+| OCR engine                    |     **PaddleOCR 3.x** |
+| Inference backend             |      **ONNX Runtime** |
+| Execution environment         |        **Kaggle CPU** |
+| Per-receipt JSON outputs      |               **371** |
+| Summary formats               | **CSV + JSON + XLSX** |
 
-> **Note:** A successful OCR processing status means the receipt was processed without a pipeline exception. Individual extracted fields may still be missing or may require manual review depending on image quality and receipt layout.
+> **Important:** A successful processing status means that the pipeline completed without a processing-level exception. It does not mean that every individual receipt field was extracted perfectly. Low-confidence or incomplete receipts may require manual review.
 
 ---
 
@@ -33,97 +35,87 @@ The objective of this project is to build a robust receipt-processing pipeline c
 
 The pipeline is designed to:
 
-1. Validate and discover receipt images.
+1. Discover and validate receipt images.
 2. Perform OCR on receipt images.
-3. Extract textual information from OCR results.
+3. Extract recognized text and OCR confidence scores.
 4. Identify important receipt fields.
-5. Extract purchased items and monetary values.
-6. Extract financial information such as subtotal, discount, tax, and total.
-7. Identify payment methods where possible.
-8. Calculate OCR and extraction confidence.
-9. Generate warnings for uncertain or missing fields.
-10. Generate one structured JSON file per receipt.
-11. Generate consolidated expense summaries.
-12. Generate processing statistics and documentation.
+5. Extract purchased items where possible.
+6. Extract subtotal, discount, tax, and total.
+7. Identify payment methods.
+8. Calculate OCR confidence.
+9. Calculate extraction confidence.
+10. Generate warnings for uncertain or missing information.
+11. Generate one structured JSON file per receipt.
+12. Generate consolidated expense summaries.
+13. Generate processing statistics for reproducibility.
 
 ---
 
-# 2. End-to-End Pipeline
+# 2. End-to-End Architecture
 
 ```text
-                    ┌─────────────────────┐
-                    │   Receipt Images    │
-                    │      371 images     │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ Image Discovery &   │
-                    │     Validation      │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │     PaddleOCR       │
-                    │  Text Detection +   │
-                    │   Text Recognition  │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ OCR Result          │
-                    │ Normalization       │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ Rule-Based Receipt  │
-                    │      Parser         │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼─────────────────┐
-              │                │                 │
-              ▼                ▼                 ▼
-        Receipt Fields      Line Items      Financial Fields
-              │                │                 │
-              └────────────────┼─────────────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ Confidence Scoring  │
-                    │    & Warnings       │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ Structured JSON     │
-                    │   Per Receipt       │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ Expense Summary     │
-                    │ CSV / JSON / XLSX   │
-                    └─────────────────────┘
+                    Receipt Images
+                         │
+                         ▼
+              Image Discovery & Validation
+                         │
+                         ▼
+                    PaddleOCR
+              ┌──────────┴──────────┐
+              │                     │
+        Text Detection        Text Recognition
+              │                     │
+              └──────────┬──────────┘
+                         ▼
+                  OCR Result Data
+                         │
+                         ▼
+                OCR Normalization
+                         │
+                         ▼
+              Rule-Based Receipt Parser
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+   Receipt Fields     Line Items     Financial Fields
+        │                │                │
+        └────────────────┼────────────────┘
+                         ▼
+                Confidence Scoring
+                         │
+                         ▼
+                 Validation & Warnings
+                         │
+                         ▼
+                Structured JSON Output
+                         │
+                         ▼
+              Consolidated Expense Data
+                         │
+             ┌───────────┼───────────┐
+             ▼           ▼           ▼
+            CSV         JSON        XLSX
 ```
 
 ---
 
 # 3. Dataset
 
-The project was tested on a dataset containing:
+The final pipeline was executed on a dataset containing:
 
 * **371 receipt images**
-* Image formats including JPG, JPEG, PNG, WEBP, and BMP where applicable
 * Different receipt layouts
 * Different text sizes and fonts
 * Different image qualities
 * Different receipt structures
-* Different financial field layouts
+* Different financial field arrangements
 
-The original dataset is **not committed to this repository** to avoid unnecessary repository size and redistribution issues.
+The original dataset is **not committed to this GitHub repository**.
 
-The pipeline expects receipt images to be supplied separately.
+This keeps the repository lightweight and avoids unnecessary redistribution of the source dataset.
+
+The receipt dataset is supplied separately during execution, including through the Kaggle environment used for the final processing run.
 
 ---
 
@@ -137,39 +129,50 @@ The pipeline expects receipt images to be supplied separately.
 
 * PaddleOCR 3.x
 * PaddleX OCR pipeline
-* ONNX Runtime inference backend
+* ONNX Runtime
 
 ## Data Processing
 
 * Pandas
 * Python Standard Library
 * Regular Expressions
+* JSON
+* CSV
 
-## Output Formats
+## Output Generation
 
 * JSON
 * CSV
 * Excel/XLSX
+* OpenPyXL
 
-## Supporting Libraries
+## Image Processing
 
 * Pillow
-* OpenPyXL
+
+## Utilities
+
 * tqdm
 
-## Development / Execution Environment
+## Execution Environment
 
-The complete dataset processing was performed in a Kaggle CPU environment.
+The final 371-receipt processing run was performed in a:
+
+```text
+Kaggle CPU environment
+```
+
+The repository itself is designed to be reproducible outside Kaggle when the required dependencies and receipt dataset are available.
 
 ---
 
 # 5. OCR Approach
 
-The system uses **PaddleOCR** for receipt text detection and recognition.
+The project uses **PaddleOCR** for receipt text detection and recognition.
 
-The OCR configuration disables unnecessary document-processing models and uses CPU inference.
+The final execution uses CPU inference with unnecessary document-processing components disabled.
 
-Important configuration includes:
+The OCR configuration used by the pipeline includes settings equivalent to:
 
 ```python
 COMMON_KWARGS = dict(
@@ -184,7 +187,7 @@ COMMON_KWARGS = dict(
 )
 ```
 
-The pipeline attempts to use the ONNX Runtime backend:
+The pipeline attempts to initialize PaddleOCR using the ONNX Runtime backend:
 
 ```python
 PaddleOCR(
@@ -193,15 +196,15 @@ PaddleOCR(
 )
 ```
 
-This avoids dependency on the problematic Paddle Inference execution path encountered during development.
+Using ONNX Runtime avoids dependency on the Paddle Inference execution path that caused compatibility issues during development.
 
 ---
 
 # 6. OCR Result Processing
 
-PaddleOCR 3.x returns an `OCRResult` object.
+PaddleOCR 3.x returns structured OCR results.
 
-The relevant structured information is extracted from:
+The pipeline extracts information such as:
 
 ```text
 OCRResult
@@ -213,14 +216,15 @@ OCRResult
               └── rec_boxes
 ```
 
-For each receipt, the pipeline extracts:
+For each receipt, the pipeline preserves:
 
 * Recognized text
-* OCR confidence score
+* OCR confidence scores
 * Text bounding boxes
+* Polygon information where available
 * Raw OCR text
 
-Example OCR output:
+Example OCR text may look like:
 
 ```text
 WAL*MART
@@ -241,15 +245,15 @@ CHANGE DUE
 5.89
 ```
 
-The recognized text is then passed to the receipt parser.
+The normalized OCR output is then passed to the receipt parser.
 
 ---
 
 # 7. Structured Receipt Extraction
 
-A rule-based parser is used after OCR to identify important receipt fields.
+A rule-based parser is used to transform OCR text into structured receipt information.
 
-The following fields are extracted where possible:
+The parser attempts to extract:
 
 ```text
 merchant
@@ -267,13 +271,15 @@ raw_text
 warnings
 ```
 
+The approach is intentionally explainable and deterministic.
+
 ---
 
 # 8. Merchant Extraction
 
-Merchant identification is performed using positional and text-based heuristics.
+Merchant identification is based on positional and text-based heuristics.
 
-The parser examines the upper section of the receipt and filters out common metadata such as:
+The parser primarily examines the upper portion of the receipt while filtering common non-merchant information such as:
 
 ```text
 phone
@@ -285,13 +291,13 @@ website
 thank you
 ```
 
-This helps avoid incorrectly identifying telephone numbers, addresses, or promotional text as the merchant name.
+This reduces the possibility of incorrectly identifying a telephone number, address, or promotional message as the merchant name.
 
 ---
 
 # 9. Date Extraction
 
-The parser supports common date patterns such as:
+The parser supports common date formats, including patterns such as:
 
 ```text
 08/20/10
@@ -301,7 +307,7 @@ Aug 20 2025
 20 Aug 2025
 ```
 
-Date extraction also considers contextual keywords such as:
+Date extraction also considers contextual labels such as:
 
 ```text
 date
@@ -325,7 +331,7 @@ order
 invoice
 ```
 
-Examples:
+Examples include:
 
 ```text
 Receipt No
@@ -341,7 +347,7 @@ Invoice No
 
 The parser attempts to identify purchasable line items from OCR text.
 
-For each item, the following structure is generated:
+A typical item structure is:
 
 ```json
 {
@@ -352,7 +358,7 @@ For each item, the following structure is generated:
 }
 ```
 
-The parser also attempts to handle patterns involving:
+The parser attempts to handle patterns involving:
 
 * Quantity
 * Weight
@@ -373,15 +379,17 @@ quantity = 2
 unit_price = 5.99
 ```
 
+Because receipt layouts vary considerably, item extraction is treated as a confidence-based process rather than assuming that every OCR line represents a purchasable item.
+
 ---
 
 # 12. Financial Field Extraction
 
-The parser searches for common financial labels.
+Financial fields are extracted using field-specific patterns and contextual heuristics.
 
-### Subtotal
+## Subtotal
 
-Supported patterns include:
+The parser recognizes labels such as:
 
 ```text
 SUBTOTAL
@@ -390,9 +398,9 @@ MERCHANDISE SUBTOTAL
 ITEM SUBTOTAL
 ```
 
-### Discount
+## Discount
 
-Supported patterns include:
+The parser recognizes labels such as:
 
 ```text
 DISCOUNT
@@ -403,9 +411,9 @@ PROMOTION
 PROMO
 ```
 
-### Tax
+## Tax
 
-Supported patterns include:
+The parser recognizes labels such as:
 
 ```text
 TAX
@@ -417,9 +425,9 @@ IGST
 VAT
 ```
 
-### Total
+## Total
 
-Supported patterns include:
+The parser recognizes labels such as:
 
 ```text
 TOTAL
@@ -433,20 +441,20 @@ PAYABLE
 AMOUNT PAYABLE
 ```
 
-Special handling is included to avoid interpreting:
+Special handling is used for:
 
 ```text
 CASH TEND
 CHANGE DUE
 ```
 
-as the final receipt total.
+so that payment tender and change values are not incorrectly interpreted as the final receipt total.
 
 ---
 
 # 13. Payment Method Detection
 
-The parser checks for common payment methods including:
+The parser checks for common payment methods, including:
 
 ```text
 GOOGLE PAY
@@ -463,15 +471,17 @@ CASH
 CARD
 ```
 
+The detected value is stored in the structured receipt JSON when sufficiently identifiable.
+
 ---
 
 # 14. Confidence Scoring
 
-Two confidence values are maintained.
+The pipeline maintains two primary confidence measurements.
 
 ## OCR Confidence
 
-OCR confidence is calculated from the recognition confidence scores returned by PaddleOCR.
+OCR confidence is derived from the recognition confidence scores returned by PaddleOCR.
 
 Conceptually:
 
@@ -481,11 +491,13 @@ OCR Confidence
 Average recognition confidence of detected text
 ```
 
-The value is normalized and stored in the output JSON.
+The result is normalized before being stored in the structured output.
 
 ## Extraction Confidence
 
-Extraction confidence combines:
+Extraction confidence represents the confidence in the structured receipt interpretation.
+
+It considers signals such as:
 
 * OCR confidence
 * Merchant detection
@@ -495,10 +507,10 @@ Extraction confidence combines:
 * Tax detection
 * Total detection
 * Payment method detection
-* Item detection
-* Warning penalties
+* Item extraction
+* Processing warnings
 
-This provides an overall indication of how reliable the extracted structured receipt information is.
+This allows downstream systems to distinguish between receipts that were processed successfully and receipts that may need manual review.
 
 ---
 
@@ -506,28 +518,33 @@ This provides an overall indication of how reliable the extracted structured rec
 
 The pipeline generates warnings when important information cannot be confidently extracted.
 
-Examples:
+Examples include:
 
 ```text
 Merchant could not be confidently identified.
+
 Receipt date could not be identified.
+
 Receipt total could not be confidently identified.
+
 No purchasable items could be confidently extracted.
+
 Overall OCR confidence is low; manual review recommended.
+
 OCR confidence is moderate; extracted fields should be reviewed.
 ```
 
-This allows downstream systems to identify receipts that may require manual verification.
+Warnings are preserved in the per-receipt JSON output.
 
 ---
 
 # 16. Output Structure
 
-The pipeline generates the following deliverables:
+The generated submission package follows this structure:
 
 ```text
 carbon_crunch_submission/
-│
+
 ├── README.md
 ├── requirements.txt
 │
@@ -538,23 +555,27 @@ carbon_crunch_submission/
 ├── expense_summary.xlsx
 │
 ├── json_outputs/
-│   ├── receipt_1.json
-│   ├── receipt_2.json
+│   ├── 0.json
+│   ├── 1.json
+│   ├── 2.json
 │   ├── ...
-│   └── receipt_371.json
+│   └── X51005806719.json
 │
 └── ocr_raw_outputs/
-    ├── receipt_1_ocr.json
-    ├── receipt_2_ocr.json
+    ├── 0_ocr.json
+    ├── 1_ocr.json
+    ├── 2_ocr.json
     ├── ...
-    └── receipt_371_ocr.json
+    └── X51005806719_ocr.json
 ```
+
+The actual receipt filenames are preserved where applicable rather than being renamed to generic sequential receipt names.
 
 ---
 
 # 17. Per-Receipt JSON
 
-Each receipt has an individual JSON file.
+Each receipt receives an individual structured JSON file.
 
 Example:
 
@@ -563,40 +584,38 @@ Example:
   "merchant": "WAL*MART",
   "receipt_date": "08/20/10",
   "receipt_number": "03178",
-  "items": [
-    {
-      "name": "BANANAS",
-      "quantity": 1.0,
-      "unit_price": 0.41,
-      "total_price": 0.41
-    }
-  ],
+  "items": [],
   "subtotal": 5.11,
   "discount": 0.57,
   "tax": null,
   "total": 5.11,
   "payment_method": "CASH",
-  "extraction_confidence": 0.8,
+  "ocr_confidence": 0.97,
+  "extraction_confidence": 0.802,
   "raw_text": "...",
-  "warnings": []
+  "warnings": [
+    "No purchasable items could be confidently extracted."
+  ]
 }
 ```
 
-> The exact values and fields vary depending on the information available in each receipt.
+> The exact fields and values vary according to the information available in each receipt.
 
 ---
 
 # 18. Raw OCR Outputs
 
-In addition to structured JSON, the system stores raw OCR information for every receipt.
+Raw OCR results are stored separately from the structured parser outputs.
 
-A raw OCR output contains:
+This provides an audit/debugging layer that allows extraction errors to be investigated without rerunning OCR.
+
+A raw OCR output may contain:
 
 ```json
 {
   "receipt_id": "0",
   "source_image": "0.jpg",
-  "ocr_confidence": 0.98,
+  "ocr_confidence": 0.97,
   "lines": [
     {
       "text": "WAL*MART",
@@ -611,13 +630,13 @@ A raw OCR output contains:
 }
 ```
 
-This makes the pipeline auditable and allows debugging of extraction errors without rerunning OCR.
+Where available, OCR bounding-box information is also preserved.
 
 ---
 
 # 19. Expense Summary
 
-The pipeline generates three consolidated summary formats:
+The pipeline generates three consolidated financial summary formats:
 
 ```text
 expense_summary.csv
@@ -625,7 +644,7 @@ expense_summary.json
 expense_summary.xlsx
 ```
 
-The summary contains information such as:
+The receipt-level summary can contain fields such as:
 
 * Receipt ID
 * Source image
@@ -644,17 +663,40 @@ The summary contains information such as:
 
 ---
 
-# 20. Processing Report
+# 20. Final Financial Summary
 
-A separate:
+The final Kaggle execution produced:
+
+```text
+Receipts processed       : 371
+Receipts with total      : 348
+Total expense            : 28154.92
+Average receipt total    : 80.90
+```
+
+The remaining receipts were successfully processed at the pipeline level but did not have a confidently extracted final total.
+
+This distinction is important:
+
+```text
+Processing success ≠ Complete field extraction
+```
+
+A receipt can be successfully processed while individual fields remain unavailable or uncertain.
+
+---
+
+# 21. Processing Report
+
+The pipeline generates:
 
 ```text
 processing_report.json
 ```
 
-is generated to record pipeline-level statistics.
+to record processing-level statistics.
 
-Example:
+The final run reported:
 
 ```json
 {
@@ -666,11 +708,109 @@ Example:
 }
 ```
 
-This provides a reproducible record of the processing run.
+The actual report file included with the final deliverables should be treated as the authoritative record of the execution.
 
 ---
 
-# 21. Installation
+# 22. Project Structure
+
+The GitHub repository is organized as follows:
+
+```text
+carbon-crunch-receipt-ocr/
+│
+├── .env.example
+├── .gitignore
+├── LICENSE
+├── README.md
+│
+├── configs/
+│   └── config.yaml
+│
+├── data/
+│   ├── interim/
+│   │   └── .gitkeep
+│   ├── parser_results.csv
+│   ├── processed/
+│   │   └── .gitkeep
+│   ├── raw/
+│   │   └── .gitkeep
+│   └── sample/
+│       └── .gitkeep
+│
+├── outputs/
+│   ├── README.md
+│   ├── expense_summary.csv
+│   ├── expense_summary.json
+│   ├── expense_summary.xlsx
+│   ├── json/
+│   │   └── .gitkeep
+│   ├── json_outputs/
+│   │   └── Per-receipt structured JSON files
+│   ├── logs/
+│   │   └── .gitkeep
+│   ├── ocr/
+│   │   └── .gitkeep
+│   ├── ocr_raw_outputs/
+│   │   └── Raw OCR JSON files
+│   ├── processing_report.json
+│   ├── receipts/
+│   │   └── Receipt JSON files
+│   ├── reports/
+│   │   └── .gitkeep
+│   ├── requirements.txt
+│   └── visualizations/
+│       └── .gitkeep
+│
+├── pyproject.toml
+├── requirements.txt
+│
+├── scripts/
+│   ├── analyze_dataset.py
+│   ├── evaluate_parser.py
+│   ├── run_pipeline.py
+│   ├── test_all_receipts.py
+│   ├── test_confidence.py
+│   ├── test_ocr.py
+│   ├── test_parser.py
+│   ├── test_summary.py
+│   ├── test_tesseract.py
+│   └── test_validation.py
+│
+└── src/
+    └── receipt_ocr/
+        ├── __init__.py
+        │
+        ├── confidence/
+        │   ├── __init__.py
+        │   └── confidence_scorer.py
+        │
+        ├── ocr/
+        │   ├── __init__.py
+        │   ├── base.py
+        │   ├── models.py
+        │   ├── paddle_engine.py
+        │   └── tesseract_engine.py
+        │
+        ├── parser/
+        │   ├── __init__.py
+        │   └── receipt_parser.py
+        │
+        ├── schemas.py
+        │
+        ├── summary/
+        │   ├── __init__.py
+        │   └── financial_summary.py
+        │
+        └── validation/
+            ├── __init__.py
+            ├── conflict_detector.py
+            └── receipt_validator.py
+```
+
+---
+
+# 23. Installation
 
 Clone the repository:
 
@@ -679,7 +819,7 @@ git clone <YOUR_GITHUB_REPOSITORY_URL>
 cd carbon-crunch-receipt-ocr
 ```
 
-Create a virtual environment:
+Create a virtual environment.
 
 ### Windows
 
@@ -703,9 +843,9 @@ pip install -r requirements.txt
 
 ---
 
-# 22. Requirements
+# 24. Requirements
 
-The main dependencies are:
+The main dependencies include:
 
 ```text
 paddlepaddle
@@ -717,7 +857,7 @@ Pillow
 tqdm
 ```
 
-For the exact versions used during the final pipeline execution, refer to:
+The exact dependency versions used for the project are specified in:
 
 ```text
 requirements.txt
@@ -725,67 +865,91 @@ requirements.txt
 
 ---
 
-# 23. Running the Pipeline
+# 25. Running the Pipeline
 
-Place the receipt images in the configured input directory.
-
-Then run the pipeline using the project script/notebook.
-
-Example:
+The main pipeline can be executed using:
 
 ```bash
 python scripts/run_pipeline.py
 ```
 
-If the project is being executed in Kaggle, update the input path according to the mounted Kaggle dataset.
+The input dataset should be placed in the directory configured by the project configuration.
 
-The pipeline will generate:
+For Kaggle execution, the input path should point to the mounted Kaggle dataset.
+
+The final execution used the Kaggle environment and generated a submission package containing:
 
 ```text
-outputs/
-├── json_outputs/
-├── ocr_raw_outputs/
-├── expense_summary.csv
-├── expense_summary.json
-├── expense_summary.xlsx
-└── processing_report.json
+README.md
+requirements.txt
+processing_report.json
+expense_summary.csv
+expense_summary.json
+expense_summary.xlsx
+json_outputs/
+ocr_raw_outputs/
 ```
 
 ---
 
-# 24. Challenges Faced
+# 26. Testing and Validation Scripts
 
-## 24.1 OCR Quality Variation
+The repository contains several scripts for testing individual pipeline components:
 
-Receipt images differ significantly in:
+```text
+scripts/
+├── test_all_receipts.py
+├── test_confidence.py
+├── test_ocr.py
+├── test_parser.py
+├── test_summary.py
+├── test_tesseract.py
+└── test_validation.py
+```
+
+There is also a parser evaluation script:
+
+```text
+scripts/evaluate_parser.py
+```
+
+These scripts support component-level debugging and validation.
+
+---
+
+# 27. Challenges Faced
+
+## 27.1 OCR Quality Variation
+
+Receipt images vary significantly in:
 
 * Resolution
 * Blur
 * Lighting
 * Font size
-* Text orientation
 * Contrast
+* Text orientation
 * Layout
 
 Therefore, OCR output cannot always be assumed to be perfect.
 
 ### Mitigation
 
-The pipeline uses OCR confidence scores and extraction warnings so that uncertain results can be identified.
+The pipeline preserves OCR confidence scores and generates warnings for uncertain extraction results.
 
 ---
 
-## 24.2 Different Receipt Layouts
+## 27.2 Different Receipt Layouts
 
-Receipts do not follow a single standardized structure.
+Receipts do not follow one standardized structure.
 
-For example, one receipt may contain:
+For example:
 
 ```text
-ITEM       10.00
+ITEM                 10.00
 ```
 
-while another may contain:
+while another receipt may use:
 
 ```text
 ITEM
@@ -798,9 +962,9 @@ The parser uses multiple regular-expression patterns and contextual heuristics i
 
 ---
 
-## 24.3 Financial Field Ambiguity
+## 27.3 Financial Field Ambiguity
 
-Receipts can contain several monetary values.
+Receipts can contain multiple monetary values.
 
 For example:
 
@@ -811,28 +975,26 @@ CASH TEND     11.00
 CHANGE DUE     5.89
 ```
 
-Simply selecting the largest or last monetary value would produce incorrect results.
+Simply selecting the largest or last monetary value could result in an incorrect total.
 
 ### Mitigation
 
-The parser uses field-specific patterns and positional scoring.
+The parser uses field-specific patterns, contextual matching, and positional heuristics.
 
-Special handling is included for:
+Special handling is applied to:
 
 ```text
 CASH TEND
 CHANGE DUE
 ```
 
-to prevent them from being incorrectly treated as receipt totals.
-
 ---
 
-## 24.4 PaddleOCR / PaddlePaddle Compatibility
+## 27.4 PaddleOCR Compatibility
 
-During development, the PaddleOCR pipeline encountered compatibility issues involving Paddle's native inference engine.
+During development, compatibility issues were encountered around the Paddle Inference execution path.
 
-One observed error was related to:
+One observed issue involved:
 
 ```text
 AnalysisConfig.set_optimization_level
@@ -840,24 +1002,19 @@ AnalysisConfig.set_optimization_level
 
 ### Mitigation
 
-The final pipeline uses the ONNX Runtime backend where supported:
+The final execution uses the ONNX Runtime backend where supported.
 
-```python
-PaddleOCR(
-    engine="onnxruntime",
-    ...
-)
-```
-
-This avoids the problematic Paddle Inference execution path.
+This reduced dependency on the problematic Paddle Inference execution path.
 
 ---
 
-# 25. Improvements
+# 28. Improvements and Future Work
 
-The current implementation is intentionally lightweight and explainable. Several improvements could make the system more robust for production use.
+The current implementation provides a lightweight and explainable baseline.
 
-## 25.1 Better Image Preprocessing
+Potential improvements include:
+
+## 28.1 Image Preprocessing
 
 Future versions could add:
 
@@ -871,23 +1028,23 @@ Future versions could add:
 
 ---
 
-## 25.2 Layout-Aware Extraction
+## 28.2 Layout-Aware Extraction
 
-Instead of processing OCR text primarily as sequential lines, bounding-box coordinates could be used to reconstruct the receipt layout.
+Bounding-box coordinates could be used more extensively to reconstruct the receipt layout.
 
-This would improve:
+This could improve:
 
 * Item extraction
-* Quantity/price association
+* Quantity-price association
 * Column detection
 * Tax extraction
 * Total identification
 
 ---
 
-## 25.3 Machine Learning Based Document Understanding
+## 28.3 Machine Learning Based Document Understanding
 
-A document-understanding model could be used to classify and extract fields such as:
+A document-understanding model could be introduced for more robust extraction of:
 
 ```text
 merchant
@@ -895,33 +1052,33 @@ date
 receipt number
 items
 subtotal
-tax
 discount
+tax
 total
 payment method
 ```
 
-Potential future approaches include transformer-based document models and receipt-specific layout models.
+Potential approaches include transformer-based document models and receipt-specific layout models.
 
 ---
 
-## 25.4 Accounting Validation
+## 28.4 Accounting Validation
 
-An additional consistency check could validate:
+A financial consistency check could validate:
 
 ```text
 subtotal - discount + tax ≈ total
 ```
 
-When sufficient fields are available.
+when the required fields are available.
 
-If the equation does not approximately balance, the receipt can be flagged for manual review.
+Receipts failing this consistency check could be flagged for manual review.
 
 ---
 
-## 25.5 Currency and Locale Support
+## 28.5 Currency and Locale Support
 
-Future versions could support:
+Future versions could support multiple currencies and locale-specific formats such as:
 
 ```text
 INR
@@ -930,7 +1087,7 @@ EUR
 GBP
 ```
 
-and locale-specific:
+along with:
 
 * Decimal separators
 * Thousands separators
@@ -939,7 +1096,7 @@ and locale-specific:
 
 ---
 
-## 25.6 Human-in-the-Loop Review
+## 28.6 Human-in-the-Loop Review
 
 Receipts with:
 
@@ -950,27 +1107,29 @@ missing total
 conflicting financial fields
 ```
 
-could be automatically placed into a manual review queue.
+could automatically be placed into a manual verification workflow.
 
 ---
 
-# 26. Design Decisions
+# 29. Design Decisions
 
-### Why PaddleOCR?
+## Why PaddleOCR?
 
 PaddleOCR provides:
 
 * Text detection
 * Text recognition
-* Confidence scores
+* Recognition confidence
 * Bounding-box information
-* Support for complex document layouts
+* Document OCR capabilities
 
-It is suitable for receipt OCR without requiring a custom OCR model to be trained from scratch.
+It is therefore well suited for receipt OCR without requiring a custom OCR model to be trained from scratch.
 
-### Why Rule-Based Extraction?
+---
 
-The assignment dataset contains varied receipt formats, but the target fields have recognizable semantic labels such as:
+## Why Rule-Based Extraction?
+
+Receipt layouts vary significantly, but many target fields have recognizable semantic labels such as:
 
 ```text
 TOTAL
@@ -980,93 +1139,148 @@ DISCOUNT
 DATE
 ```
 
-Regular expressions and contextual heuristics provide an explainable baseline that is easy to debug and extend.
+Regular expressions and contextual heuristics provide an explainable baseline that is:
 
-### Why JSON?
+* Easy to debug
+* Deterministic
+* Lightweight
+* Easy to extend
 
-JSON provides a structured, machine-readable format that can easily be consumed by:
+---
+
+## Why JSON?
+
+JSON provides a machine-readable structure suitable for:
 
 * APIs
 * Databases
+* Analytics
 * Data pipelines
-* Analytics systems
 * Downstream ML systems
 
 ---
 
-# 27. Reproducibility
+# 30. Reproducibility
 
-The repository contains the code, dependency information, documentation, and output-generation logic required to reproduce the processing pipeline.
+The repository contains the source code, configuration, dependency information, and execution scripts required to reproduce the pipeline.
 
-The dataset itself is not included in GitHub.
+The dataset itself is intentionally excluded from GitHub.
 
-To reproduce the results:
+To reproduce the processing:
 
 1. Clone the repository.
 2. Create a Python environment.
-3. Install the requirements.
+3. Install the required dependencies.
 4. Provide the receipt dataset.
 5. Configure the input path.
 6. Run the pipeline.
-7. Inspect the generated JSON and expense summaries.
+7. Inspect the generated JSON files.
+8. Inspect the consolidated expense summaries.
+9. Review warnings and confidence scores for uncertain receipts.
+
+The final benchmark reported in this README corresponds to the **371-receipt Kaggle execution**.
 
 ---
 
-# 28. Repository Contents
+# 31. Final Results
+
+The final Kaggle execution processed the complete dataset successfully at the pipeline level:
 
 ```text
-carbon-crunch-receipt-ocr/
-│
-├── configs/
-│   └── Configuration files
-│
-├── docs/
-│   └── Project documentation
-│
-├── notebooks/
-│   └── Development / experimentation notebooks
-│
-├── outputs/
-│   └── Generated results
-│
-├── scripts/
-│   └── Pipeline execution scripts
-│
-├── src/
-│   └── Core OCR and extraction modules
-│
-├── tests/
-│   └── Tests and validation
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
+======================================================================
+PROCESSING COMPLETE
+======================================================================
+
+Total images       : 371
+Successful         : 371
+Failed             : 0
+Success rate       : 100.0%
+JSON files         : 371
+Processing time    : 1703.62 seconds
+```
+
+Financial extraction:
+
+```text
+Receipts with total : 348
+Total expense       : 28154.92
+Average receipt     : 80.90
+```
+
+The generated submission package contained:
+
+```text
+README.md
+expense_summary.csv
+expense_summary.json
+expense_summary.xlsx
+json_outputs/
+ocr_raw_outputs/
+processing_report.json
+requirements.txt
 ```
 
 ---
 
-# 29. Assignment Deliverables
+# 32. Important Interpretation of Results
 
-The project addresses the requested assignment deliverables:
+The reported **100% processing success rate** should be interpreted as:
 
-### A. Code Repository
+> All 371 images completed the pipeline without a processing-level failure.
 
-A structured GitHub repository containing the OCR and structured extraction pipeline.
+It should **not** be interpreted as:
 
-### B. JSON Outputs
+> Every receipt field was correctly extracted.
 
-One JSON output is generated for each processed receipt.
+For example, a receipt may successfully pass through OCR and parsing while having:
 
-For the final dataset:
+* Missing item information
+* Missing tax
+* Missing receipt number
+* Low extraction confidence
+* Extraction warnings
+
+This distinction is explicitly preserved in the output through confidence scores and warnings.
+
+---
+
+# 33. Assignment Deliverables
+
+The project addresses the major assignment deliverables through:
+
+### A. Source Code
+
+A structured GitHub repository containing:
+
+* OCR implementation
+* Receipt parser
+* Validation logic
+* Confidence scoring
+* Financial summary generation
+* Testing scripts
+
+### B. Structured JSON Outputs
+
+The final run generated:
 
 ```text
-371 receipts
-371 JSON outputs
+371 JSON files
 ```
 
-### C. Expense Summary
+with one structured output per processed receipt.
 
-Generated in:
+### C. Raw OCR Outputs
+
+Raw OCR information is stored separately to support:
+
+* Debugging
+* Auditing
+* Error analysis
+* Parser improvement
+
+### D. Expense Summary
+
+The pipeline generates:
 
 ```text
 expense_summary.csv
@@ -1074,37 +1288,31 @@ expense_summary.json
 expense_summary.xlsx
 ```
 
-### D. Documentation
+### E. Processing Report
+
+Pipeline-level statistics are recorded in:
+
+```text
+processing_report.json
+```
+
+### F. Documentation
 
 This README documents:
 
-* Approach
-* Tools used
-* Challenges faced
-* Improvements
-* Pipeline architecture
-* Output structure
+* Architecture
+* OCR approach
+* Extraction methodology
+* Confidence scoring
+* Challenges
+* Design decisions
+* Results
 * Reproducibility
+* Future improvements
 
 ---
 
-# 30. Final Processing Result
-
-The final processing run completed with:
-
-```text
-Total images      : 371
-Successful        : 371
-Failed            : 0
-Success rate      : 100.0%
-JSON files        : 371
-```
-
-The pipeline therefore successfully processed all **371 receipt images without processing-level failures**.
-
----
-
-# 31. Author
+# 34. Author
 
 **Shravan Kumar Pandey**
 
@@ -1112,18 +1320,26 @@ Computer Science & Engineering — Data Science
 
 ---
 
-# 32. Carbon Crunch Assignment
+# 35. Carbon Crunch Internship Assignment
 
 This repository was developed as part of the:
 
 **Carbon Crunch — ML Ops Internship Assignment**
 
-The project focuses on practical OCR, structured information extraction, data processing, confidence scoring, and production-oriented pipeline design.
+The project focuses on practical:
+
+* OCR
+* Structured information extraction
+* Data processing
+* Confidence scoring
+* Validation
+* Financial summarization
+* Production-oriented pipeline design
 
 ---
 
-## License
+# License
 
-This project was created for the Carbon Crunch internship assignment.
+This project was created for the **Carbon Crunch internship assignment**.
 
-Dataset files are intentionally excluded from the repository.
+The original receipt dataset is intentionally excluded from this repository.

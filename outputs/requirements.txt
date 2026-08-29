@@ -1,7 +1,0 @@
-paddleocr
-onnxruntime
-paddlepaddle
-pandas
-openpyxl
-Pillow
-tqdm

@@ -754,7 +754,7 @@ carbon-crunch-receipt-ocr/
 ├── pyproject.toml
 ├── requirements.txt
 │
-├── scripts/
+├── tests/
 │   ├── analyze_dataset.py
 │   ├── evaluate_parser.py
 │   ├── run_pipeline.py
@@ -859,7 +859,7 @@ requirements.txt
 The main pipeline can be executed using:
 
 ```bash
-python scripts/run_pipeline.py
+python tests/run_pipeline.py
 ```
 
 The input dataset should be placed in the directory configured by the project configuration.
@@ -886,7 +886,7 @@ ocr_raw_outputs/
 The repository contains several scripts for testing individual pipeline components:
 
 ```text
-scripts/
+tests/
 ├── test_all_receipts.py
 ├── test_confidence.py
 ├── test_ocr.py
@@ -899,7 +899,7 @@ scripts/
 There is also a parser evaluation script:
 
 ```text
-scripts/evaluate_parser.py
+tests/evaluate_parser.py
 ```
 
 These scripts support component-level debugging and validation.

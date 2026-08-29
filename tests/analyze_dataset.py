@@ -14,7 +14,7 @@ It reports:
 - Basic image-quality statistics
 
 Usage:
-    python scripts/analyze_dataset.py
+    python tests/analyze_dataset.py
 """
 
 from __future__ import annotations
